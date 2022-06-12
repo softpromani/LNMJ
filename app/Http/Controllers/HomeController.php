@@ -8,7 +8,7 @@ class HomeController extends Controller
 {
     function index()
     {
-        return view('Frontend/index');
+        return view('Frontend.index');
     }
 
     function contactus()
