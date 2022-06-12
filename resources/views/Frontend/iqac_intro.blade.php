@@ -86,8 +86,8 @@
                             <div class="box">
                                 <img src="{{asset('Frontend/images/ZeyaHaider.jpg')}}">
                                 <div class="box-content">
-                                    <h3 class="title">Zeya Haider</h3>
-                                    <span class="post">IQAC Director</span>
+                                    <h3 class="title">Dr. Zeya Haider</h3>
+                                    <span class="">IQAC Director</span>
                                 </div>
                             </div>
                         </div>

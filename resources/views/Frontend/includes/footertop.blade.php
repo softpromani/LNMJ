@@ -1,8 +1,8 @@
 <section id="yt_spotlight8" class="block">
     <div class="container">
         <div class="row">
-            <div class="col-md-9 col-sm-12">
-                <div id="bottom3" class="col-md-3 col-sm-6">
+            <div class="col-md-12 col-sm-12">
+                <div id="bottom3" class="col-md-4 col-sm-6">
                     <div class="module  useful-link">
                         <h3 class="modtitle">About Us</h3>
                         <div class="modcontent clearfix">
@@ -25,7 +25,7 @@
                     </div>
                 </div>
 
-                <div id="bottom3" class="col-md-3 col-sm-6">
+                <div id="bottom3" class="col-md-4 col-sm-6">
                     <div class="module  useful-link">
                         <h3 class="modtitle">Administration</h3>
                         <div class="modcontent clearfix">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
 
-                <div id="bottom3" class="col-md-3 col-sm-6">
+                <div id="bottom3" class="col-md-4 col-sm-6">
                     <div class="module  useful-link">
                         <h3 class="modtitle">Academics</h3>
                         <div class="modcontent clearfix">
@@ -69,7 +69,7 @@
                     </div>
                 </div>
 
-                <div id="bottom3" class="col-md-3 col-sm-6">
+                {{-- <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
                         <h3 class="modtitle">Research</h3>
                         <div class="modcontent clearfix">
@@ -179,10 +179,10 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
             </div>
-
+{{-- 
             <div class="col-md-3 col-sm-12">
                 <div class="module  useful-link">
                     <h3 class="modtitle"></h3>
@@ -261,9 +261,9 @@
                                 src="../sstatic1.histats.com/077e8.gif?2059181&amp;101" alt="hit counter"
                                 border="0"></a>
                             </noscript>
-                    <!-- Histats.com  END  --> --}}
+                    <!-- Histats.com  END  --> 
                 </div>
-            </div>
+            </div> --}}
 
         </div>
     </div>

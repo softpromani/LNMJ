@@ -372,11 +372,7 @@
 
 
 
-                    <li class="level1 havechild ">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
-                                class="menu-title">Contact Us</span></a>
-
-                    </li>
+                  
 
                     <li class="level1 havechild ">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
@@ -392,11 +388,15 @@
                     </li>
 
                     <li class="level1 havechild">
-                        <a title="Pages " class="level1 havechild  item-link" href="https://lnmu.ac.in:2096/"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">RTI ACT</span></a>
 
                     </li>
+                    <li class="level1 havechild ">
+                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
+                                class="menu-title">Contact Us</span></a>
 
+                    </li>
                 </ul>
                 <script type="text/javascript">
                     jQuery(function($) {
