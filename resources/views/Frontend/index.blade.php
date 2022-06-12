@@ -176,18 +176,16 @@
                     <div class="col-sm-3 slideLft">
                         <ul>
 
-                            <li><a href="https://osmaniaerp.com/ouconvocation/" target="_blank">OU - 82nd
-                                    Convocation<img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
-                            <li><a href="rusa2/index.html" target="_blank">RUSA 2.0 Positions</a></li>
-                            <li><a href="http://universities.eoffice.telangana.gov.in/" target="_blank">e-Office
-                                    Portal</a></li>
-                            <li><a href="https://ums.osmania.ac.in/" target="_blank">UMS LOGIN PAGE</a></li>
+                            <li><a href="#" target="_blank">Online Portal
+                                
+                                <img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
+                            <li><a href="#" target="_blank">Helpline For University Student</a></li>
+                            <li><a href="#" target="_blank">Awards/Recognition</a></li>
+                            <li><a href="#" target="_blank">NIRF</a></li>
 
-                            <li><a href="https://online.osmaniaerp.com/" target="_blank">Apply Online for
-                                    Certificates</a></li>
-                            <li><a href="https://online.osmaniaerp.com/" target="_blank">Apply Online for
-                                    Certificates</a></li>
-                            <li><a href="emp-career-news.html">Careers & Fellowships</a></li>
+                            <li><a href="#" target="_blank">Surprise Visit Report</a></li>
+                            <li><a href="#" target="_blank">Sport Calendar</a></li>
+                            <li><a href="#">Careers & Fellowships</a></li>
                         </ul>
                     </div>
 
@@ -209,7 +207,7 @@
                                         <li class="" style="width: -20px;">
                                             <a href="http://ouexams.in/index.aspx" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon6.png') }}" alt=""
-                                                    hspace="3">Examination Branch</a>
+                                                    hspace="3">Examination</a>
                                         </li>
                                         <li class="" style="width: -20px;">
                                             <a href="http://www.oucde.net/" target="_blank"><img
@@ -219,23 +217,23 @@
                                         <li class="" style="width: -20px;">
                                             <a href="admissions/index-2.html" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon2.png') }}" alt=""
-                                                    hspace="3">Admissions (DoA)</a>
+                                                    hspace="3">Admissions </a>
                                         </li>
-                                        <li class="" style="width: -20px;">
-                                            <a href="https://www.osmaniaerp.com/cstonline/" target="_blank"><img
+                                        {{-- <li class="" style="width: -20px;">
+                                            <a href="https://www.DDE LNMUerp.com/cstonline/" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon5.png') }}" alt=""
                                                     hspace="3">College Login</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
                                             <a href="iqac/index.html" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon11.png') }}" alt=""
                                                     hspace="3">IQAC</a>
                                         </li>
-                                        <li class="" style="width: -20px;">
+                                        {{-- <li class="" style="width: -20px;">
                                             <a href="http://www.oufro.ac.in/" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon8.png') }}" alt=""
                                                     hspace="3">Foreign Relations</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
                                             <a href="examination-results.html"><img
                                                     src="{{ asset('Frontend/images/icon1.png') }}" alt=""
@@ -246,21 +244,21 @@
                                                     src="{{ asset('Frontend/images/icon4.png') }}" alt=""
                                                     hspace="3">Academic Info.</a>
                                         </li>
-                                        <li class="" style="width: -20px;">
+                                        {{-- <li class="" style="width: -20px;">
                                             <a href="hrdc/index.html" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon12.png') }}" alt=""
                                                     hspace="3">UGC - HRDC</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
                                             <a href="alumni/index-2.html" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon7.png') }}" alt=""
                                                     hspace="3">Alumni Association</a>
                                         </li>
-                                        <li class="" style="width: -20px;">
+                                        {{-- <li class="" style="width: -20px;">
                                             <a href="statisticalcell/index.html"><img
                                                     src="{{ asset('Frontend/images/icon10.png') }}" alt=""
                                                     hspace="3">Statistical Cell</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
                                             <a href="OUtenders.html"><img
                                                     src="{{ asset('Frontend/images/icon9.png') }}" alt=""
@@ -301,19 +299,19 @@
                     <div id="top3" class="col-sm-12">
                         <div class="marquee" id="mycrawler">
 
-                            <a href="foundation/index.html"><b>Osmania Foundation</b></a>
+                            <a href="foundation/index.html"><b>DDE LNMU Foundation</b></a>
                             <a href="https://ums.telangana.gov.in/Alumni_Portal/register"><b>Attention: Now Alumni can
-                                    register online for Alumni Membership of Alumni Association of Osmania University by
+                                    register online for Alumni Membership of Alumni Association of DDE LNMU University by
                                     paying the fee online.</b></a>
 
                             <a href="statisticalcell/pdf/OU%2020220302-NIRF2022-OVERALL.pdf"><b>NIRF-2022 Submitted
                                     Data</b></a>
                             <a href="https://www.youtube.com/channel/UC8m70fXQgw7Mw-Udk8124GA"><b>** Youtube Channel of
-                                    DPIIT-IPR Chair, Osmania University.**</b></a>
-                            <a href="https://osmaniaerp.com/ouconvocation/"><b>OU - 82nd Convocation</b><img
+                                    DPIIT-IPR Chair, DDE LNMU University.**</b></a>
+                            <a href="https://DDE LNMUerp.com/ouconvocation/"><b>OU - 82nd Convocation</b><img
                                     src="{{ asset('Frontend/images/newanim.gif') }}"></a>
                             <a href="moocs/index.html" target="_blank"><b>SWAYAM - MOOCS</b></a>
-                            <a href="https://ouipr.in/"><b>**DPIIT-IPR Chair, Osmania University.**</b></a>
+                            <a href="https://ouipr.in/"><b>**DPIIT-IPR Chair, DDE LNMU University.**</b></a>
                             <a href="CALL%20FOR%20SUBMISSIONS-OU%20IPR%20BLOG.pdf"><b>OU IPR FORUM</b></a>
                             <a href="alumniou.html"><b>**Honorable Chancellor Connects Alumni**</b></a>
                             <a href="cas202122.html"><b>CAS-2021 Circular Issued</b></a>
@@ -380,7 +378,7 @@
                                                                 <a href="News2022/Letter%20to%20all%20the%20Principals%20of%20BBA03062022.pdf"
                                                                     class="col-xs-12" title=""><i
                                                                         class="fa fa-envelope"></i>To the Principals of
-                                                                    All BBA Colleges affiliated to Osmania University to
+                                                                    All BBA Colleges affiliated to DDE LNMU University to
                                                                     conduct BBA Viva-Voce exams from 12-06-2022 to
                                                                     20-06-2022, OU.</a>
                                                             </li>
@@ -605,7 +603,7 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="http://arts.osmania.ac.in/"
+                                                                    <a href="http://arts.DDE LNMU.ac.in/"
                                                                         target="_blank"><img alt=" "
                                                                             src="{{ asset('Frontend/images/ou-arts.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
@@ -615,7 +613,7 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="http://arts.osmania.ac.in/" title=" "
+                                                                        <a href="http://arts.DDE LNMU.ac.in/" title=" "
                                                                             target="_blank">Univ. College of Arts &
                                                                             Social Sciences</a>
                                                                     </div>
@@ -628,7 +626,7 @@
                                                                             <!-- first year class.-->
                                                                         </div>
                                                                         <div class="item-read">
-                                                                            <a href="http://arts.osmania.ac.in/"
+                                                                            <a href="http://arts.DDE LNMU.ac.in/"
                                                                                 title=" " target="_blank">
                                                                                 <i class="fa fa-check"></i><span>Read
                                                                                     more</span>
@@ -736,7 +734,7 @@
                                                                             Management</a></div>
                                                                     <div class="item-content">
                                                                         <div class="item-des">The UCC & BM is one
-                                                                            of the prime colleges in the Osmania
+                                                                            of the prime colleges in the DDE LNMU
                                                                             University, located on the main campus,
                                                                             playing a pivotal Role in serving the
                                                                             society by shaping the careers of the
@@ -774,7 +772,7 @@
                                                                             target="_blank">University College of
                                                                             Education</a></div>
                                                                     <div class="item-content">
-                                                                        <div class="item-des">The Osmania
+                                                                        <div class="item-des">The DDE LNMU
                                                                             University, established in 1918, is the
                                                                             seventh oldest in the country, third oldest
                                                                             in South India and the first to be
@@ -812,7 +810,7 @@
                                                                             Law</a></div>
                                                                     <div class="item-content">
                                                                         <div class="item-des">The Faculty of Law,
-                                                                            Osmania University has a glorious history of
+                                                                            DDE LNMU University has a glorious history of
                                                                             more than 100 years. The "Law class" was
                                                                             opened in the year 1899 to give instruction
                                                                             in law to students desirous of...
@@ -944,7 +942,7 @@
                                             Login</a></li>
                                     <li><a href="http://14.139.82.53/otherthen-oucet/home.html" target="_blank">Hostel
                                             Login</a></li>
-                                    <li><a href="http://mail.osmania.ac.in/src/login.php" target="_blank">University
+                                    <li><a href="http://mail.DDE LNMU.ac.in/src/login.php" target="_blank">University
                                             e-mail</a></li>
                                 </ul>
                             </div>

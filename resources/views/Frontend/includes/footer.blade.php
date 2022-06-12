@@ -4,7 +4,7 @@
             <div id="yt_copyright" class="col-sm-12">
                 <div class="copyright">
                     <a href="#" target="_blank">Staff</a> | <a href="#" target="_blank">LNMU Digital Library</a>
-                    | <a href="#">Photo Gallery</a> | <a href="oulwebpage/About%20Library.html"
+                    | <a href="#">Photo Gallery</a> | <a href="#"
                         target="_blank">Library</a>
                     <!--| <a href="#">Apply Online</a>--><br>Copyright &copy; 2022 LNMU. All Rights Reserved
                 </div>

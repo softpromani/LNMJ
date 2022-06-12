@@ -219,13 +219,13 @@
                         <ul class="menu">
                             <div class="yt-socialbt">
                                 <a data-placement="top" target="_blank" class="sb facebook default color"
-                                    title="" href="https://www.facebook.com/osmaniauniv"
+                                    title="" href="#"
                                     data-original-title="Facebook" style="display: inline-block;"><i
                                         class="fa fa-facebook"></i></a>
                             </div>
                             <div class="yt-socialbt">
                                 <a data-placement="top" target="_blank" class="sb twitter default color"
-                                    title="" href="https://twitter.com/osmania1917"
+                                    title="" href="#"
                                     data-original-title="Twitter" style="display: inline-block;"><i
                                         class="fa fa-twitter"></i></a>
                             </div>
@@ -236,7 +236,7 @@
                             </div>
                             <div class="yt-socialbt">
                                 <a data-placement="top" target="_blank" class="sb instagram default color"
-                                    title="" href="http://instagram.com/osmania_univ"
+                                    title="" href="#"
                                     data-original-title="Instagram" style="display: inline-block;"><i
                                         class="fa fa-instagram"></i></a>
                             </div>
@@ -244,7 +244,7 @@
 
                     </div>
                     <!-- Histats.com  START  (standard)-->
-                    <script type="text/javascript">
+                    {{-- <script type="text/javascript">
                         document.write(unescape(
                             "%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
                     </script>
@@ -261,7 +261,7 @@
                                 src="../sstatic1.histats.com/077e8.gif?2059181&amp;101" alt="hit counter"
                                 border="0"></a>
                             </noscript>
-                    <!-- Histats.com  END  -->
+                    <!-- Histats.com  END  --> --}}
                 </div>
             </div>
 

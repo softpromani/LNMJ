@@ -840,7 +840,9 @@ body {
   display: block;
   position: relative;
   z-index: 1;
-  background: url("../images/btn-bg.jpg") no-repeat 0 0;
+  /* background: url("../images/btn-bg.jpg") no-repeat 0 0; */
+  background: rgb(242,178,18);
+background: linear-gradient(0deg, rgba(242,178,18,1) 4%, rgba(255,255,255,1) 87%);
   padding: 0 0 10px;
   margin: 0 0 40px;
   background-size: 100% 100%;

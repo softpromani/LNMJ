@@ -285,7 +285,7 @@
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link"
-                                                href="https://online.osmaniaerp.com/"><span
+                                                href="#"><span
                                                     class="menu-title">Apply Online for
                                                     Certificates</span></a>
                                         </li>
@@ -758,7 +758,7 @@
                                                 Projects</a></li>
                                         <li><a href="http://14.139.82.46:8080/newgenlibctxt/"
                                                 target="_blank">University Library WebOPAC</a></li>
-                                        <li><a href="http://oudl.osmania.ac.in/" target="_blank">OU Digital
+                                        <li><a href="#" target="_blank">OU Digital
                                                 Library</a> </li>
                                         <li><a href="News2017/SciFinder%20Users%20access.pdf"
                                                 target="_blank">SciFinder User Registration</a> </li>
