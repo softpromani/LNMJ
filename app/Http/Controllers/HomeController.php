@@ -15,4 +15,9 @@ class HomeController extends Controller
     {
         return view('Frontend/contactus');
     }
+
+    public function about_university()
+    {
+        return view('Frontend.about-university');
+    }
 }
