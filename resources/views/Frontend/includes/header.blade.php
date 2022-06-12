@@ -11,7 +11,7 @@
                         alt="LNMU" style="width:100px" />
                 </a>
             </div>
-            <div id="yt_logo" class="col-md-6 col-sm-12">
+            <div id="yt_logo" class="col-md-6 col-sm-10">
                 <a class="logo" href="#" title="LNMU">
 
                     <img data-placeholder="no" src="{{ asset('Frontend/images/icon/lnmu-logo.jpg') }}"

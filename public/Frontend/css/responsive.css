@@ -463,7 +463,7 @@
     text-align: center;
   }
   #bd #yt_menuwrap #yt_logo img {
-    height: auto !important;
+    max-height: auto !important;
   }
   #bd table {
     overflow-x: auto;

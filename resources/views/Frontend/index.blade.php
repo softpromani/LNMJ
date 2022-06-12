@@ -176,18 +176,16 @@
                     <div class="col-sm-3 slideLft">
                         <ul>
 
-                            <li><a href="https://osmaniaerp.com/ouconvocation/" target="_blank">OU - 82nd
-                                    Convocation<img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
-                            <li><a href="rusa2/index.html" target="_blank">RUSA 2.0 Positions</a></li>
-                            <li><a href="http://universities.eoffice.telangana.gov.in/" target="_blank">e-Office
-                                    Portal</a></li>
-                            <li><a href="https://ums.osmania.ac.in/" target="_blank">UMS LOGIN PAGE</a></li>
+                            <li><a href="#" target="_blank">Online Portal
+                                
+                                <img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
+                            <li><a href="#" target="_blank">Helpline For University Student</a></li>
+                            <li><a href="#" target="_blank">Awards/Recognition</a></li>
+                            <li><a href="#" target="_blank">NIRF</a></li>
 
-                            <li><a href="https://online.osmaniaerp.com/" target="_blank">Apply Online for
-                                    Certificates</a></li>
-                            <li><a href="https://online.osmaniaerp.com/" target="_blank">Apply Online for
-                                    Certificates</a></li>
-                            <li><a href="emp-career-news.html">Careers & Fellowships</a></li>
+                            <li><a href="#" target="_blank">Surprise Visit Report</a></li>
+                            <li><a href="#" target="_blank">Sport Calendar</a></li>
+                            <li><a href="#">Careers & Fellowships</a></li>
                         </ul>
                     </div>
 
@@ -207,62 +205,62 @@
                                 <div id="category_16297137721453353795" class="sj_category theme4">
                                     <ul class="line items-row1">
                                         <li class="" style="width: -20px;">
-                                            <a href="http://ouexams.in/index.aspx" target="_blank"><img
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon6.png') }}" alt=""
-                                                    hspace="3">Examination Branch</a>
+                                                    hspace="3">Examination</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="http://www.oucde.net/" target="_blank"><img
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon3.png') }}" alt=""
                                                     hspace="3">Distance Education</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="admissions/index-2.html" target="_blank"><img
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon2.png') }}" alt=""
-                                                    hspace="3">Admissions (DoA)</a>
+                                                    hspace="3">Admissions </a>
                                         </li>
-                                        <li class="" style="width: -20px;">
-                                            <a href="https://www.osmaniaerp.com/cstonline/" target="_blank"><img
+                                        {{-- <li class="" style="width: -20px;">
+                                            <a href="https://www.DDE LNMUerp.com/cstonline/" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon5.png') }}" alt=""
                                                     hspace="3">College Login</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
-                                            <a href="iqac/index.html" target="_blank"><img
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon11.png') }}" alt=""
                                                     hspace="3">IQAC</a>
                                         </li>
-                                        <li class="" style="width: -20px;">
+                                        {{-- <li class="" style="width: -20px;">
                                             <a href="http://www.oufro.ac.in/" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon8.png') }}" alt=""
                                                     hspace="3">Foreign Relations</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
-                                            <a href="examination-results.html"><img
+                                            <a href="#"><img
                                                     src="{{ asset('Frontend/images/icon1.png') }}" alt=""
                                                     hspace="3">Examination Results</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="academic-information.html"><img
+                                            <a href="#"><img
                                                     src="{{ asset('Frontend/images/icon4.png') }}" alt=""
                                                     hspace="3">Academic Info.</a>
                                         </li>
-                                        <li class="" style="width: -20px;">
+                                        {{-- <li class="" style="width: -20px;">
                                             <a href="hrdc/index.html" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon12.png') }}" alt=""
                                                     hspace="3">UGC - HRDC</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
-                                            <a href="alumni/index-2.html" target="_blank"><img
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon7.png') }}" alt=""
                                                     hspace="3">Alumni Association</a>
                                         </li>
-                                        <li class="" style="width: -20px;">
+                                        {{-- <li class="" style="width: -20px;">
                                             <a href="statisticalcell/index.html"><img
                                                     src="{{ asset('Frontend/images/icon10.png') }}" alt=""
                                                     hspace="3">Statistical Cell</a>
-                                        </li>
+                                        </li> --}}
                                         <li class="" style="width: -20px;">
-                                            <a href="OUtenders.html"><img
+                                            <a href="#"><img
                                                     src="{{ asset('Frontend/images/icon9.png') }}" alt=""
                                                     hspace="3">University Tenders</a>
                                         </li>
@@ -299,28 +297,12 @@
             <div class="container">
                 <div class="row">
                     <div id="top3" class="col-sm-12">
-                        <div class="marquee" id="mycrawler">
+                        <div class="marquee" id="mycrawler" style="width:100%;">
 
-                            <a href="foundation/index.html"><b>Osmania Foundation</b></a>
-                            <a href="https://ums.telangana.gov.in/Alumni_Portal/register"><b>Attention: Now Alumni can
-                                    register online for Alumni Membership of Alumni Association of Osmania University by
-                                    paying the fee online.</b></a>
-
-                            <a href="statisticalcell/pdf/OU%2020220302-NIRF2022-OVERALL.pdf"><b>NIRF-2022 Submitted
-                                    Data</b></a>
-                            <a href="https://www.youtube.com/channel/UC8m70fXQgw7Mw-Udk8124GA"><b>** Youtube Channel of
-                                    DPIIT-IPR Chair, Osmania University.**</b></a>
-                            <a href="https://osmaniaerp.com/ouconvocation/"><b>OU - 82nd Convocation</b><img
-                                    src="{{ asset('Frontend/images/newanim.gif') }}"></a>
-                            <a href="moocs/index.html" target="_blank"><b>SWAYAM - MOOCS</b></a>
-                            <a href="https://ouipr.in/"><b>**DPIIT-IPR Chair, Osmania University.**</b></a>
-                            <a href="CALL%20FOR%20SUBMISSIONS-OU%20IPR%20BLOG.pdf"><b>OU IPR FORUM</b></a>
-                            <a href="alumniou.html"><b>**Honorable Chancellor Connects Alumni**</b></a>
-                            <a href="cas202122.html"><b>CAS-2021 Circular Issued</b></a>
-
-                            <a href="102nd%20AnnualReportOU/AnnualReport_102.html"><b>102nd Annual Report </b></a>
-                            <a href="project-final-reports.html"><b>UGC-Major Research Project(MRP) Final
-                                    Reports</b></a>
+                            <a href="#"><b>Example News</b></a>
+                            <a href="#"><b>Example News</b></a>
+                            <a href="#"><b>Example News</b></a>
+                         
 
 
                         </div>
@@ -370,47 +352,43 @@
 
 
                                                             <li class="row">
-                                                                <a href="News2022/Institute%20of%20Genetics%20Begumpet.pdf"
+                                                                <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notification for
-                                                                    Admission into DBT Sponsored M.Sc-Molecular and
-                                                                    Human Genetics 2022-2023.</a>
+                                                                        class="fa fa-envelope"></i>BA BCOM MA MCOM RESULT FOR JUNE 2021 (29.05.2022)meu ip.</a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="News2022/Letter%20to%20all%20the%20Principals%20of%20BBA03062022.pdf"
+                                                                <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>To the Principals of
-                                                                    All BBA Colleges affiliated to Osmania University to
-                                                                    conduct BBA Viva-Voce exams from 12-06-2022 to
-                                                                    20-06-2022, OU.</a>
+                                                                        class="fa fa-envelope"></i>Notice Regarding Grade Card Distribution For June 2021meu ip</a>
                                                             </li>
 
                                                             <li class="row">
-                                                                <a href="hcdc%20Placements2022/21%20adaequare.pdf"
+                                                                <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Openings at
-                                                                    Adaequare Info Pvt Ltd for Jr. Digital Marketing
-                                                                    Executives and Insight Sales, HCDC,OU.</a>
+                                                                        class="fa fa-envelope"></i>Apply Examination Form June 2022 meu ip</a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="hcdc%20Placements2022/20%20nspira.pdf"
+                                                                <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Openings at Nspira
-                                                                    Management Services (Narayana Group) for Psychology
-                                                                    Counselor, HCDC,OU.</a>
+                                                                        class="fa fa-envelope"></i>Regarding Notice Examination Form June 2022  meu ip</a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="News2022/Research%20centre%20notification.pdf"
+                                                                <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>APPLICATION FOR
-                                                                    RECOGNITION OF RESEARCH CENTRE,OU.</a>
+                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR meu ip</a>
                                                             </li>
+                                                            <li class="row">
+                                                                <a href="#"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR meu ip</a>
+                                                            </li>
+                                                           
 
 
 
                                                         </ul>
                                                         </marquee>
-                                                        <a href="newsmore.html" class="col-xs-12" title=""
+                                                        <a href="#" class="col-xs-12" title=""
                                                             style="background: #EC3C32; color: #fff; width: auto;"><strong>More
                                                                 News...</strong></a>
 
@@ -449,48 +427,54 @@
                                                                         style="float: left; background:#EC3C32">13th-17th</span><span
                                                                         style="float: left; background: #f2b212">June
                                                                         2022</span></a>
-                                                                <a href="EventsConf2022/WORKSHOP%20BROCHURE%20FOR%20WEBSITE.pdf"
+                                                                <a href="#"
                                                                     target="_blank" class="col-xs-10"
-                                                                    title="">5-Days Hands-on Workshop on Animal Cell
-                                                                    Culture Technology and its Applications Organizing
-                                                                    by Dept. of Microbiology, CPMB, OU. </a>
+                                                                    title="">Event is going to be orgnised </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">17th-18th</span><span
                                                                         style="float: left; background: #f2b212">June
                                                                         2022</span></a>
-                                                                <a href="EventsConf2022/ou%20genetics%20begumpet%20(I%20of%20Genetics)%20small%20(1).pdf"
+                                                                <a href="#"
                                                                     target="_blank" class="col-xs-10"
-                                                                    title="">International Conference on Advances in
-                                                                    Genetic Diagnosis in the Era of OMICS (Hybrid Mode
-                                                                    Organized by Institute of Genetics and Hospital for
-                                                                    Genetic Diseases, OU, Begumpet, Hyd. </a>
+                                                                    title="">Event will reschedule on dated Please Fill happy. </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
-                                                                        style="float: left; background:#EC3C32">23rd &
+                                                                        style="float: left; background:#EC3C32">23rd-
                                                                         24th</span><span
                                                                         style="float: left; background: #f2b212">June
                                                                         2022</span></a>
-                                                                <a href="EventsConf2022/Binder1.pdf" target="_blank"
-                                                                    class="col-xs-10" title="">International
-                                                                    Conference (Offline/Online) on Language and
-                                                                    Literature: Cultural and Pedagogical Perspectives in
-                                                                    the context of NEP 2020, OUCIS, OU, Hyd. </a>
+                                                                <a href="#" target="_blank"
+                                                                    class="col-xs-10" title="">This Event is orgnised by DDE LNMU on 
+                                                                    ocation of holi. Hon'ble minister is our event chief minister.
+                                                                </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">30th-31st</span><span
                                                                         style="float: left; background: #f2b212">May
                                                                         2022</span></a>
-                                                                <a href="EventsConf2022/Digital%20PCR-2022.pdf"
+                                                                <a href="#"
                                                                     target="_blank" class="col-xs-10" title="">Two
                                                                     Days Hands-On Workshop on "Nanoplate-Based Digital
-                                                                    PCR" Organized by Dept. of Genetics & CFRD, OU. </a>
+                                                                    PCR" Organized by Dept. of Genetics & CFRD. </a>
                                                             </li>
+                                                            <li class="row">
+                                                                <a href="#" class="col-xs-2 pr0" title=""><span
+                                                                        style="float: left; background:#EC3C32">23rd-
+                                                                        24th</span><span
+                                                                        style="float: left; background: #f2b212">June
+                                                                        2022</span></a>
+                                                                <a href="#" target="_blank"
+                                                                    class="col-xs-10" title="">IT Cell of DDE LNMU is going to present 
+                                                                    Cyber Security Workshop.
+                                                                </a>
+                                                            </li>
+                                                            
 
-                                                            <a href="eventsarchives.html" class="col-xs-12"
+                                                            <a href="#" class="col-xs-12"
                                                                 title=""
                                                                 style="background: #EC3C32; color: #fff; width: auto; margin-top:10px;"><strong>More
                                                                     Events...</strong></a>
@@ -605,9 +589,9 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="http://arts.osmania.ac.in/"
+                                                                    <a href="#"
                                                                         target="_blank"><img alt=" "
-                                                                            src="{{ asset('Frontend/images/ou-arts.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/06.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -615,20 +599,20 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="http://arts.osmania.ac.in/" title=" "
-                                                                            target="_blank">Univ. College of Arts &
+                                                                        <a href="#" title=" "
+                                                                            target="_blank">Univ. PG Dep. of Arts &
                                                                             Social Sciences</a>
                                                                     </div>
                                                                     <div class="item-content">
                                                                         <div class="item-des">The Arts College
-                                                                            was inaugurated on August 28, 1919. It was
+                                                                            was inaugurated on Mont xx YYYY. It was
                                                                             temporarily housed in eight rented buildings
-                                                                            in Gunfoundry area with 25 teachers and 225
+                                                                            in Gunfoundry area with xx teachers and xxx
                                                                             students in the Interm ediate...
                                                                             <!-- first year class.-->
                                                                         </div>
                                                                         <div class="item-read">
-                                                                            <a href="http://arts.osmania.ac.in/"
+                                                                            <a href="#"
                                                                                 title=" " target="_blank">
                                                                                 <i class="fa fa-check"></i><span>Read
                                                                                     more</span>
@@ -644,9 +628,9 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="http://www.uceou.edu/" target="_blank"><img
+                                                                    <a href="#" target="_blank"><img
                                                                             alt="Fazen mipa nace rumas "
-                                                                            src="{{ asset('Frontend/images/ou-engg.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/005.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -654,14 +638,13 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="http://www.uceou.edu/"
+                                                                        <a href="#"
                                                                             title="Fazen mipa nace rumas "
-                                                                            target="_blank">University College of
-                                                                            Engineering</a>
+                                                                            target="_blank">University PG Department of Science</a>
                                                                     </div>
                                                                     <div class="item-content">
-                                                                        <div class="item-des">The University
-                                                                            College of Engineering (UCE) has the
+                                                                        <div class="item-des">University PG Department of Science
+                                                                             the
                                                                             distinction of being the oldest and the
                                                                             biggest among the Engineering Colleges of
                                                                             the combined State of Andhra Pradesh.</div>
@@ -684,28 +667,25 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="http://www.ouct.ac.in/"
+                                                                    <a href="#"
                                                                         target="_blank"><img
                                                                             alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-tech.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/004.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title"><a
-                                                                            href="http://www.ouct.ac.in/"
+                                                                            href="#"
                                                                             title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Technology</a></div>
+                                                                            target="_blank">Univ. PG Dep. of Commerce & Management</a></div>
                                                                     <div class="item-content">
-                                                                        <div class="item-des">The University
-                                                                            College of Technology is one of the premier
-                                                                            and the oldest colleges offering Chemical
-                                                                            Engineering and Chemical Technology
-                                                                            education in the country.</div>
+                                                                        <div class="item-des">University PG Department of Commerce & Management
+                                                                            University PG Department of Commerce & Management
+                                                                            .</div>
                                                                         <div class="item-read">
-                                                                            <a href="http://www.ouct.ac.in/"
+                                                                            <a href="#"
                                                                                 title="Sazen mipan guka muten "
                                                                                 target="_blank"><i
                                                                                     class="fa fa-check"></i><span>Read
@@ -717,159 +697,7 @@
                                                         </div>
                                                     </div>
 
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="uccbm/index.html" target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-cbm.jpg') }}" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="uccbm/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">College of Commerce &amp; B.
-                                                                            Management</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The UCC & BM is one
-                                                                            of the prime colleges in the Osmania
-                                                                            University, located on the main campus,
-                                                                            playing a pivotal Role in serving the
-                                                                            society by shaping the careers of the
-                                                                            students...
-                                                                            <!-- keeping in view the changing socio-economic environment-->
-                                                                        </div>
-                                                                        <div class="item-read">
-                                                                            <a href="uccbm/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="ucedu/index.html" target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-adv.jpg') }}" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="ucedu/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Education</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The Osmania
-                                                                            University, established in 1918, is the
-                                                                            seventh oldest in the country, third oldest
-                                                                            in South India and the first to be
-                                                                            established in the princely state of
-                                                                            Hyderabad.</div>
-                                                                        <div class="item-read">
-                                                                            <a href="ucedu/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="lawcollege/index.html" target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-law.jpg') }}" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="lawcollege/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Law</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The Faculty of Law,
-                                                                            Osmania University has a glorious history of
-                                                                            more than 100 years. The "Law class" was
-                                                                            opened in the year 1899 to give instruction
-                                                                            in law to students desirous of...
-                                                                            <!-- joining legal profession along with "Judicial Test" classes for Judicial Officers.-->
-                                                                        </div>
-                                                                        <div class="item-read">
-                                                                            <a href="lawcollege/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="sciencecollege/index.html"
-                                                                        target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="images/ou-science.jpg" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="sciencecollege/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Science</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The University
-                                                                            College of Science has a strong tradition of
-                                                                            research in both basic and applied sciences.
-                                                                            Even though the college itself was
-                                                                            established in 1918, the work carried out
-                                                                            in...
-                                                                            <!--  Astronomy at the Nizamia Observatory dates back to 1908.-->
-                                                                        </div>
-                                                                        <div class="item-read">
-                                                                            <a href="sciencecollege/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                   
 
                                                 </div>
                                             </div>
@@ -928,23 +756,26 @@
                             <h3 class="modtitle">Useful Links</h3>
                             <div class="acd-item1">
                                 <ul class="line items-row1">
-                                    <li><a href="examination-results.html">Examination Results</a></li>
-                                    <li><a href="https://www.ouexams.in/examnotifications">Examination Time Tables</a>
+                                    <li><a href="#">Examination Results</a></li>
+                                    <li><a href="#">Examination Time Tables</a>
                                     </li>
-                                    <li><a href="https://www.ouexams.in/press">Press Notes</a></li>
-                                    <li><a href="oulwebpage/About%20Library.html" target="_blank">University Library</a>
+                                    <li><a href="#">Press Notes</a></li>
+                                    <li><a href="#" target="_blank">University Library</a>
                                     </li>
-                                    <li><a href="statisticalcell/index.html" target="_blank">Statistical Cell</a></li>
-                                    <li><a href="admission-notifications.html">Admission Notifications</a></li>
-                                    <li><a href="application-forms.html">Download Forms</a></li>
-                                    <li><a href="cdcNEW/index.html" target="_blank">CDC</a></li>
-                                    <li><a href="http://uceou.edu/CELT/index.php" target="_blank">CELT-OU</a></li>
+                                   
+                                    <li><a href="#">Admission Notifications</a></li>
+                                    <li><a href="#">Download Forms</a></li>
+                                    <li><a href="#">Download Forms</a></li>
+                                    <li><a href="#">Download Forms</a></li>
+                                    <li><a href="#">Download Forms</a></li>
+                                   
+                                 
 
-                                    <li><a href="https://ums.telangana.gov.in/STAFF/login" target="_blank">Staff
+                                    <li><a href="#" target="_blank">Staff
                                             Login</a></li>
-                                    <li><a href="http://14.139.82.53/otherthen-oucet/home.html" target="_blank">Hostel
+                                    <li><a href="#" target="_blank">Hostel
                                             Login</a></li>
-                                    <li><a href="http://mail.osmania.ac.in/src/login.php" target="_blank">University
+                                    <li><a href="#" target="_blank">University
                                             e-mail</a></li>
                                 </ul>
                             </div>
