@@ -18,7 +18,7 @@
                                 <div class="mega-col last more" style="width:33%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="#"><span
+                                            <a title="" class="level2 first item-link" href="{{url('/about-university')}}"><span
                                                     class="menu-title">University at a glance</span></a>
                                         </li>
                                         <li class="level2">
@@ -53,7 +53,7 @@
                                 <div class="mega-col last more" style="width:50%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
+                                            <a title="" class="level2 first item-link" href="https://governor.bih.nic.in/" target="_blank"><span
                                                     class="menu-title">Chancellor</span></a>
                                         </li>
                                         <li class="level2">
