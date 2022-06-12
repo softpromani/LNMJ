@@ -6,9 +6,9 @@
                     <li class="level1">
                         <a title="Pages " class="level1 havechild  item-link" href="{{url('/')}}"><span
                                 class="menu-title">Home</span></a>
-                       
+
                     </li>
-                    
+
                     <li class="active level1 havechild first">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">About Us</span></a>
@@ -228,50 +228,45 @@
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">IQAC</span></a>
-                        {{-- <div class="level2 menu mega-content">
+                        <div class="level2 menu mega-content">
                             <div class="mega-content-inner clearfix" style="width:600px">
                                 <div class="mega-col last more" style="width:55%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">National Academic
-                                                    Depository</span></a>
+                                            <a title="" class="level2 first item-link" href="{{route('iqac-intro')}}"><span
+                                                    class="menu-title">Introduction</span></a>
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">Centre for Educational Development
-                                                    of Minorities</span></a>
+                                                    class="menu-title">IQAC Committee</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Competitive Examinations Coaching
-                                                    Centre</span></a>
+                                                    class="menu-title">Strategic plan</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Employment Information & Guidance
-                                                    Bureau</span></a>
+                                                    class="menu-title">Vision, Mission and Strategies                                                </span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">English Language Training
-                                                    Centre</span></a>
+                                                    class="menu-title">Climate Action Plan</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Minorities Cell</span></a>
+                                                    class="menu-title">Sustainability Cell</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="bccell.html"><span
-                                                    class="menu-title">BC Cell
+                                                    class="menu-title">National Ranking
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Hostels and Messes</span></a>
+                                                    class="menu-title">International Ranking</span></a>
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Physical Education</span></a>
+                                                    class="menu-title">NAAC Accreditation</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -280,53 +275,34 @@
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
                                             <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">National Cadet Corps
-                                                    (NCC)</span></a>
+                                                    class="menu-title">Feedback</span></a>
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link"
                                                 href="#"><span
-                                                    class="menu-title">Apply Online for
-                                                    Certificates</span></a>
+                                                    class="menu-title">IQAC Events</span></a>
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 last item-link" href="#"><span
-                                                    class="menu-title">National Service Scheme
-                                                    (NSS)</span></a>
+                                                    class="menu-title">Reports</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">OU International Placement
-                                                    Service</span></a>
+                                                    class="menu-title">Research Profile</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Human Capital Development
-                                                    Centre(HCDC)</span></a>
+                                                    class="menu-title">Hony. Directors</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">University Library</span></a>
+                                                    class="menu-title">Contact Us</span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Scheduled Caste/Scheduled Tribe
-                                                    Cell</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Students Welfare
-                                                    Department</span></a>
-                                        </li>
-                                        <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href="#"><span
-                                                    class="menu-title">University Foreign Relations
-                                                    Office</span></a>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
                     </li>
 
                     <li class="level1 havechild ">
@@ -399,86 +375,7 @@
                     <li class="level1 havechild ">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">Contact Us</span></a>
-                        {{-- <div class="level2 menu mega-content">
-                            <div class="mega-content-inner clearfix" style="width:650px">
-                                <div class="mega-col first more" style="width:30%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 first havechild">
-                                            <a title="" class="level2 first havechild item-link" href="#"><span
-                                                    class="menu-title">RTI
-                                                    Act</span></a>
-                                        </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Powers
-                                                    and Duties</span></a>
-                                        </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Decision making process</span></a>
-                                        </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Rules,
-                                                    Regulations etc</span></a>
-                                        </li>
 
-                                    </ul>
-                                </div>
-
-                                <div class="mega-col last more" style="width:37%;">
-                                    <ul class="subnavi level2">
-
-
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Executive
-                                                    Council</span></a>
-                                        </li>
-                                        <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">Directory of Officers &
-                                                    employees</span></a>
-                                        </li>
-
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Budget
-                                                    Allocations</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Public Information
-                                                    Officers</span></a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-                                <div class="mega-col last more" style="width:32%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Electronic Information</span></a>
-                                        </li>
-                                        <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">Obtaining Information</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Particulars</span></a>
-                                        </li>
-
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Budget
-                                                    Annual Accounts</span></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> --}}
                     </li>
 
                     <li class="level1 havechild ">
@@ -491,83 +388,13 @@
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">Archieve</span></a>
-                        {{-- <div class="level2 menu mega-content">
-                            <div class="mega-content-inner clearfix" style="width:200px">
-                                <div class="mega-col last more" style="width:100%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"
-                                                target="_blank"><span class="menu-title">E-Learning Resources</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Free Online Course</span></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> --}}
+
                     </li>
 
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="https://lnmu.ac.in:2096/"><span
                                 class="menu-title">RTI ACT</span></a>
-                        {{-- <div class="level2 menu mega-content">
-                            <div class="mega-content-inner clearfix" style="width:200px">
-                                <div class="mega-col last more" style="width:100%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">E-Books</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link"
-                                                href="https://jgateplus.com/search/" target="_blank"><span
-                                                    class="menu-title">Common Gateway for
-                                                    e-Journals</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">e-ShodhSindhu e-Journals</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">SAGE e-Journals</span></a>
-                                        </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">INDIAN
-                                                    e-Journals </span></a>
-                                        </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 first item-link"
-                                                href="http://shodhganga.inflibnet.ac.in/" target="_blank"><span
-                                                    class="menu-title">Shodhganga</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link"
-                                                href="http://www.sakshat.ac.in/" target="_blank"><span
-                                                    class="menu-title">NME-ICT Projects</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link"
-                                                href="http://14.139.82.46:8080/newgenlibctxt/"
-                                                target="_blank"><span class="menu-title">University Library
-                                                    WebOPAC</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#" target="_blank"><span
-                                                    class="menu-title">OU Digital Library</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#" target="_blank"><span
-                                                    class="menu-title">SciFinder User
-                                                    Registration</span></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> --}}
+
                     </li>
 
                 </ul>
