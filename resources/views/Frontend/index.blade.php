@@ -762,11 +762,12 @@
                                     <li><a href="#">Press Notes</a></li>
                                     <li><a href="#" target="_blank">University Library</a>
                                     </li>
-                                    <li><a href="#" target="_blank">Statistical Cell</a></li>
+                                   
                                     <li><a href="#">Admission Notifications</a></li>
                                     <li><a href="#">Download Forms</a></li>
-                                    <li><a href="#" target="_blank">CDC</a></li>
-                                    <li><a href="#" target="_blank">CELT-OU</a></li>
+                                    <li><a href="#">Download Forms</a></li>
+                                    <li><a href="#">Download Forms</a></li>
+                                 
 
                                     <li><a href="#" target="_blank">Staff
                                             Login</a></li>
