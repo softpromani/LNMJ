@@ -3,8 +3,12 @@
         <div class="row">
             <div id="yt_mainmenu" class="col-md-12 col-sm-12">
                 <ul id="meganavigator" class="clearfix navi">
-
-
+                    <li class="level1">
+                        <a title="Pages " class="level1 havechild  item-link" href="https://lnmu.ac.in:2096/"><span
+                                class="menu-title">RTI ACT</span></a>
+                       
+                    </li>
+                    
                     <li class="active level1 havechild first">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">About Us</span></a>
