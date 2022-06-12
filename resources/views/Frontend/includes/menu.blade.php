@@ -224,50 +224,45 @@
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">IQAC</span></a>
-                        {{-- <div class="level2 menu mega-content">
+                        <div class="level2 menu mega-content">
                             <div class="mega-content-inner clearfix" style="width:600px">
                                 <div class="mega-col last more" style="width:55%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">National Academic
-                                                    Depository</span></a>
+                                                    class="menu-title">Introduction</span></a>
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">Centre for Educational Development
-                                                    of Minorities</span></a>
+                                                    class="menu-title">IQAC Committee</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Competitive Examinations Coaching
-                                                    Centre</span></a>
+                                                    class="menu-title">Strategic plan</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Employment Information & Guidance
-                                                    Bureau</span></a>
+                                                    class="menu-title">Vision, Mission and Strategies                                                </span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">English Language Training
-                                                    Centre</span></a>
+                                                    class="menu-title">Climate Action Plan</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Minorities Cell</span></a>
+                                                    class="menu-title">Sustainability Cell</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="bccell.html"><span
-                                                    class="menu-title">BC Cell
+                                                    class="menu-title">National Ranking
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Hostels and Messes</span></a>
+                                                    class="menu-title">International Ranking</span></a>
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Physical Education</span></a>
+                                                    class="menu-title">NAAC Accreditation</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -276,53 +271,34 @@
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
                                             <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">National Cadet Corps
-                                                    (NCC)</span></a>
+                                                    class="menu-title">Feedback</span></a>
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link"
                                                 href="https://online.osmaniaerp.com/"><span
-                                                    class="menu-title">Apply Online for
-                                                    Certificates</span></a>
+                                                    class="menu-title">IQAC Events</span></a>
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 last item-link" href="#"><span
-                                                    class="menu-title">National Service Scheme
-                                                    (NSS)</span></a>
+                                                    class="menu-title">Reports</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">OU International Placement
-                                                    Service</span></a>
+                                                    class="menu-title">Research Profile</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Human Capital Development
-                                                    Centre(HCDC)</span></a>
+                                                    class="menu-title">Hony. Directors</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">University Library</span></a>
+                                                    class="menu-title">Contact Us</span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Scheduled Caste/Scheduled Tribe
-                                                    Cell</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Students Welfare
-                                                    Department</span></a>
-                                        </li>
-                                        <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href="#"><span
-                                                    class="menu-title">University Foreign Relations
-                                                    Office</span></a>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
                     </li>
 
                     <li class="level1 havechild ">

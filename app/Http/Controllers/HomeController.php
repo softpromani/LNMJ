@@ -15,4 +15,9 @@ class HomeController extends Controller
     {
         return view('Frontend/contactus');
     }
+
+    function iqacIntro()
+    {
+        return view('Frontend/iqac_intro');
+    }
 }
