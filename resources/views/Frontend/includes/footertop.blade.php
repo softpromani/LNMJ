@@ -7,19 +7,19 @@
                         <h3 class="modtitle">About Us</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="aboutus-originandhistory.html">Origin and
+                                <li class="item-1537"><a href="#">Origin and
                                         History</a></li>
-                                <li class="item-1538"><a href="aboutus-universityprofile.html">University
+                                <li class="item-1538"><a href="#">University
                                         Profile</a></li>
-                                <li class="item-1539"><a href="aboutus-visionmission.html">Vision &amp;
+                                <li class="item-1539"><a href="#">Vision &amp;
                                         Mission</a></li>
-                                <li class="item-1540"><a href="aboutus-formerVCs.html">Former
+                                <li class="item-1540"><a href="#">Former
                                         Vice-Chancellors</a></li>
-                                <li class="item-1541"><a href="alumni/index.html"
+                                <li class="item-1541"><a href="#"
                                         target="_blank">Distinguished Alumni</a></li>
                                 <li class="item-1542"><a
-                                        href="aboutus-Accreditation.html">Accreditation</a></li>
-                                <li class="item-1542"><a href="aboutus-contactus.html">Contact Us</a></li>
+                                        href="#">Accreditation</a></li>
+                                <li class="item-1542"><a href="#">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -30,15 +30,15 @@
                         <h3 class="modtitle">Administration</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="adm-vc.html">Vice-Chancellor</a></li>
-                                <li class="item-1538"><a href="adm-registrar.html">Registrar</a></li>
-                                <li class="item-1539"><a href="adm-ec.html">Executive Council</a></li>
-                                <li class="item-1540"><a href="adm-infrastructure.html">Infrastructure</a>
+                                <li class="item-1537"><a href="#">Vice-Chancellor</a></li>
+                                <li class="item-1538"><a href="#">Registrar</a></li>
+                                <li class="item-1539"><a href="#">Executive Council</a></li>
+                                <li class="item-1540"><a href="#">Infrastructure</a>
                                 </li>
-                                <li class="item-1541"><a href="adm-others.html">Administrators</a></li>
-                                <li class="item-1542"><a href="adm-other-officers.html">Other Officers /
+                                <li class="item-1541"><a href="#">Administrators</a></li>
+                                <li class="item-1542"><a href="#">Other Officers /
                                         Units</a></li>
-                                <li class="item-1542"><a href="adm-policymakingbody.html">Policy Making
+                                <li class="item-1542"><a href="#">Policy Making
                                         Bodies</a></li>
                             </ul>
                         </div>
@@ -50,19 +50,19 @@
                         <h3 class="modtitle">Academics</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="academics-campuscolleges.html">Campus
+                                <li class="item-1537"><a href="#">Campus
                                         Colleges</a></li>
-                                <li class="item-1538"><a href="academics-consticolleges.html">Constituent
+                                <li class="item-1538"><a href="#">Constituent
                                         Colleges</a></li>
                                 <li class="item-1539"><a
-                                        href="academics-affiliatedcolleges.html">Affiliated Colleges</a></li>
-                                <li class="item-1540"><a href="syllabi.html">Syllabi</a></li>
-                                <li class="item-1541"><a href="admissions-acadcalender.html">Almanac</a>
+                                        href="#">Affiliated Colleges</a></li>
+                                <li class="item-1540"><a href="#">Syllabi</a></li>
+                                <li class="item-1541"><a href="#">Almanac</a>
                                 </li>
                                 <!--								<li class="item-1541"><a href="academics-faculties.php" >Faculties</a></li>-->
-                                <li class="item-1542"><a href="academics-academicprogs.html">Academic
+                                <li class="item-1542"><a href="#">Academic
                                         Programmes</a></li>
-                                <li class="item-1542"><a href="academics-distanceedu.html">Distance
+                                <li class="item-1542"><a href="#">Distance
                                         Education</a></li>
                             </ul>
                         </div>
@@ -74,19 +74,19 @@
                         <h3 class="modtitle">Research</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="research-centralfacilities.html">Central
+                                <li class="item-1537"><a href="#">Central
                                         Facilities for R &amp; D</a></li>
-                                <li class="item-1538"><a href="research-rnt.html">Research and Training
+                                <li class="item-1538"><a href="#">Research and Training
                                         Centres</a></li>
                                 <li class="item-1539"><a
-                                        href="research-consultancyservices.html">Consultancy Services</a></li>
-                                <li class="item-1540"><a href="research-resourcecentres.html">Resource
+                                        href="#">Consultancy Services</a></li>
+                                <li class="item-1540"><a href="#">Resource
                                         Centres</a></li>
                                 <li class="item-1541"><a
-                                        href="research-collaborations.html">Collaborations</a></li>
-                                <li class="item-1542"><a href="research-phd.html">Ph.D.</a></li>
+                                        href="#">Collaborations</a></li>
+                                <li class="item-1542"><a href="#">Ph.D.</a></li>
                                 <li class="item-1542"><a
-                                        href="research-publications.html">Publications</a></li>
+                                        href="#">Publications</a></li>
                             </ul>
                         </div>
                     </div>
@@ -97,18 +97,18 @@
                         <h3 class="modtitle">Student Support</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="studentsupport-empbureau.html">Emp. Info. &
+                                <li class="item-1537"><a href="#">Emp. Info. &
                                         Guidance Bureau</a></li>
-                                <li class="item-1538"><a href="studentsupport-eltc.html">ELTC</a></li>
-                                <li class="item-1539"><a href="studentsupport-hostelsmesses.html">Hostels
+                                <li class="item-1538"><a href="#">ELTC</a></li>
+                                <li class="item-1539"><a href="#">Hostels
                                         and Messes</a></li>
-                                <li class="item-1540"><a href="studentsupport-nss.html">National Service
+                                <li class="item-1540"><a href="#">National Service
                                         Scheme (NSS)</a></li>
-                                <li class="item-1541"><a href="studentsupport-ncc.html">National Cadet
+                                <li class="item-1541"><a href="#">National Cadet
                                         Corps (NCC)</a></li>
-                                <li class="item-1542"><a href="studentsupport-hcdc.html">Human Capital
+                                <li class="item-1542"><a href="#">Human Capital
                                         Development Centre(HCDC)</a></li>
-                                <li class="item-1542"><a href="studentsupport-ufro.html">UFRO</a></li>
+                                <li class="item-1542"><a href="#">UFRO</a></li>
                             </ul>
                         </div>
                     </div>
@@ -119,19 +119,19 @@
                         <h3 class="modtitle">Amenities</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="amenities-publicationspress.html">Dept. of
+                                <li class="item-1537"><a href="#">Dept. of
                                         Publications & Press</a></li>
 
-                                <li class="item-1539"><a href="amenities-guesthouse.html">Guest House</a>
+                                <li class="item-1539"><a href="#">Guest House</a>
                                 </li>
-                                <li class="item-1540"><a href="amenities-healthcentre.html">Health
+                                <li class="item-1540"><a href="#">Health
                                         Centre</a></li>
-                                <li class="item-1541"><a href="amenities-bankpostofce.html">Bank</a></li>
-                                <li class="item-1541"><a href="amenities-postofce.html">Post Office</a>
+                                <li class="item-1541"><a href="#">Bank</a></li>
+                                <li class="item-1541"><a href="#">Post Office</a>
                                 </li>
-                                <li class="item-1542"><a href="amenities-facultyclub.html">Faculty
+                                <li class="item-1542"><a href="#">Faculty
                                         Club</a></li>
-                                <li class="item-1542"><a href="amenities-semhalls.html">Seminar Halls</a>
+                                <li class="item-1542"><a href="#">Seminar Halls</a>
                                 </li>
                             </ul>
                         </div>
@@ -143,16 +143,16 @@
                         <h3 class="modtitle">E-Resources</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1541"><a href="https://jgateplus.com/search/"
+                                <li class="item-1541"><a href="#"
                                         target="_blank">Common Gateway for e-Journals</a></li>
-                                <li class="item-1540"><a href="e-journals.html">e-ShodhSindhu
+                                <li class="item-1540"><a href="#">e-ShodhSindhu
                                         e-Journals</a></li>
-                                <li class="item-1538"><a href="sagejournals.html">SAGE e-Journals</a></li>
-                                <li class="item-1537"><a href="indianjournals.html">INDIAN e-Journals</a>
+                                <li class="item-1538"><a href="#">SAGE e-Journals</a></li>
+                                <li class="item-1537"><a href="#">INDIAN e-Journals</a>
                                 </li>
-                                <li class="item-1539"><a href="http://www.sakshat.ac.in/"
+                                <li class="item-1539"><a href="#"
                                         target="_blank">NME-ICT Projects</a></li>
-                                <li class="item-1542"><a href="http://indiabusinessinsight.com/ibi/login/"
+                                <li class="item-1542"><a href="#"
                                         target="_blank">IBID</a></li>
                             </ul>
                         </div>
@@ -164,17 +164,17 @@
                         <h3 class="modtitle">RTI Act</h3>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="rtiact-powers.html">Powers and Duties</a>
+                                <li class="item-1537"><a href="#">Powers and Duties</a>
                                 </li>
-                                <li class="item-1538"><a href="rtiact-decision.html">Decision making
+                                <li class="item-1538"><a href="#">Decision making
                                         process</a></li>
-                                <li class="item-1539"><a href="rtiact-rules.html">Rules, Regulations
+                                <li class="item-1539"><a href="#">Rules, Regulations
                                         etc</a></li>
-                                <li class="item-1540"><a href="rtiact-ec.html">Executive Council</a></li>
+                                <li class="item-1540"><a href="#">Executive Council</a></li>
 
-                                <li class="item-1542"><a href="rtiact-directory.html">Directory of
+                                <li class="item-1542"><a href="#">Directory of
                                         Officers</a></li>
-                                <li class="item-1542"><a href="rtiact-pios.html">Public Information
+                                <li class="item-1542"><a href="#">Public Information
                                         Officers</a></li>
                             </ul>
                         </div>
@@ -189,25 +189,25 @@
                     <div class="modcontent clearfix">
                         <ul class="menu footList">
                             <li class="item-1538"><a
-                                    href="statisticalcell/pdf/OU%2020220302-NIRF2022-OVERALL.pdf"
+                                    href="#"
                                     target="_blank">NIRF-2022 Submitted Data</a></li>
                             <li class="item-1538"><a
-                                    href="https://cpget.tsche.ac.in/CPGET/CPGET_HomePage.aspx"
+                                    href="#"
                                     target="_blank">CPGET-2022</a></li>
-                            <li class="item-1538"><a href="Grievances.html" target="_blank">GRIEVANCES</a>
+                            <li class="item-1538"><a href="#" target="_blank">GRIEVANCES</a>
                             </li>
                             <li class="item-1538"><a
-                                    href="PhDadmissionSchedule_2018/PhD201617admissionSchedule.html"
+                                    href="#"
                                     target="_blank">Ph.D Admission Schedule</a></li>
-                            <li class="item-1538"><a href="102nd%20AnnualReportOU/AnnualReport_102.html"
+                            <li class="item-1538"><a href="#"
                                     target="_blank">102nd Annual Report</a></li>
                             <li class="item-1538"><a
-                                    href="News2022/University%20Vehicle%20order%20for%202021-22.pdf"
+                                    href="#"
                                     target="_blank">Hiring of Vehicles - orders</a></li>
 
-                            <li class="item-1537"><a href="syllabi.html">Syllabus (CBCS)</a></li>
+                            <li class="item-1537"><a href="#">Syllabus (CBCS)</a></li>
 
-                            <li class="item-1541"><a href="CBCSPPT2016/CBCS.pdf" target="_blank">Download
+                            <li class="item-1541"><a href="#" target="_blank">Download
                                     PPTs of UG-CBCS</a></li>
 
                         </ul>
@@ -231,7 +231,7 @@
                             </div>
                             <div class="yt-socialbt">
                                 <a data-placement="top" target="_blank" class="sb youtube default color"
-                                    title="" href="https://youtube.com/" data-original-title="Youtube"
+                                    title="" href="#" data-original-title="Youtube"
                                     style="display: inline-block;"><i class="fa fa-youtube"></i></a>
                             </div>
                             <div class="yt-socialbt">
