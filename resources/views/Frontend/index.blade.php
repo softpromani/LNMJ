@@ -589,9 +589,9 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="http://arts.DDE LNMU.ac.in/"
+                                                                    <a href="#"
                                                                         target="_blank"><img alt=" "
-                                                                            src="{{ asset('Frontend/images/ou-arts.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/06.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -599,20 +599,20 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="http://arts.DDE LNMU.ac.in/" title=" "
-                                                                            target="_blank">Univ. College of Arts &
+                                                                        <a href="#" title=" "
+                                                                            target="_blank">Univ. PG Dep. of Arts &
                                                                             Social Sciences</a>
                                                                     </div>
                                                                     <div class="item-content">
                                                                         <div class="item-des">The Arts College
-                                                                            was inaugurated on August 28, 1919. It was
+                                                                            was inaugurated on Mont xx YYYY. It was
                                                                             temporarily housed in eight rented buildings
-                                                                            in Gunfoundry area with 25 teachers and 225
+                                                                            in Gunfoundry area with xx teachers and xxx
                                                                             students in the Interm ediate...
                                                                             <!-- first year class.-->
                                                                         </div>
                                                                         <div class="item-read">
-                                                                            <a href="http://arts.DDE LNMU.ac.in/"
+                                                                            <a href="#"
                                                                                 title=" " target="_blank">
                                                                                 <i class="fa fa-check"></i><span>Read
                                                                                     more</span>
@@ -628,9 +628,9 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="http://www.uceou.edu/" target="_blank"><img
+                                                                    <a href="#" target="_blank"><img
                                                                             alt="Fazen mipa nace rumas "
-                                                                            src="{{ asset('Frontend/images/ou-engg.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/005.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -638,14 +638,13 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="http://www.uceou.edu/"
+                                                                        <a href="#"
                                                                             title="Fazen mipa nace rumas "
-                                                                            target="_blank">University College of
-                                                                            Engineering</a>
+                                                                            target="_blank">University PG Department of Science</a>
                                                                     </div>
                                                                     <div class="item-content">
-                                                                        <div class="item-des">The University
-                                                                            College of Engineering (UCE) has the
+                                                                        <div class="item-des">University PG Department of Science
+                                                                             the
                                                                             distinction of being the oldest and the
                                                                             biggest among the Engineering Colleges of
                                                                             the combined State of Andhra Pradesh.</div>
@@ -668,28 +667,25 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="http://www.ouct.ac.in/"
+                                                                    <a href="#"
                                                                         target="_blank"><img
                                                                             alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-tech.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/004.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title"><a
-                                                                            href="http://www.ouct.ac.in/"
+                                                                            href="#"
                                                                             title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Technology</a></div>
+                                                                            target="_blank">University PG Department of Commerce & Management</a></div>
                                                                     <div class="item-content">
-                                                                        <div class="item-des">The University
-                                                                            College of Technology is one of the premier
-                                                                            and the oldest colleges offering Chemical
-                                                                            Engineering and Chemical Technology
-                                                                            education in the country.</div>
+                                                                        <div class="item-des">University PG Department of Commerce & Management
+                                                                            University PG Department of Commerce & Management
+                                                                            .</div>
                                                                         <div class="item-read">
-                                                                            <a href="http://www.ouct.ac.in/"
+                                                                            <a href="#"
                                                                                 title="Sazen mipan guka muten "
                                                                                 target="_blank"><i
                                                                                     class="fa fa-check"></i><span>Read
@@ -701,159 +697,7 @@
                                                         </div>
                                                     </div>
 
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="uccbm/index.html" target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-cbm.jpg') }}" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="uccbm/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">College of Commerce &amp; B.
-                                                                            Management</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The UCC & BM is one
-                                                                            of the prime colleges in the DDE LNMU
-                                                                            University, located on the main campus,
-                                                                            playing a pivotal Role in serving the
-                                                                            society by shaping the careers of the
-                                                                            students...
-                                                                            <!-- keeping in view the changing socio-economic environment-->
-                                                                        </div>
-                                                                        <div class="item-read">
-                                                                            <a href="uccbm/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="ucedu/index.html" target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-adv.jpg') }}" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="ucedu/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Education</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The DDE LNMU
-                                                                            University, established in 1918, is the
-                                                                            seventh oldest in the country, third oldest
-                                                                            in South India and the first to be
-                                                                            established in the princely state of
-                                                                            Hyderabad.</div>
-                                                                        <div class="item-read">
-                                                                            <a href="ucedu/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="lawcollege/index.html" target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/ou-law.jpg') }}" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="lawcollege/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Law</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The Faculty of Law,
-                                                                            DDE LNMU University has a glorious history of
-                                                                            more than 100 years. The "Law class" was
-                                                                            opened in the year 1899 to give instruction
-                                                                            in law to students desirous of...
-                                                                            <!-- joining legal profession along with "Judicial Test" classes for Judicial Officers.-->
-                                                                        </div>
-                                                                        <div class="item-read">
-                                                                            <a href="lawcollege/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="item">
-                                                        <div class="item-wrap">
-                                                            <div class="item-img item-height">
-                                                                <div class="item-img-info">
-                                                                    <a href="sciencecollege/index.html"
-                                                                        target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="images/ou-science.jpg" /></a>
-                                                                    <div class="over-image"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="item-info">
-                                                                <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="sciencecollege/index.html"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">University College of
-                                                                            Science</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">The University
-                                                                            College of Science has a strong tradition of
-                                                                            research in both basic and applied sciences.
-                                                                            Even though the college itself was
-                                                                            established in 1918, the work carried out
-                                                                            in...
-                                                                            <!--  Astronomy at the Nizamia Observatory dates back to 1908.-->
-                                                                        </div>
-                                                                        <div class="item-read">
-                                                                            <a href="sciencecollege/index.html"
-                                                                                title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                   
 
                                                 </div>
                                             </div>
