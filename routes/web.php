@@ -5,6 +5,6 @@ use App\Http\Controllers\HomeController;
 
 
 Route::get('/', [HomeController::class, 'index']);
-Route::get('/iqac-intro', [HomeController::class, 'iqacIntro']);
+Route::get('/iqac-intro', [HomeController::class, 'iqacIntro'])->name('iqac-intro');
 
 Route::get('/layout', [HomeController::class, 'contactus']);

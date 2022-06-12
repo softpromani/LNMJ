@@ -233,7 +233,7 @@
                                 <div class="mega-col last more" style="width:55%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
+                                            <a title="" class="level2 first item-link" href="{{route('iqac-intro')}}"><span
                                                     class="menu-title">Introduction</span></a>
                                         </li>
                                         <li class="level2 first">
