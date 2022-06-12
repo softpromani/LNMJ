@@ -4,8 +4,8 @@
             <div id="yt_mainmenu" class="col-md-12 col-sm-12">
                 <ul id="meganavigator" class="clearfix navi">
                     <li class="level1">
-                        <a title="Pages " class="level1 havechild  item-link" href="https://lnmu.ac.in:2096/"><span
-                                class="menu-title">RTI ACT</span></a>
+                        <a title="Pages " class="level1 havechild  item-link" href="{{url('/')}}"><span
+                                class="menu-title">Home</span></a>
                        
                     </li>
                     
