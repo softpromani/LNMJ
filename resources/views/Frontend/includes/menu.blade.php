@@ -1,4 +1,4 @@
-<nav id="yt_menuwrap" class="block" style="background:#c31e11">
+<nav id="yt_menuwrap" class="block" style="background:#7C0000">
     <div class="container">
         <div class="row">
             <div id="yt_mainmenu" class="col-md-12 col-sm-12">
@@ -151,7 +151,7 @@
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Distance Education</span></a>
+                                                    class="menu-title">Self Finance</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
@@ -248,22 +248,8 @@
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">Vision, Mission and Strategies                                                </span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Climate Action Plan</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Sustainability Cell</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="bccell.html"><span
-                                                    class="menu-title">National Ranking
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">International Ranking</span></a>
-                                        </li>
+
+
                                         <li class="level2 last">
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">NAAC Accreditation</span></a>
@@ -286,14 +272,7 @@
                                             <a title="" class="level2 last item-link" href="#"><span
                                                     class="menu-title">Reports</span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Research Profile</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Hony. Directors</span></a>
-                                        </li>
+
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">Contact Us</span></a>
