@@ -445,14 +445,12 @@
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
-                                        <li><a href='#'>Origin and History</a></li>
-                                        <li><a href='#'>University Profile</a></li>
-                                        <li><a href='#'>Vision &amp; Mission</a></li>
                                         <li><a href='#'>University at a glance</a>
                                         </li>
-                                        <li><a href='#'>Photo Gallery</a></li>
-                                        <li><a href='#'>University Map</a></li>
-                                        <li><a href='#'>Contact Us</a></li>
+                                        <li><a href='#'>Focus</a></li>
+                                        <li><a href='#'>Campus</a></li>
+                                        <li><a href='#'>Best Practice</a></li>
+                                        <li><a href='#'>Vision Mission & Objective</a></li>
                                     </ul>
                                 </div>
                             </li>
@@ -461,14 +459,14 @@
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
+                                        <li><a href='#'>Chancellor</a></li>
                                         <li><a href='#'>Vice-Chancellor</a></li>
-                                        <li><a href='#'>Registrar</a></li>
-                                        <li><a href='#'>Executive Council</a></li>
-                                        <li><a href='#'>Policy Making Bodies</a></li>
-                                        <li><a href='#'>Regulatory Bodies</a></li>
-                                        <li><a href='#'>Infrastructure</a></li>
-                                        <li><a href='#'>Administrators</a></li>
-                                        <li><a href='#'>Other Officers / Units</a></li>
+                                        <li><a href='#'>Pro Vice-Chancellor</a></li>
+                                        <li><a href='#'>Organizational Structure</a></li>
+                                        <li><a href='#'>F.A.</a></li>
+                                        <li><a href='#'>D.S.W</a></li>
+                                        <li><a href='#'>Proctor</a></li>
+                                        <li><a href='#'>C.C.D.C</a></li>
                                     </ul>
                                 </div>
                             </li>
@@ -477,13 +475,13 @@
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
-                                        <li><a href='#'>Campus Colleges</a></li>
-                                        <li><a href='#'>Constituent Colleges</a>
+                                        <li><a href='#'>PHD</a></li>
+                                        <li><a href='#'>Faculties</a>
                                         </li>
                                         <li><a href='#'>Affiliated Colleges</a>
                                         </li>
-                                        <li><a href='#'>Syllabi</a></li>
-                                        <li><a href='#'>Faculties</a></li>
+                                        <li><a href='#'>Constituent Colleges</a></li>
+                                       
                                         <li><a href='#'>Head of Departments</a></li>
                                         <li><a href='#'>Chairman, BoS</a></li>
                                         <li><a href='#'>Academic Programmes</a></li>
@@ -498,7 +496,7 @@
                                 </div>
                             </li>
 
-                            <li class="haveChild level1"><a title="Explore " href='#'>Research</a><span
+                            {{-- <li class="haveChild level1"><a title="Explore " href='#'>Research</a><span
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
@@ -522,9 +520,9 @@
                                         <li><a href='#'>Academic Calender</a></li>
                                     </ul>
                                 </div>
-                            </li>
+                            </li> --}}
 
-                            <li class="haveChild level1"><a title="Explore " href='#'>Examinations</a><span
+                            {{-- <li class="haveChild level1"><a title="Explore " href='#'>Examinations</a><span
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
@@ -534,67 +532,50 @@
                                                 Table</a></li>
                                     </ul>
                                 </div>
-                            </li>
+                            </li> --}}
 
                             <li class="haveChild level1"><a title="Explore " href='#'>Student Support</a><span
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
-                                        <li><a href='#'>National Academic Depository</a></li>
-                                        <li><a href='#'>Centre for Educational
-                                                Development of Minorities</a></li>
-                                        <li><a href='#'>Competitive Examinations Coaching
-                                                Centre</a></li>
-                                        <li><a href='#'>Employment Information and
-                                                Guidance Bureau</a></li>
-                                        <li><a href='#'>English Language Training
-                                                Centre</a></li>
-                                        <li><a href='#'>Hostels and Messes</a>
+                                        <li><a href='#'>Admission</a></li>
+                                        <li><a href='#'>Examination</a></li>
+                                        <li><a href='#'>Cells</a></li>
+                                        <li><a href='#'>E-Learning Resource</a></li>
+                                        <li><a href='#'>Regulation</a></li>
+                                        <li><a href='#'>Fees Structure</a>
                                         </li>
-                                        <li><a href='#'>Physical Education</a>
+                                        <li><a href='#'>Syllabus</a>
                                         </li>
-                                        <li><a href='#'>Apply Online for
-                                                Certificates</a></li>
-                                        <li><a href='#'>National Service Scheme (NSS)</a>
-                                        </li>
-                                        <li><a href='#'>OU International
-                                                Placement Service</a></li>
-                                        <li><a href='#'>Directorate of
-                                                Placements</a></li>
-                                        <li><a href='studentsupport-library.html'>University Library</a></li>
-                                        <li><a href='studentsupport-scstcell.html'>Scheduled Caste/Scheduled
-                                                Tribe Cell</a></li>
-                                        <li><a href='studentsupport-studentwelfare.html'>Students Welfare
-                                                Department</a></li>
-                                        <li><a href='studentsupport-ufro.html'>University Foreign Relations
-                                                Office</a></li>
+                                        <li><a href='#'>Free Online Course</a></li>
+                                       
                                     </ul>
                                 </div>
                             </li>
 
-                            <li class="haveChild level1"><a title="Explore " href='#'>Amenities</a><span
+                            <li class="haveChild level1"><a title="Explore " href='#'>IQAC</a><span
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
-                                        <li><a href='amenities-publicationspress.html'>Department of
-                                                Publications and Press</a></li>
-                                        <li><a href='amenities-estatecell.html'>Estate Cell</a></li>
-                                        <li><a href='amenities-horticulture.html'>Horticulture and University
-                                                Gardens</a></li>
-                                        <li><a href='amenities-infrastructure.html'>Infrastructure</a></li>
-                                        <li><a href='amenities-buildingdivision.html'>University Buildings
-                                                Division</a></li>
-                                        <li><a href='amenities-guesthouse.html'>Guest House</a></li>
-                                        <li><a href='amenities-healthcentre.html'>Health Centre</a></li>
-                                        <li><a href='amenities-bankpostofce.html'>Bank and Post Office</a></li>
-                                        <li><a href='amenities-facultyclub.html'>Faculty Club</a></li>
-                                        <li><a href='amenities-semhalls.html'>Seminar Halls</a></li>
-                                        <li><a href='amenities-legalcell.html'>Legal Cell</a></li>
+                                        <li><a href='#'></a>Introduction</li>
+                                        <li><a href='#'>IQAC Committee</a></li>
+                                        <li><a href='#'>Strategic Plan</a></li>
+                                        <li><a href='#'>Vision,Mission</a></li>
+                                        <li><a href='#'>Climate Action Plan</a></li>
+                                        <li><a href='#'>Sustainavility Plan</a></li>
+                                        <li><a href='#'>Nation Ranking</a></li>
+                                        <li><a href='#'>NAAC Accreditation</a></li>
+                                        <li><a href='#'>Feed Back</a></li>
+                                        <li><a href='#'>IQAC Events</a></li>
+                                        <li><a href='#'>Report</a></li>
+                                        <li><a href='#'>Research Profile</a></li>
+                                        <li><a href='#'>Hony Directors</a></li>
+                                        <li><a href='#'>Contact Us</a></li>
                                     </ul>
                                 </div>
                             </li>
 
-                            <li class="haveChild level1"><a title="Explore " href='#'>E-Resources</a><span
+                            {{-- <li class="haveChild level1"><a title="Explore " href='#'>E-Resources</a><span
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
@@ -616,25 +597,17 @@
                                                 target="_blank">SciFinder User Registration</a> </li>
                                     </ul>
                                 </div>
-                            </li>
+                            </li> --}}
 
                             <li class="haveChild level1"><a title="Explore " href='#'>RTI Act</a><span
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
                                     <ul class="nav">
-                                        <li><a href='rtiact-act.html'>RTI Act</a></li>
-                                        <li><a href='rtiact-powers.html'>Powers and Duties</a></li>
-                                        <li><a href='rtiact-decision.html'>Decision making process</a></li>
-                                        <li><a href='rtiact-rules.html'>Rules, Regulations etc</a></li>
-                                        <li><a href='rtiact-ec.html'>Executive Council</a></li>
-                                        <li><a href='rtiact-directory.html'>Directory of Officers and
-                                                employees</a></li>
-                                        <li><a href='rtiact-budget.html'>Budget Allocations</a></li>
-                                        <li><a href='rtiact-electronicinfo.html'>Electronic Information</a></li>
-                                        <li><a href='rtiact-obtaininginfo.html'>Obtaining Information</a></li>
-                                        <li><a href='rtiact-particulars.html'>Particulars</a></li>
-
-                                        <li><a href='rtiact-budget.html'>Budget Annual Accounts</a></li>
+                                        <li><a href='#'>RTI Act</a></li>
+                                        <li><a href='#'>Rules &amp; Regulations</a></li>
+                                        <li><a href='#'>Public Information Officers</a></li>
+                                        <li><a href='#'>Electronic Information</a></li>
+                                       
                                     </ul>
                                 </div>
                             </li>
