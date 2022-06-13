@@ -13,9 +13,9 @@
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">About Us</span></a>
                         <div class="level2 menu mega-content">
-                            <div class="mega-content-inner clearfix" style="width:600px">
+                            <div class="mega-content-inner clearfix" style="width:200px">
 
-                                <div class="mega-col last more" style="width:33%;">
+                                <div class="mega-col last more" style="width:100%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
                                             <a title="" class="level2 first item-link" href="{{url('/about-university')}}"><span
@@ -260,10 +260,7 @@
                                             <a title="" class="level2 item-link" href="bccell.html"><span
                                                     class="menu-title">National Ranking
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">International Ranking</span></a>
-                                        </li>
+                                     
                                         <li class="level2 last">
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">NAAC Accreditation</span></a>
@@ -384,12 +381,40 @@
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">Archieve</span></a>
+                                
 
                     </li>
 
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">RTI ACT</span></a>
+                                <div class="level2 menu mega-content">
+                                    <div class="mega-content-inner clearfix" style="width:220px">
+                                        <div class="mega-col first more" style="width:100%;">
+                                            <ul class="subnavi level2">
+                                                <li class="level2 first havechild">
+                                                    <a title="" class="level2 first havechild item-link" href="#"><span
+                                                            class="menu-title">RTI ACT</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Rules & Regulations</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Public information Officers</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Electronic Information</span></a>
+                                                </li>
+        
+                                            </ul>
+                                        </div>
+        
+                                       
+                                    </div>
+                                </div>
 
                     </li>
                     <li class="level1 havechild ">

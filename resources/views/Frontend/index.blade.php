@@ -583,9 +583,9 @@
             </div>
         </section>
 
-        <section id="yt_spotlight3" class="block">
+        <section id="yt_spotlight3" class="block " style="margin-bottom:50px;">
             <div class="container">
-                <div class="row">
+                <div class="row" >
                     <div id="top4" class="col-lg-9 col-sm-6">
                         <div class="module  k2-slider-style-one">
                             <h3 class="modtitle">Campus Colleges</h3>
@@ -688,7 +688,7 @@
                                                                     <a href="#"
                                                                         target="_blank"><img
                                                                             alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/banners/mba.jfif') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/mba.jfif') }}" style="height:175px;" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -782,10 +782,10 @@
                                     </li>
                                    
                                     <li><a href="#">Admission Notifications</a></li>
-                                    <li><a href="#">Download Forms</a></li>
-                                    <li><a href="#">Download Forms</a></li>
-                                    <li><a href="#">Download Forms</a></li>
-                                    <li><a href="#">Download Forms</a></li>
+                                    <li><a href="#">Download Forms 1</a></li>
+                                    <li><a href="#">Download Forms 2</a></li>
+                                    <li><a href="#">Download Forms 3</a></li>
+                                    <li><a href="#">Download Forms 4</a></li>
                                    
                                  
 

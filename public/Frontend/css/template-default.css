@@ -967,7 +967,7 @@ background: linear-gradient(0deg, rgba(242,178,18,1) 4%, rgba(255,255,255,1) 87%
 }
 #yt_footer {
   background: #f2b212;
-  padding: 20px 0px;
+  padding-bottom: 20px;
   text-align: center;
 }
 #yt_footer #yt_copyright {
@@ -987,6 +987,7 @@ background: linear-gradient(0deg, rgba(242,178,18,1) 4%, rgba(255,255,255,1) 87%
 #yt_footer #yt_copyright .designby {
   display: inline;
   color: #fff;
+ 
 }
 #yt_footer #yt_copyright .copyright_middle {
   display: inline-block;

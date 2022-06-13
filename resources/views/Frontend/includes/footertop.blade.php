@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12">
-                <div id="bottom3" class="col-md-4 col-sm-6">
+                <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
                         <h3 class="modtitle">About Us</h3>
                         <div class="modcontent clearfix">
@@ -25,7 +25,7 @@
                     </div>
                 </div>
 
-                <div id="bottom3" class="col-md-4 col-sm-6">
+                <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
                         <h3 class="modtitle">Administration</h3>
                         <div class="modcontent clearfix">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
 
-                <div id="bottom3" class="col-md-4 col-sm-6">
+                <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
                         <h3 class="modtitle">Academics</h3>
                         <div class="modcontent clearfix">
@@ -64,6 +64,23 @@
                                         Programmes</a></li>
                                 <li class="item-1542"><a href="#">Distance
                                         Education</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="bottom3" class="col-md-3 col-sm-6">
+                    <div class="module  useful-link">
+                        <h2 class="modtitle" style="color:#F2B212">DIRECTORATE OF DISTANCE EDUCATION</h2>
+                        <h3 class="modtitle">Lalit Narayan Mithila University Kameshwaranagar,</h3>
+                        <div class="modcontent clearfix">
+                            <ul class="menu">
+                                <li class="item-1537"><a href="#">Darbhanga, Bihar 846004,</a></li>
+                                <li class="item-1538"><a href="#">India</a></li>
+                                <li class="item-1539"><a
+                                        href="#">Phone : 06272-246506</a></li>
+                                <li class="item-1540"><a href="#">Email : dde@lnmu.ac.in</a></li>
+                               
+                               
                             </ul>
                         </div>
                     </div>
