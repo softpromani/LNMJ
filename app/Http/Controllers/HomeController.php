@@ -16,16 +16,14 @@ class HomeController extends Controller
         return view('Frontend/contactus');
     }
 
+    function iqacIntro()
+    {
+        return view('Frontend/iqac_intro');
+    }
 
     public function about_university()
     {
         return view('Frontend.about-university');
-    }
-
-    function iqacIntro()
-    {
-        return view('Frontend/iqac_intro');
-
     }
 
 }

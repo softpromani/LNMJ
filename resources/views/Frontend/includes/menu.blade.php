@@ -1,4 +1,4 @@
-<nav id="yt_menuwrap" class="block" style="background:#c31e11">
+<nav id="yt_menuwrap" class="block" style="background:#7C0000">
     <div class="container">
         <div class="row">
             <div id="yt_mainmenu" class="col-md-12 col-sm-12">
@@ -151,7 +151,7 @@
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Distance Education</span></a>
+                                                    class="menu-title">Self Finance</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
@@ -227,6 +227,39 @@
 
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
+                                class="menu-title">Programme/Course</span></a>
+                                {{-- <div class="level2 menu mega-content">
+                                    <div class="mega-content-inner clearfix" style="width:220px">
+                                        <div class="mega-col first more" style="width:100%;">
+                                            <ul class="subnavi level2">
+                                                <li class="level2 first havechild">
+                                                    <a title="" class="level2 first havechild item-link" href="#"><span
+                                                            class="menu-title">RTI ACT</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Rules & Regulations</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Public information Officers</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Electronic Information</span></a>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+
+
+                                    </div>
+                                </div> --}}
+
+                    </li>
+
+                    <li class="level1 havechild">
+                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">IQAC</span></a>
                         <div class="level2 menu mega-content">
                             <div class="mega-content-inner clearfix" style="width:600px">
@@ -248,19 +281,8 @@
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">Vision, Mission and Strategies                                                </span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Climate Action Plan</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Sustainability Cell</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="bccell.html"><span
-                                                    class="menu-title">National Ranking
-                                        </li>
-                                     
+
+
                                         <li class="level2 last">
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">NAAC Accreditation</span></a>
@@ -283,14 +305,7 @@
                                             <a title="" class="level2 last item-link" href="#"><span
                                                     class="menu-title">Reports</span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Research Profile</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Hony. Directors</span></a>
-                                        </li>
+
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">Contact Us</span></a>
@@ -369,7 +384,7 @@
 
 
 
-                  
+
 
                     <li class="level1 havechild ">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
@@ -381,42 +396,10 @@
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">Archieve</span></a>
-                                
+
 
                     </li>
 
-                    <li class="level1 havechild">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
-                                class="menu-title">RTI ACT</span></a>
-                                <div class="level2 menu mega-content">
-                                    <div class="mega-content-inner clearfix" style="width:220px">
-                                        <div class="mega-col first more" style="width:100%;">
-                                            <ul class="subnavi level2">
-                                                <li class="level2 first havechild">
-                                                    <a title="" class="level2 first havechild item-link" href="#"><span
-                                                            class="menu-title">RTI ACT</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Rules & Regulations</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Public information Officers</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Electronic Information</span></a>
-                                                </li>
-        
-                                            </ul>
-                                        </div>
-        
-                                       
-                                    </div>
-                                </div>
-
-                    </li>
                     <li class="level1 havechild ">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">Contact Us</span></a>
@@ -481,7 +464,7 @@
                                         <li><a href='#'>Affiliated Colleges</a>
                                         </li>
                                         <li><a href='#'>Constituent Colleges</a></li>
-                                       
+
                                         <li><a href='#'>Head of Departments</a></li>
                                         <li><a href='#'>Chairman, BoS</a></li>
                                         <li><a href='#'>Academic Programmes</a></li>
@@ -548,7 +531,7 @@
                                         <li><a href='#'>Syllabus</a>
                                         </li>
                                         <li><a href='#'>Free Online Course</a></li>
-                                       
+
                                     </ul>
                                 </div>
                             </li>
@@ -607,7 +590,7 @@
                                         <li><a href='#'>Rules &amp; Regulations</a></li>
                                         <li><a href='#'>Public Information Officers</a></li>
                                         <li><a href='#'>Electronic Information</a></li>
-                                       
+
                                     </ul>
                                 </div>
                             </li>

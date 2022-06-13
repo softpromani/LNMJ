@@ -173,9 +173,22 @@
                             //]]>
                         </script>
                     </div>
-                   
-                    <div id="" class="col-lg-3 col-sm-6" style="padding-left:0px !important">
-                        <div class="module  feature-teachers" style="height:350px;padding:0px;">
+                    <div class="col-sm-3 slideLft">
+                        {{-- <ul>
+
+                            <li><a href="#" target="_blank">Online Portal
+
+                                <img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
+                            <li><a href="#" target="_blank">Helpline For University Student</a></li>
+                            <li><a href="#" target="_blank">Awards/Recognition</a></li>
+                            <li><a href="#" target="_blank">NIRF</a></li>
+
+                            <li><a href="#" target="_blank">Surprise Visit Report</a></li>
+                            <li><a href="#" target="_blank">Sport Calendar</a></li>
+                            <li><a href="#">Careers & Fellowships</a></li>
+                        </ul> --}}
+
+                        <div class="module  feature-teachers" style="height:468px">
                             <div class="modcontent clearfix">
                                 <div class="carousel-custommer">
                                     <div id="yt-extra-carousel1" style="width:100%; height:100%"
@@ -192,7 +205,7 @@
                                                     <div class="content-main">
                                                         <h3 class="title">Surendra Pratap Singh</h3>
 
-                                                        <a href="adm-vc.html" target="_blank"><strong>Read
+                                                        <a href="adm-vc.html" target="_blank"><strong style="color:black;">Read
                                                                 More...</strong></a>
                                                     </div>
                                                 </div>
@@ -209,12 +222,20 @@
                                                     <div class="content-main">
                                                         <h3 class="title">Shri Phagu Chauhan</h3>
 
+<<<<<<< HEAD
                                                         <a href="adm-registrar.html" target="_blank"><strong>Read
+=======
+                                                        <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
+>>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                                                                 More...</strong></a>
                                                     </div>
                                                 </div>
                                             </div>
+<<<<<<< HEAD
                                             
+=======
+
+>>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                                             <div class='item'>
                                                 <h3 class="modtitle">Registrar </h3>
                                                 <div class="customslider">
@@ -226,7 +247,11 @@
                                                     <div class="content-main">
                                                         <h3 class="title">Dr. Mushtaque Ahmad</h3>
 
+<<<<<<< HEAD
                                                         <a href="adm-registrar.html" target="_blank"><strong>Read
+=======
+                                                        <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
+>>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                                                                 More...</strong></a>
                                                     </div>
                                                 </div>
@@ -272,7 +297,7 @@
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon3.png') }}" alt=""
-                                                    hspace="3">Distance Education</a>
+                                                    hspace="3">Self Finance</a>
                                         </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
@@ -325,6 +350,11 @@
                                                     hspace="3">University Tenders</a>
                                         </li>
 
+                                        <li class="" style="width: -20px;">
+                                            <a href="#"><img
+                                                    src="{{ asset('Frontend/images/icon9.png') }}" alt=""
+                                                    hspace="3">RTI ACT</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -342,7 +372,7 @@
         <script type="text/javascript" src="{{ asset('Frontend/js/crawler.js') }}"></script>
         <style>
             .marquee0 {
-                background: #c31e11;
+                background: #7C0000;
                 padding: 10px 0;
                 margin-bottom: 10px
             }
@@ -362,7 +392,7 @@
                             <a href="#"><b>Example News</b></a>
                             <a href="#"><b>Example News</b></a>
                             <a href="#"><b>Example News</b></a>
-                         
+
 
 
                         </div>
@@ -442,7 +472,7 @@
                                                                     class="col-xs-12" title=""><i
                                                                         class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
                                                             </li>
-                                                           
+
 
 
 
@@ -485,7 +515,7 @@
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">13th-17th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#"
                                                                     target="_blank" class="col-xs-10"
@@ -494,7 +524,7 @@
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">17th-18th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#"
                                                                     target="_blank" class="col-xs-10"
@@ -504,17 +534,17 @@
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">23rd-
                                                                         24th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank"
-                                                                    class="col-xs-10" title="">This Event is orgnised by DDE LNMU on 
+                                                                    class="col-xs-10" title="">This Event is orgnised by DDE LNMU on
                                                                     ocation of holi. Hon'ble minister is our event chief minister.
                                                                 </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">30th-31st</span><span
-                                                                        style="float: left; background: #f2b212">May
+                                                                        style="float: left; background: #00aeef">May
                                                                         2022</span></a>
                                                                 <a href="#"
                                                                     target="_blank" class="col-xs-10" title="">Two
@@ -525,14 +555,14 @@
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">23rd-
                                                                         24th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank"
-                                                                    class="col-xs-10" title="">IT Cell of DDE LNMU is going to present 
+                                                                    class="col-xs-10" title="">IT Cell of DDE LNMU is going to present
                                                                     Cyber Security Workshop.
                                                                 </a>
                                                             </li>
-                                                            
+
 
                                                             <a href="#" class="col-xs-12"
                                                                 title=""
@@ -552,8 +582,13 @@
 
                     </div>
 
+<<<<<<< HEAD
                     {{-- <div id="top9" class="col-lg-3 col-sm-6">
                         <div class="module  feature-teachers" style="height:468px">
+=======
+                    <div id="top9" class="col-lg-3 col-sm-6  slideLft1">
+                        {{-- <div class="module  feature-teachers" style="height:468px">
+>>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                             <div class="modcontent clearfix">
                                 <div class="carousel-custommer">
                                     <div id="yt-extra-carousel1" style="width:100%; height:100%"
@@ -592,7 +627,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div class='item'>
                                                 <h3 class="modtitle">Registrar </h3>
                                                 <div class="customslider">
@@ -624,7 +659,27 @@
                                     </div>
                                 </div>
                             </div>
+                        </div> --}}
+
+                            <ul>
+
+                                <li><a href="#" target="_blank">Online Portal
+
+                                    <img src="http://newweb.lnmudde.com/Frontend/images/newanim.gif"></a></li>
+                                <li><a href="#" target="_blank">Helpline For University Student</a></li>
+                                <li><a href="#" target="_blank">Awards/Recognition</a></li>
+                                <li><a href="#" target="_blank">NIRF</a></li>
+
+                                <li><a href="#" target="_blank">Surprise Visit Report</a></li>
+                                <li><a href="#" target="_blank">Sport Calendar</a></li>
+                                <li><a href="#">Careers &amp; Fellowships</a></li>
+
+                                <li><a href="#" target="_blank">Features</a></li>
+                                <li><a href="#" target="_blank">RTI ACT</a></li>
+                                <li><a href="#">Careers &amp; Services</a></li>
+                            </ul>
                         </div>
+<<<<<<< HEAD
                     </div> --}}
                      <div id="top9" class="col-sm-3 slideLft" style="height:auto;" >
                         <ul>
@@ -645,6 +700,10 @@
                            
                         </ul>
                     </div>
+=======
+
+
+>>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                 </div>
             </div>
         </section>
@@ -794,7 +853,7 @@
                                                         </div>
                                                     </div>
 
-                                                   
+
 
                                                 </div>
                                             </div>
@@ -859,14 +918,14 @@
                                     <li><a href="#">Press Notes</a></li>
                                     <li><a href="#" target="_blank">University Library</a>
                                     </li>
-                                   
+
                                     <li><a href="#">Admission Notifications</a></li>
                                     <li><a href="#">Download Forms 1</a></li>
                                     <li><a href="#">Download Forms 2</a></li>
                                     <li><a href="#">Download Forms 3</a></li>
                                     <li><a href="#">Grievance</a></li>
-                                   
-                                 
+
+
 
                                     <li><a href="#" target="_blank">University
                                             e-mail</a></li>
