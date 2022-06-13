@@ -227,6 +227,39 @@
 
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
+                                class="menu-title">Programme/Course</span></a>
+                                {{-- <div class="level2 menu mega-content">
+                                    <div class="mega-content-inner clearfix" style="width:220px">
+                                        <div class="mega-col first more" style="width:100%;">
+                                            <ul class="subnavi level2">
+                                                <li class="level2 first havechild">
+                                                    <a title="" class="level2 first havechild item-link" href="#"><span
+                                                            class="menu-title">RTI ACT</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Rules & Regulations</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Public information Officers</span></a>
+                                                </li>
+                                                <li class="level2 havechild">
+                                                    <a title="" class="level2 havechild item-link" href="#"><span
+                                                            class="menu-title">Electronic Information</span></a>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+
+
+                                    </div>
+                                </div> --}}
+
+                    </li>
+
+                    <li class="level1 havechild">
+                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">IQAC</span></a>
                         <div class="level2 menu mega-content">
                             <div class="mega-content-inner clearfix" style="width:600px">
@@ -367,38 +400,6 @@
 
                     </li>
 
-                    <li class="level1 havechild">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
-                                class="menu-title">RTI ACT</span></a>
-                                <div class="level2 menu mega-content">
-                                    <div class="mega-content-inner clearfix" style="width:220px">
-                                        <div class="mega-col first more" style="width:100%;">
-                                            <ul class="subnavi level2">
-                                                <li class="level2 first havechild">
-                                                    <a title="" class="level2 first havechild item-link" href="#"><span
-                                                            class="menu-title">RTI ACT</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Rules & Regulations</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Public information Officers</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Electronic Information</span></a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                </div>
-
-                    </li>
                     <li class="level1 havechild ">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">Contact Us</span></a>

@@ -174,7 +174,7 @@
                         </script>
                     </div>
                     <div class="col-sm-3 slideLft">
-                        <ul>
+                        {{-- <ul>
 
                             <li><a href="#" target="_blank">Online Portal
 
@@ -186,7 +186,80 @@
                             <li><a href="#" target="_blank">Surprise Visit Report</a></li>
                             <li><a href="#" target="_blank">Sport Calendar</a></li>
                             <li><a href="#">Careers & Fellowships</a></li>
-                        </ul>
+                        </ul> --}}
+
+                        <div class="module  feature-teachers" style="height:468px">
+                            <div class="modcontent clearfix">
+                                <div class="carousel-custommer">
+                                    <div id="yt-extra-carousel1" style="width:100%; height:100%"
+                                        class="yt-extra-carousel carousel slide pull-center" data-ride="carousel"
+                                        data-interval='false'>
+                                        <div class="carousel-inner">
+
+                                            <div class='item'>
+                                                <h3 class="modtitle">Hon'bl Vice Chancellor</h3>
+                                                <div class="customslider">
+                                                    <div class="item-image"><img
+                                                            src="{{ asset('Frontend/images/vcsir.jpg') }}" alt="" />
+                                                    </div>
+                                                    <div class="content-main">
+                                                        <h3 class="title">Surendra Pratap Singh</h3>
+
+                                                        <a href="adm-vc.html" target="_blank"><strong style="color:black;">Read
+                                                                More...</strong></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class='item'>
+                                                <h3 class="modtitle">Hon'bl Chancellor </h3>
+                                                <div class="customslider">
+                                                    <div class="item-image"><a
+                                                            href="RegistrarP%20Laxminarayana%20CV.pdf"
+                                                            target="_blank"><img
+                                                                src="{{ asset('Frontend/images/Fagu_chauhan.jpg') }}"
+                                                                alt="" /></a></div>
+                                                    <div class="content-main">
+                                                        <h3 class="title">Shri Phagu Chauhan</h3>
+
+                                                        <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
+                                                                More...</strong></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class='item'>
+                                                <h3 class="modtitle">Registrar </h3>
+                                                <div class="customslider">
+                                                    <div class="item-image"><a
+                                                            href="RegistrarP%20Laxminarayana%20CV.pdf"
+                                                            target="_blank"><img
+                                                                src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
+                                                                alt="" /></a></div>
+                                                    <div class="content-main">
+                                                        <h3 class="title">Dr. Mushtaque Ahmad</h3>
+
+                                                        <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
+                                                                More...</strong></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                        <a class="carousel-control left" href="#yt-extra-carousel1"
+                                            data-slide="prev"><i class="fa fa-angle-left"></i></a>
+                                        <a class="carousel-control right" href="#yt-extra-carousel1"
+                                            data-slide="next"><i class="fa fa-angle-right"></i></a>
+                                        <ol class="carousel-indicators">
+                                            <li data-slide-to="0" data-target="#yt-extra-carousel1"></li>
+                                            <li data-slide-to="1" data-target="#yt-extra-carousel1"></li>
+                                            <li data-slide-to="2" data-target="#yt-extra-carousel1"></li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                 </div>
@@ -212,7 +285,7 @@
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon3.png') }}" alt=""
-                                                    hspace="3">Distance Education</a>
+                                                    hspace="3">Self Finance</a>
                                         </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
@@ -265,6 +338,11 @@
                                                     hspace="3">University Tenders</a>
                                         </li>
 
+                                        <li class="" style="width: -20px;">
+                                            <a href="#"><img
+                                                    src="{{ asset('Frontend/images/icon9.png') }}" alt=""
+                                                    hspace="3">RTI ACT</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -492,8 +570,8 @@
 
                     </div>
 
-                    <div id="top9" class="col-lg-3 col-sm-6">
-                        <div class="module  feature-teachers" style="height:468px">
+                    <div id="top9" class="col-lg-3 col-sm-6  slideLft1">
+                        {{-- <div class="module  feature-teachers" style="height:468px">
                             <div class="modcontent clearfix">
                                 <div class="carousel-custommer">
                                     <div id="yt-extra-carousel1" style="width:100%; height:100%"
@@ -564,8 +642,28 @@
                                     </div>
                                 </div>
                             </div>
+                        </div> --}}
+
+                            <ul>
+
+                                <li><a href="#" target="_blank">Online Portal
+
+                                    <img src="http://newweb.lnmudde.com/Frontend/images/newanim.gif"></a></li>
+                                <li><a href="#" target="_blank">Helpline For University Student</a></li>
+                                <li><a href="#" target="_blank">Awards/Recognition</a></li>
+                                <li><a href="#" target="_blank">NIRF</a></li>
+
+                                <li><a href="#" target="_blank">Surprise Visit Report</a></li>
+                                <li><a href="#" target="_blank">Sport Calendar</a></li>
+                                <li><a href="#">Careers &amp; Fellowships</a></li>
+
+                                <li><a href="#" target="_blank">Features</a></li>
+                                <li><a href="#" target="_blank">RTI ACT</a></li>
+                                <li><a href="#">Careers &amp; Services</a></li>
+                            </ul>
                         </div>
-                    </div>
+
+
                 </div>
             </div>
         </section>

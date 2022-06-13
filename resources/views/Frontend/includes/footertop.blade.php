@@ -70,8 +70,8 @@
                 </div>
                 <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
-                        <h2 class="modtitle" style="color:#F2B212">Lalit Narayan Mithila University Kameshwaranagar,</h2>
-                       
+                        <h2 class="modtitle" style="color:#00aeef">Lalit Narayan Mithila University Kameshwaranagar,</h2>
+
                         <div class="modcontent clearfix">
                             <ul class="menu">
                                 <li class="item-1537"><a href="#">Darbhanga, Bihar 846004,</a></li>
@@ -79,8 +79,8 @@
                                 <li class="item-1539"><a
                                         href="#">Phone : 06272-246506</a></li>
                                 <li class="item-1540"><a href="#">Email : dde@lnmu.ac.in</a></li>
-                               
-                               
+
+
                             </ul>
                         </div>
                     </div>
@@ -199,7 +199,7 @@
                 </div> --}}
 
             </div>
-{{-- 
+{{--
             <div class="col-md-3 col-sm-12">
                 <div class="module  useful-link">
                     <h3 class="modtitle"></h3>
@@ -278,7 +278,7 @@
                                 src="../sstatic1.histats.com/077e8.gif?2059181&amp;101" alt="hit counter"
                                 border="0"></a>
                             </noscript>
-                    <!-- Histats.com  END  --> 
+                    <!-- Histats.com  END  -->
                 </div>
             </div> --}}
 
