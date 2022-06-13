@@ -177,7 +177,7 @@
                         <ul>
 
                             <li><a href="#" target="_blank">Online Portal
-                                
+
                                 <img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
                             <li><a href="#" target="_blank">Helpline For University Student</a></li>
                             <li><a href="#" target="_blank">Awards/Recognition</a></li>
@@ -282,7 +282,7 @@
         <script type="text/javascript" src="{{ asset('Frontend/js/crawler.js') }}"></script>
         <style>
             .marquee0 {
-                background: #c31e11;
+                background: #7C0000;
                 padding: 10px 0;
                 margin-bottom: 10px
             }
@@ -302,7 +302,7 @@
                             <a href="#"><b>Example News</b></a>
                             <a href="#"><b>Example News</b></a>
                             <a href="#"><b>Example News</b></a>
-                         
+
 
 
                         </div>
@@ -382,7 +382,7 @@
                                                                     class="col-xs-12" title=""><i
                                                                         class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR meu ip</a>
                                                             </li>
-                                                           
+
 
 
 
@@ -425,7 +425,7 @@
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">13th-17th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#"
                                                                     target="_blank" class="col-xs-10"
@@ -434,7 +434,7 @@
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">17th-18th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#"
                                                                     target="_blank" class="col-xs-10"
@@ -444,17 +444,17 @@
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">23rd-
                                                                         24th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank"
-                                                                    class="col-xs-10" title="">This Event is orgnised by DDE LNMU on 
+                                                                    class="col-xs-10" title="">This Event is orgnised by DDE LNMU on
                                                                     ocation of holi. Hon'ble minister is our event chief minister.
                                                                 </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">30th-31st</span><span
-                                                                        style="float: left; background: #f2b212">May
+                                                                        style="float: left; background: #00aeef">May
                                                                         2022</span></a>
                                                                 <a href="#"
                                                                     target="_blank" class="col-xs-10" title="">Two
@@ -465,14 +465,14 @@
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
                                                                         style="float: left; background:#EC3C32">23rd-
                                                                         24th</span><span
-                                                                        style="float: left; background: #f2b212">June
+                                                                        style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank"
-                                                                    class="col-xs-10" title="">IT Cell of DDE LNMU is going to present 
+                                                                    class="col-xs-10" title="">IT Cell of DDE LNMU is going to present
                                                                     Cyber Security Workshop.
                                                                 </a>
                                                             </li>
-                                                            
+
 
                                                             <a href="#" class="col-xs-12"
                                                                 title=""
@@ -697,7 +697,7 @@
                                                         </div>
                                                     </div>
 
-                                                   
+
 
                                                 </div>
                                             </div>
@@ -762,14 +762,14 @@
                                     <li><a href="#">Press Notes</a></li>
                                     <li><a href="#" target="_blank">University Library</a>
                                     </li>
-                                   
+
                                     <li><a href="#">Admission Notifications</a></li>
                                     <li><a href="#">Download Forms</a></li>
                                     <li><a href="#">Download Forms</a></li>
                                     <li><a href="#">Download Forms</a></li>
                                     <li><a href="#">Download Forms</a></li>
-                                   
-                                 
+
+
 
                                     <li><a href="#" target="_blank">Staff
                                             Login</a></li>
