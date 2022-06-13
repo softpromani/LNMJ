@@ -3008,7 +3008,7 @@ ul.list-contact a:hover {
 }
 .mega-module ul.menu li:hover a,
 .mega-module ul.menu li.active a {
-  background-color: #6fb2e4;
+  background-color: #C31E11;
 }
 .social-cus-mod .yt-socialbt {
   margin: 0;
@@ -5013,7 +5013,7 @@ div.sj-k2slickslider:hover .nav-pagination.conner-tl a.right {
   background: #f2b212;
 }
 .module.k2-categories:hover .k2CategoriesListBlock {
-  background: #6fb2e4;
+  background: #C31E11;
   border-top: 1px solid #fff;
   transition: background 0.2s ease-in;
 }
@@ -5035,7 +5035,7 @@ div.sj-k2slickslider:hover .nav-pagination.conner-tl a.right {
   transition: all 0.2s ease-in;
 }
 .module.k2-categories:hover .k2CategoriesListBlock >ul li:hover {
-  background: #2682c7;
+  background: #F2B212;
   transition: all 0.2s ease-in;
 }
 .module.k2-categories:hover .k2CategoriesListBlock >ul li:hover:before {
@@ -5069,7 +5069,7 @@ div.sj-k2slickslider:hover .nav-pagination.conner-tl a.right {
   display: block;
 }
 .list_mega li:hover {
-  background: #6fb2e4;
+  background: #C31E11;
   padding: 0 10px;
   transition: padding 0.3s ease-in-out;
 }
@@ -5815,7 +5815,7 @@ div.sj-k2slickslider:hover .nav-pagination.conner-tl a.right {
 #moonavigator ul.subnavi li.hover > .item-link,
 #moonavigator ul.subnavi li.active > .item-link {
   color: #fff;
-  background: #6fb2e4;
+  background: #C31E11;
   padding-left: 10px;
   padding-right: 10px;
   transition: padding 0.2s ease-in-out;
