@@ -88,23 +88,23 @@
                             <h2>The University with:</h2>
                             <table width="70%" border="1">
                                 <tr>
-                                    <td width="10%">12</td>
+                                    <td width="10%">0</td>
                                     <td>Faculties</td>
                                 </tr>
                                 <tr>
-                                    <td>53</td>
+                                    <td>0</td>
                                     <td>Departments</td>
                                 </tr>
                                 <tr>
-                                    <td>560</td>
+                                    <td>0</td>
                                     <td>Teaching staff</td>
                                 </tr>
                                 <tr>
-                                    <td>1695</td>
+                                    <td>0</td>
                                     <td>Non-Teaching staff</td>
                                 </tr>
                                 <tr>
-                                    <td>446</td>
+                                    <td>0</td>
                                     <td>Teaching staff (Contract Basis)</td>
                                 </tr>
                             </table>
@@ -112,11 +112,11 @@
                             <h2>The University offers:</h2>
                             <table width="70%" border="1">
                                 <tr>
-                                    <td width="10%">27</td>
+                                    <td width="10%">0</td>
                                     <td>UG Programmes</td>
                                 </tr>
                                 <tr>
-                                    <td>68</td>
+                                    <td>0</td>
                                     <td>PG courses</td>
                                 </tr>
                            
@@ -162,23 +162,23 @@
                             <table width="70%" border="1">
                                 <tr>
                                     <td>Professors </td>
-                                    <td width="10%">359</td>
+                                    <td width="10%">0</td>
                                 </tr>
                                 <tr>
                                     <td>Emeritus Professors</td>
-                                    <td>7</td>
+                                    <td>0</td>
                                 </tr>
                                 <tr>
                                     <td>Associate Professors</td>
-                                    <td>106</td>
+                                    <td>0</td>
                                 </tr>
                                 <tr>
                                     <td>Assistant Professors</td>
-                                    <td>173</td>
+                                    <td>0</td>
                                 </tr>
                                 <tr>
                                     <td>Employees</td>
-                                    <td>2730</td>
+                                    <td>0</td>
                                 </tr>
                             </table>
                             <p></p>
@@ -186,11 +186,11 @@
                             <table width="70%" border="1">
                                 <tr>
                                     <td>Permanent</td>
-                                    <td width="10%">2428</td>
+                                    <td width="10%">0</td>
                                 </tr>
                                 <tr>
                                     <td>Temporary </td>
-                                    <td>1202</td>
+                                    <td>0</td>
                                 </tr>
                             </table>
                             <p></p>

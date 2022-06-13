@@ -43,19 +43,13 @@
                         <a href="#menu1sub1" class="list-group-item">NIRF Ranking </a>
                         <a href="#menu1sub1" class="list-group-item">NIRF 2022 Data </a>
                     </div>
-                    <a href="#menu2" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">National Ranking</span> </a>
-                    <div class="collapse" id="menu2" data-parent="#sidebar"  >
-                        <a href="#menu1sub1" class="list-group-item">NIRF Ranking </a>
-                        <a href="#menu1sub1" class="list-group-item">NIRF 2022 Data </a>
-                    </div>
+                   
                     <a href="#menu3" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">NAAC Accreditation</span> </a>
                     <div class="collapse" id="menu3" data-parent="#sidebar"  >
                         <a href="#menu1sub1" class="list-group-item">SSR 2020 </a>
                         <a href="#menu1sub1" class="list-group-item">AQAR </a>
                         <a href="#menu1sub1" class="list-group-item">Academic & Administrative Audit </a>
                         <a href="#menu1sub1" class="list-group-item">NAAC Certificate Cycle-I </a>
-                        <a href="#menu1sub1" class="list-group-item">Photo of NAAC peer team visit -2015 </a>
-                        <a href="#menu1sub1" class="list-group-item">Photo of NAAC peer team visit -2021 </a>
                         <a href="#menu1sub1" class="list-group-item">NAAC PPT </a>
                     </div>
                     <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Feedback</span> </a>
@@ -86,8 +80,8 @@
                             <div class="box">
                                 <img src="{{asset('Frontend/images/ZeyaHaider.jpg')}}">
                                 <div class="box-content">
-                                    <h3 class="title">Zeya Haider</h3>
-                                    <span class="post">IQAC Director</span>
+                                    <h3 class="title">Dr. Zeya Haider</h3>
+                                    <span class="">IQAC Director</span>
                                 </div>
                             </div>
                         </div>

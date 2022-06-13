@@ -219,21 +219,21 @@
                                                     src="{{ asset('Frontend/images/icon2.png') }}" alt=""
                                                     hspace="3">Admissions </a>
                                         </li>
-                                        {{-- <li class="" style="width: -20px;">
-                                            <a href="https://www.DDE LNMUerp.com/cstonline/" target="_blank"><img
-                                                    src="{{ asset('Frontend/images/icon5.png') }}" alt=""
-                                                    hspace="3">College Login</a>
-                                        </li> --}}
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
+                                                    src="{{ asset('Frontend/images/icon5.png') }}" alt=""
+                                                    hspace="3">E-Learning</a>
+                                        </li>
+                                        <li class="" style="width: -20px;">
+                                            <a href="{{url('/iqac-intro')}}" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon11.png') }}" alt=""
                                                     hspace="3">IQAC</a>
                                         </li>
-                                        {{-- <li class="" style="width: -20px;">
-                                            <a href="http://www.oufro.ac.in/" target="_blank"><img
+                                        <li class="" style="width: -20px;">
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon8.png') }}" alt=""
-                                                    hspace="3">Foreign Relations</a>
-                                        </li> --}}
+                                                    hspace="3">Grievance</a>
+                                        </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#"><img
                                                     src="{{ asset('Frontend/images/icon1.png') }}" alt=""
@@ -242,13 +242,13 @@
                                         <li class="" style="width: -20px;">
                                             <a href="#"><img
                                                     src="{{ asset('Frontend/images/icon4.png') }}" alt=""
-                                                    hspace="3">Academic Info.</a>
+                                                    hspace="3">Academic </a>
                                         </li>
-                                        {{-- <li class="" style="width: -20px;">
-                                            <a href="hrdc/index.html" target="_blank"><img
+                                        <li class="" style="width: -20px;">
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon12.png') }}" alt=""
-                                                    hspace="3">UGC - HRDC</a>
-                                        </li> --}}
+                                                    hspace="3">Library</a>
+                                        </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon7.png') }}" alt=""
@@ -354,33 +354,33 @@
                                                             <li class="row">
                                                                 <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>BA BCOM MA MCOM RESULT FOR JUNE 2021 (29.05.2022)meu ip.</a>
+                                                                        class="fa fa-envelope"></i>BA BCOM MA MCOM RESULT FOR JUNE 2021 (29.05.2022).</a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notice Regarding Grade Card Distribution For June 2021meu ip</a>
+                                                                        class="fa fa-envelope"></i>Notice Regarding Grade Card Distribution For June 2021</a>
                                                             </li>
 
                                                             <li class="row">
                                                                 <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Apply Examination Form June 2022 meu ip</a>
+                                                                        class="fa fa-envelope"></i>Apply Examination Form June 2022 </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Regarding Notice Examination Form June 2022  meu ip</a>
+                                                                        class="fa fa-envelope"></i>Regarding Notice Examination Form June 2022  </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR meu ip</a>
+                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#"
                                                                     class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR meu ip</a>
+                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
                                                             </li>
 
 
@@ -533,6 +533,23 @@
                                                 </div>
                                             </div>
 
+                                            <div class='item'>
+                                                <h3 class="modtitle">Registrar </h3>
+                                                <div class="customslider">
+                                                    <div class="item-image"><a
+                                                            href="RegistrarP%20Laxminarayana%20CV.pdf"
+                                                            target="_blank"><img
+                                                                src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
+                                                                alt="" /></a></div>
+                                                    <div class="content-main">
+                                                        <h3 class="title">Dr. Mushtaque Ahmad</h3>
+
+                                                        <a href="adm-registrar.html" target="_blank"><strong>Read
+                                                                More...</strong></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
                                         </div>
 
                                         <a class="carousel-control left" href="#yt-extra-carousel1"
@@ -542,6 +559,7 @@
                                         <ol class="carousel-indicators">
                                             <li data-slide-to="0" data-target="#yt-extra-carousel1"></li>
                                             <li data-slide-to="1" data-target="#yt-extra-carousel1"></li>
+                                            <li data-slide-to="2" data-target="#yt-extra-carousel1"></li>
                                         </ol>
                                     </div>
                                 </div>
@@ -565,9 +583,9 @@
             </div>
         </section>
 
-        <section id="yt_spotlight3" class="block">
+        <section id="yt_spotlight3" class="block " style="margin-bottom:50px;">
             <div class="container">
-                <div class="row">
+                <div class="row" >
                     <div id="top4" class="col-lg-9 col-sm-6">
                         <div class="module  k2-slider-style-one">
                             <h3 class="modtitle">Campus Colleges</h3>
@@ -670,7 +688,7 @@
                                                                     <a href="#"
                                                                         target="_blank"><img
                                                                             alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/banners/004.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/mba.jfif') }}" style="height:175px;" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -764,17 +782,13 @@
                                     </li>
 
                                     <li><a href="#">Admission Notifications</a></li>
-                                    <li><a href="#">Download Forms</a></li>
-                                    <li><a href="#">Download Forms</a></li>
-                                    <li><a href="#">Download Forms</a></li>
-                                    <li><a href="#">Download Forms</a></li>
+                                    <li><a href="#">Download Forms 1</a></li>
+                                    <li><a href="#">Download Forms 2</a></li>
+                                    <li><a href="#">Download Forms 3</a></li>
+                                    <li><a href="#">Grievance</a></li>
 
 
 
-                                    <li><a href="#" target="_blank">Staff
-                                            Login</a></li>
-                                    <li><a href="#" target="_blank">Hostel
-                                            Login</a></li>
                                     <li><a href="#" target="_blank">University
                                             e-mail</a></li>
                                 </ul>
