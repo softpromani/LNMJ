@@ -4,7 +4,7 @@
             <div id="yt_copyright" class="col-sm-12">
                 <div class="copyright">
                   
-                    <!--| <a href="#">Apply Online</a>--><br>Design & Developed By <b> IT DDE-LNMU</b>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Copyright &copy; 2022 LNMU. All Rights Reserved
+                    <!--| <a href="#">Apply Online</a>--><br>Design & Developed By <b> IT CELL LNMU</b>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Copyright &copy; 2022 LNMU. All Rights Reserved
                 </div>
             </div>
         </div>

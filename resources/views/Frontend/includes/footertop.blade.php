@@ -70,8 +70,8 @@
                 </div>
                 <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
-                        <h2 class="modtitle" style="color:#F2B212">DIRECTORATE OF DISTANCE EDUCATION</h2>
-                        <h3 class="modtitle">Lalit Narayan Mithila University Kameshwaranagar,</h3>
+                        <h2 class="modtitle" style="color:#F2B212">Lalit Narayan Mithila University Kameshwaranagar,</h2>
+                       
                         <div class="modcontent clearfix">
                             <ul class="menu">
                                 <li class="item-1537"><a href="#">Darbhanga, Bihar 846004,</a></li>

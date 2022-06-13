@@ -229,11 +229,11 @@
                                                     src="{{ asset('Frontend/images/icon11.png') }}" alt=""
                                                     hspace="3">IQAC</a>
                                         </li>
-                                        {{-- <li class="" style="width: -20px;">
-                                            <a href="http://www.oufro.ac.in/" target="_blank"><img
+                                        <li class="" style="width: -20px;">
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon8.png') }}" alt=""
-                                                    hspace="3">Foreign Relations</a>
-                                        </li> --}}
+                                                    hspace="3">Grievance</a>
+                                        </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#"><img
                                                     src="{{ asset('Frontend/images/icon1.png') }}" alt=""
@@ -785,7 +785,7 @@
                                     <li><a href="#">Download Forms 1</a></li>
                                     <li><a href="#">Download Forms 2</a></li>
                                     <li><a href="#">Download Forms 3</a></li>
-                                    <li><a href="#">Download Forms 4</a></li>
+                                    <li><a href="#">Grievance</a></li>
                                    
                                  
 
