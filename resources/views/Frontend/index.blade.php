@@ -542,7 +542,7 @@
                                                                 src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
                                                                 alt="" /></a></div>
                                                     <div class="content-main">
-                                                        <h3 class="title">Dr. Mushtaque Ahmadcomo criar uma loja virtual</h3>
+                                                        <h3 class="title">Dr. Mushtaque Ahmad</h3>
 
                                                         <a href="adm-registrar.html" target="_blank"><strong>Read
                                                                 More...</strong></a>
