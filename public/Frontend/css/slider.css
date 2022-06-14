@@ -30,7 +30,7 @@
 
 	.sj-k2-container-slider .preset02-6 .vpo-wrap { width: 16.6666%; margin: 0 -83.3333% 0 0; }
 	.sj-k2-container-slider .preset02-6 .vpo-wrap .vp { margin-right: -500%; }
-	.sj-k2-container-slider .preset02-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}	
+	.sj-k2-container-slider .preset02-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}
 
 @media all and (max-width: 320px){
 	.sj-k2-container-slider .preset05-1 .vpo-wrap { width: 100%; margin: 0; }
@@ -55,7 +55,7 @@
 
 	.sj-k2-container-slider .preset05-6 .vpo-wrap { width: 16.6666%; margin: 0 -83.3333% 0 0; }
 	.sj-k2-container-slider .preset05-6 .vpo-wrap .vp { margin-right: -500%; }
-	.sj-k2-container-slider .preset05-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}	
+	.sj-k2-container-slider .preset05-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}
 }
 @media all and (min-width: 321px) and (max-width: 480px){
 	.sj-k2-container-slider .preset04-1 .vpo-wrap { width: 100%; margin: 0; }
@@ -80,7 +80,7 @@
 
 	.sj-k2-container-slider .preset04-6 .vpo-wrap { width: 16.6666%; margin: 0 -83.3333% 0 0; }
 	.sj-k2-container-slider .preset04-6 .vpo-wrap .vp { margin-right: -500%; }
-	.sj-k2-container-slider .preset04-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}	
+	.sj-k2-container-slider .preset04-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}
 }
 
 @media all and (min-width: 481px) and (max-width: 768px){
@@ -106,7 +106,7 @@
 
 	.sj-k2-container-slider .preset03-6 .vpo-wrap { width: 16.6666%; margin: 0 -83.3333% 0 0; }
 	.sj-k2-container-slider .preset03-6 .vpo-wrap .vp { margin-right: -500%; }
-	.sj-k2-container-slider .preset03-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}		
+	.sj-k2-container-slider .preset03-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}
 }
 
 @media all and (min-width: 769px) and (max-width: 1200px){
@@ -132,7 +132,7 @@
 
 	.sj-k2-container-slider .preset02-6 .vpo-wrap { width: 16.6666%; margin: 0 -83.3333% 0 0; }
 	.sj-k2-container-slider .preset02-6 .vpo-wrap .vp { margin-right: -500%; }
-	.sj-k2-container-slider .preset02-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}		
+	.sj-k2-container-slider .preset02-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}
 }
 
 @media all and (min-width: 1201px){
@@ -158,7 +158,7 @@
 
 	.sj-k2-container-slider .preset01-6 .vpo-wrap { width: 16.6666%; margin: 0 -83.3333% 0 0; }
 	.sj-k2-container-slider .preset01-6 .vpo-wrap .vp { margin-right: -500%; }
-	.sj-k2-container-slider .preset01-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}	
+	.sj-k2-container-slider .preset01-6 .vpo-wrap .vp .item{margin: 0 1%;width: 14.6666%;}
 }
 /*################################# End css Device #############################################*/
 
@@ -185,7 +185,7 @@
 }
 
 .sj-k2-container-slider .slider .item img:hover{
-	cursor: pointer;	
+	cursor: pointer;
 /* 	opacity:0.7; */
 /*     filter: alpha(opacity=70); 	 */
 }
@@ -275,11 +275,11 @@
 .sj-k2-container-slider .page-button .control-button .preview{
 	background: url(../images/button-image.html) no-repeat;
     width:24px;
-    height:15px;        
+    height:15px;
     opacity:0.5;
     filter: alpha(opacity=50);
     position:absolute;
-    right:30px;	
+    right:30px;
     padding:0px;
     margin:0px;
     z-index: 9999;
@@ -287,7 +287,7 @@
 .sj-k2-container-slider .page-button .control-button .next{
     background: url(../images/button-image.html) no-repeat -30px 0;
     width:26px;
-    height:15px;    
+    height:15px;
     opacity:0.5;
     filter: alpha(opacity=50);
     position:absolute;
@@ -309,55 +309,55 @@
 }
 .sj-k2-container-slider .page-button .control-button{
 }
-.sj-k2-container-slider .page-button.bottom .control-button .preview, 
+.sj-k2-container-slider .page-button.bottom .control-button .preview,
 .sj-k2-container-slider .page-button.bottom .control-button .next{
 	top:10px;
 }
 .sj-k2-container-slider .page-button.middle .control-button .preview{
  	top: 52%;
     z-index: 9999;
-    left:0;	 
+    left:0;
 }
 .sj-k2-container-slider .page-button.middle .control-button .next{
  	top: 52%;
     z-index: 9999;
-    right:0;	
+    right:0;
 }
 
 .sj-k2-container-slider .page-button.style2 .control-button .preview{
 	background-position:-180px 0;
     width:22px;
-    height:20px;        
-    right:21px;	
+    height:20px;
+    right:21px;
     z-index: 9999;
 }
 .sj-k2-container-slider .page-button.style2 .control-button .next{
     background-position:-210px 0;
     width:22px;
-    height:20px; 
-    z-index: 9999;   
+    height:20px;
+    z-index: 9999;
 }
 .sj-k2-container-slider .page-button.style3 .control-button .preview{
 	background-position:-60px 0;
     width:14px;
-    height:21px;        
-    right:15px;	
+    height:21px;
+    right:15px;
     z-index: 9999;
 }
 .sj-k2-container-slider .page-button.style3 .control-button .next{
     background-position:-90px 0;
     width:12px;
-    height:21px;  
-    z-index: 9999;  
+    height:21px;
+    z-index: 9999;
 }
 
-.sj-k2-container-slider .page-button .control-button .preview:hover, 
-.sj-k2-container-slider .page-button .control-button .next:hover, 
+.sj-k2-container-slider .page-button .control-button .preview:hover,
+.sj-k2-container-slider .page-button .control-button .next:hover,
 .sj-k2-container-slider .page-button.style2 .control-button .preview:hover,
 .sj-k2-container-slider .page-button.style2 .control-button .next:hover{
 	cursor: pointer;
     opacity:1;
-    filter: alpha(opacity=100);	
+    filter: alpha(opacity=100);
 }
 
 
@@ -371,8 +371,8 @@
     padding: 9px;
 }
 .sj-k2-container-slider .slider .vpo-wrap .vp .item .item-wrap .item-img:hover{
-    opacity:0.7; 
-    filter: alpha(opacity=70); 
+    opacity:0.7;
+    filter: alpha(opacity=70);
 }
 .sj-k2-container-slider .slider .vpo-wrap .vp .item .item-wrap .item-info{
 	margin-top:10px;
@@ -390,7 +390,7 @@
 .sj-k2-container-slider .slider .vpo-wrap .vp .item .item-wrap .item-info .item-content .item-read{
 	text-align: right;
 	font-size:12px;
- 	margin-top:5px; 
+ 	margin-top:4px;
 }
 
 .sj-k2-container-slider .slider .vpo-wrap .vp .item .item-wrap .item-info .item-created{
@@ -428,8 +428,8 @@
 	-moz-transition: all 3s ;
 	-ms-transition: all 3s ;
 	-o-transition: all 3s ;
-	transition: all 3s ;  
-    
+	transition: all 3s ;
+
 }
 .sj-k2-container-slider .slider .vpo-wrap .vp .item .item-wrap .item-info.item-spotlight:hover .item-content{
 	height:auto;
@@ -438,10 +438,10 @@
 	position: absolute;
 	bottom: 0px;
 	left: 0px;
-    background:#000;	
+    background:#000;
     opacity:0.7;
     filter: alpha(opacity=70);
-    height:100%;  
+    height:100%;
     width: 100%;
     z-index: 1;
 }

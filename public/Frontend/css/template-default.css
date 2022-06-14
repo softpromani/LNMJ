@@ -968,7 +968,7 @@ color: #7C0000;
 }
 #yt_footer {
   background: #00aeef;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   text-align: center;
 }
 #yt_footer #yt_copyright {
@@ -5114,6 +5114,7 @@ div.sj-k2slickslider:hover .nav-pagination.conner-tl a.right {
 }
 .module.useful-link ul.menu li:hover a {
   color: #00aeef;
+  font-weight: bold;
 }
 .module.clients-say .modcontent div.yt-extra-carousel .carousel-inner {
   margin: 5px 0 2em;

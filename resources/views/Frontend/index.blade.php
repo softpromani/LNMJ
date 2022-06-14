@@ -466,7 +466,7 @@
                                                         </ul>
                                                         </marquee>
                                                         <a href="#" class="col-xs-12" title=""
-                                                            style="background: #EC3C32; color: #fff; width: auto;"><strong>More
+                                                            style="background: #7C0000; color: #fff; width: auto;"><strong>More
                                                                 News...</strong></a>
 
                                                     </div>
@@ -501,7 +501,7 @@
 
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
-                                                                        style="float: left; background:#EC3C32">13th-17th</span><span
+                                                                        style="float: left; background:#7C0000">13th-17th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#"
@@ -510,7 +510,7 @@
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
-                                                                        style="float: left; background:#EC3C32">17th-18th</span><span
+                                                                        style="float: left; background:#7C0000">17th-18th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#"
@@ -519,7 +519,7 @@
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
-                                                                        style="float: left; background:#EC3C32">23rd-
+                                                                        style="float: left; background:#7C0000">23rd-
                                                                         24th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
@@ -530,7 +530,7 @@
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
-                                                                        style="float: left; background:#EC3C32">30th-31st</span><span
+                                                                        style="float: left; background:#7C0000">30th-31st</span><span
                                                                         style="float: left; background: #00aeef">May
                                                                         2022</span></a>
                                                                 <a href="#"
@@ -540,7 +540,7 @@
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
-                                                                        style="float: left; background:#EC3C32">23rd-
+                                                                        style="float: left; background:#7C0000">23rd-
                                                                         24th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
@@ -553,7 +553,7 @@
 
                                                             <a href="#" class="col-xs-12"
                                                                 title=""
-                                                                style="background: #EC3C32; color: #fff; width: auto; margin-top:10px;"><strong>More
+                                                                style="background: #7C0000; color: #fff; width: auto; margin-top:10px;"><strong>More
                                                                     Events...</strong></a>
                                                     </div>
                                                 </div>
