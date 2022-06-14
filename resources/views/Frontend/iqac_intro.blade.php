@@ -33,7 +33,7 @@
                 <div class="list-group border-0 text-left text-md-left">
                     <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Introduction</span> </a>
                     <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">IQAC Committee</span> </a>
-                    <a href="{{route('iqacvision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies
+                    <a href="{{route('iqacVision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies
                     </span> </a>
                     <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Climate Action Plan</span> </a>
 
