@@ -188,7 +188,7 @@
                             <li><a href="#">Careers & Fellowships</a></li>
                         </ul> --}}
 
-                        <div class="module  feature-teachers" style="height:468px">
+                        <div class="module  feature-teachers" style="height:468px; padding:0px">
                             <div class="modcontent clearfix">
                                 <div class="carousel-custommer">
                                     <div id="yt-extra-carousel1" style="width:100%; height:100%"
@@ -203,7 +203,7 @@
                                                             src="{{ asset('Frontend/images/vcsir.jpg') }}" alt="" />
                                                     </div>
                                                     <div class="content-main">
-                                                        <h3 class="title">Surendra Pratap Singh</h3>
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Surendra Pratap Singh</h3>
 
                                                         <a href="adm-vc.html" target="_blank"><strong style="color:black;">Read
                                                                 More...</strong></a>
@@ -220,22 +220,13 @@
                                                                 src="{{ asset('Frontend/images/Fagu_chauhan.jpg') }}"
                                                                 alt="" /></a></div>
                                                     <div class="content-main">
-                                                        <h3 class="title">Shri Phagu Chauhan</h3>
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Shri Phagu Chauhan</h3>
 
-<<<<<<< HEAD
-                                                        <a href="adm-registrar.html" target="_blank"><strong>Read
-=======
                                                         <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
->>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                                                                 More...</strong></a>
                                                     </div>
                                                 </div>
                                             </div>
-<<<<<<< HEAD
-                                            
-=======
-
->>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                                             <div class='item'>
                                                 <h3 class="modtitle">Registrar </h3>
                                                 <div class="customslider">
@@ -245,13 +236,9 @@
                                                                 src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
                                                                 alt="" /></a></div>
                                                     <div class="content-main">
-                                                        <h3 class="title">Dr. Mushtaque Ahmad</h3>
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Dr. Mushtaque Ahmad</h3>
 
-<<<<<<< HEAD
-                                                        <a href="adm-registrar.html" target="_blank"><strong>Read
-=======
                                                         <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
->>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                                                                 More...</strong></a>
                                                     </div>
                                                 </div>
@@ -582,13 +569,8 @@
 
                     </div>
 
-<<<<<<< HEAD
-                    {{-- <div id="top9" class="col-lg-3 col-sm-6">
-                        <div class="module  feature-teachers" style="height:468px">
-=======
                     <div id="top9" class="col-lg-3 col-sm-6  slideLft1">
                         {{-- <div class="module  feature-teachers" style="height:468px">
->>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                             <div class="modcontent clearfix">
                                 <div class="carousel-custommer">
                                     <div id="yt-extra-carousel1" style="width:100%; height:100%"
@@ -679,31 +661,8 @@
                                 <li><a href="#">Careers &amp; Services</a></li>
                             </ul>
                         </div>
-<<<<<<< HEAD
-                    </div> --}}
-                     <div id="top9" class="col-sm-3 slideLft" style="height:auto;" >
-                        <ul>
-
-                            <li><a href="#" target="_blank">Online Portal
-                                
-                                <img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
-                            <li><a href="#" target="_blank">Helpline For University Student</a></li>
-                            <li><a href="#" target="_blank">Awards/Recognition</a></li>
-                            <li><a href="#" target="_blank">NIRF</a></li>
-
-                            <li><a href="#" target="_blank">Surprise Visit Report</a></li>
-                            <li><a href="#" target="_blank">Sport Calendar</a></li>
-                            <li><a href="#">Careers & Fellowships</a></li>
-                            <li><a href="#" target="_blank">Surprise Visit Report</a></li>
-                            <li><a href="#" target="_blank">Sport Calendar</a></li>
-                            <li><a href="#">Careers & Fellowships</a></li>
-                           
-                        </ul>
-                    </div>
-=======
 
 
->>>>>>> 3bd6b4f89697e64d439f622af012804d19afc1d9
                 </div>
             </div>
         </section>

@@ -4,7 +4,7 @@
             <div class="col-md-12 col-sm-12">
                 <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
-                        <h3 class="modtitle">About Us</h3>
+                        <h2 class="modtitle" style="color:#7C0000">About Us</h2>
                         <div class="modcontent clearfix">
                             <ul class="menu">
                                 <li class="item-1537"><a href="#">Origin and
@@ -27,7 +27,7 @@
 
                 <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
-                        <h3 class="modtitle">Administration</h3>
+                        <h2 class="modtitle" style="color:#7C0000">Administration</h2>
                         <div class="modcontent clearfix">
                             <ul class="menu">
                                 <li class="item-1537"><a href="#">Vice-Chancellor</a></li>
@@ -47,7 +47,7 @@
 
                 <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
-                        <h3 class="modtitle">Academics</h3>
+                        <h2 class="modtitle" style="color:#7C0000">Academics</h2>
                         <div class="modcontent clearfix">
                             <ul class="menu">
                                 <li class="item-1537"><a href="#">Campus
@@ -70,7 +70,7 @@
                 </div>
                 <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
-                        <h2 class="modtitle" style="color:#00aeef">Lalit Narayan Mithila University Kameshwaranagar,</h2>
+                        <h2 class="modtitle" style="color:#7C0000">Lalit Narayan Mithila University Kameshwaranagar,</h2>
 
                         <div class="modcontent clearfix">
                             <ul class="menu">

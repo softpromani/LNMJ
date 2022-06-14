@@ -880,7 +880,8 @@ background: linear-gradient(0deg, rgba(0,174,239,1) 4%, rgba(255,255,255,1) 87%)
 }
 #yt_spotlight8 .module h3.modtitle {
   font-size: 13px;
-  color: #00aeef;
+/*  color: #00aeef;*/
+color: #7C0000;
   font-weight: bold;
   position: relative;
   margin: 0;
