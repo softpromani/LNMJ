@@ -23,5 +23,15 @@ Route::get('/about-focus',[HomeController::class,'about_focus'])->name('about.fo
 Route::get('/about-campus',[HomeController::class,'about_campus'])->name('about.campus');
 Route::get('/about-bestpractice',[HomeController::class,'about_bestpractice'])->name('about.bestpractice');
 Route::get('/about-visionmission',[HomeController::class,'about_vision'])->name('about.visionmission');
-Route::get('/vice-chancellor',[HomeController::class,'vc'])->name('vice_chancellor');
+
+// Administration
+Route::get('/adm-vc',[HomeController::class,'adm_vc'])->name('adm.vc');
+Route::get('/adm-pvc',[HomeController::class,'adm_pvc'])->name('adm.pvc');
+Route::get('/adm-organizational-structure',[HomeController::class,'adm_ogzstr'])->name('adm.ogzstr');
+Route::get('/adm-fa',[HomeController::class,'adm_fa'])->name('adm.fa');
+Route::get('/adm-dsw',[HomeController::class,'adm_dsw'])->name('adm.dsw');
+Route::get('/adm-pructor',[HomeController::class,'adm_pructor'])->name('adm.pructor');
+Route::get('/adm-ccdc',[HomeController::class,'adm_ccdc'])->name('adm.ccdc');
+
+// Route::get('/vice-chancellor',[HomeController::class,'vc'])->name('vice_chancellor');
 
