@@ -35,10 +35,6 @@
                     <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">IQAC Committee</span> </a>
                     <a href="#" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies
                     </span> </a>
-
-                    <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">IQAC Committee</span> </a>
-
-
                     <a href="#menu3" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">NAAC Accreditation</span> </a>
                     <div class="collapse" id="menu3" data-parent="#sidebar"  >
                         <a href="#menu1sub1" class="list-group-item">SSR 2020 </a>

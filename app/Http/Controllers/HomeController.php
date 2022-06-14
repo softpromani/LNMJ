@@ -23,12 +23,12 @@ class HomeController extends Controller
 
     function iqacCommittee()
     {
-        return view('Frontend/iqac_intro');
+        return view('Frontend/iqac_committee');
     }
 
     function iqacStrategicPlan()
     {
-        return view('Frontend/iqac_intro');
+        return view('Frontend/iqac_strategic_plan');
     }
 
     function iqacVision()
@@ -44,6 +44,16 @@ class HomeController extends Controller
     function kulgeet()
     {
         return view('Frontend/kulgeet');
+    }
+
+    function aqar()
+    {
+        return view('Frontend/aqar');
+    }
+
+    function criteria()
+    {
+        return view('Frontend/criteria');
     }
 
     function allOfficer()

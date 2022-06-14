@@ -297,9 +297,9 @@
                                                     hspace="3">E-Learning</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{url('/iqac-intro')}}" target="_blank"><img
+                                            <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon11.png') }}" alt=""
-                                                    hspace="3">IQAC</a>
+                                                    hspace="3">Photo Gallery</a>
                                         </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img

@@ -92,131 +92,55 @@
                                 <div class="clr"></div>
                             </div>
                         </div>
-                        <div class="catItemIntroText col-md-6">
-                            <h3>VC'S OFFICE</h3>
-                            <p>Primary Address 1:<br>Administrative Building<br>Osmania University Campus<br>Hyderabad-500007, Telangana State, India.</p>
-                        </div>
-                        <div class="catItemIntroText col-md-6">
-                            <p></p>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">vc@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label">040-27098048</span>
-                            </div>
-                            <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label">+8331997133, 8331997300</span>
-                            </div>
-                            <p></p>
-                        </div>
-                        <div class="catItemIntroText col-md-6">
-                            <h3>REGISTRAR'S OFFICE</h3>
-                            <p>Primary Address 2:<br>Administrative Building<br>Osmania University Campus<br>Hyderabad-500007, Telangana State, India.</p>
-                        </div>
-                        <div class="catItemIntroText col-md-6">
-                            <p></p>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">registrar@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label"></span>
-                            </div>
-                            <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label"></span>
-                            </div>
-                            <p></p>
-                        </div>
-                        <div class="catItemIntroText col-md-4">
-                            <h3>Admissions</h3>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">admissions@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label">8331041286</span>
-                            </div>
-                            <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label"></span>
-                            </div>
-                        </div>
-                        <div class="catItemIntroText col-md-4">
-                            <h3>Media Contacts</h3>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">pro@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label">8331997138</span>
-                            </div>
-                            <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label"></span>
-                            </div>
-                        </div>
-                        <div class="catItemIntroText col-md-4">
-                            <h3>Web Communications</h3>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">webmaster@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label"></span>
-                            </div>
-                            <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label"></span>
-                            </div>
-                        </div>
 
                         <div class="catItemIntroText col-md-4">
-                            <h3>Controller of Examinations</h3>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">coe@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label">8331997221, 8331997232</span>
-                            </div>
+                            <h3>Dean Student's Welfare</h3>
                             <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label">Enquiry: 8331997223</span>
+                                <i class="icon-fax"></i><span class="info-label">Dr. Vijay Kumar Yada</span>
                             </div>
+                            <div class="info-mail">
+                                <i class="icon-envelope-alt"></i><span class="info-label">Email: dsw@lnmu.ac.in</span>
+                            </div>
+
+
                         </div>
                         <div class="catItemIntroText col-md-4">
-                            <h3>Distance Education</h3>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">info_cde@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label">83310409495</span>
-                            </div>
+                            <h3>Proctor</h3>
                             <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label"></span>
+                                <i class="icon-fax"></i><span class="info-label">Dr. Ajay Nath Jha</span>
                             </div>
+                            <div class="info-mail">
+                                <i class="icon-envelope-alt"></i><span class="info-label">Email: proctor@lnmu.ac.in</span>
+                            </div>
+
+
                         </div>
                         <div class="catItemIntroText col-md-4">
-                            <h3>Accounts / Inspection</h3>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">ouinspection@osmania.ac.in</span>
-                            </div>
-                            <div class="info-mobie">
-                                <i class="icon-mobile-phone"></i><span class="info-label"></span>
-                            </div>
+                            <h3>Registrar</h3>
                             <div class="info-fax">
-                                <i class="icon-fax"></i><span class="info-label"></span>
+                                <i class="icon-fax"></i><span class="info-label">Dr. Mushtaque Ahmad​</span>
                             </div>
+                            <div class="info-mail">
+                                <i class="icon-envelope-alt"></i><span class="info-label">Email: registrar@lnmu.ac.in</span>
+                            </div>
+
+
                         </div>
                         <div class="catItemIntroText col-md-4">
-                            <h3>Reception (Admin. Building) </h3>
-                            <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">8331997216</span>
+                            <h3>Controller of Examinations </h3>
+                            <div class="info-fax">
+                                <i class="icon-fax"></i><span class="info-label">Dr. Anand Mohan Mishra</span>
                             </div>
-                        </div>
-                        <div class="catItemIntroText col-md-4">
-                            <h3>Internet Complaints (Except Engineering Hostels)</h3>
                             <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">8331040956</span>
+                                <i class="icon-envelope-alt"></i><span class="info-label">Email: coe@lnmu.ac.in</span>
                             </div>
-                        </div>
-                        <div class="catItemIntroText col-md-4">
-                            <h3>Telephone Complaints </h3>
                             <div class="info-mail">
-                                <i class="icon-envelope-alt"></i><span class="info-label">8331997217& 9502783973</span>
+                                <i class="icon-envelope-alt"></i><span class="info-label">controllerofexam.lnmu@gmail.com</span>
                             </div>
+
+
                         </div>
+
                     </div>
                 </div>
             </div>

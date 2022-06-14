@@ -64,7 +64,7 @@
                 <div id="system-message-container"></div>
                 <div id="yt_component">
                     <div class="itemListView gridview" id="k2Container">
-                        <img  />
+                        <img class="size-medium wp-image-4769 aligncenter" src="{{ asset('Frontend/images/kulgeet.jpg') }}">
                     </div>
                 </div>
             </div>

@@ -9,6 +9,8 @@ Route::get('/iqac-intro', [HomeController::class, 'iqacIntro'])->name('iqac-intr
 Route::get('/iqac-committee', [HomeController::class, 'iqacCommittee'])->name('iqacCommittee');
 Route::get('/iqac-strategic-plan', [HomeController::class, 'iqacStrategicPlan'])->name('iqacStrategicPlan');
 Route::get('/iqac-vision', [HomeController::class, 'iqacVision'])->name('iqacVision');
+Route::get('/aqar', [HomeController::class, 'aqar'])->name('aqar');
+Route::get('/criteria', [HomeController::class, 'criteria'])->name('criteria');
 
 Route::get('/contact-us', [HomeController::class, 'contactus']);
 
