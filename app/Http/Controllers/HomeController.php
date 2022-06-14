@@ -56,4 +56,10 @@ class HomeController extends Controller
         return view('Frontend.about-university');
     }
 
+
+    public function vc()
+    {
+        return view('Frontend.vc');
+    }
+
 }

@@ -17,3 +17,4 @@ Route::get('/kulgeet', [HomeController::class, 'kulgeet']);
 Route::get('/all-officer', [HomeController::class, 'allOfficer']);
 
 Route::get('/about-university',[HomeController::class,'about_university']);
+Route::get('/vice-chancellor',[HomeController::class,'vc'])->name('vice_chancellor');
