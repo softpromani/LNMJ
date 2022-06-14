@@ -82,4 +82,44 @@ class HomeController extends Controller
     {
         return view('Frontend.about-vision');
     }
+
+
+
+
+
+    public function adm_vc()
+    {
+        return view('Frontend.adm-vc');
+    }
+    public function adm_pvc()
+    {
+        return view('Frontend.adm-pvc');
+    }
+    public function adm_ogzstr()
+    {
+        return view('Frontend.adm-ogzstr');
+    }
+    public function adm_fa()
+    {
+        return view('Frontend.adm-fa');
+        # code...
+    }
+    public function adm_dsw()
+    {
+        return view('Frontend.adm-dsw');
+        # code...
+    }
+    public function adm_pructor()
+    {
+        return view('Frontend.adm-pructor');
+        # code...
+    }
+    
+
+    public function adm_ccdc()
+    {
+        return view('Frontend.adm-ccdc');
+        # code...
+    }
+    
 }
