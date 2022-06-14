@@ -18,4 +18,10 @@ Route::get('/kulgeet', [HomeController::class, 'kulgeet']);
 
 Route::get('/all-officer', [HomeController::class, 'allOfficer']);
 
-Route::get('/about-university',[HomeController::class,'about_university']);
+Route::get('/about-university',[HomeController::class,'about_university'])->name('about.university');
+Route::get('/about-focus',[HomeController::class,'about_focus'])->name('about.focus');
+Route::get('/about-campus',[HomeController::class,'about_campus'])->name('about.campus');
+Route::get('/about-bestpractice',[HomeController::class,'about_bestpractice'])->name('about.bestpractice');
+Route::get('/about-visionmission',[HomeController::class,'about_vision'])->name('about.visionmission');
+Route::get('/vice-chancellor',[HomeController::class,'vc'])->name('vice_chancellor');
+

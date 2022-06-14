@@ -66,4 +66,30 @@ class HomeController extends Controller
         return view('Frontend.about-university');
     }
 
+
+    public function vc()
+    {
+        return view('Frontend.vc');
+    }
+
+    public function about_focus()
+    {
+        return view('Frontend.about-focus');
+    }
+
+
+    public function about_campus()
+    {
+        return view('Frontend.about-campus');
+    }
+
+    public function about_bestpractice()
+    {
+        return view('Frontend.about-bestpractice');
+    }
+
+    public function about_vision()
+    {
+        return view('Frontend.about-vision');
+    }
 }

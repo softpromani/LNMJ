@@ -274,11 +274,11 @@
                                                     class="menu-title">IQAC Committee</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('iqacStrategicPlan')}}"><span
                                                     class="menu-title">Strategic plan</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('iqacVision')}}"><span
                                                     class="menu-title">Vision, Mission and Strategies                                                </span></a>
                                         </li>
 
@@ -545,14 +545,12 @@
                                         <li><a href='#'>Strategic Plan</a></li>
                                         <li><a href='#'>Vision,Mission</a></li>
                                         <li><a href='#'>Climate Action Plan</a></li>
-                                        <li><a href='#'>Sustainavility Plan</a></li>
-                                        <li><a href='#'>Nation Ranking</a></li>
+
                                         <li><a href='#'>NAAC Accreditation</a></li>
                                         <li><a href='#'>Feed Back</a></li>
                                         <li><a href='#'>IQAC Events</a></li>
                                         <li><a href='#'>Report</a></li>
-                                        <li><a href='#'>Research Profile</a></li>
-                                        <li><a href='#'>Hony Directors</a></li>
+
                                         <li><a href='#'>Contact Us</a></li>
                                     </ul>
                                 </div>
