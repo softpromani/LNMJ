@@ -17,6 +17,7 @@ Route::get('/contact-us', [HomeController::class, 'contactus'])->name('contactus
 Route::get('/kulgeet', [HomeController::class, 'kulgeet'])->name('kulgeet');
 
 Route::get('/all-officer', [HomeController::class, 'allOfficer']);
+Route::get('/photo-gallery', [HomeController::class, 'photoGallery'])->name('photogallery');
 
 Route::get('/about-university',[HomeController::class,'about_university'])->name('about.university');
 Route::get('/about-focus',[HomeController::class,'about_focus'])->name('about.focus');

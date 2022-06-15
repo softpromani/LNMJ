@@ -61,6 +61,11 @@ class HomeController extends Controller
         return view('Frontend.all_officer');
     }
 
+    function photoGallery()
+    {
+        return view('Frontend/photo_gallery');
+    }
+
     public function about_university()
     {
         return view('Frontend.about-university');
