@@ -203,7 +203,7 @@
                                                             src="{{ asset('Frontend/images/vcsir.jpg') }}" alt="" />
                                                     </div>
                                                     <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Surendra Pratap Singh</h3>
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Pro. Surendra Pratap Singh</h3>
 
                                                         <a href="adm-vc.html" target="_blank"><strong style="color:black;">Read
                                                                 More...</strong></a>
@@ -236,7 +236,7 @@
                                                                 src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
                                                                 alt="" /></a></div>
                                                     <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Dr. Mushtaque Ahmad</h3>
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Pro. Mushtaque Ahmad</h3>
 
                                                         <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
                                                                 More...</strong></a>
