@@ -12,9 +12,9 @@ Route::get('/iqac-vision', [HomeController::class, 'iqacVision'])->name('iqacVis
 Route::get('/aqar', [HomeController::class, 'aqar'])->name('aqar');
 Route::get('/criteria', [HomeController::class, 'criteria'])->name('criteria');
 
-Route::get('/contact-us', [HomeController::class, 'contactus']);
+Route::get('/contact-us', [HomeController::class, 'contactus'])->name('contactus');
 
-Route::get('/kulgeet', [HomeController::class, 'kulgeet']);
+Route::get('/kulgeet', [HomeController::class, 'kulgeet'])->name('kulgeet');
 
 Route::get('/all-officer', [HomeController::class, 'allOfficer']);
 

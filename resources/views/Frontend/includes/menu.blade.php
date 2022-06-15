@@ -18,23 +18,23 @@
                                 <div class="mega-col last more" style="width:100%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="{{url('/about-university')}}"><span
+                                            <a title="" class="level2 first item-link" href="{{route('about.university')}}"><span
                                                     class="menu-title">University at a glance</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('about.focus')}}"><span
                                                     class="menu-title">Focus</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 last item-link" href="#"><span
+                                            <a title="" class="level2 last item-link" href="{{route('about.campus')}}"><span
                                                     class="menu-title">Campus</span></a>
                                         </li>
                                         <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href='#'
+                                            <a title="" class="level2 last item-link" href='{{route('about.bestpractice')}}'
                                                 target="_blank"><span class="menu-title">Best Practice</span></a>
                                         </li>
                                         <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href='#'
+                                            <a title="" class="level2 last item-link" href='{{route('about.visionmission')}}'
                                                 target="_blank"><span class="menu-title">Vision,Mission&Objectives</span></a>
                                         </li>
                                     </ul>
@@ -57,15 +57,15 @@
                                                     class="menu-title">Chancellor</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('adm.vc')}}"><span
                                                     class="menu-title">Vice-Chancellor</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('adm.pvc')}}"><span
                                                     class="menu-title">Pro Vice-Chancellor</span></a>
                                         </li>
                                         <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href="#"><span
+                                            <a title="" class="level2 last item-link" href="{{route('adm.ogzstr')}}"><span
                                                     class="menu-title">Organizational Structure</span></a>
                                         </li>
                                     </ul>
@@ -74,19 +74,19 @@
                                 <div class="mega-col last more" style="width:50%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="#"><span
+                                            <a title="" class="level2 first item-link" href="{{route('adm.fa')}}"><span
                                                     class="menu-title">F.A.</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('adm.dsw')}}"><span
                                                     class="menu-title">D.S.W.</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('adm.pructor')}}"><span
                                                     class="menu-title">Proctor</span></a>
                                         </li>
                                         <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href="#"><span
+                                            <a title="" class="level2 last item-link" href="{{route('adm.ccdc')}}"><span
                                                     class="menu-title">C.C.D.C.</span></a>
                                         </li>
                                     </ul>
@@ -387,7 +387,7 @@
 
 
                     <li class="level1 havechild ">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="{{route('kulgeet')}}"><span
                                 class="menu-title">Kulgeet</span></a>
 
                     </li>
@@ -401,7 +401,7 @@
                     </li>
 
                     <li class="level1 havechild ">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="{{route('contactus')}}"><span
                                 class="menu-title">Contact Us</span></a>
 
                     </li>

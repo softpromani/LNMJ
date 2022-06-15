@@ -27,52 +27,67 @@
     </section>
 
 
-<section class="no-left  block com_k2" id="content">
-    <div class="container">
-        <div class="row">
-            <aside class="col-md-3 col-sm-12" id="content_left">
-                <div class="col-sm-12" id="right">
-                    <div class="module k2-categories">
-<h3 class="modtitle">About Us</h3>
-<div class="modcontent clearfix">
-    <div class="k2CategoriesListBlock k2-categories" id="k2ModuleBox357">
-        <ul class="level0">
-            <li><a href="aboutus-originandhistory.html"><span class="catTitle">Origin and History</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-universityprofile.html"><span class="catTitle">University Profile</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-visionmission.html"><span class="catTitle">Vision &amp; Mission</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-impvisitors.html"><span class="catTitle">Important Visitors</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-formerVCs.html"><span class="catTitle">Former Vice-Chancellors</span><span class="catCounter"></span></a></li>
-            <li><a href='alumni/index.html' target="_blank">Distinguished Alumni</a></li>
-            <li><a href="aboutus-universityglance.html"><span class="catTitle">University at a glance</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-Accreditation.html"><span class="catTitle">Accreditation</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-milestones.html"><span class="catTitle">Milestones</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-newinitiatives.html"><span class="catTitle">New Initiatives</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-routemap.html"><span class="catTitle">Route Map</span><span class="catCounter"></span></a></li>
-            <li><a href="photogallery.html"><span class="catTitle">Photo Gallery</span><span class="catCounter"></span></a></li>
-            <!--<li><a href="aboutus-directory.php"><span class="catTitle">Directory</span><span class="catCounter"></span></a></li>
-            --><li><a href="aboutus-publicrelations.html"><span class="catTitle">Public Relations</span><span class="catCounter"></span></a></li>
-            <!--<li><a href="aboutus-publications.php"><span class="catTitle">Publications</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-ouinmedia.php"><span class="catTitle">OU in Media</span><span class="catCounter"></span></a></li>
-            --><li><a href="aboutus-otherlinks.html"><span class="catTitle">Other Links</span><span class="catCounter"></span></a></li>
-            <li><a href="aboutus-contactus.html"><span class="catTitle">Contact Us</span><span class="catCounter"></span></a></li>
-        </ul>
-    </div>
-</div>
-</div>					</div>
-            </aside>
-            <div class="col-md-9" id="content_main">
-                <div id="system-message-container"></div>
-                <div id="yt_component">
-                    <div class="itemListView gridview" id="k2Container">
-                        <img class="size-medium wp-image-4769 aligncenter" src="{{ asset('Frontend/images/kulgeet.jpg') }}">
-                    </div>
-                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row d-flex d-md-block flex-nowrap wrapper">
+     @include('Frontend.includes.sidebar.about_menu')
+        <main class="col-md-9 float-left">
+            <a href="#" data-target="#sidebar" data-toggle="collapse"><i class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
+            <div class="page-header">
+                <h2 class="display-4 font-weight-light text-center">Kulgeet</h2>
             </div>
-        </div>
+            <div class="col-md-12" id="content_main">
+               
+                  
+              
+                   
+               <img class="size-medium wp-image-4769 aligncenter" src="{{ asset('Frontend/images/kulgeet.jpg') }}">
+               
+      
+                        
+              
+                      
+                         
+                           
+
+            
+     
+                                {{-- <img class="alignright" src="https://lnmuacin.in/studentnotice/Administration%20notice%20image/University1.jpg" alt=""> --}}
+                             
+                          
+                           
+            </div>
+                            
+                                  
+
+
+
+
+
+
+
+                     
+                        
+                        
+            
+            
+
+       </main>
     </div>
 </div>
-
-
 
 
 @endsection
