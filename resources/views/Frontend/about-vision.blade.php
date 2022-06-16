@@ -18,7 +18,7 @@
                                 </h3>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -38,16 +38,16 @@
                 <h2 class="display-4 font-weight-light text-center">Vision, Mission & Objective</h2>
             </div>
             <div class="col-md-12" id="content_main">
-               
-                  
+
+
                 <div class="row">
                     <section class="alterna-col col-lg-12 col-md-12 col-sm-12 ">
                    <p><strong>VISION</strong></p>
                <hr>
                <p style="text-align: justify;">Lalit Narayan Mithila University aspires to be an energetic and responsive University offering educational opportunities for learner community especially to the lower socio-economic strata of the society seeking quality undergraduate, post graduate, research and continuing personal or professional enrichment in higher education and selected professions that will lead to formation of scholarly community serving the nation by advancing, sharing and applying knowledge and by facilitating the development of thoughtful, creative, adaptable, contributing human citizens.</p>
-                       
-               
-               <strong>MISSION</strong><p></p>
+
+
+               <strong>MISSION</strong>
                <hr>
                <ul>
                <li>To carry out the academic process for achieving excellence through active student – teacher participation.</li>
@@ -61,9 +61,9 @@
                <li>To develop unique University where the branches significantly provide sustenance to the tree and bear fruits for all.</li>
                <li>To initiate trends which impact global higher education policies and practices.</li>
                </ul>
-               
+
                        </section>
-               
+
                        <p><strong>Objectives</strong></p>
                        <section class="alterna-col col-lg-12 col-md-12 col-sm-12">
                            <ul>
@@ -80,23 +80,21 @@
                <li>Designing and launching academic programmes which may transform the social, economic condition of the people leading to their intellectual, academic and cultural development.</li>
                </ul>
                        </section>
-                        
-               
-                        
+
+
+
                        </div>
-                      
-                         
-                           
 
-            
-     
+
+
+
+
+
                                 {{-- <img class="alignright" src="https://lnmuacin.in/studentnotice/Administration%20notice%20image/University1.jpg" alt=""> --}}
-                             
-                          
-                           
+
+
+
             </div>
-                            
-                                  
 
 
 
@@ -104,11 +102,13 @@
 
 
 
-                     
-                        
-                        
-            
-            
+
+
+
+
+
+
+
 
        </main>
     </div>

@@ -30,39 +30,7 @@
     <div class="container">
         <div class="row d-flex d-md-block flex-nowrap wrapper">
             <div class="col-md-3 float-left col-1 pl-0 pr-0  width" id="sidebar">
-                <div class="list-group border-0 text-left text-md-left">
-                    <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Introduction</span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">IQAC Committee</span> </a>
-                    <a href="{{route('iqacVision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies
-                    </span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Climate Action Plan</span> </a>
-
-
-
-                    <a href="#menu3" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">NAAC Accreditation</span> </a>
-                    <div class="collapse" id="menu3" data-parent="#sidebar"  >
-                        <a href="#menu1sub1" class="list-group-item">SSR 2020 </a>
-                        <a href="{{route('aqar')}}" class="list-group-item">AQAR </a>
-                        <a href="#menu1sub1" class="list-group-item">Academic & Administrative Audit </a>
-                        <a href="#menu1sub1" class="list-group-item">NAAC Certificate Cycle-I </a>
-                        <a href="#menu1sub1" class="list-group-item">NAAC PPT </a>
-                    </div>
-                    <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Feedback</span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">IQAC Events</span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Reports</span> </a>
-                    <a href="#menu4" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">Research Profile</span> </a>
-                    <div class="collapse" id="menu4" data-parent="#sidebar"  >
-                        <a href="#menu1sub1" class="list-group-item">Research Credential </a>
-                        <a href="#menu1sub1" class="list-group-item">Research Policy </a>
-                        <a href="#menu1sub1" class="list-group-item">IPR Policy </a>
-                        <a href="#menu1sub1" class="list-group-item">Consultancy Policy</a>
-                    </div>
-                    <a href="#menu5" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">Hony. Directors</span> </a>
-                    <div class="collapse" id="menu5" data-parent="#sidebar"  >
-                        <a href="#menu1sub1" class="list-group-item">Former Hony. Directors </a>
-                    </div>
-                    <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Contact Us</span> </a>
-                </div>
+                @include('Frontend.includes.sidebar.iqac_menu')
             </div>
             <main class="col-md-9 float-left col px-5 pl-md-2 pt-2 main">
                 <a href="#" data-target="#sidebar" data-toggle="collapse"><i class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>

@@ -18,7 +18,7 @@
                                 </h3>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -38,44 +38,35 @@
                 <h2 class="display-4 font-weight-light text-center">F.A.</h2>
             </div>
             <div class="col-md-12" id="content_main">
-               
-                  
-            
-                      
-                         
+
+
+
+
+
                                 <div class="row">
-                        
-                        
+
+
                                         <div class="col-sm-3" >
-                                        <img src="{{asset('Frontend/images/lnmuF. A.jpg')}}" alt="">
-                                        
+                                        <img src="{{asset('Frontend/images/lnmuF.A.jpg')}}" alt="">
                                         </div>
                                         <div class="col-sm-6"><h3 style="color:#7C0000;">Sri Kailash Ram</h3>
                                             <p>F.A. , LNMU, Darbhanga, Bihar</br>
                                                 8544513256</br>
                                                 fa@lnmu.ac.in</p>
-                                        </div> 
-                                            
-                                            
+                                        </div>
+
+
                                 </div>
-            </div>       
-                                  
+            </div>
 
 
 
 
 
-
-
-                     
-                        
-                        
-            
-            
 
        </main>
 
-       
+
     </div>
 
 
@@ -86,16 +77,20 @@
     </ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1493966056575-3c12478e-26bd" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1493966056575-3c12478e-26bd" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">1. FA Office Staff Details</span></a></h4></div><div class="vc_tta-panel-body">
         <div class="wpb_text_column wpb_content_element ">
             <div class="wpb_wrapper">
-                <table width="100%" border='1'>
-    <tbody>
-    <tr>
-    <td width="187">Sl. No.</td>
-    <td width="181">Name</td>
-    <td width="187">Designation</td>
-    <td width="181">Mobile Number</td>
-    <td width="187">E-mail ID</td>
-    <td width="181">Photo</td>
-    </tr>
+                <table width="100%" border='1' class="table table-responsive border">
+    <thead>
+        <tr style="background-color: #00aeef;color:white;">
+            <td width="187">Sr. No.</td>
+            <td width="181">Name</td>
+            <td width="187">Designation</td>
+            <td width="181">Mobile Number</td>
+            <td width="187">E-mail ID</td>
+            <td width="181">Photo</td>
+            </tr>
+    </thead>
+
+                    <tbody>
+
     <tr>
     <td width="187">1.</td>
     <td width="181">Sri Sikandra yadav</td>
@@ -120,17 +115,17 @@
     <td width="181">9122964675</td>
     <td width="187"></td>
     <td width="187"><img src="{{asset('Frontend/images/lnmufa3.jpg')}}"></td>
- 
+
     </tr>
-    
+
     </tbody>
     </table>
-    
+
             </div>
         </div>
     </div></div>
-    
-    
+
+
     </div></div></div></div></div></div>
     <p>
     </p>

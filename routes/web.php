@@ -9,6 +9,16 @@ Route::get('/iqac-intro', [HomeController::class, 'iqacIntro'])->name('iqac-intr
 Route::get('/iqac-committee', [HomeController::class, 'iqacCommittee'])->name('iqacCommittee');
 Route::get('/iqac-strategic-plan', [HomeController::class, 'iqacStrategicPlan'])->name('iqacStrategicPlan');
 Route::get('/iqac-vision', [HomeController::class, 'iqacVision'])->name('iqacVision');
+Route::get('/iqac-feedback', [HomeController::class, 'iqacFeedback'])->name('iqacFeedback');
+Route::get('/iqac-events', [HomeController::class, 'iqacEvents'])->name('iqacEvents');
+Route::get('/iqac-reports', [HomeController::class, 'iqacReports'])->name('iqacReports');
+Route::get('/iqac-contacts', [HomeController::class, 'iqacContacts'])->name('iqacContacts');
+Route::get('/ssr-report', [HomeController::class, 'iqacSsr'])->name('iqacSsr');
+Route::get('/all-officer', [HomeController::class, 'allOfficer'])->name('allOfficer');
+
+Route::get('/admission', [HomeController::class, 'admission'])->name('admission');
+
+
 Route::get('/aqar', [HomeController::class, 'aqar'])->name('aqar');
 Route::get('/criteria', [HomeController::class, 'criteria'])->name('criteria');
 
@@ -16,7 +26,10 @@ Route::get('/contact-us', [HomeController::class, 'contactus'])->name('contactus
 
 Route::get('/kulgeet', [HomeController::class, 'kulgeet'])->name('kulgeet');
 
-Route::get('/all-officer', [HomeController::class, 'allOfficer']);
+Route::get('/archive', [HomeController::class, 'archive'])->name('archive');
+Route::get('/course', [HomeController::class, 'course'])->name('course');
+
+
 Route::get('/photo-gallery', [HomeController::class, 'photoGallery'])->name('photogallery');
 
 Route::get('/about-university',[HomeController::class,'about_university'])->name('about.university');

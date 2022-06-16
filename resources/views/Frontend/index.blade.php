@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html >
+<html>
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
@@ -174,19 +174,6 @@
                         </script>
                     </div>
                     <div class="col-sm-3 slideLft">
-                        {{-- <ul>
-
-                            <li><a href="#" target="_blank">Online Portal
-
-                                <img src="{{ asset('Frontend/images/newanim.gif') }}"></a></li>
-                            <li><a href="#" target="_blank">Helpline For University Student</a></li>
-                            <li><a href="#" target="_blank">Awards/Recognition</a></li>
-                            <li><a href="#" target="_blank">NIRF</a></li>
-
-                            <li><a href="#" target="_blank">Surprise Visit Report</a></li>
-                            <li><a href="#" target="_blank">Sport Calendar</a></li>
-                            <li><a href="#">Careers & Fellowships</a></li>
-                        </ul> --}}
 
                         <div class="module  feature-teachers" style="height:468px; padding:0px">
                             <div class="modcontent clearfix">
@@ -197,21 +184,6 @@
                                         <div class="carousel-inner">
 
                                             <div class='item'>
-                                                <h3 class="modtitle">Hon'bl Vice Chancellor</h3>
-                                                <div class="customslider">
-                                                    <div class="item-image"><img
-                                                            src="{{ asset('Frontend/images/vcsir.jpg') }}" alt="" />
-                                                    </div>
-                                                    <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Prof. Surendra Pratap Singh</h3>
-
-                                                        <a href="adm-vc.html" target="_blank"><strong style="color:black;">Read
-                                                                More...</strong></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class='item'>
                                                 <h3 class="modtitle">Hon'bl Chancellor </h3>
                                                 <div class="customslider">
                                                     <div class="item-image"><a
@@ -220,13 +192,35 @@
                                                                 src="{{ asset('Frontend/images/Fagu_chauhan.jpg') }}"
                                                                 alt="" /></a></div>
                                                     <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Shri Phagu Chauhan</h3>
+                                                        <h3 class="title"
+                                                            style='color:#7C0000;font-weight:bold'>Shri Phagu Chauhan
+                                                        </h3>
+                                                        <br />
+                                                        <a href="https://governor.bih.nic.in/" target="_blank"><strong
+                                                                style="color:black;">Read
+                                                                More</strong></a>
+                                                    </div>
+                                                </div>
+                                            </div>
 
-                                                        <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
+                                            <div class='item'>
+                                                <h3 class="modtitle">Hon'bl Vice Chancellor</h3>
+                                                <div class="customslider">
+                                                    <div class="item-image"><img
+                                                            src="{{ asset('Frontend/images/vcsir.jpg') }}" alt="" />
+                                                    </div>
+                                                    <div class="content-main">
+                                                        <h3 class="title"
+                                                            style='color:#7C0000;font-weight:bold'>Prof. Surendra Pratap
+                                                            Singh</h3>
+                                                        <br />
+                                                        <a href="{{ route('adm.vc') }}" target="_blank"><strong
+                                                                style="color:black;">Read
                                                                 More...</strong></a>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class='item'>
                                                 <h3 class="modtitle">Registrar </h3>
                                                 <div class="customslider">
@@ -236,9 +230,12 @@
                                                                 src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
                                                                 alt="" /></a></div>
                                                     <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>Prof. Mushtaque Ahmad</h3>
+                                                        <h3 class="title"
+                                                            style='color:#7C0000;font-weight:bold'>Prof. Mushtaque Ahmad
+                                                        </h3>
 
-                                                        <a href="adm-registrar.html" target="_blank"><strong  style="color:black;">Read
+                                                        <a href="adm-registrar.html" target="_blank"><strong
+                                                                style="color:black;">Read
                                                                 More...</strong></a>
                                                     </div>
                                                 </div>
@@ -246,8 +243,8 @@
 
                                         </div>
 
-                                        <a class="carousel-control left" href="#yt-extra-carousel1"
-                                            data-slide="prev"><i class="fa fa-angle-left"></i></a>
+                                        <a class="carousel-control left" href="#yt-extra-carousel1" data-slide="prev"><i
+                                                class="fa fa-angle-left"></i></a>
                                         <a class="carousel-control right" href="#yt-extra-carousel1"
                                             data-slide="next"><i class="fa fa-angle-right"></i></a>
                                         <ol class="carousel-indicators">
@@ -292,29 +289,27 @@
                                                     hspace="3">Admissions </a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#" target="_blank"><img
+                                            <a href="#" target="_blank" style="font-size:11px;"><img
                                                     src="{{ asset('Frontend/images/icon5.png') }}" alt=""
-                                                    hspace="3">E-Learning</a>
+                                                    hspace="3">E-Learning Resources</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('photogallery')}}" target="_blank"><img
+                                            <a href="{{ route('photogallery') }}" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon11.png') }}" alt=""
                                                     hspace="3">Photo Gallery</a>
                                         </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon8.png') }}" alt=""
-                                                    hspace="3">Grievance</a>
+                                                    hspace="3">Grievance Redressal</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img
-                                                    src="{{ asset('Frontend/images/icon1.png') }}" alt=""
+                                            <a href="#"><img src="{{ asset('Frontend/images/icon1.png') }}" alt=""
                                                     hspace="3">Examination Results</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img
-                                                    src="{{ asset('Frontend/images/icon4.png') }}" alt=""
-                                                    hspace="3">Academic </a>
+                                            <a href="#"><img src="{{ asset('Frontend/images/icon4.png') }}" alt=""
+                                                    hspace="3">AQAR </a>
                                         </li>
                                         <li class="" style="width: -20px;">
                                             <a href="#" target="_blank"><img
@@ -332,14 +327,12 @@
                                                     hspace="3">Statistical Cell</a>
                                         </li> --}}
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img
-                                                    src="{{ asset('Frontend/images/icon9.png') }}" alt=""
+                                            <a href="#"><img src="{{ asset('Frontend/images/icon9.png') }}" alt=""
                                                     hspace="3">University Tenders</a>
                                         </li>
 
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img
-                                                    src="{{ asset('Frontend/images/icon9.png') }}" alt=""
+                                            <a href="#"><img src="{{ asset('Frontend/images/icon9.png') }}" alt=""
                                                     hspace="3">RTI ACT</a>
                                         </li>
                                     </ul>
@@ -405,6 +398,24 @@
             <div class="container">
                 <div class="row">
 
+                    <div id="top9" class="col-lg-3 col-sm-6  slideLft1">
+                        <ul>
+                            <li><a href="#" target="_blank">Online Portal
+
+                                    <img src="http://newweb.lnmudde.com/Frontend/images/newanim.gif"></a></li>
+                            <li><a href="#" target="_blank">Helpline For University Student</a></li>
+                            <li><a href="#" target="_blank">Awards/Recognition</a></li>
+                            <li><a href="#" target="_blank">NIRF</a></li>
+
+                            <li><a href="#" target="_blank">Surprise Visit Report</a></li>
+                            <li><a href="#" target="_blank">Sport Calendar</a></li>
+                            <li><a href="#">Careers &amp; Fellowships</a></li>
+
+                            <li><a href="#" target="_blank">Features</a></li>
+                            <li><a href="#" target="_blank">RTI ACT</a></li>
+                            <li><a href="#">Careers &amp; Services</a></li>
+                        </ul>
+                    </div>
 
                     <div id="top7" class="col-lg-4 col-sm-12 pr0">
 
@@ -419,56 +430,57 @@
                                         class="meganew-wrap  meganew-rps01-1 meganew-rps02-1 meganew-rps03-1 meganew-rps04-1">
                                         <div class="meganew-box">
                                             <div class="meganew-box-inner">
-
                                                 <div class="meganew-items theme1">
-
                                                     <div class="item-other">
-
-
                                                         <ul class="otehr-link">
-
-
                                                             <li class="row">
-                                                                <a href="#"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>BA BCOM MA MCOM RESULT FOR JUNE 2021 (29.05.2022).</a>
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>BA BCOM MA MCOM
+                                                                    RESULT FOR JUNE 2021 (29.05.2022).</a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notice Regarding Grade Card Distribution For June 2021</a>
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Notice Regarding
+                                                                    Grade Card Distribution For June 2021</a>
                                                             </li>
 
                                                             <li class="row">
-                                                                <a href="#"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Apply Examination Form June 2022 </a>
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Notice Regarding
+                                                                    Grade Card Distribution For June 2021</a>
+                                                            </li>
+
+                                                            <li class="row">
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Notice Regarding
+                                                                    Grade Card Distribution For June 2021</a>
+                                                            </li>
+
+                                                            <li class="row">
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Apply Examination
+                                                                    Form June 2022 </a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Regarding Notice Examination Form June 2022  </a>
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Regarding Notice
+                                                                    Examination Form June 2022 </a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>MSC PRACTICAL
+                                                                    SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>MSC PRACTICAL SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
+                                                                <a href="#" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>MSC PRACTICAL
+                                                                    SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
                                                             </li>
-
-
-
-
                                                         </ul>
                                                         </marquee>
                                                         <a href="#" class="col-xs-12" title=""
                                                             style="background: #7C0000; color: #fff; width: auto;"><strong>More
                                                                 News...</strong></a>
-
                                                     </div>
                                                 </div>
                                             </div>
@@ -504,8 +516,7 @@
                                                                         style="float: left; background:#7C0000">13th-17th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
-                                                                <a href="#"
-                                                                    target="_blank" class="col-xs-10"
+                                                                <a href="#" target="_blank" class="col-xs-10"
                                                                     title="">Event is going to be orgnised </a>
                                                             </li>
                                                             <li class="row">
@@ -513,9 +524,9 @@
                                                                         style="float: left; background:#7C0000">17th-18th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
-                                                                <a href="#"
-                                                                    target="_blank" class="col-xs-10"
-                                                                    title="">Event will reschedule on dated Please Fill happy. </a>
+                                                                <a href="#" target="_blank" class="col-xs-10"
+                                                                    title="">Event will reschedule on dated Please Fill
+                                                                    happy. </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0" title=""><span
@@ -523,9 +534,10 @@
                                                                         24th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
-                                                                <a href="#" target="_blank"
-                                                                    class="col-xs-10" title="">This Event is orgnised by DDE LNMU on
-                                                                    ocation of holi. Hon'ble minister is our event chief minister.
+                                                                <a href="#" target="_blank" class="col-xs-10"
+                                                                    title="">This Event is orgnised by DDE LNMU on
+                                                                    ocation of holi. Hon'ble minister is our event chief
+                                                                    minister.
                                                                 </a>
                                                             </li>
                                                             <li class="row">
@@ -533,8 +545,8 @@
                                                                         style="float: left; background:#7C0000">30th-31st</span><span
                                                                         style="float: left; background: #00aeef">May
                                                                         2022</span></a>
-                                                                <a href="#"
-                                                                    target="_blank" class="col-xs-10" title="">Two
+                                                                <a href="#" target="_blank" class="col-xs-10"
+                                                                    title="">Two
                                                                     Days Hands-On Workshop on "Nanoplate-Based Digital
                                                                     PCR" Organized by Dept. of Genetics & CFRD. </a>
                                                             </li>
@@ -544,15 +556,14 @@
                                                                         24th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
-                                                                <a href="#" target="_blank"
-                                                                    class="col-xs-10" title="">IT Cell of DDE LNMU is going to present
+                                                                <a href="#" target="_blank" class="col-xs-10"
+                                                                    title="">IT Cell of DDE LNMU is going to present
                                                                     Cyber Security Workshop.
                                                                 </a>
                                                             </li>
 
 
-                                                            <a href="#" class="col-xs-12"
-                                                                title=""
+                                                            <a href="#" class="col-xs-12" title=""
                                                                 style="background: #7C0000; color: #fff; width: auto; margin-top:10px;"><strong>More
                                                                     Events...</strong></a>
                                                     </div>
@@ -569,98 +580,7 @@
 
                     </div>
 
-                    <div id="top9" class="col-lg-3 col-sm-6  slideLft1">
-                        {{-- <div class="module  feature-teachers" style="height:468px">
-                            <div class="modcontent clearfix">
-                                <div class="carousel-custommer">
-                                    <div id="yt-extra-carousel1" style="width:100%; height:100%"
-                                        class="yt-extra-carousel carousel slide pull-center" data-ride="carousel"
-                                        data-interval='false'>
-                                        <div class="carousel-inner">
 
-                                            <div class='item'>
-                                                <h3 class="modtitle">Hon'bl Vice Chancellor</h3>
-                                                <div class="customslider">
-                                                    <div class="item-image"><img
-                                                            src="{{ asset('Frontend/images/vcsir.jpg') }}" alt="" />
-                                                    </div>
-                                                    <div class="content-main">
-                                                        <h3 class="title">Surendra Pratap Singh</h3>
-
-                                                        <a href="adm-vc.html" target="_blank"><strong>Read
-                                                                More...</strong></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class='item'>
-                                                <h3 class="modtitle">Hon'bl Chancellor </h3>
-                                                <div class="customslider">
-                                                    <div class="item-image"><a
-                                                            href="RegistrarP%20Laxminarayana%20CV.pdf"
-                                                            target="_blank"><img
-                                                                src="{{ asset('Frontend/images/Fagu_chauhan.jpg') }}"
-                                                                alt="" /></a></div>
-                                                    <div class="content-main">
-                                                        <h3 class="title">Shri Phagu Chauhan</h3>
-
-                                                        <a href="adm-registrar.html" target="_blank"><strong>Read
-                                                                More...</strong></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class='item'>
-                                                <h3 class="modtitle">Registrar </h3>
-                                                <div class="customslider">
-                                                    <div class="item-image"><a
-                                                            href="RegistrarP%20Laxminarayana%20CV.pdf"
-                                                            target="_blank"><img
-                                                                src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
-                                                                alt="" /></a></div>
-                                                    <div class="content-main">
-                                                        <h3 class="title">Dr. Mushtaque Ahmad</h3>
-
-                                                        <a href="adm-registrar.html" target="_blank"><strong>Read
-                                                                More...</strong></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                        </div>
-
-                                        <a class="carousel-control left" href="#yt-extra-carousel1"
-                                            data-slide="prev"><i class="fa fa-angle-left"></i></a>
-                                        <a class="carousel-control right" href="#yt-extra-carousel1"
-                                            data-slide="next"><i class="fa fa-angle-right"></i></a>
-                                        <ol class="carousel-indicators">
-                                            <li data-slide-to="0" data-target="#yt-extra-carousel1"></li>
-                                            <li data-slide-to="1" data-target="#yt-extra-carousel1"></li>
-                                            <li data-slide-to="2" data-target="#yt-extra-carousel1"></li>
-                                        </ol>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> --}}
-
-                            <ul>
-
-                                <li><a href="#" target="_blank">Online Portal
-
-                                    <img src="http://newweb.lnmudde.com/Frontend/images/newanim.gif"></a></li>
-                                <li><a href="#" target="_blank">Helpline For University Student</a></li>
-                                <li><a href="#" target="_blank">Awards/Recognition</a></li>
-                                <li><a href="#" target="_blank">NIRF</a></li>
-
-                                <li><a href="#" target="_blank">Surprise Visit Report</a></li>
-                                <li><a href="#" target="_blank">Sport Calendar</a></li>
-                                <li><a href="#">Careers &amp; Fellowships</a></li>
-
-                                <li><a href="#" target="_blank">Features</a></li>
-                                <li><a href="#" target="_blank">RTI ACT</a></li>
-                                <li><a href="#">Careers &amp; Services</a></li>
-                            </ul>
-                        </div>
 
 
                 </div>
@@ -682,7 +602,7 @@
 
         <section id="yt_spotlight3" class="block " style="margin-bottom:50px;">
             <div class="container">
-                <div class="row" >
+                <div class="row">
                     <div id="top4" class="col-lg-9 col-sm-6">
                         <div class="module  k2-slider-style-one">
                             <h3 class="modtitle">Campus Colleges</h3>
@@ -704,8 +624,7 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#"
-                                                                        target="_blank"><img alt=" "
+                                                                    <a href="#" target="_blank"><img alt=" "
                                                                             src="{{ asset('Frontend/images/banners/06.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
@@ -714,8 +633,8 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title=" "
-                                                                            target="_blank">Univ. PG Dep. of Arts &
+                                                                        <a href="#" title=" " target="_blank">Univ. PG
+                                                                            Dep. of Arts &
                                                                             Social Sciences</a>
                                                                     </div>
                                                                     <div class="item-content">
@@ -727,8 +646,7 @@
                                                                             <!-- first year class.-->
                                                                         </div>
                                                                         <div class="item-read">
-                                                                            <a href="#"
-                                                                                title=" " target="_blank">
+                                                                            <a href="#" title=" " target="_blank">
                                                                                 <i class="fa fa-check"></i><span>Read
                                                                                     more</span>
                                                                             </a>
@@ -753,13 +671,14 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#"
-                                                                            title="Fazen mipa nace rumas "
-                                                                            target="_blank">University PG Department of Science</a>
+                                                                        <a href="#" title="Fazen mipa nace rumas "
+                                                                            target="_blank">University PG Department of
+                                                                            Science</a>
                                                                     </div>
                                                                     <div class="item-content">
-                                                                        <div class="item-des">University PG Department of Science
-                                                                             the
+                                                                        <div class="item-des">University PG
+                                                                            Department of Science
+                                                                            the
                                                                             distinction of being the oldest and the
                                                                             biggest among the Engineering Colleges of
                                                                             the combined State of Andhra Pradesh.</div>
@@ -782,26 +701,27 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#"
-                                                                        target="_blank"><img
+                                                                    <a href="#" target="_blank"><img
                                                                             alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/banners/mba.jfif') }}" style="height:175px;" /></a>
+                                                                            src="{{ asset('Frontend/images/banners/mba.jfif') }}"
+                                                                            style="height:175px;" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
                                                             <div class="item-info">
                                                                 <div class="item-inner">
-                                                                    <div class="item-title"><a
-                                                                            href="#"
+                                                                    <div class="item-title"><a href="#"
                                                                             title="Sazen mipan guka muten "
-                                                                            target="_blank">Univ. PG Dep. of Commerce & Management</a></div>
+                                                                            target="_blank">Univ. PG Dep. of Commerce &
+                                                                            Management</a></div>
                                                                     <div class="item-content">
-                                                                        <div class="item-des">University PG Department of Commerce & Management
-                                                                            University PG Department of Commerce & Management
+                                                                        <div class="item-des">University PG
+                                                                            Department of Commerce & Management
+                                                                            University PG Department of Commerce &
+                                                                            Management
                                                                             .</div>
                                                                         <div class="item-read">
-                                                                            <a href="#"
-                                                                                title="Sazen mipan guka muten "
+                                                                            <a href="#" title="Sazen mipan guka muten "
                                                                                 target="_blank"><i
                                                                                     class="fa fa-check"></i><span>Read
                                                                                     more</span></a>

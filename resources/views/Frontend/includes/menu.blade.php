@@ -4,38 +4,47 @@
             <div id="yt_mainmenu" class="col-md-12 col-sm-12">
                 <ul id="meganavigator" class="clearfix navi">
                     <li class="level1">
-                        <a title="Pages " class="level1 havechild  item-link" href="{{url('/')}}"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="{{ url('/') }}"><span
                                 class="menu-title">Home</span></a>
 
                     </li>
 
                     <li class="active level1 havechild first">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
-                                class="menu-title">About Us</span></a>
+                        <a title="Pages " class="level1 havechild  item-link" href="#"><span class="menu-title">About
+                                Us</span></a>
                         <div class="level2 menu mega-content">
                             <div class="mega-content-inner clearfix" style="width:200px">
 
                                 <div class="mega-col last more" style="width:100%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="{{route('about.university')}}"><span
+                                            <a title="" class="level2 first item-link"
+                                                href="{{ route('about.university') }}"><span
                                                     class="menu-title">University at a glance</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{route('about.focus')}}"><span
+                                            <a title="" class="level2 item-link" href="{{ route('about.focus') }}"><span
                                                     class="menu-title">Focus</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 last item-link" href="{{route('about.campus')}}"><span
+                                            <a title="" class="level2 last item-link"
+                                                href="{{ route('about.campus') }}"><span
                                                     class="menu-title">Campus</span></a>
                                         </li>
-                                        <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href='{{route('about.bestpractice')}}'
-                                                target="_blank"><span class="menu-title">Best Practice</span></a>
+                                        <li class="level2">
+                                            <a title="" class="level2 last item-link"
+                                                href='{{ route('about.bestpractice') }}' target="_blank"><span
+                                                    class="menu-title">Best Practice</span></a>
+                                        </li>
+                                        <li class="level2">
+                                            <a title="" class="level2 last item-link"
+                                                href='{{ route('about.visionmission') }}' target="_blank"><span
+                                                    class="menu-title">Vision,Mission&Objectives</span></a>
                                         </li>
                                         <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href='{{route('about.visionmission')}}'
-                                                target="_blank"><span class="menu-title">Vision,Mission&Objectives</span></a>
+                                            <a title="" class="level2 last item-link"
+                                                href='#' target="_blank"><span
+                                                    class="menu-title">Institutional Distinctveness</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -48,24 +57,30 @@
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span
                                 class="menu-title">Administration</span></a>
-                        <div class="level2 menu mega-content">
+                        <div class="level2 menu mega-content" style="top: 18px;">
                             <div class="mega-content-inner clearfix" style="width:400px">
                                 <div class="mega-col last more" style="width:50%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="https://governor.bih.nic.in/" target="_blank"><span
+                                            <a title="" class="level2 first item-link"
+                                                href="https://governor.bih.nic.in/" target="_blank"><span
                                                     class="menu-title">Chancellor</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{route('adm.vc')}}"><span
+                                            <a title="" class="level2 item-link" href="{{ route('adm.vc') }}"><span
                                                     class="menu-title">Vice-Chancellor</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{route('adm.pvc')}}"><span
+                                            <a title="" class="level2 item-link" href="{{ route('adm.pvc') }}"><span
                                                     class="menu-title">Pro Vice-Chancellor</span></a>
                                         </li>
+                                        <li class="level2">
+                                            <a title="" class="level2 item-link" href="#"><span
+                                                    class="menu-title">Registrar</span></a>
+                                        </li>
                                         <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href="{{route('adm.ogzstr')}}"><span
+                                            <a title="" class="level2 last item-link"
+                                                href="{{ route('adm.ogzstr') }}"><span
                                                     class="menu-title">Organizational Structure</span></a>
                                         </li>
                                     </ul>
@@ -74,20 +89,28 @@
                                 <div class="mega-col last more" style="width:50%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="{{route('adm.fa')}}"><span
+                                            <a title="" class="level2 first item-link"
+                                                href="{{ route('adm.fa') }}"><span
                                                     class="menu-title">F.A.</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{route('adm.dsw')}}"><span
+                                            <a title="" class="level2 item-link" href="{{ route('adm.dsw') }}"><span
                                                     class="menu-title">D.S.W.</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{route('adm.pructor')}}"><span
+                                            <a title="" class="level2 item-link"
+                                                href="{{ route('adm.pructor') }}"><span
                                                     class="menu-title">Proctor</span></a>
                                         </li>
-                                        <li class="level2 last">
-                                            <a title="" class="level2 last item-link" href="{{route('adm.ccdc')}}"><span
+                                        <li class="level2">
+                                            <a title="" class="level2 last item-link"
+                                                href="{{ route('adm.ccdc') }}"><span
                                                     class="menu-title">C.C.D.C.</span></a>
+                                        </li>
+                                        <li class="level2 last">
+                                            <a title="" class="level2 last item-link"
+                                                href="{{ route('allOfficer') }}"><span
+                                                    class="menu-title">View All</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -96,75 +119,36 @@
                         </div>
                     </li>
 
-                    <li class="level1 havechild ">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
-                                class="menu-title">Academics</span></a>
+                    <li class="level1 havechild">
+                        <a title="Pages " class="level1 havechild  item-link" href="#"><span class="menu-title">Academics</span></a>
                         <div class="level2 menu mega-content">
-                            <div class="mega-content-inner clearfix" style="width:550px">
-                                <div class="mega-col first more" style="width:33%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 first havechild">
-                                            <a title="" class="level2 first havechild item-link" href="#"><span
-                                                    class="menu-title">PHD</span></a>
-                                        </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Faculties</span></a>
-                                        </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Affiliated Colleges</span></a>
-                                        </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Constituent Colleges</span></a>
-                                        </li>
-                                    </ul>
-                                </div>
+                            <div class="mega-content-inner clearfix" style="width:200px">
 
-                                <div class="mega-col last more" style="width:33%;">
+                                <div class="mega-col last more" style="width:100%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="#"><span
+                                            <a title="" class="level2 first item-link"
+                                                href="{{ route('about.university') }}"><span
+                                                    class="menu-title">Ph. D.</span></a>
+                                        </li>
+                                        <li class="level2">
+                                            <a title="" class="level2 item-link" href="{{ route('about.focus') }}"><span
                                                     class="menu-title">Faculties</span></a>
                                         </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Head of Departments</span></a>
+                                        <li class="level2">
+                                            <a title="" class="level2 last item-link"
+                                                href="{{ route('about.campus') }}"><span
+                                                    class="menu-title">Colleges</span></a>
                                         </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Chairman, BoS</span></a>
-                                        </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Academic Programmes</span></a>
+                                        <li class="level2 last">
+                                            <a title="" class="level2 last item-link"
+                                                href='{{ route('about.bestpractice') }}' target="_blank"><span
+                                                    class="menu-title">Self Financed Inst.</span></a>
                                         </li>
                                     </ul>
                                 </div>
 
-                                <div class="mega-col last more" style="width:33%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">Academic Innovations</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Self Finance</span></a>
-                                        </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Institutional Linkages</span></a>
-                                        </li>
 
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Directorate of Academic
-                                                    Audit</span></a>
-                                        </li>
-                                    </ul>
-                                </div>
                             </div>
                         </div>
                     </li>
@@ -177,21 +161,26 @@
                                 <div class="mega-col last more" style="width:50%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"
-                                                target="_blank"><span class="menu-title">Admission</span></a>
+                                            <a title="" class="level2 first item-link" href="{{route('admission')}}" target="_blank"><span
+                                                    class="menu-title">Admission</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">Examination</span></a>
                                         </li>
-                                        <li class="level2 last">
+                                        <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
                                                     class="menu-title">Cells</span></a>
                                         </li>
 
+                                        <li class="level2">
+                                            <a title="" class="level2 item-link" href="#"><span
+                                                    class="menu-title">Regulation</span></a>
+                                        </li>
+
                                         <li class="level2 last">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">E-learning Resource</span></a>
+                                                    class="menu-title">Fee Structure</span></a>
                                         </li>
 
                                     </ul>
@@ -203,20 +192,24 @@
 
                                         <li class="level2 first">
                                             <a title="" class="level2 last item-link" href="#"><span
-                                                    class="menu-title">Regulation</span></a>
+                                                    class="menu-title">PG Syllabus</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Fee Structure</span></a>
+                                                    class="menu-title">Library</span></a>
                                         </li>
-                                        <li class="level2 last">
+                                        <li class="level2 ">
                                             <a title="" class="level2 last item-link" href="#"><span
-                                                    class="menu-title">Syllabus</span></a>
+                                                    class="menu-title">Hostel</span></a>
+                                        </li>
+                                        <li class="level2 ">
+                                            <a title="" class="level2 last item-link" href="#"><span
+                                                    class="menu-title">Student Credit Card Guideline</span></a>
                                         </li>
 
                                         <li class="level2 last">
                                             <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Free Online Course</span></a>
+                                                    class="menu-title">Suggestive Measure</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -226,36 +219,8 @@
                     </li>
 
                     <li class="level1 havechild">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="{{route('course')}}"><span
                                 class="menu-title">Programme/Course</span></a>
-                                {{-- <div class="level2 menu mega-content">
-                                    <div class="mega-content-inner clearfix" style="width:220px">
-                                        <div class="mega-col first more" style="width:100%;">
-                                            <ul class="subnavi level2">
-                                                <li class="level2 first havechild">
-                                                    <a title="" class="level2 first havechild item-link" href="#"><span
-                                                            class="menu-title">RTI ACT</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Rules & Regulations</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Public information Officers</span></a>
-                                                </li>
-                                                <li class="level2 havechild">
-                                                    <a title="" class="level2 havechild item-link" href="#"><span
-                                                            class="menu-title">Electronic Information</span></a>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                </div> --}}
-
                     </li>
 
                     <li class="level1 havechild">
@@ -266,25 +231,28 @@
                                 <div class="mega-col last more" style="width:55%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="{{route('iqac-intro')}}"><span
-                                                    class="menu-title">Introduction</span></a>
+                                            <a title="" class="level2 first item-link"
+                                                href="{{ route('iqac-intro') }}"><span
+                                                    class="menu-title">Home</span></a>
                                         </li>
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">IQAC Committee</span></a>
+                                            <a title="" class="level2 first item-link" href="{{route('iqacCommittee')}}"><span
+                                                    class="menu-title">Committee</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{route('iqacStrategicPlan')}}"><span
+                                            <a title="" class="level2 item-link"
+                                                href="{{ route('iqacStrategicPlan') }}"><span
                                                     class="menu-title">Strategic plan</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{route('iqacVision')}}"><span
-                                                    class="menu-title">Vision, Mission and Strategies                                                </span></a>
+                                            <a title="" class="level2 item-link"
+                                                href="{{ route('iqacVision') }}"><span class="menu-title">Vision,
+                                                    Mission and Strategies </span></a>
                                         </li>
 
 
                                         <li class="level2 last">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('iqac-intro') }}"><span
                                                     class="menu-title">NAAC Accreditation</span></a>
                                         </li>
                                     </ul>
@@ -293,21 +261,25 @@
                                 <div class="mega-col last more" style="width:45%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="#"><span
+                                            <a title="" class="level2 first item-link" href="{{route('iqacFeedback')}}"><span
                                                     class="menu-title">Feedback</span></a>
                                         </li>
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link"
-                                                href="#"><span
-                                                    class="menu-title">IQAC Events</span></a>
+                                            <a title="" class="level2 first item-link" href="{{route('iqacEvents')}}"><span
+                                                    class="menu-title">Events</span></a>
                                         </li>
                                         <li class="level2 first">
-                                            <a title="" class="level2 last item-link" href="#"><span
+                                            <a title="" class="level2 last item-link" href="{{route('iqacReports')}}"><span
                                                     class="menu-title">Reports</span></a>
                                         </li>
 
+                                        <li class="level2 first">
+                                            <a title="" class="level2 last item-link" href="{{route('aqar')}}"><span
+                                                    class="menu-title">AQAR</span></a>
+                                        </li>
+
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('iqacContacts')}}"><span
                                                     class="menu-title">Contact Us</span></a>
                                         </li>
 
@@ -317,91 +289,58 @@
                         </div>
                     </li>
 
-                    <li class="level1 havechild ">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
-                                class="menu-title">Documents</span></a>
+                    <li class="level1 havechild">
+                        <a title="Pages " class="level1 havechild  item-link" href="#"><span class="menu-title">Documents</span></a>
                         <div class="level2 menu mega-content">
-                            <div class="mega-content-inner clearfix" style="width:600px">
-                                <div class="mega-col first more" style="width:35%;">
+                            <div class="mega-content-inner clearfix" style="width:200px">
+
+                                <div class="mega-col last more" style="width:100%;">
                                     <ul class="subnavi level2">
-                                        <li class="level2 first havechild">
-                                            <a title="" class="level2 first havechild item-link" href="#"><span
+                                        <li class="level2 first ">
+                                            <a title="" class="level2 first item-link"
+                                                href="{{ route('about.university') }}"><span
                                                     class="menu-title">BSU ACT-1976</span></a>
                                         </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
-                                                    class="menu-title">Statutes</span></a>
+                                        <li class="level2">
+                                            <a title="" class="level2 item-link" href="{{ route('about.focus') }}"><span
+                                                    class="menu-title">Statues</span></a>
                                         </li>
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
+                                        <li class="level2">
+                                            <a title="" class="level2 last item-link"
+                                                href="{{ route('about.campus') }}"><span
                                                     class="menu-title">Policies</span></a>
                                         </li>
-
-                                    </ul>
-                                </div>
-
-                                <div class="mega-col last more" style="width:33%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 havechild">
-                                            <a title="" class="level2 havechild item-link" href="#"><span
+                                        <li class="level2">
+                                            <a title="" class="level2 last item-link"
+                                                href="{{ route('about.campus') }}"><span
                                                     class="menu-title">Regulation</span></a>
                                         </li>
-                                        <li class="level2 first ">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">Notification</span></a>
-                                        </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Notice</span></a>
-                                        </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Office Order</span></a>
+                                        <li class="level2 last">
+                                            <a title="" class="level2 last item-link"
+                                                href='{{ route('about.bestpractice') }}' target="_blank"><span
+                                                    class="menu-title">Others</span></a>
                                         </li>
                                     </ul>
                                 </div>
 
-                                <div class="mega-col last more" style="width:32%;">
-                                    <ul class="subnavi level2">
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Tenders</span></a>
-                                        </li>
-                                        <li class="level2 ">
-                                            <a title="" class="level2 item-link" href="#"><span
-                                                    class="menu-title">Events</span></a>
-                                        </li>
-                                        <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="#"><span
-                                                    class="menu-title">Seminars</span></a>
-                                        </li>
 
-                                    </ul>
-                                </div>
                             </div>
                         </div>
                     </li>
 
-
-
-
-
                     <li class="level1 havechild ">
-                        <a title="Pages " class="level1 havechild  item-link" href="{{route('kulgeet')}}"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="{{ route('kulgeet') }}"><span
                                 class="menu-title">Kulgeet</span></a>
 
                     </li>
 
-
                     <li class="level1 havechild">
-                        <a title="Pages " class="level1 havechild  item-link" href="#"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="{{route('archive')}}"><span
                                 class="menu-title">Archieve</span></a>
-
-
                     </li>
 
                     <li class="level1 havechild ">
-                        <a title="Pages " class="level1 havechild  item-link" href="{{route('contactus')}}"><span
+                        <a title="Pages " class="level1 havechild  item-link" href="{{ route('contactus') }}"><span
                                 class="menu-title">Contact Us</span></a>
 
                     </li>

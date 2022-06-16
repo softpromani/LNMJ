@@ -19,6 +19,7 @@
     <link href='https://fonts.googleapis.com/css?family=News+Cycle:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Crimson+Text:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="{{ asset('Frontend/css/plg_banner.css') }}" type="text/css" />
     <link rel="stylesheet" href="{{ asset('Frontend/css/module_default05e7.css?v=1429952280') }}" type="text/css" />
     <link rel="stylesheet" href="{{ asset('Frontend/css/style2.css') }}" type="text/css" />

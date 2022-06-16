@@ -36,14 +36,39 @@ class HomeController extends Controller
         return view('Frontend.iqac_vision');
     }
 
+    function iqacFeedback()
+    {
+        return view('Frontend.iqac_feedback');
+    }
+
+    function iqacEvents()
+    {
+        return view('Frontend.iqac_events');
+    }
+
+    function iqacReports()
+    {
+        return view('Frontend.iqac_reports');
+    }
+
+    function iqacContacts()
+    {
+        return view('Frontend.iqac_contacts');
+    }
+
     function iqacSsr()
     {
-        return view('Frontend.iqac_intro');
+        return view('Frontend.iqac_ssr');
     }
 
     function kulgeet()
     {
         return view('Frontend.kulgeet');
+    }
+
+    function admission()
+    {
+        return view('Frontend.admission');
     }
 
     function aqar()
@@ -63,7 +88,17 @@ class HomeController extends Controller
 
     function photoGallery()
     {
-        return view('Frontend/photo_gallery');
+        return view('Frontend.photo_gallery');
+    }
+
+    function archive()
+    {
+        return view('Frontend.archive');
+    }
+
+    function course()
+    {
+        return view('Frontend.course');
     }
 
     public function about_university()
@@ -129,12 +164,12 @@ class HomeController extends Controller
         return view('Frontend.adm-pructor');
         # code...
     }
-    
+
 
     public function adm_ccdc()
     {
         return view('Frontend.adm-ccdc');
         # code...
     }
-    
+
 }
