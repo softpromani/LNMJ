@@ -625,7 +625,7 @@
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
                                                                     <a href="#" target="_blank"><img alt=" "
-                                                                            src="{{ asset('Frontend/images/banners/06.jpg') }}" /></a>
+                                                                            src="{{ asset('Frontend/images/index/NationalSeminar1.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -633,11 +633,9 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title=" " target="_blank">Univ. PG
-                                                                            Dep. of Arts &
-                                                                            Social Sciences</a>
+                                                                        <a href="#" title=" " target="_blank">National Seminar</a>
                                                                     </div>
-                                                                    <div class="item-content">
+                                                                    {{-- <div class="item-content">
                                                                         <div class="item-des">The Arts College
                                                                             was inaugurated on Mont xx YYYY. It was
                                                                             temporarily housed in eight rented buildings
@@ -651,19 +649,18 @@
                                                                                     more</span>
                                                                             </a>
                                                                         </div>
-                                                                    </div>
+                                                                    </div> --}}
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                            
+                                                         </div>
                                                     </div>
-
                                                     <div class="item">
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#" target="_blank"><img
-                                                                            alt="Fazen mipa nace rumas "
-                                                                            src="{{ asset('Frontend/images/banners/005.jpg') }}" /></a>
+                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                            src="{{ asset('Frontend/images/index/NationalSeminar12jpg.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
@@ -671,69 +668,79 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title="Fazen mipa nace rumas "
-                                                                            target="_blank">University PG Department of
-                                                                            Science</a>
+                                                                        <a href="#" title=" " target="_blank">National Seminar 2</a>
                                                                     </div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">University PG
-                                                                            Department of Science
-                                                                            the
-                                                                            distinction of being the oldest and the
-                                                                            biggest among the Engineering Colleges of
-                                                                            the combined State of Andhra Pradesh.</div>
-                                                                        <div class="item-read">
-                                                                            <a href="http://www.uceou.edu/"
-                                                                                title="Fazen mipa nace rumas "
-                                                                                target="_blank">
-                                                                                <i class="fa fa-check"></i><span>Read
-                                                                                    more</span>
-                                                                            </a>
-                                                                        </div>
-                                                                    </div>
-
+                                                                 
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                            
+                                                         </div>
                                                     </div>
 
                                                     <div class="item">
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#" target="_blank"><img
-                                                                            alt="Sazen mipan guka muten "
-                                                                            src="{{ asset('Frontend/images/banners/mba.jfif') }}"
-                                                                            style="height:175px;" /></a>
+                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                            src="{{ asset('Frontend/images/index/NationalSeminar3.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
                                                             </div>
+
                                                             <div class="item-info">
                                                                 <div class="item-inner">
-                                                                    <div class="item-title"><a href="#"
-                                                                            title="Sazen mipan guka muten "
-                                                                            target="_blank">Univ. PG Dep. of Commerce &
-                                                                            Management</a></div>
-                                                                    <div class="item-content">
-                                                                        <div class="item-des">University PG
-                                                                            Department of Commerce & Management
-                                                                            University PG Department of Commerce &
-                                                                            Management
-                                                                            .</div>
-                                                                        <div class="item-read">
-                                                                            <a href="#" title="Sazen mipan guka muten "
-                                                                                target="_blank"><i
-                                                                                    class="fa fa-check"></i><span>Read
-                                                                                    more</span></a>
-                                                                        </div>
+                                                                    <div class="item-title">
+                                                                        <a href="#" title=" " target="_blank">National Seminar </a>
                                                                     </div>
+                                                                 
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                            
+                                                         </div>
                                                     </div>
 
+                                                    <div class="item">
+                                                        <div class="item-wrap">
+                                                            <div class="item-img item-height">
+                                                                <div class="item-img-info">
+                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                            src="{{ asset('Frontend/images/index/InternationalEconfrence.jpg') }}" /></a>
+                                                                    <div class="over-image"></div>
+                                                                </div>
+                                                            </div>
 
+                                                            <div class="item-info">
+                                                                <div class="item-inner">
+                                                                    <div class="item-title">
+                                                                        <a href="#" title=" " target="_blank">International E-Confrence </a>
+                                                                    </div>
+                                                                 
+                                                                </div>
+                                                            </div>
+                                                            
+                                                         </div>
+                                                    </div>
+                                                    <div class="item">
+                                                        <div class="item-wrap">
+                                                            <div class="item-img item-height">
+                                                                <div class="item-img-info">
+                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                            src="{{ asset('Frontend/images/index/natiEcon1.jpg') }}" /></a>
+                                                                    <div class="over-image"></div>
+                                                                </div>
+                                                            </div>
 
+                                                            <div class="item-info">
+                                                                <div class="item-inner">
+                                                                    <div class="item-title">
+                                                                        <a href="#" title=" " target="_blank">International E-Confrence </a>
+                                                                    </div>
+                                                                 
+                                                                </div>
+                                                            </div>
+                                                            
+                                                         </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

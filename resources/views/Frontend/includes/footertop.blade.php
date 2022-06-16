@@ -77,8 +77,8 @@
                                 <li class="item-1537"><a href="#">Darbhanga, Bihar 846004,</a></li>
                                 <li class="item-1538"><a href="#">India</a></li>
                                 <li class="item-1539"><a
-                                        href="#">Phone : 06272-246506</a></li>
-                                <li class="item-1540"><a href="#">Email : dde@lnmu.ac.in</a></li>
+                                        href="#">Phone : xxx-xxxxx</a></li>
+                                <li class="item-1540"><a href="#">Email : xxx@xx.xx</a></li>
 
 
                             </ul>
