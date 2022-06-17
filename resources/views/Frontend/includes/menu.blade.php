@@ -128,11 +128,11 @@
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
                                             <a title="" class="level2 first item-link"
-                                                href="{{ route('about.university') }}"><span
+                                                href="{{ route('acd.phd') }}"><span
                                                     class="menu-title">Ph. D.</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{ route('about.focus') }}"><span
+                                            <a title="" class="level2 item-link" href="{{ route('acd.faculties') }}"><span
                                                     class="menu-title">Faculties</span></a>
                                         </li>
                                         <li class="level2">
