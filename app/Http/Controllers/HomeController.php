@@ -172,4 +172,25 @@ class HomeController extends Controller
         # code...
     }
 
+    public function adm_registrar()
+    {
+        return view('Frontend.adm-registrar');
+    }
+
+
+    public function acd_phd()
+    {
+        return view('Frontend.acd-phd');
+    }
+
+    public function acd_faculties()
+    {
+        return view('Frontend.acd-faculties');
+    }
+
+
+    public function acd_college()
+    {
+        return view('Frontend.acd-college');
+    }
 }

@@ -46,6 +46,13 @@ Route::get('/adm-fa',[HomeController::class,'adm_fa'])->name('adm.fa');
 Route::get('/adm-dsw',[HomeController::class,'adm_dsw'])->name('adm.dsw');
 Route::get('/adm-pructor',[HomeController::class,'adm_pructor'])->name('adm.pructor');
 Route::get('/adm-ccdc',[HomeController::class,'adm_ccdc'])->name('adm.ccdc');
+Route::get('/adm-registrar',[HomeController::class,'adm_registrar'])->name('adm.registrar');
 
 // Route::get('/vice-chancellor',[HomeController::class,'vc'])->name('vice_chancellor');
 
+
+// Academics
+
+Route::get('/acd-phd',[HomeController::class,'acd_phd'])->name('acd.phd');
+Route::get('/acd-faculties',[HomeController::class,'acd_faculties'])->name('acd.faculties');
+Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');

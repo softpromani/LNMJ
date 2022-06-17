@@ -806,9 +806,9 @@
                                     </li>
 
                                     <li><a href="#">Admission Notifications</a></li>
-                                    <li><a href="#">Download Forms 1</a></li>
-                                    <li><a href="#">Download Forms 2</a></li>
-                                    <li><a href="#">Download Forms 3</a></li>
+                                    <li><a href="https://www.aiu.ac.in/Meetings/meeting.asp" target="_blank">AIU Meetings Notificationsmeu</a></li>
+                                    <li><a href="https://ugc.ac.in/ugc_notices.aspx" target="_blank">UGC Notificationmeu </a></li>
+                                    <li><a href="http://www.educationbihar.gov.in/universityletter.aspx?uid=4" target="_blank">University letter at Education Department of Bihar Govt.</a></li>
                                     <li><a href="#">Grievance</a></li>
 
 

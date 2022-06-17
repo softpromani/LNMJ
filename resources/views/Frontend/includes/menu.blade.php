@@ -75,7 +75,7 @@
                                                     class="menu-title">Pro Vice-Chancellor</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('adm.registrar')}}"><span
                                                     class="menu-title">Registrar</span></a>
                                         </li>
                                         <li class="level2 last">
