@@ -18,6 +18,7 @@
         <a href="#" class="list-group-item">NAAC PPT </a>
         <a href="#" class="list-group-item">SSS </a>
     </div>
+    <a href="{{route('aqar')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">AQAR</span> </a>
     <a href="{{route('iqacFeedback')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Feedback</span> </a>
     <a href="{{route('iqacEvents')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">IQAC Events</span> </a>
     <a href="{{route('iqacReports')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Reports</span> </a>

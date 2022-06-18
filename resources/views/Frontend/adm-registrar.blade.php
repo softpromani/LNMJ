@@ -14,7 +14,11 @@
                         <div class="item-content">
                             <div class="item-content-inner">
                                 <h5 class="item-title" >
+<<<<<<< HEAD
                                     <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >Registrar</a>
+=======
+                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >University at a Glance</a>
+>>>>>>> 7f460df551644963ed5ba20b8baddbda29a9530c
                                 </h3>
                             </div>
                         </div>
@@ -73,7 +77,99 @@
 
 
        </main>
+<<<<<<< HEAD
     </div>
+=======
+
+
+    </div>
+
+
+
+
+    <div class="vc_general vc_tta vc_tta-tabs vc_tta-color-blue vc_tta-style-outline vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-left vc_tta-controls-align-left "><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab=""><a href="#1493966056575-3c12478e-26bd" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text">1. Registrar Office</span></a></li>
+    </ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1493966056575-3c12478e-26bd" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1493966056575-3c12478e-26bd" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">1. Registrar Office</span></a></h4></div><div class="vc_tta-panel-body">
+        <div class="wpb_text_column wpb_content_element ">
+            <div class="wpb_wrapper">
+                <table width="100%" border='1'>
+    <tbody>
+    <tr>
+    <td width="187">Sl. No.</td>
+    <td width="181">Name</td>
+    <td width="187">Designation</td>
+    <td width="181">Mobile Number</td>
+    <td width="187">E-mail ID</td>
+    <td width="181">Photo</td>
+    </tr>
+
+
+    <tr>
+    <td width="187">1.</td>
+    <td width="181">Mukesh Kumar</td>
+    <td width="187">L.D.C</td>
+    <td width="181">7561937053</td>
+    <td width="187"></td>
+    <td width="187"><img src="{{asset('Frontend/images/Mukesh Kimar LDC.jpg')}}"></td>
+    </tr>
+    <tr>
+    <td width="187">2.</td>
+    <td width="181">Pradeep Kumar Roy</td>
+    <td width="187">IVth Grade</td>
+    <td width="181">9473441947</td>
+    <td width="187"></td>
+    <td width="187"><img src="{{asset('Frontend/images/Pradeep kumar Roy IV grade.jpg')}}"></td>
+    </tr>
+    <tr><td width="187">3.</td>
+    <td width="181">Shri Chandan Yadav</td>
+    <td width="187">IVth Grade</td>
+    <td width="181"></td>
+    <td width="187"></td>
+    <td width="187"><img src="{{asset('Frontend/images/Sri Chandan Yadav IV grade.jpg')}}"></td>
+    </tr>
+    <tr>
+    <td width="187">4.</td>
+    <td width="181">Sri Amit Kumar</td>
+    <td width="187">C.O</td>
+    <td width="181"></td>
+    <td width="187"></td>
+    <td width="187"><img src="{{asset('Frontend/images/profile.png')}}"></td>
+    </tr>
+
+
+    <tr><td width="187">5.</td>
+    <td width="181">Shri Ram Deo Ray</td>
+    <td width="187">IVth Grade</td>
+    <td width="181"></td>
+    <td width="187"></td>
+    <td width="187"><img src="{{asset('Frontend/images/Sri Ram Deo Roy IV Grade.jpg')}}"></td>
+    </tr>
+
+
+    </tbody>
+    </table>
+
+            </div>
+        </div>
+    </div></div>
+
+
+    <!--</div></div></div></div></div></div></div></div>
+    <center> <embed src="https://lnmuacin.in/studentnotice/Administration%20related+pdf/registrarcv.pdf" width="800" height="500" alt="pdf" pluginspage="http://lnmuacin.in/studentnotice/Administration%20related%20pdf/registrarcv.pdf"></center>
+        </section>-->
+
+
+
+
+
+
+
+         </div>
+  </div>
+              </div>
+    <p>
+    </p>
+    <p></p>
+>>>>>>> 7f460df551644963ed5ba20b8baddbda29a9530c
 </div>
 
 
