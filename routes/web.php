@@ -39,6 +39,9 @@ Route::get('/fee-structure', [HomeController::class, 'feeStructure'])->name('fee
 Route::get('/pg-syllabus', [HomeController::class, 'pgSyllabus'])->name('pgSyllabus');
 Route::get('/central-library', [HomeController::class, 'centralLibrary'])->name('centralLibrary');
 Route::get('/hostel', [HomeController::class, 'hostel'])->name('hostel');
+Route::get('/suggestive-measure', [HomeController::class, 'suggestiveMeasure'])->name('suggestiveMeasure');
+
+Route::get('/policies', [HomeController::class, 'policies'])->name('policies');
 
 Route::get('/photo-gallery', [HomeController::class, 'photoGallery'])->name('photogallery');
 
@@ -66,4 +69,7 @@ Route::get('/adm-registrar',[HomeController::class,'adm_registrar'])->name('adm.
 
 Route::get('/acd-phd',[HomeController::class,'acd_phd'])->name('acd.phd');
 Route::get('/acd-faculties',[HomeController::class,'acd_faculties'])->name('acd.faculties');
+
+Route::get('/science-department',[HomeController::class,'scienceDepartment'])->name('scienceDepartment');
+
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');

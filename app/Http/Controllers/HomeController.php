@@ -121,6 +121,16 @@ class HomeController extends Controller
         return view('Frontend.hostel');
     }
 
+    function suggestiveMeasure()
+    {
+        return view('Frontend.suggestive_measure');
+    }
+
+    function policies()
+    {
+        return view('Frontend.policies');
+    }
+
     function criteria()
     {
         return view('Frontend.criteria');
@@ -178,6 +188,11 @@ class HomeController extends Controller
         return view('Frontend.about-vision');
     }
 
+    public function scienceDepartment()
+    {
+        return view('Frontend.acd-science-department');
+    }
+
 
 
 
@@ -191,7 +206,7 @@ class HomeController extends Controller
         return view('Frontend.adm-pvc');
     }
 
-   
+
 
     public function adm_ogzstr()
     {
