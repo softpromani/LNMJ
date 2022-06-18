@@ -67,3 +67,6 @@ Route::get('/adm-registrar',[HomeController::class,'adm_registrar'])->name('adm.
 Route::get('/acd-phd',[HomeController::class,'acd_phd'])->name('acd.phd');
 Route::get('/acd-faculties',[HomeController::class,'acd_faculties'])->name('acd.faculties');
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');
+
+//Gallery
+
