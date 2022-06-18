@@ -28,7 +28,17 @@ Route::get('/kulgeet', [HomeController::class, 'kulgeet'])->name('kulgeet');
 
 Route::get('/archive', [HomeController::class, 'archive'])->name('archive');
 Route::get('/course', [HomeController::class, 'course'])->name('course');
+Route::get('/institutional-distinctiveness', [HomeController::class, 'instituteDistinct'])->name('instituteDistinct');
 
+
+Route::get('/exam-home', [HomeController::class, 'examHome'])->name('examHome');
+Route::get('/exam-result', [HomeController::class, 'examResult'])->name('examResult');
+Route::get('/cells', [HomeController::class, 'cells'])->name('cells');
+Route::get('/regulation', [HomeController::class, 'regulation'])->name('regulation');
+Route::get('/fee-structure', [HomeController::class, 'feeStructure'])->name('feeStructure');
+Route::get('/pg-syllabus', [HomeController::class, 'pgSyllabus'])->name('pgSyllabus');
+Route::get('/central-library', [HomeController::class, 'centralLibrary'])->name('centralLibrary');
+Route::get('/hostel', [HomeController::class, 'hostel'])->name('hostel');
 
 Route::get('/photo-gallery', [HomeController::class, 'photoGallery'])->name('photogallery');
 
@@ -41,6 +51,7 @@ Route::get('/about-visionmission',[HomeController::class,'about_vision'])->name(
 // Administration
 Route::get('/adm-vc',[HomeController::class,'adm_vc'])->name('adm.vc');
 Route::get('/adm-pvc',[HomeController::class,'adm_pvc'])->name('adm.pvc');
+Route::get('/adm-registrar',[HomeController::class,'adm_registrar'])->name('adm.registrar');
 Route::get('/adm-organizational-structure',[HomeController::class,'adm_ogzstr'])->name('adm.ogzstr');
 Route::get('/adm-fa',[HomeController::class,'adm_fa'])->name('adm.fa');
 Route::get('/adm-dsw',[HomeController::class,'adm_dsw'])->name('adm.dsw');

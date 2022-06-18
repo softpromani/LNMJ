@@ -1,31 +1,31 @@
 @extends('Frontend.includes.layout')
 @section('content')
-    <section id="yt_spotlight1" class="block mb30">
-        <div class="container">
-            <div class="row">
-
-                <div id="slideshow" class="col-sm-12">
-                    <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right" data-interval="5000"
-                        data-pause="hover">
-                        <!-- Carousel items -->
-                        {{-- <h1 class="sliderText" style=" z-index:99;position:absolute;margin-left:40%;margin-top:6%;">
-                        Contact Us</h1> --}}
-                        {{-- <div class="text-effect"
-                            style=" z-index:99;position:absolute;margin-top:6%;margin-left:40%;">
-                            <span>IQAC</span>
-                        </div> --}}
-
-                        <div class="slickslider-items bg-style1">
-                            <div class="slickslider-item item clearfix active">
-                                <div class="images-slideshow"><img alt=""
-                                        src="{{ asset('Frontend/images/iqac.jpg') }}" style="height: 250px;"></div>
+     <!-- slider starts here -->
+<section id="yt_spotlight1" class="block mb30">
+    <div class="container">
+        <div class="row">
+        <div id="slideshow" class="col-sm-12">
+            <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right" data-interval="5000" data-pause="hover">
+                <!-- Carousel items -->
+                <div class="slickslider-items bg-style1">
+                    <div class="slickslider-item item clearfix active">
+                        <div class="images-slideshow"><img alt="" src="{{asset('Frontend/images/internal%20banners/banner119.jpg')}}"/></div>
+                        <div class="item-content">
+                            <div class="item-content-inner">
+                                <h5 class="item-title" >
+                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >IQAC Home</a>
+                                </h3>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+        </div>
+    </div>
+</section>
+<!-- slider ends here -->
 
     <div class="container">
         <div class="row d-flex d-md-block flex-nowrap wrapper">
@@ -35,13 +35,11 @@
             <main class="col-md-9 float-left col px-5 pl-md-2 pt-2 main">
                 <a href="#" data-target="#sidebar" data-toggle="collapse"><i class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
                 <div class="page-header">
-                    <h2 class="display-4 font-weight-light text-center">Introduction</h2>
+                    <h2 class="display-4 font-weight-light text-center">Home</h2>
                 </div>
-
-
                         <div class="col-md-4 col-sm-6">
                             <div class="box">
-                                <img src="{{asset('Frontend/images/ZeyaHaider.jpg')}}">
+                                <img src="{{asset('Frontend/images/officers/iqac_director.jpeg')}}">
                                 <div class="box-content">
                                     <h3 class="title">Dr. Zeya Haider</h3>
                                     <span class="">IQAC Director</span>

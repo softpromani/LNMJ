@@ -14,7 +14,7 @@
                         <div class="item-content">
                             <div class="item-content-inner">
                                 <h5 class="item-title" >
-                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >Proctor</a>
+                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >Registrar</a>
                                 </h3>
                             </div>
                         </div>
@@ -35,16 +35,16 @@
         <main class="col-md-9 float-left">
             <a href="#" data-target="#sidebar" data-toggle="collapse"><i class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
             <div class="page-header">
-                <h2 class="display-4 font-weight-light text-center">Proctor</h2>
+                <h2 class="display-4 font-weight-light text-center">Registrar</h2>
             </div>
             <div class="col-md-12" id="content_main">
                <div class="row">
                                     <div class="col-md-4 col-sm-6">
                                         <div class="box">
-                                            <img src="{{asset('Frontend/images/officers/proctor.jpg')}}" style="height:250px;">
+                                            <img src="{{asset('Frontend/images/officers/registrar.jpg')}}" style="height:250px;">
                                             <div class="box-content">
-                                                <h3 class="title">Dr. Ajay Nath Jha</h3>
-                                                <span class="">Proctor</span>
+                                                <h3 class="title">Dr. Mushtaque Ahmad</h3>
+                                                <span class="">Registrar</span>
                                             </div>
                                         </div>
                                     </div>
@@ -58,6 +58,20 @@
 
             </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        </main>
     </div>
 </div>

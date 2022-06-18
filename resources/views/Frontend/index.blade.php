@@ -274,7 +274,7 @@
                                 <div id="category_16297137721453353795" class="sj_category theme4">
                                     <ul class="line items-row1">
                                         <li class="" style="width: -20px;">
-                                            <a href="#" target="_blank"><img
+                                            <a href="{{route('examHome')}}" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon6.png') }}" alt=""
                                                     hspace="3">Examination</a>
                                         </li>
@@ -284,7 +284,7 @@
                                                     hspace="3">Self Finance</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#" target="_blank"><img
+                                            <a href="{{route('admission')}}" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon2.png') }}" alt=""
                                                     hspace="3">Admissions </a>
                                         </li>
@@ -304,11 +304,11 @@
                                                     hspace="3">Grievance Redressal</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img src="{{ asset('Frontend/images/icon1.png') }}" alt=""
+                                            <a href="{{route('examResult')}}"><img src="{{ asset('Frontend/images/icon1.png') }}" alt=""
                                                     hspace="3">Examination Results</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img src="{{ asset('Frontend/images/icon4.png') }}" alt=""
+                                            <a href="{{route('aqar')}}"><img src="{{ asset('Frontend/images/icon4.png') }}" alt=""
                                                     hspace="3">AQAR </a>
                                         </li>
                                         <li class="" style="width: -20px;">

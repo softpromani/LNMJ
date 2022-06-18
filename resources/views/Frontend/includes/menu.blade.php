@@ -43,8 +43,8 @@
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 last item-link"
-                                                href='#' target="_blank"><span
-                                                    class="menu-title">Institutional Distinctveness</span></a>
+                                                href='{{ route('instituteDistinct') }}' target="_blank"><span
+                                                    class="menu-title" style="font-size: 12px;">Institutional Distinctveness</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -75,7 +75,7 @@
                                                     class="menu-title">Pro Vice-Chancellor</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('adm.registrar') }}"><span
                                                     class="menu-title">Registrar</span></a>
                                         </li>
                                         <li class="level2 last">
@@ -165,7 +165,7 @@
                                                     class="menu-title">Admission</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{route('examHome')}}"><span
                                                     class="menu-title">Examination</span></a>
                                         </li>
                                         <li class="level2">

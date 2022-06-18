@@ -76,6 +76,51 @@ class HomeController extends Controller
         return view('Frontend.aqar');
     }
 
+    function instituteDistinct()
+    {
+        return view('Frontend.institute');
+    }
+
+    function examHome()
+    {
+        return view('Frontend.exam_home');
+    }
+
+    function examResult()
+    {
+        return view('Frontend.exam_results');
+    }
+
+    function cells()
+    {
+        return view('Frontend.cells');
+    }
+
+    function regulation()
+    {
+        return view('Frontend.regulation');
+    }
+
+    function feeStructure()
+    {
+        return view('Frontend.fee_structure');
+    }
+
+    function pgSyllabus()
+    {
+        return view('Frontend.pg_syllabus');
+    }
+
+    function centralLibrary()
+    {
+        return view('Frontend.central_library');
+    }
+
+    function hostel()
+    {
+        return view('Frontend.hostel');
+    }
+
     function criteria()
     {
         return view('Frontend.criteria');
@@ -145,6 +190,12 @@ class HomeController extends Controller
     {
         return view('Frontend.adm-pvc');
     }
+
+    public function adm_registrar()
+    {
+        return view('Frontend.adm-registrar');
+    }
+
     public function adm_ogzstr()
     {
         return view('Frontend.adm-ogzstr');
