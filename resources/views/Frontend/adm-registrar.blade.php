@@ -14,11 +14,7 @@
                         <div class="item-content">
                             <div class="item-content-inner">
                                 <h5 class="item-title" >
-<<<<<<< HEAD
-                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >Registrar</a>
-=======
                                     <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >University at a Glance</a>
->>>>>>> 7f460df551644963ed5ba20b8baddbda29a9530c
                                 </h3>
                             </div>
                         </div>

@@ -191,10 +191,7 @@ class HomeController extends Controller
         return view('Frontend.adm-pvc');
     }
 
-    public function adm_registrar()
-    {
-        return view('Frontend.adm-registrar');
-    }
+   
 
     public function adm_ogzstr()
     {
