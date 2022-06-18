@@ -143,7 +143,7 @@ class HomeController extends Controller
 
     function photoGallery()
     {
-        return view('Frontend.photo_gallery');
+        return view('Frontend.gallery');
     }
 
     function archive()
@@ -256,4 +256,7 @@ class HomeController extends Controller
     {
         return view('Frontend.acd-college');
     }
+
+
+  
 }
