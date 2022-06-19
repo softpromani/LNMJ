@@ -169,17 +169,17 @@
                                                     class="menu-title">Examination</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('cells') }}"><span
                                                     class="menu-title">Cells</span></a>
                                         </li>
 
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('regulation') }}"><span
                                                     class="menu-title">Regulation</span></a>
                                         </li>
 
                                         <li class="level2 last">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('feeStructure') }}"><span
                                                     class="menu-title">Fee Structure</span></a>
                                         </li>
 
@@ -191,15 +191,15 @@
 
 
                                         <li class="level2 first">
-                                            <a title="" class="level2 last item-link" href="#"><span
+                                            <a title="" class="level2 last item-link" href="{{ route('pgSyllabus') }}"><span
                                                     class="menu-title">PG Syllabus</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('centralLibrary') }}"><span
                                                     class="menu-title">Library</span></a>
                                         </li>
                                         <li class="level2 ">
-                                            <a title="" class="level2 last item-link" href="#"><span
+                                            <a title="" class="level2 last item-link" href="{{ route('hostel') }}"><span
                                                     class="menu-title">Hostel</span></a>
                                         </li>
                                         <li class="level2 ">
@@ -208,7 +208,7 @@
                                         </li>
 
                                         <li class="level2 last">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('suggestiveMeasure') }}"><span
                                                     class="menu-title">Suggestive Measure</span></a>
                                         </li>
                                     </ul>
@@ -298,16 +298,16 @@
                                     <ul class="subnavi level2">
                                         <li class="level2 first ">
                                             <a title="" class="level2 first item-link"
-                                                href="{{ route('about.university') }}"><span
+                                                href="https://lnmu.ac.in/iqac/act/Acts_Bihar_State_University_Act_1976.pdf"><span
                                                     class="menu-title">BSU ACT-1976</span></a>
                                         </li>
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{ route('about.focus') }}"><span
+                                            <a title="" class="level2 item-link" href="http://laws.gsbihar.online/Bihar_Universities_Statutes.html"><span
                                                     class="menu-title">Statues</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 last item-link"
-                                                href="{{ route('about.campus') }}"><span
+                                                href="{{ route('policies') }}"><span
                                                     class="menu-title">Policies</span></a>
                                         </li>
                                         <li class="level2">
