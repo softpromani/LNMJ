@@ -137,6 +137,7 @@
 
 
 
+
 <div class="container demo-gallery">
     <ul id="lightgallery" class="list-unstyled row">
         <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="Frontend/images/college/c1.jpg 480, Frontend/images/college/c1.jpg 480, Frontend/images/college/c1.jpg 800" data-src="Frontend/images/college/c1.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">
