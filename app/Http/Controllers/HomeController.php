@@ -193,6 +193,42 @@ class HomeController extends Controller
         return view('Frontend.acd-science-department');
     }
 
+    public function socialScienceDepartment()
+    {
+        return view('Frontend.acd-socialScience-department');
+    }
+
+
+    public function humanities()
+    {
+        return view('Frontend.acd-humanities-department');
+    }
+
+    public function commerce()
+    {
+        return view('Frontend.acd-commerce-department');
+    }
+
+    public function law()
+    {
+        return view('Frontend.acd-law-department');
+    }
+
+    public function dentistry()
+    {
+        return view('Frontend.acd-dentistry-department');
+    }
+
+    public function education()
+    {
+        return view('Frontend.acd-education-department');
+    }
+
+    public function fineArts()
+    {
+        return view('Frontend.acd-fineArts-department');
+    }
+
 
 
 
@@ -258,5 +294,5 @@ class HomeController extends Controller
     }
 
 
-  
+
 }
