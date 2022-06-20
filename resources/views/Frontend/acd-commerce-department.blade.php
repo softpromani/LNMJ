@@ -17,7 +17,7 @@
                                     <div class="item-content-inner">
                                         <h5 class="item-title">
                                             <a href="#" style="color:#7C0000" title="">Home</a> | <a
-                                                href="#" style="color:#7C0000" title="">Faculties of science</a>
+                                                href="#" style="color:#7C0000" title="">Faculties of commerce</a>
                                             </h3>
                                     </div>
                                 </div>
@@ -32,7 +32,7 @@
     <!-- slider ends here -->
     <div class="container-fluid"
         style="background-color: #00aeef;color:white;font-size:25px;font-weight:bold;padding:10px;">
-        <p class="text-center">Faculty of Science</p>
+        <p class="text-center">Faculty of Commerce</p>
     </div>
 
     <div class="container" style="margin-top: 40px;">
@@ -40,12 +40,12 @@
             <div class="col-md-3 col-sm-3" id="sidebar">
                 <div class="box2">
                     <div class="box-top">
-                        Dean of Science
+                        Dean of Commerce
                     </div>
-                    <img src="{{ asset('Frontend/images/dean_science.jpg') }}" style="height: 300px;width:400px;">
+                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 300px;width:400px;">
                     <div class="box-content">
-                        <h3 class="title">Prof. Surendra Pratap Singh</h3>
-                        <span class="post">06272-222463, vc@lnmu.ac.in <br /> vc-lnmu-bih@nic.in</span>
+                        <h3 class="title">Dr. Bibhuti Bhusan Lal Das</h3>
+                        <span class="post">9304082397, deancommerce@lnmu.ac.in</span>
                     </div>
 
                 </div>
@@ -57,27 +57,9 @@
                         <p></p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-social-science.php" target="_blank">Department of Botany</a></div>
+                            <a style="color: #000;" href="faculty-of-social-science.php" target="_blank">Department of Commerce and Business Administration</a></div>
                         <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-commerce.php" target="_blank">Department of Chemistry</a>
-                        </div>
-                        <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-dentistry.php" target="_blank">Department of Mathematics</a>
-                        </div>
 
-
-                        <p>&nbsp;</p>
-                        <!-- <div style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;"><a style="color: #000;" href="faculty-of-medicine.php" target="_blank">Faculty of Medicine</a></div> -->
-
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Physics</a>
-                        </div>
-                        <p></p>
                     </div><br>
                 </div>
 

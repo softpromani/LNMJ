@@ -17,7 +17,7 @@
                                     <div class="item-content-inner">
                                         <h5 class="item-title">
                                             <a href="#" style="color:#7C0000" title="">Home</a> | <a
-                                                href="#" style="color:#7C0000" title="">Faculties of science</a>
+                                                href="#" style="color:#7C0000" title="">Faculties of Humanities</a>
                                             </h3>
                                     </div>
                                 </div>
@@ -32,7 +32,7 @@
     <!-- slider ends here -->
     <div class="container-fluid"
         style="background-color: #00aeef;color:white;font-size:25px;font-weight:bold;padding:10px;">
-        <p class="text-center">Faculty of Science</p>
+        <p class="text-center">Faculty of Humanities</p>
     </div>
 
     <div class="container" style="margin-top: 40px;">
@@ -40,12 +40,13 @@
             <div class="col-md-3 col-sm-3" id="sidebar">
                 <div class="box2">
                     <div class="box-top">
-                        Dean of Science
+                        Dean of Humanities
                     </div>
-                    <img src="{{ asset('Frontend/images/dean_science.jpg') }}" style="height: 300px;width:400px;">
+                    <img src="{{ asset('Frontend/images/dean_humanlities.jpg') }}" style="height: 300px;width:400px;">
                     <div class="box-content">
-                        <h3 class="title">Prof. Surendra Pratap Singh</h3>
-                        <span class="post">06272-222463, vc@lnmu.ac.in <br /> vc-lnmu-bih@nic.in</span>
+                        <h3 class="title">Prof.(Dr) Raman Jha</h3>
+
+                        <span class="post">deanhumanties@lnmu.ac.in</span>
                     </div>
 
                 </div>

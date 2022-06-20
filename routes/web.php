@@ -71,6 +71,14 @@ Route::get('/acd-phd',[HomeController::class,'acd_phd'])->name('acd.phd');
 Route::get('/acd-faculties',[HomeController::class,'acd_faculties'])->name('acd.faculties');
 
 Route::get('/science-department',[HomeController::class,'scienceDepartment'])->name('scienceDepartment');
+Route::get('/social_science_department',[HomeController::class,'socialScienceDepartment'])->name('social_scienceDepartment');
+Route::get('/humanities',[HomeController::class,'humanities'])->name('humanities');
+Route::get('/commerce',[HomeController::class,'commerce'])->name('commerce');
+Route::get('/law',[HomeController::class,'law'])->name('law');
+Route::get('/dentistry',[HomeController::class,'dentistry'])->name('dentistry');
+Route::get('/education',[HomeController::class,'education'])->name('education');
+Route::get('/fine-arts',[HomeController::class,'fineArts'])->name('fineArts');
+
 
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');
