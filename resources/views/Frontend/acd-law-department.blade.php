@@ -52,34 +52,52 @@
             </div>
             <main class="col-md-9 float-left">
 
-                <div class="col-md-12"><br>
-                    <div class="col-md-8 col-sm-8">
-                        <p></p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-social-science.php" target="_blank">Department of Botany</a></div>
-                        <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-commerce.php" target="_blank">Department of Chemistry</a>
-                        </div>
-                        <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-dentistry.php" target="_blank">Department of Mathematics</a>
-                        </div>
+                <div class="col-md-12 col-sm-12">
+                    <table border="2" width="100%">
+                    <tbody>
+                    <tr>
+                    <td width="38"><strong>Sl. No.</strong></td>
+                    <td width="115"><strong>College Name</strong></td>
+                    <td width="83"><strong>Principal</strong></td>
+                    <td width="96"><strong>Contact</strong></td>
+                    <td width="246"><strong>E-mail id</strong></td>
+                    <td width="157"><strong>Website</strong></td>
+                    </tr>
+                    <tr>
+                    <td width="38">1.</td>
+                    <td width="115">C. M. Law College</td>
+                    <td width="83">Dr. Badre Alam Khan</td>
+                    <td width="96">8987128054</td>
+                    <td width="246"><a href="mailto:principal.cmlawcollege@gmail.com">badrealamkhan56@gmail.com</a></td>
+                    <td width="157"><a href="http://www.cmlawcollege.org">www.cmlclnmu.org</a>
 
+                    &nbsp;</td>
+                    </tr>
+                    <tr>
+                    <td width="38">2.</td>
+                    <td width="115">Vidhi Mahavidyalaya, Samastipur</td>
+                    <td width="83">Prof. Sanjay Kumar</td>
+                    <td width="96">8434688828
 
-                        <p>&nbsp;</p>
-                        <!-- <div style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;"><a style="color: #000;" href="faculty-of-medicine.php" target="_blank">Faculty of Medicine</a></div> -->
+                    7992315304</td>
+                    <td width="246"><a href="mailto:lawcollegespr@gmail.com">lawcollegespr@gmail.com</a></td>
+                    <td width="157">N/A</td>
+                    </tr>
+                    <tr>
+                    <td width="38">3.</td>
+                    <td width="115">R. K. A.&nbsp; Bidhi College,&nbsp; Begusarai</td>
+                    <td width="83">Prof. R. L. Singh</td>
+                    <td width="96">9905226730</td>
+                    <td width="246"><a href="mailto:rkalawcollege@gmail.com">rkalawcollege@gmail.com</a><strong> , </strong>
 
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Physics</a>
-                        </div>
-                        <p></p>
-                    </div><br>
-                </div>
+                    <a href="mailto:ramlochansinghprincipal@gmail.com">ramlochansinghprincipal@gmail.com</a></td>
+                    <td width="157">N/A</td>
+                    </tr>
+                    </tbody>
+                    </table>
+                    <p>&nbsp;</p>
+
+                    <p></p></div>
 
 
 

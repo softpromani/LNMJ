@@ -184,16 +184,18 @@
                                         <div class="carousel-inner">
 
                                             <div class='item'>
-                                                <h3 class="modtitle">Hon'bl Chancellor </h3>
+
                                                 <div class="customslider">
                                                     <div class="item-image"><a
                                                             href="RegistrarP%20Laxminarayana%20CV.pdf"
                                                             target="_blank"><img
                                                                 src="{{ asset('Frontend/images/Fagu_chauhan.jpg') }}"
-                                                                alt="" /></a></div>
+                                                                alt="" /></a>
+                                                    </div>
+                                                    <h3 class="modtitle">Shri Phagu Chauhan </h3>
                                                     <div class="content-main">
-                                                        <h3 class="title"
-                                                            style='color:#7C0000;font-weight:bold'>Shri Phagu Chauhan
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>
+                                                            Hon'bl Chancellor
                                                         </h3>
                                                         <br />
                                                         <a href="https://governor.bih.nic.in/" target="_blank"><strong
@@ -204,14 +206,16 @@
                                             </div>
 
                                             <div class='item'>
-                                                <h3 class="modtitle">Hon'bl Vice Chancellor</h3>
+
                                                 <div class="customslider">
                                                     <div class="item-image"><img
-                                                            src="{{ asset('Frontend/images/vcsir.jpg') }}" alt="" />
+                                                            src="{{ asset('Frontend/images/vcsir.jpg') }}"
+                                                            alt="" />
                                                     </div>
+                                                    <h3 class="modtitle">Hon'bl Vice Chancellor</h3>
                                                     <div class="content-main">
-                                                        <h3 class="title"
-                                                            style='color:#7C0000;font-weight:bold'>Prof. Surendra Pratap
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>
+                                                            Prof. Surendra Pratap
                                                             Singh</h3>
                                                         <br />
                                                         <a href="{{ route('adm.vc') }}" target="_blank"><strong
@@ -222,16 +226,18 @@
                                             </div>
 
                                             <div class='item'>
-                                                <h3 class="modtitle">Registrar </h3>
+
                                                 <div class="customslider">
                                                     <div class="item-image"><a
                                                             href="RegistrarP%20Laxminarayana%20CV.pdf"
-                                                            target="_blank"><img
-                                                                src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
-                                                                alt="" /></a></div>
+                                                            target="_blank">
+                                                            <img src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
+                                                                alt="" /></a>
+                                                    </div>
+                                                    <h3 class="modtitle">Registrar </h3>
                                                     <div class="content-main">
-                                                        <h3 class="title"
-                                                            style='color:#7C0000;font-weight:bold'>Prof. Mushtaque Ahmad
+                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>
+                                                            Prof. Mushtaque Ahmad
                                                         </h3>
 
                                                         <a href="adm-registrar.html" target="_blank"><strong
@@ -243,8 +249,8 @@
 
                                         </div>
 
-                                        <a class="carousel-control left" href="#yt-extra-carousel1" data-slide="prev"><i
-                                                class="fa fa-angle-left"></i></a>
+                                        <a class="carousel-control left" href="#yt-extra-carousel1"
+                                            data-slide="prev"><i class="fa fa-angle-left"></i></a>
                                         <a class="carousel-control right" href="#yt-extra-carousel1"
                                             data-slide="next"><i class="fa fa-angle-right"></i></a>
                                         <ol class="carousel-indicators">
@@ -274,7 +280,7 @@
                                 <div id="category_16297137721453353795" class="sj_category theme4">
                                     <ul class="line items-row1">
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('examHome')}}" target="_blank"><img
+                                            <a href="{{ route('examHome') }}" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon6.png') }}" alt=""
                                                     hspace="3">Examination</a>
                                         </li>
@@ -284,12 +290,12 @@
                                                     hspace="3">Self Finance</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('admission')}}" target="_blank"><img
+                                            <a href="{{ route('admission.home') }}" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon2.png') }}" alt=""
                                                     hspace="3">Admissions </a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#" target="_blank" style="font-size:11px;"><img
+                                            <a href="{{ route('eLearningResource') }}" target="_blank" style="font-size:11px;"><img
                                                     src="{{ asset('Frontend/images/icon5.png') }}" alt=""
                                                     hspace="3">E-Learning Resources</a>
                                         </li>
@@ -304,15 +310,17 @@
                                                     hspace="3">Grievance Redressal</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('examResult')}}"><img src="{{ asset('Frontend/images/icon1.png') }}" alt=""
-                                                    hspace="3">Examination Results</a>
+                                            <a href="{{ route('iqacFeedback') }}"><img
+                                                    src="{{ asset('Frontend/images/icon1.png') }}" alt=""
+                                                    hspace="3">Feedback</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('aqar')}}"><img src="{{ asset('Frontend/images/icon4.png') }}" alt=""
-                                                    hspace="3">AQAR </a>
+                                            <a href="{{ route('iqacSsr') }}"><img
+                                                    src="{{ asset('Frontend/images/icon4.png') }}" alt=""
+                                                    hspace="3">SSS </a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="#" target="_blank"><img
+                                            <a href="{{ route('centralLibrary') }}" target="_blank"><img
                                                     src="{{ asset('Frontend/images/icon12.png') }}" alt=""
                                                     hspace="3">Library</a>
                                         </li>
@@ -321,19 +329,14 @@
                                                     src="{{ asset('Frontend/images/icon7.png') }}" alt=""
                                                     hspace="3">Alumni Association</a>
                                         </li>
-                                        {{-- <li class="" style="width: -20px;">
-                                            <a href="statisticalcell/index.html"><img
-                                                    src="{{ asset('Frontend/images/icon10.png') }}" alt=""
-                                                    hspace="3">Statistical Cell</a>
-                                        </li> --}}
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img src="{{ asset('Frontend/images/icon9.png') }}" alt=""
-                                                    hspace="3">University Tenders</a>
+                                            <a href="{{route('tenders')}}"><img src="{{ asset('Frontend/images/icon9.png') }}"
+                                                    alt="" hspace="3">University Tenders</a>
                                         </li>
 
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img src="{{ asset('Frontend/images/icon9.png') }}" alt=""
-                                                    hspace="3">RTI ACT</a>
+                                            <a href="#"><img src="{{ asset('Frontend/images/icon9.png') }}"
+                                                    alt="" hspace="3">RTI ACT</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -344,11 +347,6 @@
             </div>
         </section>
         <!-- list box ends here -->
-
-
-
-
-
         <script type="text/javascript" src="{{ asset('Frontend/js/crawler.js') }}"></script>
         <style>
             .marquee0 {
@@ -369,9 +367,9 @@
                     <div id="top3" class="col-sm-12">
                         <div class="marquee" id="mycrawler" style="width:100%;">
 
-                            <a href="#"><b>Example News</b></a>
-                            <a href="#"><b>Example News</b></a>
-                            <a href="#"><b>Example News</b></a>
+                            <a href="#"><b>"Regarding Result of B.Com. (Honours) Part-II Examination 2021"</b><img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                            <a href="#"><b>Notice Regarding BLIS Admission session 2022-23</b><img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                            <a href="#"><b>Advertisement for MBA Admission</b><img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
 
 
 
@@ -512,7 +510,8 @@
                                                         <ul class="otehr-link">
 
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0" title=""><span
+                                                                <a href="#" class="col-xs-2 pr0"
+                                                                    title=""><span
                                                                         style="float: left; background:#7C0000">13th-17th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
@@ -520,28 +519,33 @@
                                                                     title="">Event is going to be orgnised </a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0" title=""><span
+                                                                <a href="#" class="col-xs-2 pr0"
+                                                                    title=""><span
                                                                         style="float: left; background:#7C0000">17th-18th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">Event will reschedule on dated Please Fill
+                                                                    title="">Event will reschedule on dated
+                                                                    Please Fill
                                                                     happy. </a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0" title=""><span
+                                                                <a href="#" class="col-xs-2 pr0"
+                                                                    title=""><span
                                                                         style="float: left; background:#7C0000">23rd-
                                                                         24th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">This Event is orgnised by DDE LNMU on
+                                                                    title="">This Event is orgnised by DDE LNMU
+                                                                    on
                                                                     ocation of holi. Hon'ble minister is our event chief
                                                                     minister.
                                                                 </a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0" title=""><span
+                                                                <a href="#" class="col-xs-2 pr0"
+                                                                    title=""><span
                                                                         style="float: left; background:#7C0000">30th-31st</span><span
                                                                         style="float: left; background: #00aeef">May
                                                                         2022</span></a>
@@ -551,13 +555,15 @@
                                                                     PCR" Organized by Dept. of Genetics & CFRD. </a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0" title=""><span
+                                                                <a href="#" class="col-xs-2 pr0"
+                                                                    title=""><span
                                                                         style="float: left; background:#7C0000">23rd-
                                                                         24th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">IT Cell of DDE LNMU is going to present
+                                                                    title="">IT Cell of DDE LNMU is going to
+                                                                    present
                                                                     Cyber Security Workshop.
                                                                 </a>
                                                             </li>
@@ -605,9 +611,10 @@
                 <div class="row">
                     <div id="top4" class="col-lg-9 col-sm-6">
                         <div class="module  k2-slider-style-one">
-                            <h3 class="modtitle">Campus Colleges</h3>
+                            <h3 class="modtitle">Events Gallery</h3>
                             <div class="modcontent clearfix">
-                                <div id="sj_k2_slider_2843493131453353795" class="sj-k2-container-slider" style="">
+                                <div id="sj_k2_slider_2843493131453353795" class="sj-k2-container-slider"
+                                    style="">
                                     <div class="page-button top style">
                                         <ul class="control-button preload">
                                             <li class="preview"><i class="fa fa-chevron-left"></i></li>
@@ -624,7 +631,8 @@
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                    <a href="#" target="_blank"><img
+                                                                            alt=" "
                                                                             src="{{ asset('Frontend/images/index/NationalSeminar1.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
@@ -633,7 +641,8 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title=" " target="_blank">National Seminar</a>
+                                                                        <a href="#" title=" "
+                                                                            target="_blank">National Seminar</a>
                                                                     </div>
                                                                     {{-- <div class="item-content">
                                                                         <div class="item-des">The Arts College
@@ -652,14 +661,15 @@
                                                                     </div> --}}
                                                                 </div>
                                                             </div>
-                                                            
-                                                         </div>
+
+                                                        </div>
                                                     </div>
                                                     <div class="item">
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                    <a href="#" target="_blank"><img
+                                                                            alt=" "
                                                                             src="{{ asset('Frontend/images/index/NationalSeminar12jpg.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
@@ -668,20 +678,22 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title=" " target="_blank">National Seminar 2</a>
+                                                                        <a href="#" title=" "
+                                                                            target="_blank">National Seminar 2</a>
                                                                     </div>
-                                                                 
+
                                                                 </div>
                                                             </div>
-                                                            
-                                                         </div>
+
+                                                        </div>
                                                     </div>
 
                                                     <div class="item">
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                    <a href="#" target="_blank"><img
+                                                                            alt=" "
                                                                             src="{{ asset('Frontend/images/index/NationalSeminar3.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
@@ -690,20 +702,22 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title=" " target="_blank">National Seminar </a>
+                                                                        <a href="#" title=" "
+                                                                            target="_blank">National Seminar </a>
                                                                     </div>
-                                                                 
+
                                                                 </div>
                                                             </div>
-                                                            
-                                                         </div>
+
+                                                        </div>
                                                     </div>
 
                                                     <div class="item">
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                    <a href="#" target="_blank"><img
+                                                                            alt=" "
                                                                             src="{{ asset('Frontend/images/index/InternationalEconfrence.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
@@ -712,19 +726,22 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title=" " target="_blank">International E-Confrence </a>
+                                                                        <a href="#" title=" "
+                                                                            target="_blank">International E-Confrence
+                                                                        </a>
                                                                     </div>
-                                                                 
+
                                                                 </div>
                                                             </div>
-                                                            
-                                                         </div>
+
+                                                        </div>
                                                     </div>
                                                     <div class="item">
                                                         <div class="item-wrap">
                                                             <div class="item-img item-height">
                                                                 <div class="item-img-info">
-                                                                    <a href="#" target="_blank"><img alt=" "
+                                                                    <a href="#" target="_blank"><img
+                                                                            alt=" "
                                                                             src="{{ asset('Frontend/images/index/natiEcon1.jpg') }}" /></a>
                                                                     <div class="over-image"></div>
                                                                 </div>
@@ -733,13 +750,15 @@
                                                             <div class="item-info">
                                                                 <div class="item-inner">
                                                                     <div class="item-title">
-                                                                        <a href="#" title=" " target="_blank">International E-Confrence </a>
+                                                                        <a href="#" title=" "
+                                                                            target="_blank">International E-Confrence
+                                                                        </a>
                                                                     </div>
-                                                                 
+
                                                                 </div>
                                                             </div>
-                                                            
-                                                         </div>
+
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -806,9 +825,13 @@
                                     </li>
 
                                     <li><a href="#">Admission Notifications</a></li>
-                                    <li><a href="https://www.aiu.ac.in/Meetings/meeting.asp" target="_blank">AIU Meetings Notificationsmeu</a></li>
-                                    <li><a href="https://ugc.ac.in/ugc_notices.aspx" target="_blank">UGC Notificationmeu </a></li>
-                                    <li><a href="http://www.educationbihar.gov.in/universityletter.aspx?uid=4" target="_blank">University letter at Education Department of Bihar Govt.</a></li>
+                                    <li><a href="https://www.aiu.ac.in/Meetings/meeting.asp" target="_blank">AIU
+                                            Meetings Notificationsmeu</a></li>
+                                    <li><a href="https://ugc.ac.in/ugc_notices.aspx" target="_blank">UGC
+                                            Notificationmeu </a></li>
+                                    <li><a href="http://www.educationbihar.gov.in/universityletter.aspx?uid=4"
+                                            target="_blank">University letter at Education Department of Bihar
+                                            Govt.</a></li>
                                     <li><a href="#">Grievance</a></li>
 
 

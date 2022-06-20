@@ -7,19 +7,13 @@
                         <h2 class="modtitle" style="color:#7C0000">About Us</h2>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="#">Origin and
-                                        History</a></li>
-                                <li class="item-1538"><a href="#">University
-                                        Profile</a></li>
-                                <li class="item-1539"><a href="#">Vision &amp;
-                                        Mission</a></li>
-                                <li class="item-1540"><a href="#">Former
-                                        Vice-Chancellors</a></li>
-                                <li class="item-1541"><a href="#"
-                                        target="_blank">Distinguished Alumni</a></li>
-                                <li class="item-1542"><a
-                                        href="#">Accreditation</a></li>
-                                <li class="item-1542"><a href="#">Contact Us</a></li>
+                                <li class="item-1537"><a href="{{ route('about.university') }}">University at a glance</a></li>
+                                <li class="item-1538"><a href="{{ route('about.focus') }}">Focus</a></li>
+                                <li class="item-1539"><a href="{{ route('about.campus') }}">Campus</a></li>
+                                <li class="item-1540"><a href="{{ route('about.bestpractice') }}">Best Practice</a></li>
+                                <li class="item-1541"><a href="{{ route('about.visionmission') }}"
+                                        target="_blank">Vision, Mission & Objectives</a></li>
+                                <li class="item-1542"><a href="{{ route('instituteDistinct') }}">Institutional Distinctveness</a></li>
                             </ul>
                         </div>
                     </div>
@@ -30,16 +24,13 @@
                         <h2 class="modtitle" style="color:#7C0000">Administration</h2>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="#">Vice-Chancellor</a></li>
-                                <li class="item-1538"><a href="#">Registrar</a></li>
-                                <li class="item-1539"><a href="#">Executive Council</a></li>
-                                <li class="item-1540"><a href="#">Infrastructure</a>
+                                <li class="item-1537"><a href="https://governor.bih.nic.in/">Chancellor</a></li>
+                                <li class="item-1537"><a href="{{ route('adm.vc') }}">Vice-Chancellor</a></li>
+                                <li class="item-1537"><a href="{{ route('adm.pvc') }}">Pro-Vice-Chancellor</a></li>
+                                <li class="item-1538"><a href="{{ route('adm.registrar') }}">Registrar</a></li>
+                                <li class="item-1539"><a href="{{ route('adm.ogzstr') }}">Organizational Structure</a></li>
+                                <li class="item-1540"><a href="{{ route('adm.fa') }}">F.A.</a>
                                 </li>
-                                <li class="item-1541"><a href="#">Administrators</a></li>
-                                <li class="item-1542"><a href="#">Other Officers /
-                                        Units</a></li>
-                                <li class="item-1542"><a href="#">Policy Making
-                                        Bodies</a></li>
                             </ul>
                         </div>
                     </div>
@@ -47,23 +38,17 @@
 
                 <div id="bottom3" class="col-md-3 col-sm-6">
                     <div class="module  useful-link">
-                        <h2 class="modtitle" style="color:#7C0000">Academics</h2>
+                        <h2 class="modtitle" style="color:#7C0000">Quick Links</h2>
                         <div class="modcontent clearfix">
                             <ul class="menu">
-                                <li class="item-1537"><a href="#">Campus
-                                        Colleges</a></li>
-                                <li class="item-1538"><a href="#">Constituent
-                                        Colleges</a></li>
-                                <li class="item-1539"><a
-                                        href="#">Affiliated Colleges</a></li>
-                                <li class="item-1540"><a href="#">Syllabi</a></li>
-                                <li class="item-1541"><a href="#">Almanac</a>
+                                <li class="item-1537"><a href="https://lnmu.ac.in/www.aiu.ac.in/Meetings/meeting.asp">AIU Meetings Notifications</a></li>
+                                <li class="item-1538"><a href="#">UGC Notification</a></li>
+                                <li class="item-1539"><a href="#">University letter at Education</a></li>
+                                <li class="item-1540"><a href="#">Department of Bihar Govt.</a></li>
+                                <li class="item-1541"><a href="#">Examination Related Updates</a>
                                 </li>
-                                <!--								<li class="item-1541"><a href="academics-faculties.php" >Faculties</a></li>-->
-                                <li class="item-1542"><a href="#">Academic
-                                        Programmes</a></li>
-                                <li class="item-1542"><a href="#">Distance
-                                        Education</a></li>
+                                <li class="item-1542"><a href="#">Proceedings of Statutory Bodies</a></li>
+                                <li class="item-1542"><a href="#">Holidays Calendar 2022</a></li>
                             </ul>
                         </div>
                     </div>
@@ -199,89 +184,6 @@
                 </div> --}}
 
             </div>
-{{--
-            <div class="col-md-3 col-sm-12">
-                <div class="module  useful-link">
-                    <h3 class="modtitle"></h3>
-                    <div class="modcontent clearfix">
-                        <ul class="menu footList">
-                            <li class="item-1538"><a
-                                    href="#"
-                                    target="_blank">NIRF-2022 Submitted Data</a></li>
-                            <li class="item-1538"><a
-                                    href="#"
-                                    target="_blank">CPGET-2022</a></li>
-                            <li class="item-1538"><a href="#" target="_blank">GRIEVANCES</a>
-                            </li>
-                            <li class="item-1538"><a
-                                    href="#"
-                                    target="_blank">Ph.D Admission Schedule</a></li>
-                            <li class="item-1538"><a href="#"
-                                    target="_blank">102nd Annual Report</a></li>
-                            <li class="item-1538"><a
-                                    href="#"
-                                    target="_blank">Hiring of Vehicles - orders</a></li>
-
-                            <li class="item-1537"><a href="#">Syllabus (CBCS)</a></li>
-
-                            <li class="item-1541"><a href="#" target="_blank">Download
-                                    PPTs of UG-CBCS</a></li>
-
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="module  useful-link" style="text-align:right">
-                    <div class="modcontent clearfix">
-                        <ul class="menu">
-                            <div class="yt-socialbt">
-                                <a data-placement="top" target="_blank" class="sb facebook default color"
-                                    title="" href="#"
-                                    data-original-title="Facebook" style="display: inline-block;"><i
-                                        class="fa fa-facebook"></i></a>
-                            </div>
-                            <div class="yt-socialbt">
-                                <a data-placement="top" target="_blank" class="sb twitter default color"
-                                    title="" href="#"
-                                    data-original-title="Twitter" style="display: inline-block;"><i
-                                        class="fa fa-twitter"></i></a>
-                            </div>
-                            <div class="yt-socialbt">
-                                <a data-placement="top" target="_blank" class="sb youtube default color"
-                                    title="" href="#" data-original-title="Youtube"
-                                    style="display: inline-block;"><i class="fa fa-youtube"></i></a>
-                            </div>
-                            <div class="yt-socialbt">
-                                <a data-placement="top" target="_blank" class="sb instagram default color"
-                                    title="" href="#"
-                                    data-original-title="Instagram" style="display: inline-block;"><i
-                                        class="fa fa-instagram"></i></a>
-                            </div>
-                        </ul>
-
-                    </div>
-                    <!-- Histats.com  START  (standard)-->
-                    {{-- <script type="text/javascript">
-                        document.write(unescape(
-                            "%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
-                    </script>
-                    <a href="http://www.histats.com/" target="_blank" title="hit counter">
-                        <script type="text/javascript">
-                            try {
-                                Histats.start(1, 2059181, 4, 205, 255, 27, "00011111");
-                                Histats.track_hits();
-                            } catch (err) {};
-                        </script>
-                    </a>
-                    <noscript>
-                        <a href="http://www.histats.com/" target="_blank"><img
-                                src="../sstatic1.histats.com/077e8.gif?2059181&amp;101" alt="hit counter"
-                                border="0"></a>
-                            </noscript>
-                    <!-- Histats.com  END  -->
-                </div>
-            </div> --}}
-
         </div>
     </div>
 </section>

@@ -52,34 +52,32 @@
             </div>
             <main class="col-md-9 float-left">
 
-                <div class="col-md-12"><br>
-                    <div class="col-md-8 col-sm-8">
-                        <p></p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-social-science.php" target="_blank">Department of Botany</a></div>
-                        <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-commerce.php" target="_blank">Department of Chemistry</a>
-                        </div>
-                        <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-dentistry.php" target="_blank">Department of Mathematics</a>
-                        </div>
-
-
-                        <p>&nbsp;</p>
-                        <!-- <div style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;"><a style="color: #000;" href="faculty-of-medicine.php" target="_blank">Faculty of Medicine</a></div> -->
-
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Physics</a>
-                        </div>
-                        <p></p>
-                    </div><br>
-                </div>
+                <div class="col-md-12 col-sm-12">
+                    <table border="2" width="100%" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+        <tr>
+        <td align="center" width="45"><strong>Sr. No.</strong></td>
+        <td align="center" width="310"><strong>College Name</strong></td>
+        <td align="center" width="162"><strong>Principal</strong></td>
+        <td align="center" width="85"><strong>Mobile</strong></td>
+        <td align="center" width="102"><strong>Email</strong></td>
+        <td align="center" width="102"><strong>Website</strong></td>
+        </tr>
+        <tr>
+        <td align="center" width="45"><strong>1</strong></td>
+        <td align="center" width="310">Sarjug Dental College &amp; Hospital</td>
+        <td align="center" width="162">Dr. M. Bandana Devi</td>
+        <td align="center" width="85">9304024700,
+        9431261173,
+        9835045432
+        </td>
+        <td align="center" width="102">sdchdbn@gmail.com, info@sdch.org.in</td>
+        <td align="center" width="102"><span class="zw-portion" data-text-len="9">www.sdch.org.in</span><span class="EOP EOP-readonly"> </span></td>
+        </tr>
+        </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <p></p></div>
 
 
 

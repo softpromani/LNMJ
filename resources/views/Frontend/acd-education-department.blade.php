@@ -54,33 +54,10 @@
 
                 <div class="col-md-12"><br>
                     <div class="col-md-8 col-sm-8">
-                        <p></p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-social-science.php" target="_blank">Department of Botany</a></div>
+                            <a style="color: #000;" href="{{route('affiliatedBedColleges')}}" target="_blank">Click here to see the list of B.Ed colleges</a></div>
                         <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-commerce.php" target="_blank">Department of Chemistry</a>
-                        </div>
-                        <p>&nbsp;</p>
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-dentistry.php" target="_blank">Department of Mathematics</a>
-                        </div>
-
-
-                        <p>&nbsp;</p>
-                        <!-- <div style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;"><a style="color: #000;" href="faculty-of-medicine.php" target="_blank">Faculty of Medicine</a></div> -->
-
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Physics</a>
-                        </div>
-                        <p></p>
-                    </div><br>
-                </div>
-
 
 
             </main>

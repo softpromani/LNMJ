@@ -16,8 +16,10 @@ Route::get('/iqac-contacts', [HomeController::class, 'iqacContacts'])->name('iqa
 Route::get('/ssr-report', [HomeController::class, 'iqacSsr'])->name('iqacSsr');
 Route::get('/all-officer', [HomeController::class, 'allOfficer'])->name('allOfficer');
 
-Route::get('/admission', [HomeController::class, 'admission'])->name('admission');
+Route::get('/admission-home', [HomeController::class, 'admissionHome'])->name('admission.home');
 
+
+Route::get('/e-learning-resources', [HomeController::class, 'eLearningResource'])->name('eLearningResource');
 
 Route::get('/aqar', [HomeController::class, 'aqar'])->name('aqar');
 Route::get('/criteria', [HomeController::class, 'criteria'])->name('criteria');
@@ -42,6 +44,22 @@ Route::get('/hostel', [HomeController::class, 'hostel'])->name('hostel');
 Route::get('/suggestive-measure', [HomeController::class, 'suggestiveMeasure'])->name('suggestiveMeasure');
 
 Route::get('/policies', [HomeController::class, 'policies'])->name('policies');
+
+Route::get('/department-of-botany', [HomeController::class, 'botanyDepartment'])->name('botanyDepartment');
+Route::get('/constituent-colleges', [HomeController::class, 'constituentColleges'])->name('constituentColleges');
+Route::get('/affiliated-degree-colleges', [HomeController::class, 'affiliatedDegreeColleges'])->name('affiliatedDegreeColleges');
+Route::get('/affiliated-Bed-colleges', [HomeController::class, 'affiliatedBedColleges'])->name('affiliatedBedColleges');
+Route::get('/affiliated-technical-colleges', [HomeController::class, 'affiliatedTechnicalColleges'])->name('affiliatedTechnicalColleges');
+
+Route::get('/department-business-administration', [HomeController::class, 'departmentBusinessDepartment'])->name('departmentBusinessDepartment');
+Route::get('/department-biotechnology', [HomeController::class, 'departmentBioTechnology'])->name('departmentBioTechnology');
+Route::get('/department-information-science', [HomeController::class, 'departmentInformationScience'])->name('departmentInformationScience');
+Route::get('/department-gerontology', [HomeController::class, 'departmentGerontology'])->name('departmentGerontology');
+Route::get('/advance-research', [HomeController::class, 'advanceResearch'])->name('advanceResearch');
+Route::get('/women-studies', [HomeController::class, 'womenStudies'])->name('womenStudies');
+Route::get('/tenders', [HomeController::class, 'tenders'])->name('tenders');
+Route::get('/document-notice', [HomeController::class, 'documentNotice'])->name('documentNotice');
+
 
 Route::get('/photo-gallery', [HomeController::class, 'photoGallery'])->name('photogallery');
 

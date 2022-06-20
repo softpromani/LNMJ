@@ -137,12 +137,12 @@
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 last item-link"
-                                                href="{{ route('about.campus') }}"><span
+                                                href="{{ route('constituentColleges') }}"><span
                                                     class="menu-title">Colleges</span></a>
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 last item-link"
-                                                href='{{ route('about.bestpractice') }}' target="_blank"><span
+                                                href='{{ route('constituentColleges') }}' target="_blank"><span
                                                     class="menu-title">Self Financed Inst.</span></a>
                                         </li>
                                     </ul>
@@ -161,7 +161,7 @@
                                 <div class="mega-col last more" style="width:50%;">
                                     <ul class="subnavi level2">
                                         <li class="level2 first">
-                                            <a title="" class="level2 first item-link" href="{{route('admission')}}" target="_blank"><span
+                                            <a title="" class="level2 first item-link" href="{{route('admission.home')}}" target="_blank"><span
                                                     class="menu-title">Admission</span></a>
                                         </li>
                                         <li class="level2">
@@ -220,7 +220,7 @@
 
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="{{route('course')}}"><span
-                                class="menu-title">Programme/Course</span></a>
+                                class="menu-title">Programme/Courses</span></a>
                     </li>
 
                     <li class="level1 havechild">
@@ -312,12 +312,12 @@
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 last item-link"
-                                                href="{{ route('about.campus') }}"><span
+                                                href="#"><span
                                                     class="menu-title">Regulation</span></a>
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 last item-link"
-                                                href='{{ route('about.bestpractice') }}' target="_blank"><span
+                                                href='{{ route('documentNotice') }}' target="_blank"><span
                                                     class="menu-title">Others</span></a>
                                         </li>
                                     </ul>
@@ -418,44 +418,6 @@
                                 </div>
                             </li>
 
-                            {{-- <li class="haveChild level1"><a title="Explore " href='#'>Research</a><span
-                                    class="menuress-toggle"></span>
-                                <div class="res-wrapnav">
-                                    <ul class="nav">
-                                        <li><a href='#'>Central Facilities for R &amp; D</a></li>
-                                        <li><a href='#'>Research and Training Centres</a></li>
-                                        <li><a href='#'>Consultancy Services</a>
-                                        </li>
-                                        <li><a href='#'>Resource Centres</a></li>
-                                        <li><a href='#'>Ph.D.</a></li>
-                                        <li><a href='#'>Publications</a></li>
-                                    </ul>
-                                </div>
-                            </li>
-
-                            <li class="haveChild level1"><a title="Explore " href='#'>Admissions</a><span
-                                    class="menuress-toggle"></span>
-                                <div class="res-wrapnav">
-                                    <ul class="nav">
-                                        <li><a href='#' target="_blank">Directorate of
-                                                Admissions</a></li>
-                                        <li><a href='#'>Academic Calender</a></li>
-                                    </ul>
-                                </div>
-                            </li> --}}
-
-                            {{-- <li class="haveChild level1"><a title="Explore " href='#'>Examinations</a><span
-                                    class="menuress-toggle"></span>
-                                <div class="res-wrapnav">
-                                    <ul class="nav">
-                                        <li><a href='#'>Examination Press Notes</a>
-                                        </li>
-                                        <li><a href='#'>Examination Time
-                                                Table</a></li>
-                                    </ul>
-                                </div>
-                            </li> --}}
-
                             <li class="haveChild level1"><a title="Explore " href='#'>Student Support</a><span
                                     class="menuress-toggle"></span>
                                 <div class="res-wrapnav">
@@ -494,30 +456,6 @@
                                     </ul>
                                 </div>
                             </li>
-
-                            {{-- <li class="haveChild level1"><a title="Explore " href='#'>E-Resources</a><span
-                                    class="menuress-toggle"></span>
-                                <div class="res-wrapnav">
-                                    <ul class="nav">
-                                        <li><a href='e-books.html'>e-Books</a></li>
-                                        <li><a href='https://jgateplus.com/search/'>Common Gateway for
-                                                e-Journals</a></li>
-                                        <li><a href="e-journals.html">e-ShodhSindhu e-Journals</a></li>
-                                        <li><a href="sagejournals.html">SAGE e-Journals</a> </li>
-                                        <li><a href="indianjournals.html">INDIAN e-Journals</a> </li>
-                                        <li><a href="http://shodhganga.inflibnet.ac.in/"
-                                                target="_blank">Shodhganga</a> </li>
-                                        <li><a href="http://www.sakshat.ac.in/" target="_blank">NME-ICT
-                                                Projects</a></li>
-                                        <li><a href="http://14.139.82.46:8080/newgenlibctxt/"
-                                                target="_blank">University Library WebOPAC</a></li>
-                                        <li><a href="#" target="_blank">OU Digital
-                                                Library</a> </li>
-                                        <li><a href="News2017/SciFinder%20Users%20access.pdf"
-                                                target="_blank">SciFinder User Registration</a> </li>
-                                    </ul>
-                                </div>
-                            </li> --}}
 
                             <li class="haveChild level1"><a title="Explore " href='#'>RTI Act</a><span
                                     class="menuress-toggle"></span>

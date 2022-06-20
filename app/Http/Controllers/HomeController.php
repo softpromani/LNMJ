@@ -66,9 +66,9 @@ class HomeController extends Controller
         return view('Frontend.kulgeet');
     }
 
-    function admission()
+    function admissionHome()
     {
-        return view('Frontend.admission');
+        return view('Frontend.admission_home');
     }
 
     function aqar()
@@ -228,6 +228,80 @@ class HomeController extends Controller
     {
         return view('Frontend.acd-fineArts-department');
     }
+
+    public function botanyDepartment()
+    {
+        return view('Frontend.botany-department');
+    }
+
+    public function constituentColleges()
+    {
+        return view('Frontend.constituent-colleges');
+    }
+
+    public function affiliatedDegreeColleges()
+    {
+        return view('Frontend.affiliated_degree-colleges');
+    }
+
+    public function affiliatedBedColleges()
+    {
+        return view('Frontend.affiliated_bed-colleges');
+    }
+
+    public function affiliatedTechnicalColleges()
+    {
+        return view('Frontend.affiliated_technical-colleges');
+    }
+
+    public function departmentBusinessDepartment()
+    {
+        return view('Frontend.business_administration');
+    }
+
+    public function departmentBioTechnology()
+    {
+        return view('Frontend.department_biotechnology');
+    }
+
+    public function departmentInformationScience()
+    {
+        return view('Frontend.information_science');
+    }
+
+    public function departmentGerontology()
+    {
+        return view('Frontend.gerontology');
+    }
+
+    public function advanceResearch()
+    {
+        return view('Frontend.advance_research');
+    }
+
+    public function womenStudies()
+    {
+        return view('Frontend.women_studies');
+    }
+
+    public function tenders()
+    {
+        return view('Frontend.tender');
+    }
+
+    public function documentNotice()
+    {
+        return view('Frontend.document_notice');
+    }
+
+    public function eLearningResource()
+    {
+        return view('Frontend.elearning_resource');
+    }
+
+
+
+
 
 
 
