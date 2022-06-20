@@ -1,5 +1,5 @@
 <div class="list-group border-0 text-left text-md-left">
-    <a href="{{route('admission')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Admission</span> </a>
+    <a href="{{route('admission.home')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Admission</span> </a>
     <a href="#menu1" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">Examination</span> </a>
     <div class="collapse" id="menu1" data-parent="#sidebar"  >
         <a href="#" class="list-group-item">Examination Calendar </a>
