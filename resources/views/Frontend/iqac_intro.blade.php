@@ -42,7 +42,7 @@
                                 <img src="{{asset('Frontend/images/officers/iqac_director.jpeg')}}">
                                 <div class="box-content">
                                     <h3 class="title">Dr. Md. Zeya Haider</h3>
-                                    <span class="">IQAC Director</span>
+                                    <span class="">Director</span>
                                 </div>
                             </div>
                         </div>
