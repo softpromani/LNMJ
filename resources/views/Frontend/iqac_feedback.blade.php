@@ -32,7 +32,7 @@
                     <h2 class="display-4 font-weight-light text-center">Feedback From Different Stakeholder</h2>
                 </div>
 
-                <h2 class="display-4 font-weight-light">Feedback</h2>
+                <h2 class="display-4 font-weight-light">Feedback Form</h2>
                 <hr/>
                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                     <div class="panel panel-default">
