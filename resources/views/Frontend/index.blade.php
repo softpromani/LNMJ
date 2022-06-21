@@ -195,7 +195,8 @@
                                                     <h3 class="modtitle">Shri Phagu Chauhan </h3>
                                                     <div class="content-main">
                                                         <h3 class="title" style='color:#7C0000;font-weight:bold'>
-                                                            Hon'bl Chancellor
+                                                            HE, Governor-Cum-Chancellor <br/>
+                                                            Bihar
                                                         </h3>
                                                         <br />
                                                         <a href="https://governor.bih.nic.in/" target="_blank"><strong
@@ -212,15 +213,17 @@
                                                             src="{{ asset('Frontend/images/vcsir.jpg') }}"
                                                             alt="" />
                                                     </div>
-                                                    <h3 class="modtitle">Hon'bl Vice Chancellor</h3>
+
+                                                    <h3 class="modtitle">Prof. Surendra Pratap Singh </h3>
                                                     <div class="content-main">
                                                         <h3 class="title" style='color:#7C0000;font-weight:bold'>
-                                                            Prof. Surendra Pratap
-                                                            Singh</h3>
+                                                            Hon'ble Vice-Chancellor, <br/>
+                                                            L.N. Mithila University Darbhanga
+                                                        </h3>
                                                         <br />
-                                                        <a href="{{ route('adm.vc') }}" target="_blank"><strong
+                                                        <a href="{{route('adm.vc')}}" target="_blank"><strong
                                                                 style="color:black;">Read
-                                                                More...</strong></a>
+                                                                More</strong></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -239,8 +242,8 @@
                                                         <h3 class="title" style='color:#7C0000;font-weight:bold'>
                                                             Prof. Mushtaque Ahmad
                                                         </h3>
-
-                                                        <a href="adm-registrar.html" target="_blank"><strong
+                                                        <br/>
+                                                        <a href="{{route('adm.registrar')}}" target="_blank"><strong
                                                                 style="color:black;">Read
                                                                 More...</strong></a>
                                                     </div>
@@ -335,7 +338,7 @@
                                         </li>
 
                                         <li class="" style="width: -20px;">
-                                            <a href="#"><img src="{{ asset('Frontend/images/icon9.png') }}"
+                                            <a href="{{route('rtiAct')}}"><img src="{{ asset('Frontend/images/icon9.png') }}"
                                                     alt="" hspace="3">RTI ACT</a>
                                         </li>
                                     </ul>
@@ -410,7 +413,7 @@
                             <li><a href="#">Careers &amp; Fellowships</a></li>
 
                             <li><a href="#" target="_blank">Features</a></li>
-                            <li><a href="#" target="_blank">RTI ACT</a></li>
+                            <li><a href="{{route('rtiAct')}}" target="_blank">RTI ACT</a></li>
                             <li><a href="#">Careers &amp; Services</a></li>
                         </ul>
                     </div>
@@ -432,47 +435,32 @@
                                                     <div class="item-other">
                                                         <ul class="otehr-link">
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>BA BCOM MA MCOM
-                                                                    RESULT FOR JUNE 2021 (29.05.2022).</a>
+                                                                <a href="https://lnmu.ac.in/results/ug/B.com/Result-13-06-22.pdf" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>"Regarding Result of B.Com. (Honours) Part-II Examination 2021"<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notice Regarding
-                                                                    Grade Card Distribution For June 2021</a>
-                                                            </li>
-
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notice Regarding
-                                                                    Grade Card Distribution For June 2021</a>
-                                                            </li>
-
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notice Regarding
-                                                                    Grade Card Distribution For June 2021</a>
-                                                            </li>
-
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Apply Examination
-                                                                    Form June 2022 </a>
+                                                                <a href="https://lnmu.ac.in/Notice/Corrigendum%20merit%20list-compressed.pdf" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Corrigendum list of BLIS Admission session 2022-23<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Regarding Notice
-                                                                    Examination Form June 2022 </a>
+                                                                <a href="https://lnmu.ac.in/Notice/B.ed/Memo%20No.%20-%20XC-9397-9451-22%20Date%20-%2010.06.2022.pdf" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Notification of Examination Programme and Centre for B.Ed. Part-II (Session : 2020-22) Examination-2022<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>MSC PRACTICAL
-                                                                    SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
+                                                                <a href="https://lnmu.ac.in/Notice/BLIS/Notice.jpg" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Notice Regarding BLIS Admission session 2022-23<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="#" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>MSC PRACTICAL
-                                                                    SCHEDULE FOR DEC 2021 PREVIOUS YEAR </a>
+                                                                <a href="https://lnmu.ac.in/Notice/ADVERTISMENT.pdf" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Advertisement for MBA Admission<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                            </li>
+                                                            <li class="row">
+                                                                <a href="https://lnmu.ac.in/Notice/dsw/UG%202020%2023.pdf" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>U.G. (2020-23) Registration<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                            </li>
+                                                            <li class="row">
+                                                                <a href="http://biharcetbed-lnmu.in/" class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>B. Ed. Online Application<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
                                                             </li>
                                                         </ul>
                                                         </marquee>
@@ -526,46 +514,26 @@
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
                                                                     title="">Event will reschedule on dated
-                                                                    Please Fill
-                                                                    happy. </a>
+                                                                    Please feel happy. </a>
                                                             </li>
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0"
                                                                     title=""><span
-                                                                        style="float: left; background:#7C0000">23rd-
-                                                                        24th</span><span
+                                                                        style="float: left; background:#7C0000">17th-18th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">This Event is orgnised by DDE LNMU
-                                                                    on
-                                                                    ocation of holi. Hon'ble minister is our event chief
-                                                                    minister.
-                                                                </a>
+                                                                    title="">International Womens Day Celebration 2022 </a>
                                                             </li>
+
                                                             <li class="row">
                                                                 <a href="#" class="col-xs-2 pr0"
                                                                     title=""><span
-                                                                        style="float: left; background:#7C0000">30th-31st</span><span
-                                                                        style="float: left; background: #00aeef">May
-                                                                        2022</span></a>
-                                                                <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">Two
-                                                                    Days Hands-On Workshop on "Nanoplate-Based Digital
-                                                                    PCR" Organized by Dept. of Genetics & CFRD. </a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0"
-                                                                    title=""><span
-                                                                        style="float: left; background:#7C0000">23rd-
-                                                                        24th</span><span
+                                                                        style="float: left; background:#7C0000">17th-18th</span><span
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">IT Cell of DDE LNMU is going to
-                                                                    present
-                                                                    Cyber Security Workshop.
-                                                                </a>
+                                                                    title="">National Seminar on "Cutting Edge in Material Science" February 11, 2021</a>
                                                             </li>
 
 
@@ -829,9 +797,6 @@
                                             Meetings Notificationsmeu</a></li>
                                     <li><a href="https://ugc.ac.in/ugc_notices.aspx" target="_blank">UGC
                                             Notificationmeu </a></li>
-                                    <li><a href="http://www.educationbihar.gov.in/universityletter.aspx?uid=4"
-                                            target="_blank">University letter at Education Department of Bihar
-                                            Govt.</a></li>
                                     <li><a href="#">Grievance</a></li>
 
 

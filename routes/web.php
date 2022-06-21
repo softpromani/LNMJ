@@ -44,6 +44,7 @@ Route::get('/hostel', [HomeController::class, 'hostel'])->name('hostel');
 Route::get('/suggestive-measure', [HomeController::class, 'suggestiveMeasure'])->name('suggestiveMeasure');
 
 Route::get('/policies', [HomeController::class, 'policies'])->name('policies');
+Route::get('/rti-act', [HomeController::class, 'rtiAct'])->name('rtiAct');
 
 Route::get('/department-of-botany', [HomeController::class, 'botanyDepartment'])->name('botanyDepartment');
 Route::get('/constituent-colleges', [HomeController::class, 'constituentColleges'])->name('constituentColleges');

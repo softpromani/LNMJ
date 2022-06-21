@@ -38,6 +38,7 @@
             <li> <a href="#" style="font-size: 20px;color:black;">Information Technology Policy<img src="{{asset('Frontend/images/newanim.gif')}}"/></a></li>
             <li> <a href="#" style="font-size: 20px;color:black;">Research Ethics Policy<img src="{{asset('Frontend/images/newanim.gif')}}"/></a></li>
             <li> <a href="#" style="font-size: 20px;color:black;">Research Policy<img src="{{asset('Frontend/images/newanim.gif')}}"/></a></li>
+            <li> <a href="#" style="font-size: 20px;color:black;">Plagiarism Policy<img src="{{asset('Frontend/images/newanim.gif')}}"/></a></li>
         </ul>
     </section>
 

@@ -367,6 +367,11 @@ class HomeController extends Controller
         return view('Frontend.acd-college');
     }
 
+    public function rtiAct()
+    {
+        return view('Frontend.rti_act');
+    }
+
 
 
 }

@@ -14,7 +14,7 @@
                         <div class="item-content">
                             <div class="item-content-inner">
                                 <h5 class="item-title" >
-                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >E-Learning Resources</a>
+                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >RTI ACT</a>
                                 </h3>
                             </div>
                         </div>
@@ -27,17 +27,13 @@
     </div>
 </section>
 <div class="container-fluid" style="background-color: #00aeef;color:white;font-size:25px;font-weight:bold;padding:10px;">
-<p class="text-center">E-Learning Resources</p>
+<p class="text-center">RTI ACT</p>
 </div>
 <!-- slider ends here -->
 
 
     <section class="container" style="margin-top: 50px;margin-bottom:50px;">
-        <ul>
-            <li> <a href="#" style="font-size: 20px;color:black;">CLick here to access faculty wise study Materials for PG courses</a></li>
-            <li> <a href="#" style="font-size: 20px;color:black;">CLick here to access college wise study Materials for UG courses</a></li>
-            <li> <a href="https://drive.google.com/drive/folders/1GaNgTDAwRUFnwlzDbAH4xoRX7OMr4oNS" style="font-size: 20px;color:black;">CLick here to access student learning materials of Directorate of Distance Education</a></li>
-        </ul>
+        <a href="#" style="font-size: 20px;color:black;">Data will be uploaded soon....</a>
     </section>
 
 @endsection

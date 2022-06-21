@@ -4,7 +4,7 @@
     <a href="{{route('iqacStrategicPlan')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Strategic Plan</span> </a>
     <a href="{{route('iqacVision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies
     </span> </a>
-    <a href="{{route('iqacSsr')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">AQAR</span> </a>
+    <a href="{{route('iqacSsr')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">SSS</span> </a>
     <a href="#menu3" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">NAAC Accreditation</span> </a>
     <div class="collapse" id="menu3" data-parent="#sidebar"  >
         <a href="#" class="list-group-item">Academic & Administrative Audit </a>

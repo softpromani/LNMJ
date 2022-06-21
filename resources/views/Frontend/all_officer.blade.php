@@ -416,7 +416,7 @@
                     <div class="box-top">
                         Public Information Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/coe.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr.Sanjeet Kumar Jha</h3>
                         <span class="post">pio@lnmu.ac.in</span>

@@ -14,7 +14,7 @@
                         <div class="item-content">
                             <div class="item-content-inner">
                                 <h5 class="item-title" >
-                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >University at a Glance</a>
+                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >Ph.D</a>
                                 </h3>
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                                                 <div class="box-top">
                                                   Deputy COE 1
                                                 </div>
-                                                <img src="{{asset('Frontend/images/user.png')}}" style="height: 350px;width:500px;">
+                                                <img src="{{asset('Frontend/images/officers/coe.jpeg')}}" style="height: 350px;width:500px;">
                                                 <div class="box-content">
                                                     <h3 class="title">Dr. Sanjeet Kumar Jha</h3>
                                                     <span class="post"> 8544513263 <br/>dec1@lnmu.ac.in</span>
