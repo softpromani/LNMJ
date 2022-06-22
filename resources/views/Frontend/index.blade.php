@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html>
 
+
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
+
+   
+
+
+
     <script language="JavaScript">
         function MakeArray(n) {
             this.length = n
@@ -195,7 +202,7 @@
                                                     <h3 class="modtitle">Shri Phagu Chauhan </h3>
                                                     <div class="content-main">
                                                         <h3 class="title" style='color:#7C0000;font-weight:bold'>
-                                                            HE, Governor-Cum-Chancellor <br/>
+                                                            HE Governor-Cum-Chancellor <br/>
                                                             Bihar
                                                         </h3>
                                                         <br />
@@ -263,6 +270,12 @@
                                         </ol>
                                     </div>
                                 </div>
+                                <script>
+                                    $('#slideLft').carousel({
+  interval: 3000,
+  cycle: true
+}); 
+                                </script>
                             </div>
                         </div>
                     </div>
