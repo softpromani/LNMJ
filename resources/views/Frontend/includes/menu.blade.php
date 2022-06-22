@@ -1,4 +1,4 @@
-<nav id="yt_menuwrap" class="block" style="background:#7C0000">
+<nav id="yt_menuwrap" class="block" style="background:#7C0000;">
     <div class="container">
         <div class="row">
             <div id="yt_mainmenu" class="col-md-12 col-sm-12">
@@ -13,7 +13,7 @@
                         <a title="Pages " class="level1 havechild  item-link" href="#"><span class="menu-title">About
                                 Us</span></a>
                         <div class="level2 menu mega-content">
-                            <div class="mega-content-inner clearfix" style="width:200px">
+                            <div class="mega-content-inner clearfix" style="width:250px">
 
                                 <div class="mega-col last more" style="width:100%;">
                                     <ul class="subnavi level2">
@@ -39,12 +39,12 @@
                                         <li class="level2">
                                             <a title="" class="level2 last item-link"
                                                 href='{{ route('about.visionmission') }}' target="_blank"><span
-                                                    class="menu-title">Vision,Mission&Objectives</span></a>
+                                                    class="menu-title">Vision, Mission & Objectives</span></a>
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 last item-link"
                                                 href='{{ route('instituteDistinct') }}' target="_blank"><span
-                                                    class="menu-title" style="font-size: 12px;">Institutional Distinctveness</span></a>
+                                                    class="menu-title">Institutional Distinctveness</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -168,32 +168,22 @@
                                             <a title="" class="level2 item-link" href="{{route('examHome')}}"><span
                                                     class="menu-title">Examination</span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{ route('cells') }}"><span
-                                                    class="menu-title">Cells</span></a>
-                                        </li>
 
                                         <li class="level2">
-                                            <a title="" class="level2 item-link" href="{{ route('regulation') }}"><span
-                                                    class="menu-title">Regulation</span></a>
-                                        </li>
-
-                                        <li class="level2 last">
                                             <a title="" class="level2 item-link" href="{{ route('feeStructure') }}"><span
                                                     class="menu-title">Fee Structure</span></a>
                                         </li>
 
+                                        <li class="level2 last">
+                                            <a title="" class="level2 item-link" href="#"><span
+                                                    class="menu-title">Scholarship</span></a>
+                                        </li>
                                     </ul>
                                 </div>
 
                                 <div class="mega-col last more" style="width:50%;">
                                     <ul class="subnavi level2">
 
-
-                                        <li class="level2 first">
-                                            <a title="" class="level2 last item-link" href="{{ route('pgSyllabus') }}"><span
-                                                    class="menu-title">PG Syllabus</span></a>
-                                        </li>
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="{{ route('centralLibrary') }}"><span
                                                     class="menu-title">Library</span></a>
@@ -207,10 +197,7 @@
                                                     class="menu-title">Student Credit Card Guideline</span></a>
                                         </li>
 
-                                        <li class="level2 last">
-                                            <a title="" class="level2 item-link" href="{{ route('suggestiveMeasure') }}"><span
-                                                    class="menu-title">Suggestive Measure</span></a>
-                                        </li>
+
                                     </ul>
                                 </div>
 
@@ -336,7 +323,7 @@
 
                     <li class="level1 havechild">
                         <a title="Pages " class="level1 havechild  item-link" href="{{route('archive')}}"><span
-                                class="menu-title">Archieve</span></a>
+                                class="menu-title">Archive</span></a>
                     </li>
 
                     <li class="level1 havechild ">
@@ -424,9 +411,7 @@
                                     <ul class="nav">
                                         <li><a href='#'>Admission</a></li>
                                         <li><a href='#'>Examination</a></li>
-                                        <li><a href='#'>Cells</a></li>
                                         <li><a href='#'>E-Learning Resource</a></li>
-                                        <li><a href='#'>Regulation</a></li>
                                         <li><a href='#'>Fees Structure</a>
                                         </li>
                                         <li><a href='#'>Syllabus</a>

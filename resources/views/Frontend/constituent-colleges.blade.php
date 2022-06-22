@@ -1,36 +1,8 @@
 @extends('Frontend.includes.layout')
 @section('content')
-    <!-- slider starts here -->
-    <section id="yt_spotlight1" class="block mb30">
-        <div class="container">
-            <div class="row">
-                <div id="slideshow" class="col-sm-12">
-                    <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right" data-interval="5000"
-                        data-pause="hover">
-                        <!-- Carousel items -->
-                        <div class="slickslider-items bg-style1">
-                            <div class="slickslider-item item clearfix active">
-                                <div class="images-slideshow"><img alt=""
-                                        src="{{ asset('Frontend/images/internal%20banners/banner119.jpg') }}" /></div>
-                                <div class="item-content">
-                                    <div class="item-content-inner">
-                                        <h5 class="item-title">
-                                            <a href="#" style="color:#7C0000" title="">Home</a> | <a
-                                                href="#" style="color:#7C0000" title="">IQAC Home</a>
-                                            </h3>
-                                    </div>
-                                </div>
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- slider ends here -->
 
-    <div class="container">
+    <div class="container" style="margin-top: 60px;margin-bottom:60px;">
         <div class="row d-flex d-md-block flex-nowrap wrapper">
             @include('Frontend.includes.sidebar.academics_menu')
             <main class="col-md-9 float-left col px-5 pl-md-2 pt-2 main">
@@ -45,16 +17,16 @@
                     <p style="text-align: center;"><strong>Darbhanga District</strong></p>
 
                     <table border="2" width="100%">
-                        <tbody>
-                            <tr>
-                                <td width="43"><strong>Sl. No.</strong></td>
-                                <td width="204"><strong>Name of the College</strong></td>
-                                <td width="144"><strong>Principal</strong></td>
+                            <thead>
+                                <td width="43"><strong>Sr. No.</strong></td>
+                                <td width="204"><strong>College Name</strong></td>
+                                <td width="144"><strong>Principal/Prof.In-Charge</strong></td>
                                 <td width="96"><strong>Phone</strong></td>
                                 <td width="89"><strong>Mobile</strong></td>
                                 <td width="247"><strong>E-mail Id</strong></td>
                                 <td width="180"><strong>Website</strong></td>
-                            </tr>
+                            </thead>
+                            <tbody>
                             <tr>
                                 <td width="43"><strong>01</strong></td>
                                 <td width="204">C. M. College, Darbhanga.</td>
@@ -231,16 +203,16 @@
                     <p style="text-align: center;"><strong>Madhubani District</strong></p>
 
                     <table border="2" width="100%">
-                        <tbody>
-                            <tr>
-                                <td width="43"><strong>Sl. No.</strong></td>
-                                <td width="204"><strong>Name of the College</strong></td>
-                                <td width="144"><strong>Principal</strong></td>
+                            <thead>
+                                <td width="43"><strong>Sr. No.</strong></td>
+                                <td width="204"><strong>College Name</strong></td>
+                                <td width="144"><strong>Principal/Prof. In-Charge </strong></td>
                                 <td width="96"><strong>Phone</strong></td>
                                 <td width="90"><strong>Mobile</strong></td>
                                 <td width="246"><strong>E-mail Id</strong></td>
                                 <td width="180"><strong>Website</strong></td>
-                            </tr>
+                            </thead>
+                            <tbody>
                             <tr>
                                 <td width="43"><strong>01</strong></td>
                                 <td width="204">R. K. College, Madhubani</td>
@@ -410,16 +382,17 @@
                     <p style="text-align: center;"><strong>Samastipur District</strong></p>
 
                     <table border="2" width="100%">
-                        <tbody>
-                            <tr>
-                                <td width="43"><strong>Sl. No.</strong></td>
-                                <td width="228"><strong>Name of the College</strong></td>
-                                <td width="144"><strong>Principal</strong></td>
+
+                            <thead>
+                                <td width="43"><strong>Sr. No.</strong></td>
+                                <td width="228"><strong>College Name</strong></td>
+                                <td width="144"><strong>Principal/Prof.In-Charge</strong></td>
                                 <td width="72"><strong>Phone</strong></td>
                                 <td width="90"><strong>Mobile</strong></td>
                                 <td width="252"><strong>E-mail Id</strong></td>
                                 <td width="145"><strong>Website</strong></td>
-                            </tr>
+                            </thead>
+                            <tbody>
                             <tr>
                                 <td width="43"><strong>01</strong></td>
                                 <td width="228">Samastipur College, Samastipur</td>
@@ -582,16 +555,17 @@
                     <p style="text-align: center;"><strong>Begusarai District</strong></p>
 
                     <table border="2" width="100%">
-                        <tbody>
-                            <tr>
-                                <td width="43"><strong>Sl. No.</strong></td>
-                                <td width="228"><strong>Name of the College</strong></td>
-                                <td width="144"><strong>Principal</strong></td>
+
+                            <thead>
+                                <td width="43"><strong>Sr. No.</strong></td>
+                                <td width="228"><strong>College Name</strong></td>
+                                <td width="144"><strong>Principal/Prof.In-Charge</strong></td>
                                 <td width="72"><strong>Phone</strong></td>
                                 <td width="90"><strong>Mobile</strong></td>
                                 <td width="252"><strong>E-mail Id</strong></td>
                                 <td width="184"><strong>Website</strong></td>
-                            </tr>
+                            </thead>
+                            <tbody>
                             <tr>
                                 <td width="43"><strong>01</strong></td>
                                 <td width="228">G. D. College, Begusarai</td>
@@ -662,53 +636,7 @@
                     &nbsp;
                 </section>
 
-                {{-- <div class="panel-body table-responsive">
-                    <table class="table table-hover">
-                        <thead>
-                            <tr>
-                                <th>Sr.No.</th>
-                                <th>Name of the college</th>
-                                <th>Principal</th>
-                                <th>Phone</th>
-                                <th>Mobile</th>
-                                <th>Email Id</th>
-                                <th>Website</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
 
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
-
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
-
-                            </tr>
-                        </tbody>
-                    </table>
-                </div> --}}
             </main>
         </div>
     </div>

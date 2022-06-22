@@ -47,7 +47,7 @@
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('scienceDepartment') }}" target="_blank">Faculty of
-                                Sciences</a></div>
+                                Science</a></div>
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
@@ -69,7 +69,7 @@
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('social_scienceDepartment') }}" target="_blank">Faculty
-                                of Social Science</a></div>
+                                of Social Sciences</a></div>
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">

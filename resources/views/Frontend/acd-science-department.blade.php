@@ -40,12 +40,12 @@
             <div class="col-md-3 col-sm-3" id="sidebar">
                 <div class="box2">
                     <div class="box-top">
-                        Dean of Science
+                        Dean, Faculty of Science
                     </div>
                     <img src="{{ asset('Frontend/images/dean_science.jpg') }}" style="height: 300px;width:400px;">
                     <div class="box-content">
-                        <h3 class="title">Prof. Surendra Pratap Singh</h3>
-                        <span class="post">06272-222463, vc@lnmu.ac.in <br /> vc-lnmu-bih@nic.in</span>
+                        <h3 class="title">Dr. K.K. Jha</h3>
+                        <span class="post">9470644735, deanscience@lnmu.ac.in</span>
                     </div>
 
                 </div>

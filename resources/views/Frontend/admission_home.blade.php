@@ -1,7 +1,7 @@
 @extends('Frontend.includes.layout')
 @section('content')
     <!-- slider starts here -->
-    <section id="yt_spotlight1" class="block mb30">
+    {{-- <section id="yt_spotlight1" class="block mb30">
         <div class="container">
             <div class="row">
                 <div id="slideshow" class="col-sm-12">
@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- slider ends here -->
 
     <div class="container">
@@ -39,7 +39,7 @@
                 <a href="#" data-target="#sidebar" data-toggle="collapse"><i
                         class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
                 <div class="page-header">
-                    <h2 class="display-4 font-weight-light text-center">Home</h2>
+                    <h2 class="display-4 font-weight-light text-center">Admission Home</h2>
                 </div>
 
                 <div class="row" style="margin-bottom: 40px;">

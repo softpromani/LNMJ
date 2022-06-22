@@ -333,8 +333,8 @@
                                                     hspace="3">Alumni Association</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('tenders')}}"><img src="{{ asset('Frontend/images/icon9.png') }}"
-                                                    alt="" hspace="3">University Tenders</a>
+                                            <a href="{{route('cells')}}"><img src="{{ asset('Frontend/images/icon9.png') }}"
+                                                    alt="" hspace="3">Committees</a>
                                         </li>
 
                                         <li class="" style="width: -20px;">

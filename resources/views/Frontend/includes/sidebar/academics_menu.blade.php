@@ -4,7 +4,7 @@
 
         <a href="{{route('acd.phd')}}"  class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Ph.D.</span> </a>
         <a href="{{route('acd.faculties')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Faculties</span> </a>
-
+        <a href="{{route('policies')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Policies</span> </a>
         {{-- <a href="{{route('adm.registrar')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Self</span> </a> --}}
         <a href="#menu2" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">Colleges.</span> </a>
         <div class="collapse" id="menu2" data-parent="#sidebar"  >
@@ -28,13 +28,14 @@
             {{-- <a href="{{route('aqar')}}" class="list-group-item">AQAR </a> --}}
             <a href="https://ddelnmu.ac.in/" class="list-group-item">Directorate of Distance Education </a>
             <a href="https://witlnmu.ac.in/" class="list-group-item">Dr. APJ Abdul Kalam Women's Institute </a>
-            <a href="{{ route('departmentBusinessDepartment') }}" class="list-group-item">Department of Commerce & Business Administration </a>
+            <a href="{{ route('departmentBusinessDepartment') }}" class="list-group-item">Department of MBA </a>
             <a href="https://www.ifllnmu.com/" class="list-group-item">Institute of Foreign Languages </a>
             <a href="{{ route('departmentBioTechnology') }}" class="list-group-item">Department of Bio-Technology </a>
             <a href="{{ route('departmentInformationScience') }}" class="list-group-item">Inst. of Library & Information Science </a>
             <a href="{{ route('departmentGerontology') }}" class="list-group-item">Inst. of Gerontology and Geriatrics </a>
             <a href="{{ route('advanceResearch') }}" class="list-group-item">Centre of Advance Research in Nano Science & Technology </a>
             <a href="{{ route('womenStudies') }}" class="list-group-item">Women Studies </a>
+            <a href="#" class="list-group-item">Department of Bachelor Education </a>
         </div>
 
 

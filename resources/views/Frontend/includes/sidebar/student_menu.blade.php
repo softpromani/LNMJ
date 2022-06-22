@@ -19,16 +19,14 @@
         <a href="{{ route('cells') }}" class="list-group-item">Placement Cell </a>
         <a href="{{ route('cells') }}" class="list-group-item">Publication Cell </a>
     </div>
-    <a href="{{ route('regulation') }}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Regulation</span> </a>
     <a href="{{ route('feeStructure') }}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Fee Structure</span> </a>
     <a href="#" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Student Credit Card Guideline
     </span> </a>
-    <a href="{{ route('pgSyllabus') }}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">PG Syllabus</span> </a>
     <a href="#menu3" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">Library</span> </a>
     <div class="collapse" id="menu3" data-parent="#sidebar"  >
         <a href="#" class="list-group-item">M.K.S. Institute of social and research library</a>
         <a href="{{ route('centralLibrary') }}" class="list-group-item">Central Library </a>
     </div>
     <a href="{{ route('hostel') }}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Hostel</span> </a>
-    <a href="{{ route('suggestiveMeasure') }}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Suggestive Measures</span> </a>
+    <a href="{{ route('suggestiveMeasure') }}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Scholarship</span> </a>
 </div>

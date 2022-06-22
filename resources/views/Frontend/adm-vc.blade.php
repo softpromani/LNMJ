@@ -18,7 +18,7 @@
                                 </h3>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -38,14 +38,9 @@
                 <h2 class="display-4 font-weight-light text-center">Vice-Chancellor</h2>
             </div>
             <div class="col-md-12" id="content_main">
-               
-                  
-            
-                      
-                         
+
                <div class="row">
-    
-    
+
                                     <div class="col-md-4 col-sm-6">
                                         <div class="box">
                                             <img src="{{asset('Frontend/images/vcsir.jpg')}}">
@@ -55,31 +50,48 @@
                                             </div>
                                         </div>
                                     </div>
-            
+
                  <h1>Content Will Uploaded Soon...</h1>
-            
-     
+
+
                                 {{-- <img class="alignright" src="https://lnmuacin.in/studentnotice/Administration%20notice%20image/University1.jpg" alt=""> --}}
-                             
-                          
-                           
+
+
+
             </div>
-</div>       
-                                  
+</div>
 
-
-
-
-
-
-
-                     
-                        
-                        
-            
-            
 
        </main>
+    </div>
+
+
+
+    <div class="vc_tta-panel-body">
+        <div class="wpb_text_column wpb_content_element ">
+            <div class="wpb_wrapper">
+                <table class="table" width="100%" border='1'>
+                    <tbody>
+                        <thead>
+                            <td width="187">Sr. No.</td>
+                            <td width="181">Name</td>
+                            <td width="187">Designation</td>
+                            <td width="181">Mobile Number</td>
+                            <td width="187">E-mail ID</td>
+                            <td width="181">Photo</td>
+                        </thead>
+
+
+                        <tr>
+                            <td colspan="6" class="text-center">Content will be uploaded soon....</td>
+                        </tr>
+
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
     </div>
 </div>
 
