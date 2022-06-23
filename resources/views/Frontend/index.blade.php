@@ -196,12 +196,12 @@
                                                     <div class="item-image"><a
                                                             href="RegistrarP%20Laxminarayana%20CV.pdf"
                                                             target="_blank"><img
-                                                                src="{{ asset('Frontend/images/Fagu_chauhan.jpg') }}"
+                                                                src="{{ asset('Frontend/images/officers/chancellor.jpg') }}"
                                                                 alt="" /></a>
                                                     </div>
                                                     <h3 class="modtitle">Shri Phagu Chauhan </h3>
                                                     <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>
+                                                        <h3 class="title" style='color:#00aeef;font-weight:bold'>
                                                             HE Governor-Cum-Chancellor <br/>
                                                             Bihar
                                                         </h3>
@@ -223,9 +223,9 @@
 
                                                     <h3 class="modtitle">Prof. Surendra Pratap Singh </h3>
                                                     <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>
-                                                            Hon'ble Vice-Chancellor, <br/>
-                                                            L.N. Mithila University Darbhanga
+                                                        <h3 class="title" style='color:#00aeef;font-weight:bold'>
+                                                            Hon'ble Vice-Chancellor <br/>
+                                                            
                                                         </h3>
                                                         <br />
                                                         <a href="{{route('adm.vc')}}" target="_blank"><strong
@@ -235,27 +235,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class='item'>
-
-                                                <div class="customslider">
-                                                    <div class="item-image"><a
-                                                            href="RegistrarP%20Laxminarayana%20CV.pdf"
-                                                            target="_blank">
-                                                            <img src="{{ asset('Frontend/images/banners/registrarphoto.jpg') }}"
-                                                                alt="" /></a>
-                                                    </div>
-                                                    <h3 class="modtitle">Registrar </h3>
-                                                    <div class="content-main">
-                                                        <h3 class="title" style='color:#7C0000;font-weight:bold'>
-                                                            Prof. Mushtaque Ahmad
-                                                        </h3>
-                                                        <br/>
-                                                        <a href="{{route('adm.registrar')}}" target="_blank"><strong
-                                                                style="color:black;">Read
-                                                                More...</strong></a>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                        
 
                                         </div>
 
@@ -266,16 +246,11 @@
                                         <ol class="carousel-indicators">
                                             <li data-slide-to="0" data-target="#yt-extra-carousel1"></li>
                                             <li data-slide-to="1" data-target="#yt-extra-carousel1"></li>
-                                            <li data-slide-to="2" data-target="#yt-extra-carousel1"></li>
+                                           
                                         </ol>
                                     </div>
                                 </div>
-                                <script>
-                                    $('#slideLft').carousel({
-  interval: 3000,
-  cycle: true
-}); 
-                                </script>
+                             
                             </div>
                         </div>
                     </div>
@@ -426,6 +401,7 @@
                             <li><a href="#">Careers &amp; Fellowships</a></li>
 
                             <li><a href="#" target="_blank">Features</a></li>
+                            <li><a href="{{route()}}">Student Satisfactory Survey</a></li>
                             <li><a href="{{route('rtiAct')}}" target="_blank">RTI ACT</a></li>
                             <li><a href="#">Careers &amp; Services</a></li>
                         </ul>

@@ -3486,7 +3486,7 @@ ul.list-contact a:hover {
   color: #00aeef;
 }
 .slideLft{background:#B9E9FA; height:350px;      border-left:20px solid white;
-  border-image: url(../../FrontEnd/images/banners/maithili.png)  40 fill;}
+  border-image: url(../../Frontend/images/banners/maithili.png)  40 fill;}
 .slideLft li{list-style:none}
 .slideLft li a{color:#fff; text-decoration:none; font-size:14px; font-weight:bold; border-bottom:1px solid #fff; display:block; line-height:48px; text-transform:uppercase}
 .slideLft li a:hover{color:#c31e11}
@@ -5169,7 +5169,7 @@ div.sj-k2slickslider:hover .nav-pagination.conner-tl a.right {
 }
 .module.feature-teachers h3.modtitle {
   text-align: center;
-  color: #fff;
+  color: #7C0000;
 }
 .module.feature-teachers .modcontent div.yt-extra-carousel .carousel-inner {
   margin: 5px 0 2em;
