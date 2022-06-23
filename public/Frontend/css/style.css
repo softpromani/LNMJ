@@ -1147,6 +1147,7 @@
     font-size: 17px;
     font-weight: 600;
     padding: 12px;
+    text-align: center;
 }
 .panel .panel-body .table tbody tr td{
     color: #555;
@@ -1714,6 +1715,7 @@
 
 table {
     border: 1px solid black;
+    text-align: center;
 }
 thead {
     background-color: #7C0000;

@@ -5,7 +5,7 @@
         <a href="#" class="list-group-item">Examination Calendar </a>
         <a href="{{route('examResult')}}" class="list-group-item">Examination Result </a>
     </div>
-    <a href="#menu2" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">Cells</span> </a>
+    <a href="#menu2" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">Committees / Cells</span> </a>
     <div class="collapse" id="menu2" data-parent="#sidebar"  >
         <a href="{{ route('cells') }}" class="list-group-item">Press & Media Cells </a>
         <a href="{{ route('cells') }}" class="list-group-item">Internal Complaint Committee </a>

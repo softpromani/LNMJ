@@ -220,6 +220,49 @@
         </div>
     </section>
 
+    <section class="container">
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="headingNine">
+                    <h4 class="panel-title">
+                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                            href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                            Learning Outcomes
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+                    <div class="panel-body">
+                        <ul>
+                            <li> <a href="#" target="_blank">M.Sc (Botany)</a></li>
+                            <li> <a href="#" target="_blank">M.Sc (Chemistry)</a></li>
+                            <li> <a href="#" target="_blank">M.Sc (MAthmatics)</a></li>
+                            <li> <a href="#" target="_blank">M.Sc (Physics)</a></li>
+                            <li> <a href="#" target="_blank">M.Sc (Zoology)</a></li>
+                            <li> <a href="#" target="_blank">M.Com</a></li>
+                            <li> <a href="#" target="_blank">MBA</a></li>
+                            <li> <a href="#" target="_blank">M.A(Economics)</a></li>
+                            <li> <a href="#" target="_blank">M.A(English)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Geography)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Home Science)</a></li>
+                            <li> <a href="#" target="_blank">M.A(AIHC)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Philosophy)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Political Science)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Sanskrit)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Sociology)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Hindi)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Urdu)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Psychology)</a></li>
+                            <li> <a href="#" target="_blank">M.A(Music)</a></li>
+
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="container" style="margin-bottom: 50px;">
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
@@ -234,12 +277,27 @@
                 <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
                     <div class="panel-body">
 
-                            <ul>
-                                <li>Data will be uploaded soon......</li>
-
-
-                              </ul>
-
+                                <div class=" col-md-12">
+                                    <div class="panel">
+                                        <div class="panel-body table-responsive">
+                                            <table class="table table-hover">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Sr.No.</th>
+                                                        <th>Programme Name</th>
+                                                        <th>Regulation</th>
+                                                        <th>Syllabus</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td colspan="4">Data will be uploaded soon....</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
                     </div>
                 </div>
             </div>

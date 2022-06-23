@@ -4,7 +4,7 @@
 
     <div class="container-fluid"
         style="background-color: #00aeef;color:white;font-size:25px;font-weight:bold;padding:10px;margin-bottom: 40px;">
-        <p class="text-center">All Officers</p>
+        <p class="text-center">Administration</p>
     </div>
     <!-- slider ends here -->
 

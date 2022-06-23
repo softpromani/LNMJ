@@ -60,9 +60,9 @@
         <div class="vc_tta-panel-body">
             <div class="wpb_text_column wpb_content_element ">
                 <div class="wpb_wrapper">
-                    <table class="table" width="100%" border='1'>
-                        <tbody>
-                            <thead>
+                    <table class="table text-center" width="100%" border='1'>
+
+                            <thead class="text-center">
                                 <td>Sr. No.</td>
                                 <td >Name</td>
                                 <td >Designation</td>
@@ -70,6 +70,7 @@
                                 <td >E-mail ID</td>
                                 <td >Photo</td>
                             </thead>
+                            <tbody >
                             <tr>
                                 <td width="187">1.</td>
                                 <td width="181">Syed Mohammad Jamal Ashraf</td>

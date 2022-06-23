@@ -1,9 +1,8 @@
 <div class="list-group border-0 text-left text-md-left">
     <a href="{{route('iqac-intro')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Home</span> </a>
     <a href="{{route('iqacCommittee')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">IQAC Committee</span> </a>
-    <a href="{{route('iqacStrategicPlan')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Strategic Plan</span> </a>
-    <a href="{{route('iqacVision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies
-    </span> </a>
+    <a href="{{route('iqacVision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies</span> </a>
+    <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Minutes of Meeting</span> </a>
     <a href="#" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Composition of IQAC
     </span> </a>
     <a href="{{route('iqacSsr')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">SSS</span> </a>
@@ -14,7 +13,6 @@
         <a href="#" class="list-group-item">NAAC Certificate Cycle-II </a>
         <a href="#" class="list-group-item">NAAC Certificate Cycle-III </a>
         <a href="#" class="list-group-item">Certificates & Grade Card</a>
-        <a href="#" class="list-group-item">Minutes of meeting </a>
         <a href="#" class="list-group-item">NAAC Guidelines</a>
         <a href="#" class="list-group-item">NAAC PPT </a>
         <a href="#" class="list-group-item">SSS </a>

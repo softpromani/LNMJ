@@ -90,7 +90,7 @@
                                         <th>Name</th>
                                         <th>Mobile</th>
                                         <th>Email Id</th>
-                                        <th>Session</th>
+                                        <th>Period</th>
                                     </tr>
                                 </thead>
                                 <tbody>

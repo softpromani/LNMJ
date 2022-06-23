@@ -801,7 +801,7 @@ body {
 }
 #yt_menuwrap .date {
 	font-weight:bold;
-	font-size:14px;
+	font-size:16px;
 	text-align: center;
 	color: #de7300;
 }
@@ -3486,7 +3486,7 @@ ul.list-contact a:hover {
   color: #00aeef;
 }
 .slideLft{background:#B9E9FA; height:350px;      border-left:20px solid white;
-  
+
   border-image: url(../../Frontend/images/banners/maithili.png)  40 fill;}
 .slideLft li{list-style:none}
 .slideLft li a{color:#fff; text-decoration:none; font-size:14px; font-weight:bold; border-bottom:1px solid #fff; display:block; line-height:48px; text-transform:uppercase}

@@ -28,14 +28,14 @@
             {{-- <a href="{{route('aqar')}}" class="list-group-item">AQAR </a> --}}
             <a href="https://ddelnmu.ac.in/" class="list-group-item">Directorate of Distance Education </a>
             <a href="https://witlnmu.ac.in/" class="list-group-item">Dr. APJ Abdul Kalam Women's Institute </a>
-            <a href="{{ route('departmentBusinessDepartment') }}" class="list-group-item">Department of MBA </a>
+            <a href="{{ route('departmentBusinessDepartment') }}" class="list-group-item">Master of Business Administration </a>
             <a href="https://www.ifllnmu.com/" class="list-group-item">Institute of Foreign Languages </a>
             <a href="{{ route('departmentBioTechnology') }}" class="list-group-item">Department of Bio-Technology </a>
             <a href="{{ route('departmentInformationScience') }}" class="list-group-item">Inst. of Library & Information Science </a>
             <a href="{{ route('departmentGerontology') }}" class="list-group-item">Inst. of Gerontology and Geriatrics </a>
             <a href="{{ route('advanceResearch') }}" class="list-group-item">Centre of Advance Research in Nano Science & Technology </a>
             <a href="{{ route('womenStudies') }}" class="list-group-item">Women Studies </a>
-            <a href="#" class="list-group-item">Department of Bachelor Education </a>
+            <a href="#" class="list-group-item">Bachelor of Education </a>
         </div>
 
 
