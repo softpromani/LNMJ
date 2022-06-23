@@ -33,50 +33,58 @@
         </div>
     <!-- slider ends here -->
 
+
+<div class="row">
+    <div class="container d-flex align-items-center" style="max-width:60%">
+    <div class="col-md-4 col-sm-12 ml-5 ">
+        <div class="box2">
+            <div class="box-top">
+                Vice-Chancellor
+            </div>
+            <img src="{{ asset('Frontend/images/officers/vc.jpg') }}" style="height: 300px;width:500px;">
+            <div class="box-content">
+                <h3 class="title">Prof. Surendra Pratap Singh</h3>
+                <span class="post">06272-222463, vc@lnmu.ac.in <br /> vc-lnmu-bih@nic.in</span>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-12 ">
+        <div class="box2">
+            <div class="box-top">
+                Vice-Chancellor
+            </div>
+            <img src="{{ asset('Frontend/images/officers/vc.jpg') }}" style="height: 300px;width:500px;">
+            <div class="box-content">
+                <h3 class="title">Prof. Surendra Pratap Singh</h3>
+                <span class="post">06272-222463, vc@lnmu.ac.in <br /> vc-lnmu-bih@nic.in</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-12 ">
+        <div class="box2">
+            <div class="box-top">
+                Pro-Vice-Chancellor
+            </div>
+            <img src="{{ asset('Frontend/images/officers/pvc.jpg') }}" style="height: 300px;width:500px;">
+            <div class="box-content">
+                <h3 class="title">Prof. Dolly Sinha</h3>
+                <span class="post">8544513299 & pvc@lnmu.ac.in</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
     <div class="container">
 
-        <div class="row" style="margin-bottom: 40px;">
+        <div class="row container text-center" style="margin-bottom: 40px;">
 
-            <div class="col-md-3 col-sm-12">
-                <div class="box2">
-                    <div class="box-top">
-                        Vice-Chancellor
-                    </div>
-                    <img src="{{ asset('Frontend/images/officers/vc.jpg') }}" style="height: 300px;width:500px;">
-                    <div class="box-content">
-                        <h3 class="title">Prof. Surendra Pratap Singh</h3>
-                        <span class="post">06272-222463, vc@lnmu.ac.in <br /> vc-lnmu-bih@nic.in</span>
-                    </div>
-
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-3">
-                <div class="box2">
-                    <div class="box-top">
-                        Vice-Chancellor
-                    </div>
-                    <img src="{{ asset('Frontend/images/officers/vc.jpg') }}" style="height: 300px;width:500px;">
-                    <div class="box-content">
-                        <h3 class="title">Prof. Surendra Pratap Singh</h3>
-                        <span class="post">06272-222463, vc@lnmu.ac.in <br /> vc-lnmu-bih@nic.in</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-3 col-sm-3">
-                <div class="box2">
-                    <div class="box-top">
-                        Pro-Vice-Chancellor
-                    </div>
-                    <img src="{{ asset('Frontend/images/officers/pvc.jpg') }}" style="height: 300px;width:500px;">
-                    <div class="box-content">
-                        <h3 class="title">Prof. Dolly Sinha</h3>
-                        <span class="post">8544513299 & pvc@lnmu.ac.in</span>
-                    </div>
-                </div>
-            </div>
-
+           
         </div>
 
         <div class="row" style="margin-bottom: 40px;">

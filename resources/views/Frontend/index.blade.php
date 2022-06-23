@@ -48,7 +48,7 @@
             } else {
                 var theYear = currentDate.getYear() + 1900
             }
-            return theDay + ", " + theMonth + " " + currentDate.getDate() + ", " + theYear
+            return currentDate.getDate() + "  "+theMonth+ "  "+ theYear+'<br/>'+ theDay;
         }
     </script>
     @include('Frontend.includes.head')

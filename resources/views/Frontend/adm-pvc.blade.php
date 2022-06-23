@@ -46,7 +46,7 @@
                <div class="row">
     
     
-                                    <div class="col-md-4 col-sm-6">
+                                    <div class="col-md-4 col-sm-6" style="float:none;margin:0px auto;">
                                         <div class="box">
                                             <img src="{{asset('Frontend/images/lnmupvc.jpg')}}" style="height:250px;">
                                             <div class="box-content">

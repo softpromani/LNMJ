@@ -43,10 +43,10 @@
 
 
 
-                                <div class="row">
+                                <div class="row container"  >
 
 
-                                        <div class="col-sm-3" >
+                                        <div class="col-sm-3"  >
                                         <img src="{{asset('Frontend/images/lnmuF.A.jpg')}}" alt="">
                                         </div>
                                         <div class="col-sm-6"><h3 style="color:#7C0000;">Sri Kailash Ram</h3>

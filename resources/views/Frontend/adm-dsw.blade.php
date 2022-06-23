@@ -14,7 +14,7 @@
                     <h2 class="display-4 font-weight-light text-center">D.S.W.</h2>
                 </div>
                 <div class="col-md-12" id="content_main">
-                    <div class="row">
+                    <div class="row" style="float:none;margin:0px auto;">
 
 
                         <div class="col-sm-3">
