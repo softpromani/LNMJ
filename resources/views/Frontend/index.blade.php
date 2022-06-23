@@ -401,7 +401,7 @@
                             <li><a href="#">Careers &amp; Fellowships</a></li>
 
                             <li><a href="#" target="_blank">Features</a></li>
-                            <li><a href="{{route()}}">Student Satisfactory Survey</a></li>
+                            <li><a href="{{route('iqacSsr')}}">Student Satisfactory Survey</a></li>
                             <li><a href="{{route('rtiAct')}}" target="_blank">RTI ACT</a></li>
                             <li><a href="#">Careers &amp; Services</a></li>
                         </ul>
