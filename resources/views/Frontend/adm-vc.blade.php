@@ -89,18 +89,9 @@
                                         src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
                                         <td>N/A</td>
                             </tr>
+
                             <tr>
                                 <td width="187">3.</td>
-                                <td width="181">Sri. Bheem Mahto</td>
-                                <td width="187">L.D.C.</td>
-                                <td width="181">N/A</td>
-                                <td width="187">N/A</td>
-                                {{-- <td width="187"><img
-                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
-                                        <td>N/A</td>
-                            </tr>
-                            <tr>
-                                <td width="187">4.</td>
                                 <td width="181">Sri. Surendra Paswan</td>
                                 <td width="187">L.D.C.</td>
                                 <td width="181">N/A</td>
@@ -110,7 +101,7 @@
                                         <td>N/A</td>
                             </tr>
                             <tr>
-                                <td width="187">5.</td>
+                                <td width="187">4.</td>
                                 <td width="181">Sri. Yogendra Lal</td>
                                 <td width="187">Peon</td>
                                 <td width="181">N/A</td>
@@ -120,7 +111,7 @@
                                         <td>N/A</td>
                             </tr>
                             <tr>
-                                <td width="187">6.</td>
+                                <td width="187">5.</td>
                                 <td width="181">Sri. Rati Kant Lal Das</td>
                                 <td width="187">Peon</td>
                                 <td width="181">N/A</td>
@@ -130,7 +121,7 @@
                                         <td>N/A</td>
                             </tr>
                             <tr>
-                                <td width="187">7.</td>
+                                <td width="187">6.</td>
                                 <td width="181">Sri. Ram Pujan Thakur</td>
                                 <td width="187">Peon</td>
                                 <td width="181">N/A</td>
@@ -140,7 +131,7 @@
                                         <td>N/A</td>
                             </tr>
                             <tr>
-                                <td width="187">8.</td>
+                                <td width="187">7.</td>
                                 <td width="181">Sri. Ram Chandra Mandal</td>
                                 <td width="187">Peon</td>
                                 <td width="181">N/A</td>
@@ -150,7 +141,7 @@
                                         <td>N/A</td>
                             </tr>
                             <tr>
-                                <td width="187">9.</td>
+                                <td width="187">8.</td>
                                 <td width="181">Sri. Pawan Kumar Bhagat</td>
                                 <td width="187">Peon</td>
                                 <td width="181">N/A</td>
