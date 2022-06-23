@@ -30,13 +30,16 @@
                 <div class="logo-wrapper menuzord-brand switchable-logo pull-left flip mt-0 pt-5 iitd-logo-section">
                     <div class="logo-animation-wrapper">
                         <h3>Lalit Narayan Mithila University <br />
-                            <span style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <span
+                                style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 Accredited with 'B' Grade by NAAC
                             </span>
                         </h3>
-                        <h3 class="ar-fontfamily">ललित नारायण मिथिला विश्वविद्यालय <br /><span style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            नैक द्वारा 'बी' ग्रेड से मान्यता प्राप्त</span> </h3>
-                        <h3 class="ar-fontfamily">للت نارائن متھیلا یونیورسٹی  <br /><span style="font-size: 16px;">NAAC کے ذریعہ 'B' گریڈ کے ساتھ تسلیم شدہ</span></h3>
+                        <h3 class="ar-fontfamily">ललित नारायण मिथिला विश्वविद्यालय <br /><span
+                                style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                नैक द्वारा 'बी' ग्रेड से मान्यता प्राप्त</span> </h3>
+                        <h3 class="ar-fontfamily">للت نارائن متھیلا یونیورسٹی <br /><span style="font-size: 16px;">NAAC
+                                کے ذریعہ 'B' گریڈ کے ساتھ تسلیم شدہ</span></h3>
                     </div>
                     </a>
                 </div>

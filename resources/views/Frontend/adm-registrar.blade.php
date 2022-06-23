@@ -54,37 +54,10 @@
                             </div>
                         </div>
 
-                        <h1>Content Will Uploaded Soon...</h1>
-
-
-                        {{-- <img class="alignright" src="https://lnmuacin.in/studentnotice/Administration%20notice%20image/University1.jpg" alt=""> --}}
-
-
-
                     </div>
                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </main>
-
-
         </div>
-
-
-
-
         <div
             class="vc_general vc_tta vc_tta-tabs vc_tta-color-blue vc_tta-style-outline vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-left vc_tta-controls-align-left ">
 

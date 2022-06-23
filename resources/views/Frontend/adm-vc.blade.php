@@ -63,15 +63,101 @@
                     <table class="table" width="100%" border='1'>
                         <tbody>
                             <thead>
-                                <td width="187">Sr. No.</td>
-                                <td width="181">Name</td>
-                                <td width="187">Designation</td>
-                                <td width="181">Mobile Number</td>
-                                <td width="187">E-mail ID</td>
-                                <td width="181">Photo</td>
+                                <td>Sr. No.</td>
+                                <td >Name</td>
+                                <td >Designation</td>
+                                <td >Mobile Number</td>
+                                <td >E-mail ID</td>
+                                <td >Photo</td>
                             </thead>
                             <tr>
-                                <td colspan="6" class="text-center">Content will be uploaded soon....</td>
+                                <td width="187">1.</td>
+                                <td width="181">Syed Mohammad Jamal Ashraf</td>
+                                <td width="187">Secretary to Vice Chancellor</td>
+                                <td width="181">N/A</td>
+                                <td width="187">secretarytovc@lnmu.ac.in</td>
+                                <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td>
+                            </tr>
+                            <tr>
+                                <td width="187">2.</td>
+                                <td width="181">Ravi Kant Gupta</td>
+                                <td width="187">Computer Operator</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
+                            </tr>
+                            <tr>
+                                <td width="187">3.</td>
+                                <td width="181">Sri. Bheem Mahto</td>
+                                <td width="187">L.D.C.</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
+                            </tr>
+                            <tr>
+                                <td width="187">4.</td>
+                                <td width="181">Sri. Surendra Paswan</td>
+                                <td width="187">L.D.C.</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
+                            </tr>
+                            <tr>
+                                <td width="187">5.</td>
+                                <td width="181">Sri. Yogendra Lal</td>
+                                <td width="187">Peon</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
+                            </tr>
+                            <tr>
+                                <td width="187">6.</td>
+                                <td width="181">Sri. Rati Kant Lal Das</td>
+                                <td width="187">Peon</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
+                            </tr>
+                            <tr>
+                                <td width="187">7.</td>
+                                <td width="181">Sri. Ram Pujan Thakur</td>
+                                <td width="187">Peon</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
+                            </tr>
+                            <tr>
+                                <td width="187">8.</td>
+                                <td width="181">Sri. Ram Chandra Mandal</td>
+                                <td width="187">Peon</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
+                            </tr>
+                            <tr>
+                                <td width="187">9.</td>
+                                <td width="181">Sri. Pawan Kumar Bhagat</td>
+                                <td width="187">Peon</td>
+                                <td width="181">N/A</td>
+                                <td width="187">N/A</td>
+                                {{-- <td width="187"><img
+                                        src="{{ asset('Frontend/images/vcps.jpeg') }}"></td> --}}
+                                        <td>N/A</td>
                             </tr>
                         </tbody>
                     </table>

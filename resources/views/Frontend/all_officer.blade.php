@@ -76,7 +76,7 @@
             <div class="col-md-3 col-sm-12">
                 <div class="box2">
                     <div class="box-top">
-                       The Dean, Student's Welfare
+                        The Dean, Student's Welfare
                     </div>
                     <img src="{{ asset('Frontend/images/officers/dean.png') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
@@ -195,7 +195,6 @@
                 </div>
             </div>
 
-
             <div class="col-md-3 col-sm-12">
                 <div class="box2">
                     <div class="box-top">
@@ -299,9 +298,6 @@
         </div>
 
         <div class="row" style="margin-bottom: 40px;">
-
-
-
 
             <div class="col-md-3 col-sm-12">
                 <div class="box2">
@@ -428,10 +424,6 @@
                 </div>
             </div>
 
-
-
-
-
             <div class="col-md-3 col-sm-12">
                 <div class="box2">
                     <div class="box-top">
@@ -475,9 +467,6 @@
         </div>
 
         <div class="row" style="margin-bottom: 40px;">
-
-
-
 
             <div class="col-md-3 col-sm-12">
                 <div class="box2">
