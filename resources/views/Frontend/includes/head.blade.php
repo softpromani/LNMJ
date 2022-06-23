@@ -43,6 +43,46 @@
     </style>
 
 
+<script language="JavaScript">
+    function MakeArray(n) {
+        this.length = n
+        return this
+    }
+    monthNames = new MakeArray(12)
+    monthNames[1] = "January"
+    monthNames[2] = "February"
+    monthNames[3] = "March"
+    monthNames[4] = "April"
+    monthNames[5] = "May"
+    monthNames[6] = "June"
+    monthNames[7] = "July"
+    monthNames[8] = "August"
+    monthNames[9] = "September"
+    monthNames[10] = "October"
+    monthNames[11] = "November"
+    monthNames[12] = "December"
+    dayNames = new MakeArray(7)
+    dayNames[1] = "Sunday"
+    dayNames[2] = "Monday"
+    dayNames[3] = "Tuesday"
+    dayNames[4] = "Wednesday"
+    dayNames[5] = "Thursday"
+    dayNames[6] = "Friday"
+    dayNames[7] = "Saturday"
+
+    function customDateString() {
+        currentDate = new Date()
+        var theDay = dayNames[currentDate.getDay() + 1]
+        var theMonth = monthNames[currentDate.getMonth() + 1]
+        msie4 = ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4));
+        if (msie4) {
+            var theYear = currentDate.getYear()
+        } else {
+            var theYear = currentDate.getYear() + 1900
+        }
+        return currentDate.getDate() + "  "+theMonth+ "  "+ theYear+'<br/>'+ theDay;
+    }
+</script>
 
 
 <script src="{{ asset('Frontend/js/jquery.min.js') }}" type="text/javascript"></script>

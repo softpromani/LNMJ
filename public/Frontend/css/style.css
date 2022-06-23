@@ -1278,65 +1278,6 @@
 	text-align: left;
 }
 
-
-
-
-
-
-.logo-wrapper:active .logo-animation-wrapper img,
-.logo-wrapper:active img,
-.logo-wrapper:focus .logo-animation-wrapper img,
-.logo-wrapper:focus img,
-.logo-wrapper:hover .logo-animation-wrapper img,
-.logo-wrapper:hover img {
-	fill: hsla(0, 0%, 100%, .8)
-}
-
-.logo-wrapper img {
-	-webkit-transition: all .2s ease;
-	transition: all .2s ease;
-	height: 23px;
-	width: 23px;
-	fill: #fff
-}
-
-.logo-animation-wrapper img {
-	position: absolute;
-	top: 0;
-	white-space: nowrap;
-	/*overflow: hidden;*/
-	opacity: 0;
-	filter:alpha(opacity=0);
-
-	padding-left: 5px;
-
-	/*width: 172px*/
-}
-
-.logo-animation-wrapper img:first-child {
-	top: -3px;
-	-webkit-animation: textLogoAnimate1 12s ease-in-out infinite;
-	animation: textLogoAnimate1 12s ease-in-out infinite
-}
-
-.logo-animation-wrapper img:nth-child(2) {
-	top: -6px;
-	-webkit-animation: textLogoAnimate2 12s ease-in-out infinite;
-	animation: textLogoAnimate2 12s ease-in-out infinite
-}
-
-.logo-animation-wrapper img:nth-child(3) {
-	top: 0px;
-	-webkit-animation: ioeAnimate 12s ease-in-out infinite;
-	animation: ioeAnimate 12s ease-in-out infinite
-}
-
-
-
-
-
-
-
 .logo-wrapper:active .logo-animation-wrapper h3,
 .logo-wrapper:active h3,
 .logo-wrapper:focus .logo-animation-wrapper h3,

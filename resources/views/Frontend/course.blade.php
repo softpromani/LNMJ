@@ -10,6 +10,52 @@
     <section class="container " style="margin-top: 50px;">
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="headingEight">
+                    <h4 class="panel-title">
+                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                            href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                            Post Doctoral Programmes
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+                    <div class="panel-body">
+                        <ul>
+                            <li> <a href="#" target="_blank">D.Litt (Botany)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Bio-technology)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Chemistry)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Mathematics)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Physics)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Zoology)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Ancient Indian History)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Economics)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Education)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Geogrophy)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (History)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Home Science)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Political Science)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Psychology)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Sociology)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Commerce)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Management)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (English)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Hindi)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Maithili)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Philosophy)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Sanskrit)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Urdu)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Dramatics)</a></li>
+                            <li> <a href="#" target="_blank">D.Litt (Music)</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container ">
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="headingTwo">
                     <h4 class="panel-title">
                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
@@ -24,7 +70,7 @@
                             <li> <a href="#" target="_blank">PhD (Botany)</a></li>
                             <li> <a href="#" target="_blank">PhD (Bio-technology)</a></li>
                             <li> <a href="#" target="_blank">PhD (Chemistry)</a></li>
-                            <li> <a href="#" target="_blank">PhD (Mathmatics)</a></li>
+                            <li> <a href="#" target="_blank">PhD (Mathematics)</a></li>
                             <li> <a href="#" target="_blank">PhD (Physics)</a></li>
                             <li> <a href="#" target="_blank">PhD (Zoology)</a></li>
                             <li> <a href="#" target="_blank">PhD (Ancient Indian History)</a></li>
@@ -157,7 +203,7 @@
                 </div>
                 <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
                     <div class="panel-body">
-                        <ul>
+
                             <ul>
                                 <li><a href="#">Certification in Flute</a></li>
                                 <li><a href="#">Certification in Pahawaj</a></li>
@@ -167,7 +213,7 @@
                                 <li><a href="#">Certification in Sikki Art</a></li>
                                 <li><a href="#">Certification in Mithila Painting</a></li>
                               </ul>
-                        </ul>
+
                     </div>
                 </div>
             </div>
@@ -187,13 +233,13 @@
                 </div>
                 <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
                     <div class="panel-body">
-                        <ul>
+
                             <ul>
                                 <li>Data will be uploaded soon......</li>
 
 
                               </ul>
-                        </ul>
+
                     </div>
                 </div>
             </div>
