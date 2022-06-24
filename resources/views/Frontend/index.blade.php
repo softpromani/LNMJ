@@ -2,6 +2,12 @@
 <html>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
+
+   
+
+
+
+  
     @include('Frontend.includes.head')
 </head>
 <body id="bd" class="homepage home-layout1 res">

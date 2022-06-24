@@ -234,6 +234,12 @@ class HomeController extends Controller
         return view('Frontend.botany-department');
     }
 
+
+    public function chemistryDepartment()
+    {
+        return view('Frontend.chemistry-department');
+    }
+
     public function constituentColleges()
     {
         return view('Frontend.constituent-colleges');
