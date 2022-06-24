@@ -41,7 +41,7 @@
             font-family: Ubuntu
         }
     </style>
-
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/fonts.css" />
 <script src="http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
 <script>
     function loadGoogleTranslate(){

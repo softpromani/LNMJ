@@ -1332,6 +1332,12 @@
 	animation: ioeAnimate 12s ease-in-out infinite
 }
 
+.logo-animation-wrapper h3:nth-child(4) {
+	top: -9px;
+	-webkit-animation: ioeAnimate 12s ease-in-out infinite;
+	animation: ioeAnimate 12s ease-in-out infinite
+}
+
 @-webkit-keyframes textLogoAnimate1 {
 	0% {
 		opacity: 1;
@@ -1793,4 +1799,9 @@ thead {
 .modal-box .modal-dialog .modal-content .modal-body .btn:focus{ outline: none; }
 @media only screen and (max-width: 479px){
     .modal-dialog{ width: 95% !important; }
+}
+
+
+.tirhuta {
+    font-family: "MithilaUni" !important;
 }
