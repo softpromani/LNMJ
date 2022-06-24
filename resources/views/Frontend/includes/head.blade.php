@@ -42,6 +42,12 @@
         }
     </style>
 
+<script src="http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
+<script>
+    function loadGoogleTranslate(){
+        new google.translate.TranslateElement("google_element");
+    }
+</script>
 
 <script language="JavaScript">
     function MakeArray(n) {

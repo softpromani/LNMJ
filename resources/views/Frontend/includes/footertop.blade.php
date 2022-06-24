@@ -64,125 +64,13 @@
                                 <li class="item-1539"><a
                                         href="#">Phone : xxx-xxxxx</a></li>
                                 <li class="item-1540"><a href="#">Email : xxx@xx.xx</a></li>
-
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                {{-- <div id="bottom3" class="col-md-3 col-sm-6">
-                    <div class="module  useful-link">
-                        <h3 class="modtitle">Research</h3>
-                        <div class="modcontent clearfix">
-                            <ul class="menu">
-                                <li class="item-1537"><a href="#">Central
-                                        Facilities for R &amp; D</a></li>
-                                <li class="item-1538"><a href="#">Research and Training
-                                        Centres</a></li>
-                                <li class="item-1539"><a
-                                        href="#">Consultancy Services</a></li>
-                                <li class="item-1540"><a href="#">Resource
-                                        Centres</a></li>
-                                <li class="item-1541"><a
-                                        href="#">Collaborations</a></li>
-                                <li class="item-1542"><a href="#">Ph.D.</a></li>
-                                <li class="item-1542"><a
-                                        href="#">Publications</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="bottom3" class="col-md-3 col-sm-6">
-                    <div class="module  useful-link">
-                        <h3 class="modtitle">Student Support</h3>
-                        <div class="modcontent clearfix">
-                            <ul class="menu">
-                                <li class="item-1537"><a href="#">Emp. Info. &
-                                        Guidance Bureau</a></li>
-                                <li class="item-1538"><a href="#">ELTC</a></li>
-                                <li class="item-1539"><a href="#">Hostels
-                                        and Messes</a></li>
-                                <li class="item-1540"><a href="#">National Service
-                                        Scheme (NSS)</a></li>
-                                <li class="item-1541"><a href="#">National Cadet
-                                        Corps (NCC)</a></li>
-                                <li class="item-1542"><a href="#">Human Capital
-                                        Development Centre(HCDC)</a></li>
-                                <li class="item-1542"><a href="#">UFRO</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="bottom3" class="col-md-3 col-sm-6">
-                    <div class="module  useful-link">
-                        <h3 class="modtitle">Amenities</h3>
-                        <div class="modcontent clearfix">
-                            <ul class="menu">
-                                <li class="item-1537"><a href="#">Dept. of
-                                        Publications & Press</a></li>
-
-                                <li class="item-1539"><a href="#">Guest House</a>
-                                </li>
-                                <li class="item-1540"><a href="#">Health
-                                        Centre</a></li>
-                                <li class="item-1541"><a href="#">Bank</a></li>
-                                <li class="item-1541"><a href="#">Post Office</a>
-                                </li>
-                                <li class="item-1542"><a href="#">Faculty
-                                        Club</a></li>
-                                <li class="item-1542"><a href="#">Seminar Halls</a>
+                                <li>
+                                    <div id="google_element"></div>
                                 </li>
                             </ul>
                         </div>
                     </div>
                 </div>
-
-                <div id="bottom3" class="col-md-3 col-sm-6">
-                    <div class="module  useful-link">
-                        <h3 class="modtitle">E-Resources</h3>
-                        <div class="modcontent clearfix">
-                            <ul class="menu">
-                                <li class="item-1541"><a href="#"
-                                        target="_blank">Common Gateway for e-Journals</a></li>
-                                <li class="item-1540"><a href="#">e-ShodhSindhu
-                                        e-Journals</a></li>
-                                <li class="item-1538"><a href="#">SAGE e-Journals</a></li>
-                                <li class="item-1537"><a href="#">INDIAN e-Journals</a>
-                                </li>
-                                <li class="item-1539"><a href="#"
-                                        target="_blank">NME-ICT Projects</a></li>
-                                <li class="item-1542"><a href="#"
-                                        target="_blank">IBID</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="bottom3" class="col-md-3 col-sm-6">
-                    <div class="module  useful-link">
-                        <h3 class="modtitle">RTI Act</h3>
-                        <div class="modcontent clearfix">
-                            <ul class="menu">
-                                <li class="item-1537"><a href="#">Powers and Duties</a>
-                                </li>
-                                <li class="item-1538"><a href="#">Decision making
-                                        process</a></li>
-                                <li class="item-1539"><a href="#">Rules, Regulations
-                                        etc</a></li>
-                                <li class="item-1540"><a href="#">Executive Council</a></li>
-
-                                <li class="item-1542"><a href="#">Directory of
-                                        Officers</a></li>
-                                <li class="item-1542"><a href="#">Public Information
-                                        Officers</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div> --}}
-
             </div>
         </div>
     </div>

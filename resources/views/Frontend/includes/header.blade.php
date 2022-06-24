@@ -38,11 +38,12 @@
                                 Accredited with 'B' Grade by NAAC (By 2<sup>nd</sup> Cycle)
                             </span>
                         </h3>
-                        <h3 class="ar-fontfamily">ललित नारायण मिथिला विश्वविद्यालय <br /><span
+                        <h3>ललित नारायण मिथिला विश्वविद्यालय <br /><span
                                 style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 नैक द्वारा 'बी' ग्रेड से मान्यता प्राप्त (द्वितीय चक्र तक)</span> </h3>
-                        <h3 class="ar-fontfamily">للت نارائن متھیلا یونیورسٹی <br /><span style="font-size: 16px;">NAAC
-                                کے ذریعہ 'B' گریڈ کے ساتھ تسلیم شدہ (دوسرے سائیکل کے ذریعے)</span></h3>
+                        <h3 >للت نارائن متھیلا یونیورسٹی <br />
+                            <span style="font-size: 16px;">(دوسرے سائیکل کے ذریعے) NAAC کے ذریعہ 'B' گریڈ کے ساتھ تسلیم شدہ</span></h3>
+
                     </div>
                     </a>
                 </div>
