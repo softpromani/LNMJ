@@ -60,7 +60,7 @@
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-commerce.php" target="_blank">Department of Chemistry</a>
+                            <a style="color: #000;" href="{{route('chemistryDepartment')}}" target="_blank">Department of Chemistry</a>
                         </div>
                         <p>&nbsp;</p>
                         <div

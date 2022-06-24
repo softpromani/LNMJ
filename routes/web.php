@@ -47,6 +47,7 @@ Route::get('/policies', [HomeController::class, 'policies'])->name('policies');
 Route::get('/rti-act', [HomeController::class, 'rtiAct'])->name('rtiAct');
 
 Route::get('/department-of-botany', [HomeController::class, 'botanyDepartment'])->name('botanyDepartment');
+Route::get('/department-of-chemistry', [HomeController::class, 'chemistryDepartment'])->name('chemistryDepartment');
 Route::get('/constituent-colleges', [HomeController::class, 'constituentColleges'])->name('constituentColleges');
 Route::get('/affiliated-degree-colleges', [HomeController::class, 'affiliatedDegreeColleges'])->name('affiliatedDegreeColleges');
 Route::get('/affiliated-Bed-colleges', [HomeController::class, 'affiliatedBedColleges'])->name('affiliatedBedColleges');
