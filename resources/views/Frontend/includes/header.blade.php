@@ -35,7 +35,7 @@
                         <h3>Lalit Narayan Mithila University <br />
                             <span
                                 style="font-size: 16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                Accredited with 'B' Grade by NAAC (By 2<sup>nd</sup> Cycle)
+                                Accredited with 'B' Grade by NAAC ( 2<sup>nd</sup> Cycle )
                             </span>
                         </h3>
                         <h3>ललित नारायण मिथिला विश्वविद्यालय <br /><span
