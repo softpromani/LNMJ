@@ -20,33 +20,41 @@
                 </div>
                 <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
                     <div class="panel-body">
-                        <ul>
-                            <li> <a href="#" target="_blank">D.Litt (Botany)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Bio-technology)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Chemistry)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Mathematics)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Physics)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Zoology)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Ancient Indian History)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Economics)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Education)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Geogrophy)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (History)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Home Science)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Political Science)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Psychology)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Sociology)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Commerce)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Management)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (English)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Hindi)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Maithili)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Philosophy)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Sanskrit)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Urdu)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Dramatics)</a></li>
-                            <li> <a href="#" target="_blank">D.Litt (Music)</a></li>
-                        </ul>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <ul>
+                                    <li> <a href="#" target="_blank">D.Litt (Ancient Indian History)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Economics)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Education)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Geogrophy)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (History)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Home Science)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Political Science)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Psychology)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Sociology)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Commerce)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Management)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (English)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Hindi)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Maithili)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Philosophy)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Sanskrit)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Urdu)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Dramatics)</a></li>
+                                    <li> <a href="#" target="_blank">D.Litt (Music)</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6">
+                                <ul>
+                                    <li> <a href="#" target="_blank">D.Sc (Botany)</a></li>
+                                    <li> <a href="#" target="_blank">D.Sc (Bio-technology)</a></li>
+                                    <li> <a href="#" target="_blank">D.Sc (Chemistry)</a></li>
+                                    <li> <a href="#" target="_blank">D.Sc (Mathematics)</a></li>
+                                    <li> <a href="#" target="_blank">D.Sc (Physics)</a></li>
+                                    <li> <a href="#" target="_blank">D.Sc (Zoology)</a></li>                                </ul>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

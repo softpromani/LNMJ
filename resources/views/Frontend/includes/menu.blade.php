@@ -226,21 +226,26 @@
                                             <a title="" class="level2 first item-link" href="{{route('iqacCommittee')}}"><span
                                                     class="menu-title">Committee</span></a>
                                         </li>
-                                        <li class="level2">
-                                            <a title="" class="level2 item-link"
-                                                href="{{ route('iqacStrategicPlan') }}"><span
-                                                    class="menu-title">Strategic plan</span></a>
-                                        </li>
+
                                         <li class="level2">
                                             <a title="" class="level2 item-link"
                                                 href="{{ route('iqacVision') }}"><span class="menu-title">Vision,
                                                     Mission and Strategies </span></a>
                                         </li>
 
-
-                                        <li class="level2 last">
+                                        <li class="level2">
                                             <a title="" class="level2 item-link" href="{{ route('iqac-intro') }}"><span
                                                     class="menu-title">NAAC Accreditation</span></a>
+                                        </li>
+
+                                        <li class="level2">
+                                            <a title="" class="level2 item-link"
+                                                href="#"><span
+                                                    class="menu-title">Composition of IQAC</span></a>
+                                        </li>
+                                        <li class="level2 last">
+                                            <a title="" class="level2 item-link" href="#"><span
+                                                    class="menu-title">Minutes of Meeting</span></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -268,6 +273,11 @@
                                         <li class="level2">
                                             <a title="" class="level2 item-link" href="{{route('iqacContacts')}}"><span
                                                     class="menu-title">Contact Us</span></a>
+                                        </li>
+
+                                        <li class="level2 last">
+                                            <a title="" class="level2 last item-link" href="{{route('iqacSsr')}}"><span
+                                                    class="menu-title">SSS</span></a>
                                         </li>
 
                                     </ul>

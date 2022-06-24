@@ -1723,3 +1723,74 @@ thead {
     font-weight: bold;
     font-size: 14px;
 }
+
+
+/* Modal box */
+.modal-box{ font-family: 'Comfortaa', cursive; }
+.modal-box .show-modal{
+    color: #00aeef;
+    font-size: 15px;
+    border: none;
+    transition: all 0.3s ease 0s;
+}
+.modal-box .show-modal:hover,
+.modal-box .show-modal:focus{
+    color: #00aeef;
+    outline: none;
+    box-shadow: 0 0 0 5px rgba(255,255,255,0.7);
+}
+.modal-backdrop.in{ opacity: 0; }
+.modal-box .modal-dialog{
+    width: 350px;
+    margin: 150px auto 0;
+}
+.modal.fade .modal-dialog{ transform: translateY(-100px); }
+.modal.in .modal-dialog{ transform: translate(0); }
+.modal-box .modal-dialog .modal-content{
+    background: #fff;
+    text-align: center;
+    border: none;
+    border-radius: 25px;
+}
+.modal-box .modal-dialog .modal-content .modal-body{ padding: 0 !important; }
+.modal-box .modal-dialog .modal-content .modal-body .modal-icon{
+    color: transparent;
+    background: linear-gradient(#ffaa01 ,#00aeef);
+    font-size: 100px;
+    line-height: 100px;
+    margin: -35px 0 20px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+}
+.modal-box .modal-dialog .modal-content .modal-body .title{
+    color: #00aeef;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+}
+.modal-box .modal-dialog .modal-content .modal-body .description{
+    color: #777;
+    font-size: 15px;
+    margin: 0 35px 30px;
+}
+.modal-box .modal-dialog .modal-content .modal-body .btn{
+    color: #fff;
+    background: linear-gradient(to bottom,#ffaa01 ,#00aeef);
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    width: 100%;
+    padding: 16px 10px 14px;
+    border-radius: 0 0 20px 20px;
+    border: none;
+    transition: all 0.3s ease 0s;
+}
+.modal-box .modal-dialog .modal-content .modal-body .btn:hover{ text-shadow: 3px 3px 3px rgba(0,0,0,0.6); }
+.modal-box .modal-dialog .modal-content .modal-body .btn:focus{ outline: none; }
+@media only screen and (max-width: 479px){
+    .modal-dialog{ width: 95% !important; }
+}

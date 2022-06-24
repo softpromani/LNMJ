@@ -30,7 +30,7 @@
         <div class="row d-flex d-md-block flex-nowrap wrapper" style="margin-top: 40px;">
             <main class="col-md-8 col-sm-8">
                 <div class="col-md-12" id="content_main">
-                    <p style="text-align: justify;font-size:13px;">                    <p style="text-align: justify;font-size:13px;">The Department has three laboratories for students and six labs for research which are well equipped with necessary chemical reagents, glass ware, lab-ware, gas Chromatography UV-vis spectrometer-219, Bomb calorimeter, Soxhlet extraction unit, magnetic balance, polarimeter, plasma refrigeration , Chemical analyser – SystronicsGoy’s balance, water and soil analysis kit, LCD projector and basic instruments for performing experiments in physical, organic and Inorganic chemistry and characterisation of different inorganic and organic compounds. The Departmental library fulfils the requirements of the faculty member and students. A number of reference books are also available. The department also publishes journal named Mithila journal of Chemistry with ISSN No-2455-0617. 
+                    <p style="text-align: justify;font-size:13px;">                    <p style="text-align: justify;font-size:13px;">The Department has three laboratories for students and six labs for research which are well equipped with necessary chemical reagents, glass ware, lab-ware, gas Chromatography UV-vis spectrometer-219, Bomb calorimeter, Soxhlet extraction unit, magnetic balance, polarimeter, plasma refrigeration , Chemical analyser – SystronicsGoy’s balance, water and soil analysis kit, LCD projector and basic instruments for performing experiments in physical, organic and Inorganic chemistry and characterisation of different inorganic and organic compounds. The Departmental library fulfils the requirements of the faculty member and students. A number of reference books are also available. The department also publishes journal named Mithila journal of Chemistry with ISSN No-2455-0617.
                     </p>
                     <p style="text-align: justify;font-size:13px;">The Faculty members are specialized in frontier areas of chemical sciences and they have contributed to scientific arena through scientific research and publications and are recipients of many distinguished national and International awards. A few faculty members are in the editorial board of journals as well as referees for both National and International Journals.</p>
 
@@ -64,14 +64,14 @@
                                         <th>Name</th>
                                         <th>Mobile</th>
                                         <th>Email Id</th>
-                                        <th>Session</th>
+                                        <th>Period</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                  
+
                                     <tr>
                                     <td >01</td>
-                                    <td>Prof. Y. Thakur</td>
+                                    <td>  Prof. Y. Thakur </td>
                                     <td></td>
                                     <td></td>
                                     <td>
@@ -148,7 +148,7 @@
                                     <td></td>
                                     <td></td>
                                     <td> 01.12.2019</td>
-                                   
+
                                     </tr>
                                     </tbody>
                             </table>
@@ -182,27 +182,43 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                               
-                                    <!--<tr>
-                                    <td width="44">1.</td>
-                                    <td width="119"><strong><a href="prof-Ratan-Kumar-Choudhary-resume.php" target="_blank">Dr. R. K. Choudhary</a></strong></td>
-                                    <td width="96"><strong>Professor & Head</strong><br><strong>Dean, faculty of Science</strong></br></td>
-                                    <!--<td width="132"><strong>644906080218 9431415528</strong></td>
-                                    <td width="96"><strong>9431050670</strong></td>
-                                    <!--<td width="244"><a href="mailto:kumodkumarjha@gmail.com"><strong>hodchemistry@lnmu.ac.in </strong></a></td>
-                                    <td width="244"><a href="mailto:hodchemistry@lnmu.ac.in"><strong>hodchemistry@lnmu.ac.in </strong></a></td>
-                                    <td width="244"><img class="size-full wp-image-5033 aligncenter" src="http://lnmuacin.in/studentnotice/2019/Dr.R.K.Choudhary%20Professor.jpg" alt="" width="150" /></td>
-                                    </tr>-->
                                     <tr>
                                     <td width="44">1.</td>
-                                    <td width="119"><a  target="_blank">Dr. K. K. JHA</a></td>
-                                    <td width="96"><strong>Professor &amp; Head</strong></td>
+                                    <td width="119">
+                                        <div class="modal-box">
+                                            <!-- Button trigger modal -->
+                                            <button type="button" class="show-modal" data-toggle="modal" data-target="#myModal" style="background: none;">
+                                                Dr. K. K. JHA
+                                            </button>
+
+                                            <!-- Modal -->
+                                            <div class="modal fade" id="myModal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                                <div class="modal-dialog" role="document">
+                                                    <div class="modal-content clearfix">
+                                                        <div class="modal-body">
+                                                            <div class="modal-icon"><i class="fas fa-gem"></i></div>
+                                                            <h5 class="title">Profile Summary</h5>
+                                                            <p class="description">
+                                                                Name :  Dr. K. K. JHA<br/>
+                                                                Designation : Professor Head<br/>
+                                                                Mobile : 9470644735<br/>
+                                                                Email Id : hodchemistry@lnmu.ac.in &<br/>
+                                                                kumodkumarjha@gmail.com
+                                                            </p>
+                                                            <button class="btn" data-dismiss="modal">got it</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                    </td>
+                                    <td width="96">Professor Head</td>
                                     <!--<td width="132">320356131570</td>-->
                                     <td width="96">9470644735</td>
                                     <td width="244"><a href="mailto:">hodchemistry@lnmu.ac.in<br>kumodkumarjha@gmail.com</a></td>
                                     <td width="244"><img class="size-full wp-image-5033 aligncenter" src="image/2022/Dr.K.K.Jha Professor &amp; Head che.jpg" alt="" width="150"></td>
                                     </tr>
-                                    
+
                                     <!--<tr>-->
                                     <!--<td width="44">3.</td>-->
                                     <!--<td width="119"><a href="prof-Ashok-Kumar-Gupta.php" target="_blank">Dr. Ashok Kumar Gupta</a></td>-->
@@ -212,7 +228,7 @@
                                     <!--<td width="244"><a href="mailto:ashokkumargupta80@gmail.com">ashokkumargupta80@gmail.com</a></td>-->
                                     <!--<td width="244"><img class="size-full wp-image-5033 aligncenter" src="http://lnmuacin.in/lnmuassets/img/default_pic.jpg" alt="" width="150" /></td>-->
                                     <!--</tr>-->
-                                    
+
                                     <tr>
                                     <td width="44">2.</td>
                                     <td width="119"><a  target="_blank">Dr. A. Samad Ansari</a></td>
@@ -222,7 +238,7 @@
                                     <td width="244"><a href="mailto:asamadansari@gmail.com">asamadansari@gmail.com</a></td>
                                     <td width="244"><img class="size-full wp-image-5033 aligncenter" src="image/2022/Dr.A.Samad Ansari Associate professor che.jpg" alt="" width="150"></td>
                                     </tr>
-                                    
+
                                     <tr>
                                     <td width="44">3.</td>
                                     <td width="119"><a  target="_blank">Dr. S. K. Choudhary</a></td>
@@ -232,7 +248,7 @@
                                     <td width="244"><a >skc.cmsc@gmail.com</a></td>
                                     <td width="244"><img class="size-full wp-image-5033 aligncenter" src="image/2022/Dr.S.K.Choudhary Professor che.jpg" alt="" width="150"></td>
                                     </tr>
-                                    
+
                                     <tr>
                                     <td width="44">4.</td>
                                     <td width="119"><a  target="_blank">Dr. Simant Kumar Srivastava</a></td>
@@ -242,7 +258,7 @@
                                     <td width="244"><a >simant.iitk@gmail.com</a></td>
                                     <td width="244"><img class="size-full wp-image-5033 aligncenter" src="image/2022/Dr.Simant Kumar Srivastav Assistant Professor che.jpg" alt="" width="150"></td>
                                     </tr>
-                                    
+
                                     <tr>
                                     <td width="44">5.</td>
                                     <td width="119"><a  target="_blank">Dr. Vikash Kumar Sonu</a></td>
@@ -252,7 +268,7 @@
                                     <td width="244"><a >vikash9931@gmail.com</a></td>
                                     <td width="244"><img class="size-full wp-image-5033 aligncenter" src="image/2022/Dr.Vikash Kumar Sonu Assistant Professor che.jpg" alt="" width="150"></td>
                                     </tr>
-                                    
+
                                     <tr>
                                     <td width="44">6.</td>
                                     <td width="119"><a target="_blank">Sri Shashi Shekhar Jha</a></td>
@@ -276,7 +292,7 @@
 
 
         <div class="container">
-          
+
   &nbsp;
   <br>
   <h2>Achievement of the Faculty Members</h2>
@@ -456,7 +472,7 @@
     <li>Amerendra Bijay, Professor, I.I.T. Chennai.</li>
     <li>Dr. S.N.Singh, , Associate Prof, G.D. College</li>
   </ol>
-  
+
   <br>
   <h2>Students Qualified NET/GATE</h2>
   <ol>
@@ -465,14 +481,14 @@
     <li>M.H. Khan UGC – NET-2018</li>
     <li>Miss Sadhna, UGC-NETR-2011</li>
     </ol>
-  
-  
-  
-  
+
+
+
+
   <br>
   <!--<h2>Research Scholars</h2>
-  
-  
+
+
  <table class="table table-hover">
   <tbody>
   <tr>
@@ -522,7 +538,7 @@
   <br>
   <br>
   <br>
-  
+
   <h2>Research Scholars</h2>
   <p><strong>Ph.D/awarded : 76 (October 2014- December-2020</strong></p>
   <p><strong>Ph.D/Persuing/ Course Work Completed</strong></p>
@@ -539,14 +555,14 @@
     <li>Ms. Sandhya Kumari</li>
     <li>Ms. Sabina Perween</li>
     <li>Mr. Kundan Kumar Jha</li>
-   
+
   </ol>
   <br>
   <br>
   <!--<h2>Syllabus</h2>
     <center><object width="800" height="700" data="http://lnmuacin.in/studentnotice/newdata/final%20syllabus%20-%20CBCS%20(Revised)%20-%20Chemistry-min.pdf"></object></center>
   <strong>Semester-I</strong>
-  
+
   <strong> </strong>
  <table class="table table-hover">
   <tbody>
@@ -595,7 +611,7 @@
   </tbody>
   </table>
   &nbsp;-->
-  
+
   <!--<strong>Semester-II</strong>
  <table class="table table-hover">
   <tbody>
@@ -644,7 +660,7 @@
   </tbody>
   </table>
   &nbsp;-->
-  
+
   <!--<strong>Semester-III</strong>
  <table class="table table-hover">
   <tbody>
@@ -693,7 +709,7 @@
   </tbody>
   </table>
   &nbsp;-->
-  
+
   <!--<strong>Semester-IV (Group A – Physical Special)</strong>
  <table class="table table-hover">
   <tbody>
@@ -742,7 +758,7 @@
   </tbody>
   </table>
   &nbsp;-->
-  
+
   <!--<strong>Semester-IV (Group B – Inorganic Special)</strong>
  <table class="table table-hover">
   <tbody>
@@ -791,7 +807,7 @@
   </tbody>
   </table>
   &nbsp;-->
-  
+
   <!--<strong>Semester-IV (Group C – Organic Special)</strong>
  <table class="table table-hover">
   <tbody>
@@ -840,7 +856,7 @@
   </tbody>
   </table>-->
   &nbsp;
-  
+
   <!--<strong>The Following grading system has been used:</strong>
  <table class="table table-hover">
   <tbody>
@@ -908,14 +924,14 @@
   </tr>
   <tr>
   <td width="262">Employed
-  
+
   Campus Selection
-  
+
   other than campus recruitment</td>
   <td width="227">43
-  
+
   01(Ajim Premji Foundation)
-  
+
   42</td>
   </tr>
   </tbody>
@@ -945,8 +961,8 @@
   <p><strong>Mithila Journal of Chemistry (Yearly)  ISSN NO 2455-0167</strong></p>
   <br>
   <br>
-  
-  
+
+
               <!-- <h2>Programmes Organized</h2>
  <table class="table table-hover">
   <tbody>
@@ -979,8 +995,8 @@
   </tbody>
   </table> -->
   <div class="row">
-  
-  
+
+
   <div class="col-md-12">
   <h2>Infrastructure Facilities</h2>
   <ul>
@@ -1128,7 +1144,7 @@
     </tr>
     </tbody>
     </table>
-  
+
   </div>
   </div>
   </div>
