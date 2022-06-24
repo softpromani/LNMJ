@@ -162,7 +162,7 @@
         } else {
             var theYear = currentDate.getYear() + 1900
         }
-        return '<b style="font-size:2.5rem">'+currentDate.getDate() + "  "+theMonth+ "  "+ theYear+'<br/>'+ theDay+'</b>';
+        return '<b style="font-size:2rem">'+currentDate.getDate() + "  "+theMonth+ "  "+ theYear+'<br/>'+ theDay+'</b>';
     }
 </script>
 
