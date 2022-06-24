@@ -8,7 +8,7 @@
 
             <div id="yt_logo" class="col-md-2 col-sm-2">
                 <a class="logo" href="#" title="LNMU">
-                    <img data-placeholder="no" src="{{ asset('Frontend/images/icon/logo.jpg') }}" alt="LNMU"
+                    <img data-placeholder="no" src="{{ asset('Frontend/images/icon/lnmulogo.gif') }}" alt="LNMU"
                         style="width:100px" />
                 </a>
             </div>
