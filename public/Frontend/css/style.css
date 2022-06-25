@@ -1280,6 +1280,8 @@
 
 .logo-wrapper:active .logo-animation-wrapper h3,
 .logo-wrapper:active h3,
+.logo-wrapper:active .logo-animation-wrapper h3,
+.logo-wrapper:active h3,
 .logo-wrapper:focus .logo-animation-wrapper h3,
 .logo-wrapper:focus h3,
 .logo-wrapper:hover .logo-animation-wrapper h3,
@@ -1316,26 +1318,26 @@
 
 .logo-animation-wrapper h3:first-child {
 	top: -3px;
-	-webkit-animation: textLogoAnimate1 12s ease-in-out infinite;
-	animation: textLogoAnimate1 12s ease-in-out infinite
+	-webkit-animation: textLogoAnimate1 15s ease-in-out infinite;
+	animation: textLogoAnimate1 15s ease-in-out infinite
 }
 
 .logo-animation-wrapper h3:nth-child(2) {
 	top: -6px;
-	-webkit-animation: textLogoAnimate2 12s ease-in-out infinite;
-	animation: textLogoAnimate2 12s ease-in-out infinite
+	-webkit-animation: textLogoAnimate2 15s ease-in-out infinite;
+	animation: textLogoAnimate2 15s ease-in-out infinite
 }
 
 .logo-animation-wrapper h3:nth-child(3) {
-	top: 0px;
-	-webkit-animation: ioeAnimate 12s ease-in-out infinite;
-	animation: ioeAnimate 12s ease-in-out infinite
+	top: -9px;
+	-webkit-animation: ioeAnimate 15s ease-in-out infinite;
+	animation: ioeAnimate 15s ease-in-out infinite
 }
 
 .logo-animation-wrapper h3:nth-child(4) {
-	top: -9px;
-	-webkit-animation: ioeAnimate 12s ease-in-out infinite;
-	animation: ioeAnimate 12s ease-in-out infinite
+	top:-12px ;
+	-webkit-animation: ioeAnimate2 15s ease-in-out infinite;
+	animation: ioeAnimate2 15s ease-in-out infinite
 }
 
 @-webkit-keyframes textLogoAnimate1 {
@@ -1388,8 +1390,8 @@
 		transform: translateY(-30px)
 	}
 	96% {
-		opacity: 1;
-		filter:alpha(opacity=100);
+		opacity: 0;
+		filter:alpha(opacity=0);
 		-webkit-transform: translateY(0);
 		transform: translateY(0)
 	}
@@ -1536,10 +1538,10 @@
 		transform: translateY(0)
 	}
 	22% {
-		opacity: 1;
-		filter:alpha(opacity=100);
-		-webkit-transform: translateY(0);
-		transform: translateY(0)
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
 	}
 	26% {
 		opacity: 0;
@@ -1577,7 +1579,7 @@
 		-webkit-transform: translateY(-30px);
 		transform: translateY(-30px)
 	}
-	96% {
+	93% {
 		opacity: 1;
 		filter:alpha(opacity=100);
 		-webkit-transform: translateY(0);
@@ -1617,10 +1619,10 @@
 		transform: translateY(0)
 	}
 	59% {
-		opacity: 1;
-		filter:alpha(opacity=100);
-		-webkit-transform: translateY(0);
-		transform: translateY(0)
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
 	}
 	63% {
 		opacity: 0;
@@ -1688,8 +1690,8 @@
 	63% {
 		opacity: 1;
 		filter:alpha(opacity=100);
-		-webkit-transform: translateY(0);
-		transform: translateY(0)
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px)
 	}
 	67% {
 		opacity: 1;
@@ -1698,10 +1700,10 @@
 		transform: translateY(0)
 	}
 	92% {
-		opacity: 1;
-		filter:alpha(opacity=100);
-		-webkit-transform: translateY(0);
-		transform: translateY(0)
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(30px);
+		transform: translateY(30px)
 	}
 	96% {
 		opacity: 0;
@@ -1716,6 +1718,136 @@
 		transform: translateY(-30px)
 	}
 }
+
+
+@keyframes ioeAnimate2 {
+	0% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(30px);
+		transform: translateY(30px)
+	}
+	22% {
+		opacity: 1;
+		filter:alpha(opacity=100);
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px)
+	}
+	26% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	32% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	59% {
+		opacity: 1;
+		filter:alpha(opacity=100);
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px)
+	}
+	63% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(30px);
+		transform: translateY(30px)
+	}
+	67% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	92% {
+		opacity: 1;
+		filter:alpha(opacity=100);
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px)
+	}
+	96% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(30px);
+		transform: translateY(30px)
+	}
+	100% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+}
+/* checking */
+/* @keyframes ioeAnimate1{
+	0% {
+		opacity: 0;
+		filter:alpha(opacity=100);
+		-webkit-transform: translateY(0);
+		transform: translateY(0)
+	}
+	22% {
+		opacity: ;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	26% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	32% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	59% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	63% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	67% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	92% {
+		opacity: 0;
+		filter:alpha(opacity=0);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+	96% {
+		opacity: 1;
+		filter:alpha(opacity=100);
+		-webkit-transform: translateY(0);
+		transform: translateY(0)
+	}
+	100% {
+		opacity: 1;
+		filter:alpha(opacity=100);
+		-webkit-transform: translateY(-30px);
+		transform: translateY(-30px)
+	}
+} */
+
+
+/* checking */
 
 /*  LOGO ANIMATION END  */
 

@@ -1,65 +1,36 @@
 @extends('Frontend.includes.layout')
 @section('content')
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
-        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous">
-    </script>
-    <section id="yt_spotlight1" class="block mb30">
+     <!-- slider starts here -->
+     <section id="yt_spotlight1" class="block mb30">
         <div class="container">
             <div class="row">
-
-                <div id="slideshow" class="col-sm-12">
-                    <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right" data-interval="5000"
-                        data-pause="hover">
-                        <!-- Carousel items -->
-                        {{-- <h1 class="sliderText" style=" z-index:99;position:absolute;margin-left:40%;margin-top:6%;">
-                            Contact Us</h1> --}}
-                        <div class="text-effect" style=" z-index:99;position:absolute;margin-left:40%;margin-top:5%;">
-                            <span>AQAR 2020-21</span>
-                        </div>
-
-                        <div class="slickslider-items bg-style1">
-                            <div class="slickslider-item item clearfix active">
-                                <div class="images-slideshow"><img alt="" src="{{ asset('Frontend/images/header.jpg') }}">
+            <div id="slideshow" class="col-sm-12">
+                <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right" data-interval="5000" data-pause="hover">
+                    <!-- Carousel items -->
+                    <div class="slickslider-items bg-style1">
+                        <div class="slickslider-item item clearfix active">
+                            <div class="images-slideshow"><img alt="" src="{{asset('Frontend/images/internal%20banners/banner119.jpg')}}"/></div>
+                            <div class="item-content">
+                                <div class="item-content-inner">
+                                    <h5 class="item-title" >
+                                        <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >Criteria</a>
+                                    </h3>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
             </div>
+            </div>
         </div>
     </section>
+    <!-- slider ends here -->
 
     <div class="container">
         <div class="row d-flex d-md-block flex-nowrap wrapper">
             <div class="col-md-3 float-left col-1 pl-0 pr-0  width" id="sidebar">
-                <div class="list-group border-0 text-left text-md-left">
-                    <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span
-                            class="d-none d-md-inline">Introduction</span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">IQAC
-                            Committee</span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision,
-                            Mission & Strategies
-                        </span> </a>
-                    <a href="#menu3" class="list-group-item d-inline-block collapsed" data-toggle="collapse"
-                        aria-expanded="false"> <span class="d-none d-md-inline">NAAC Accreditation</span> </a>
-                    <div class="collapse" id="menu3" data-parent="#sidebar">
-                        <a href="#menu1sub1" class="list-group-item">SSR 2020 </a>
-                        <a href="{{route('aqar')}}" class="list-group-item">AQAR </a>
-                        <a href="#menu1sub1" class="list-group-item">Academic & Administrative Audit </a>
-                        <a href="#menu1sub1" class="list-group-item">NAAC Certificate Cycle-I </a>
-                        <a href="#menu1sub1" class="list-group-item">NAAC PPT </a>
-                    </div>
-                    <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span
-                            class="d-none d-md-inline">Feedback</span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">IQAC
-                            Events</span> </a>
-                    <a href="#" class="list-group-item d-inline-block collapsed"> <span
-                            class="d-none d-md-inline">Reports</span> </a>
-
-                    <a href="#" class="list-group-item d-inline-block collapsed sidenav "> <span
-                            class="d-none d-md-inline">Contact Us</span> </a>
-                </div>
+                @include('Frontend.includes.sidebar.iqac_menu')
             </div>
             <main class="col-md-9 float-left col px-5 pl-md-2 pt-2 main">
                 <a href="#" data-target="#sidebar" data-toggle="collapse"><i

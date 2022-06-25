@@ -30,7 +30,8 @@
 
 
                         <div class="col-md-8 col-sm-12">
-                            <ul>
+                            <ul style="list-style-type:none;font-size:15px;border-radius:5px;
+                            box-shadow:0px 0px 15px 5px grey;padding:20px;">
                                 <li><a href="lnmuacin.in/studentnotice/2019/SOCIAL%20SCIENCE.pdf" target="_blank"
                                         rel="noopener noreferrer">List of Research Scholars in the Faculty of Social Science
                                     </a>

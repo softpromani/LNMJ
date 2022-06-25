@@ -1,34 +1,31 @@
 @extends('Frontend.includes.layout')
 @section('content')
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
-        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous">
-    </script>
-    <section id="yt_spotlight1" class="block mb30">
-        <div class="container">
-            <div class="row">
-
-                <div id="slideshow" class="col-sm-12">
-                    <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right" data-interval="5000"
-                        data-pause="hover">
-                        <!-- Carousel items -->
-                        {{-- <h1 class="sliderText" style=" z-index:99;position:absolute;margin-left:40%;margin-top:6%;">
-                            Contact Us</h1> --}}
-                        <div class="text-effect" style=" z-index:99;position:absolute;margin-left:40%;margin-top:5%;">
-                            <span>AQAR</span>
-                        </div>
-
-                        <div class="slickslider-items bg-style1">
-                            <div class="slickslider-item item clearfix active">
-                                <div class="images-slideshow"><img alt="" src="{{ asset('Frontend/images/header.jpg') }}">
-                                </div>
+        <!-- slider starts here -->
+<section id="yt_spotlight1" class="block mb30">
+    <div class="container">
+        <div class="row">
+        <div id="slideshow" class="col-sm-12">
+            <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right" data-interval="5000" data-pause="hover">
+                <!-- Carousel items -->
+                <div class="slickslider-items bg-style1">
+                    <div class="slickslider-item item clearfix active">
+                        <div class="images-slideshow"><img alt="" src="{{asset('Frontend/images/internal%20banners/banner119.jpg')}}"/></div>
+                        <div class="item-content">
+                            <div class="item-content-inner">
+                                <h5 class="item-title" >
+                                    <a href="#" style="color:#7C0000" title="" >Home</a> | <a href="#" style="color:#7C0000" title="" >AQAR</a>
+                                </h3>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+        </div>
+    </div>
+</section>
+<!-- slider ends here -->
 
     <div class="container">
         <div class="row d-flex d-md-block flex-nowrap wrapper">

@@ -3,11 +3,6 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 
-   
-
-
-
-  
     @include('Frontend.includes.head')
 </head>
 <body id="bd" class="homepage home-layout1 res">
@@ -19,25 +14,11 @@
         <section id="yt_spotlight1" class="block">
             <div class="container">
                 <div class="row">
-
-
                     <div id="slideshow" class="col-sm-9" style="padding-right:0 !important">
                         <div id="sj_k2slickslider346" class="sj-k2slickslider slide slickslider-right"
                             data-interval="5000" data-pause="hover">
                             <!-- Carousel items -->
                             <div class="slickslider-items bg-style1">
-                                <div class="slickslider-item item clearfix active">
-                                    <div class="images-slideshow">
-                                        <img alt="" src="{{ asset('Frontend/images/banners/slider12.jpg') }}"
-                                            style="height:350px ;" />
-                                    </div>
-                                </div>
-
-                                <div class="slickslider-item item clearfix">
-                                    <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/003.jpg') }}"
-                                            style="height:350px ;" /></div>
-                                </div>
 
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
@@ -50,6 +31,13 @@
                                             src="{{ asset('Frontend/images/banners/slider6.jpg') }}"
                                             style="height:350px ;" /></div>
                                 </div>
+
+                                <div class="slickslider-item item clearfix">
+                                    <div class="images-slideshow"><img alt=""
+                                            src="{{ asset('Frontend/images/banners/003.jpg') }}"
+                                            style="height:350px ;" /></div>
+                                </div>
+
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
                                             src="{{ asset('Frontend/images/banners/slider8.jpg') }}"

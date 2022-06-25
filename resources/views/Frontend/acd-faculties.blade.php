@@ -42,24 +42,24 @@
             <main class="col-md-9 float-left">
                 <a href="#" data-target="#sidebar" data-toggle="collapse"><i
                         class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
-                <div class="col-md-12"><br>
+                <div class="col-md-12" style="font-size: 16px;"><br>
                     <div class="col-md-6 col-sm-6">
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding: 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('scienceDepartment') }}" target="_blank">Faculty of
                                 Science</a></div>
                         <p>&nbsp;</p>
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding: 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('humanities') }}" target="_blank">Faculty of
                                 Humanities</a></div>
                         <p>&nbsp;</p>
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding: 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('law') }}" target="_blank">Faculty of Law</a></div>
                         <p>&nbsp;</p>
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding:10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('education') }}" target="_blank">Faculty of
                                 Education</a></div>
                         <p>&nbsp;</p>
@@ -67,17 +67,17 @@
                     </div>
                     <div class="col-md-6 col-sm-6">
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding: 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('social_scienceDepartment') }}" target="_blank">Faculty
                                 of Social Sciences</a></div>
                         <p>&nbsp;</p>
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding: 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('commerce') }}" target="_blank">Faculty of Commerce</a>
                         </div>
                         <p>&nbsp;</p>
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding: 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('dentistry') }}" target="_blank">Faculty of
                                 Dentistry</a></div>
 
@@ -85,7 +85,7 @@
                         <p>&nbsp;</p>
 
                         <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            style="background-color: #d3d3d3; padding: 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{ Route('fineArts') }}" target="_blank">Faculty of Fine
                                 arts</a></div>
                         <p></p>
