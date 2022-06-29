@@ -46,7 +46,7 @@
                     <div class="row  ">
                         <div class="col-md-4 col-sm-6" style="float:none;margin:0px auto;">
                             <div class="box">
-                                <img src="{{ asset('Frontend/images/vcsir.jpg') }}">
+                                <img src="{{ asset('Frontend/images/officers/vc1.jpeg') }}">
                                 <div class="box-content">
                                     <h3 class="title">Pro. S.P. Singh</h3>
                                     <span class="">Vice-Chancellor</span>

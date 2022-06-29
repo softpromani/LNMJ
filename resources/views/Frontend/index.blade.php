@@ -21,9 +21,11 @@
                             <div class="slickslider-items bg-style1">
 
                                 <div class="slickslider-item item clearfix">
-                                    <div class="images-slideshow"><img alt=""
+                                    <div class="images-slideshow">
+                                        <img alt=""
                                             src="{{ asset('Frontend/images/banners/0001.jpg') }}"
-                                            style="height:350px ;" /></div>
+                                            style="height:350px ;" />
+                                        </div>
                                 </div>
 
                                 <div class="slickslider-item item clearfix">
@@ -160,7 +162,7 @@
 
                                                 <div class="customslider">
                                                     <div class="item-image"><img
-                                                            src="{{ asset('Frontend/images/vcsir.jpg') }}"
+                                                            src="{{ asset('Frontend/images/officers/vc1.jpeg') }}"
                                                             alt="" />
                                                     </div>
 
