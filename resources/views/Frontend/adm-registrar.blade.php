@@ -46,7 +46,7 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-6" style="float:none;margin:0px auto;">
                             <div class="box">
-                                <img src="{{ asset('Frontend/images/officers/registrar.jpg') }}" style="height:250px;">
+                                <img src="{{ asset('Frontend/images/officers/registrar1.jpeg') }}" style="height:250px;">
                                 <div class="box-content">
                                     <h3 class="title">Dr. Mushtaque Ahmad</h3>
                                     <span class="">Registrar</span>

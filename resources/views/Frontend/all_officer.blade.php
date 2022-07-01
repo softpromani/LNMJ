@@ -30,7 +30,7 @@
                     <div class="box-top">
                         Vice-Chancellor
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/vc.jpg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/vc1.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Prof. Surendra Pratap Singh</h3>
                         <span class="post">06272-222463, vc@lnmu.ac.in<br /> vc-lnmu-bih@nic.in</span>
@@ -105,7 +105,7 @@
                     <div class="box-top">
                         Registrar
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/registrar.jpg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/registrar1.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Mushtaque Ahmad</h3>
                         <span class="post">8544513253, registrar@lnmu.ac.in</span>
