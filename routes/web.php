@@ -48,6 +48,11 @@ Route::get('/rti-act', [HomeController::class, 'rtiAct'])->name('rtiAct');
 
 Route::get('/department-of-botany', [HomeController::class, 'botanyDepartment'])->name('botanyDepartment');
 Route::get('/department-of-chemistry', [HomeController::class, 'chemistryDepartment'])->name('chemistryDepartment');
+Route::get('/department-of-mathematics', [HomeController::class, 'mathematicsDepartment'])->name('mathematicsDepartment');
+Route::get('/department-of-physics', [HomeController::class, 'physicsDepartment'])->name('physicsDepartment');
+Route::get('/department-of-zoology', [HomeController::class, 'zoologyDepartment'])->name('zoologyDepartment');
+
+
 Route::get('/constituent-colleges', [HomeController::class, 'constituentColleges'])->name('constituentColleges');
 Route::get('/affiliated-degree-colleges', [HomeController::class, 'affiliatedDegreeColleges'])->name('affiliatedDegreeColleges');
 Route::get('/affiliated-Bed-colleges', [HomeController::class, 'affiliatedBedColleges'])->name('affiliatedBedColleges');
@@ -93,6 +98,19 @@ Route::get('/acd-faculties',[HomeController::class,'acd_faculties'])->name('acd.
 Route::get('/science-department',[HomeController::class,'scienceDepartment'])->name('scienceDepartment');
 Route::get('/social_science_department',[HomeController::class,'socialScienceDepartment'])->name('social_scienceDepartment');
 Route::get('/humanities',[HomeController::class,'humanities'])->name('humanities');
+Route::get('/department-of-Maithili', [HomeController::class, 'MaithiliDepartment'])->name('MaithiliDepartment');
+Route::get('/department-of-sanskrit', [HomeController::class, 'sanskritDepartment'])->name('sanskritDepartment');
+Route::get('/department-of-philosophy', [HomeController::class, 'philosophyDepartment'])->name('philosophyDepartment');
+Route::get('/department-of-urdu', [HomeController::class, 'urduDepartment'])->name('urduDepartment');
+Route::get('/department-of-hindi', [HomeController::class, 'hindiDepartment'])->name('hindiDepartment');
+Route::get('/department-of-english', [HomeController::class, 'englishDepartment'])->name('englishDepartment');
+Route::get('/pg-department-of-commerce-management', [HomeController::class, 'commerceManagementDepartment'])->name('commerceManagementDepartment');
+Route::get('/pg-department-of-ancient-indian-history', [HomeController::class, 'indianHistoryDepartment'])->name('indianHistoryDepartment');
+
+
+
+
+
 Route::get('/commerce',[HomeController::class,'commerce'])->name('commerce');
 Route::get('/law',[HomeController::class,'law'])->name('law');
 Route::get('/dentistry',[HomeController::class,'dentistry'])->name('dentistry');
@@ -105,3 +123,5 @@ Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.coll
 
 //Gallery
 
+// Sachin ----------------------------------------Backend--------------------layout------------
+Route::get('/admin', [HomeController::class, 'dashboard']);

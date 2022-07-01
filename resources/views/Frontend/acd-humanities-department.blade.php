@@ -57,52 +57,37 @@
                     <div class="col-md-8 col-sm-8">
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="#" target="_blank">Department of English</a></div>
+                            <a style="color: #000;" href="{{route('englishDepartment')}}" target="_blank">Department of English</a></div>
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="#" target="_blank">Department of Hindi</a>
+                            <a style="color: #000;" href="{{route('hindiDepartment')}}" target="_blank">Department of Hindi</a>
                         </div>
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="#" target="_blank">Department of Maithili</a>
+                            <a style="color: #000;" href="{{route('MaithiliDepartment')}}" target="_blank">Department of Maithili</a>
                         </div>
-
-
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="#" target="_blank">Department of Sanskrit</a>
+                            <a style="color: #000;" href="{{route('sanskritDepartment')}}" target="_blank">Department of Sanskrit</a>
                         </div>
-
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="#" target="_blank">Department of Philosophy</a>
+                            <a style="color: #000;" href="{{route('philosophyDepartment')}}" target="_blank">Department of Philosophy</a>
                         </div>
-
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="#" target="_blank">Department of Urdu</a>
+                            <a style="color: #000;" href="{{route('urduDepartment')}}" target="_blank">Department of Urdu</a>
                         </div>
-
                         <p></p>
                     </div><br>
                 </div>
-
-
-
             </main>
-
-
         </div>
-
-
-
-
-
         <p>
         </p>
         <p></p>

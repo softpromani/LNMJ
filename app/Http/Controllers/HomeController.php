@@ -240,6 +240,50 @@ class HomeController extends Controller
         return view('Frontend.chemistry-department');
     }
 
+    public function mathematicsDepartment()
+    {
+        return view('Frontend.mathematics-department');
+    }
+
+    public function physicsDepartment()
+    {
+        return view('Frontend.physics-department');
+    }
+
+    public function zoologyDepartment()
+    {
+        return view('Frontend.zoology-department');
+    }
+
+    public function MaithiliDepartment()
+    {
+        return view('Frontend.Maithili-department');
+    }
+
+    public function sanskritDepartment()
+    {
+        return view('Frontend.sanskrit-department');
+    }
+
+    public function englishDepartment()
+    {
+        return view('Frontend.english-department');
+    }
+
+    public function philosophyDepartment()
+    {
+        return view('Frontend.philosophy-department');
+    }
+    public function urduDepartment()
+    {
+        return view('Frontend.urdu-department');
+    }
+
+    public function hindiDepartment()
+    {
+    return view('Frontend.department_hindi');
+    }
+
     public function constituentColleges()
     {
         return view('Frontend.constituent-colleges');
@@ -303,6 +347,15 @@ class HomeController extends Controller
     public function eLearningResource()
     {
         return view('Frontend.elearning_resource');
+    }
+
+    public function commerceManagementDepartment()
+    {
+        return view('Frontend.pg-department-of-commerce-management');
+    }
+    public function indianHistoryDepartment()
+    {
+        return view('Frontend.pg-department-of-ancient-indian-history');
     }
 
 
@@ -377,7 +430,5 @@ class HomeController extends Controller
     {
         return view('Frontend.rti_act');
     }
-
-
 
 }

@@ -54,7 +54,7 @@
 
                 <div class="col-md-12 col-sm-12">
                     <table border="2" width="100%" cellspacing="0" cellpadding="0" align="center">
-        <tbody>
+      <thead>
         <tr>
         <td align="center" width="45"><strong>Sr. No.</strong></td>
         <td align="center" width="310"><strong>College Name</strong></td>
@@ -62,7 +62,8 @@
         <td align="center" width="85"><strong>Mobile</strong></td>
         <td align="center" width="102"><strong>Email</strong></td>
         <td align="center" width="102"><strong>Website</strong></td>
-        </tr>
+        </tr></thead>
+        <tbody>
         <tr>
         <td align="center" width="45"><strong>1</strong></td>
         <td align="center" width="310">Sarjug Dental College &amp; Hospital</td>

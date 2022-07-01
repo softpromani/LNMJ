@@ -57,7 +57,7 @@
                         <p></p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-social-science.php" target="_blank">Department of Commerce and Business Administration</a></div>
+                            <a style="color: #000;" href="{{route('commerceManagementDepartment')}}" target="_blank">Department of Commerce and Business Administration</a></div>
                         <p>&nbsp;</p>
 
                     </div><br>
