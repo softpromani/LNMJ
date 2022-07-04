@@ -1290,8 +1290,8 @@
 }
 
 .logo-wrapper h3 {
-	-webkit-transition: all .2s ease;
-	transition: all .2s ease;
+	-webkit-transition: all .5s ease;
+	transition: all .5s ease;
 	height: 23px;
 	width: 23px;
 	fill: #fff
@@ -1318,26 +1318,26 @@
 
 .logo-animation-wrapper h3:first-child {
 	top: -3px;
-	-webkit-animation: textLogoAnimate1 15s ease-in-out infinite;
-	animation: textLogoAnimate1 15s ease-in-out infinite
+	-webkit-animation: textLogoAnimate1 25s ease-in-out infinite;
+	animation: textLogoAnimate1 25s ease-in-out infinite
 }
 
 .logo-animation-wrapper h3:nth-child(2) {
 	top: -6px;
-	-webkit-animation: textLogoAnimate2 15s ease-in-out infinite;
-	animation: textLogoAnimate2 15s ease-in-out infinite
+	-webkit-animation: textLogoAnimate2 25s ease-in-out infinite;
+	animation: textLogoAnimate2 25s ease-in-out infinite
 }
 
 .logo-animation-wrapper h3:nth-child(3) {
 	top: -9px;
-	-webkit-animation: ioeAnimate 15s ease-in-out infinite;
-	animation: ioeAnimate 15s ease-in-out infinite
+	-webkit-animation: ioeAnimate 25s ease-in-out infinite;
+	animation: ioeAnimate 25s ease-in-out infinite
 }
 
 .logo-animation-wrapper h3:nth-child(4) {
 	top:-12px ;
-	-webkit-animation: ioeAnimate2 15s ease-in-out infinite;
-	animation: ioeAnimate2 15s ease-in-out infinite
+	-webkit-animation: ioeAnimate2 25s ease-in-out infinite;
+	animation: ioeAnimate2 25s ease-in-out infinite
 }
 
 @-webkit-keyframes textLogoAnimate1 {
@@ -1936,4 +1936,9 @@ thead {
 
 .tirhuta {
     font-family: "MithilaUni" !important;
+}
+
+.bg-img
+{
+    background-image: none;
 }
