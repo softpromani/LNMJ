@@ -183,7 +183,7 @@
                                 <td>17.</td>
                                 <td>Organization Chart</td>
                                 <td>12/07/2022</td>
-                                <td><a href="#"><img src="{{ asset('Frontend/images/links-icon.jpeg') }}"
+                                <td><a href="{{route('adm.ogzstr')}}"><img src="{{ asset('Frontend/images/links-icon.jpeg') }}"
                                     alt="" height="30"></a>
                                 </td>
                             </tr>
