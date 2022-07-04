@@ -29,7 +29,7 @@
 <!-- slider ends here -->
 
 
-<div class="container-fluid" style="margin-top: 40px;" >
+<div class="container" style="margin-top: 40px;" >
     <div class="row">
         <div class=" col-md-12">
             <div class="panel">
