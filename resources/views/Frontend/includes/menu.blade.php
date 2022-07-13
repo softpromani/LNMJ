@@ -238,7 +238,7 @@
 
                                         <li class="level2">
                                             <a title="" class="level2 item-link"
-                                                href="#"><span
+                                                href="{{route('iqacComposition')}}"><span
                                                     class="menu-title">Composition of IQAC</span></a>
                                         </li>
                                         <li class="level2 last">

@@ -1,6 +1,6 @@
 <div class="list-group border-0 text-left text-md-left">
     <a href="{{route('iqac-intro')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Home</span> </a>
-    <a href="#" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Composition of IQAC  </span> </a>
+    <a href="{{route('iqacComposition')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Composition of IQAC  </span> </a>
     <a href="{{route('iqacVision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies</span> </a>
     <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Minutes of Meeting</span> </a>
     <a href="{{route('aqar')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">AQAR</span> </a>

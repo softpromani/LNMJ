@@ -58,7 +58,7 @@ class HomeController extends Controller
 
     function iqacComposition()
     {
-        return view('Frontend.iqac_intro');
+        return view('Frontend.iqac_composition');
     }
 
     function iqacSsr()
