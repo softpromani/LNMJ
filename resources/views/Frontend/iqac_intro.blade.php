@@ -39,7 +39,7 @@
                 <a href="#" data-target="#sidebar" data-toggle="collapse"><i
                         class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
                 <div class="page-header">
-                    <h2 class="display-4 font-weight-light text-center">Home</h2>
+                    <h2 class="display-4 font-weight-light text-center">Internal Quality Assurance Cell</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-8">

@@ -141,52 +141,29 @@
                                     </div>
                                 </div>
                                 <div role="tabpanel" class="tab-pane fade" id="Section2">
-                                    <h3>SecKtion 2</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a
-                                        ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor.
-                                        Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+                                    {{-- <h3>Section 2</h3> --}}
+                                    <p>Data will be uploaded by admin soon ...</p>
                                 </div>
                                 <div role="tabpanel" class="tab-pane fade" id="Section3">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a
-                                        ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor.
-                                        Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+                                    <p>Data will be uploaded by admin soon ...</p>
                                 </div>
                                 <div role="tabpanel" class="tab-pane fade" id="Section4">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a
-                                        ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor.
-                                        Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+                                    <p>Data will be uploaded by admin soon ...</p>
                                 </div>
                                 <div role="tabpanel" class="tab-pane fade" id="Section5">
-                                    <h3>SecKtion 2</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a
-                                        ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor.
-                                        Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+
+                                    <p>LData will be uploaded by admin soon ...</p>
                                 </div>
                                 <div role="tabpanel" class="tab-pane fade" id="Section6">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a
-                                        ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor.
-                                        Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+                                    <p>Data will be uploaded by admin soon ...</p>
                                 </div>
                                 <div role="tabpanel" class="tab-pane fade" id="Section7">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a
-                                        ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor.
-                                        Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+                                    <p>Data will be uploaded by admin soon ...</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
-
-
-
-
-
-
-
             </main>
         </div>
     </div>

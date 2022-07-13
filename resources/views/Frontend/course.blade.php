@@ -164,7 +164,7 @@
                 <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                     <div class="panel-body">
                         <ul>
-                            <li> <a href="#" target="_blank">PG Diploma in Geriatric Care</a></li>
+                            <li> <a href="https://lnmu.ac.in/iqac/syllabus/PGDGC%20Syllabus%20Latest%20IGG.pdf" target="_blank">PG Diploma in Geriatric Care</a></li>
 
                         </ul>
                     </div>
