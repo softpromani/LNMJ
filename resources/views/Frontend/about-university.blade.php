@@ -45,170 +45,205 @@
                 <div class="col-md-12" id="content_main">
                     <div id="system-message-container"></div>
                     <div id="yt_component">
-                        <div class="itemListView gridview" id="k2Container">
-                            <p>The University has a vision of developing, enhancing, and improving the quality of human
-                                resources to meet the challenges of regional, national and global socio-economic changes.
-                                It's mission is to achieve excellence in teaching and research and to create opportunities
-                                for the students to contribute to the national and regional development.</p>
-                            <h2>Accreditation:</h2>
-                            <p>L.N.M University is re-accredited by the National Assessment and Accreditation Council (an
-                                Autonomous Institution of the University Grants Commission) as 'B+' Grade University.</p>
+                        <section class="alterna-col col-lg-12">
+                            <p style="text-align: justify;">Lalit Narayan Mithila University Kameshwaranagar, Darbhanga is
+                                an outcome of long cherished desire of the people of Mithila. Eminent academicians like Dr.
+                                Amarnath Jha, Dr. R. C. Mazumdar, Dr. A. S. Altekar, Dr. Sunil Kumar Chatterjee and many
+                                other had expressed their views in favour of the establishment of a modern University at
+                                Darbhanga. The demand for establishing University was voiced time and again on the floors of
+                                the state legislature and in the parliament. On the 27<sup>th</sup> January, 1947 (Vasant
+                                Panchami Day) at a meeting of some of the leading citizens of Darbhanga and Laheriasarai,
+                                after Darbhanga visit by Late Prof. Binodanand Jha, then the Health and L. S. G. Minister,
+                                Government of Bihar sometime in January 1947 the Mithila University Committee was
+                                constituted with Dr. Amarnath Jha as the President, Pandit Girindra Mohan Mishra and Pandit
+                                Gangadhar Mishra, the Vice-Presidents, Pandit Harinath Mishra as the General Secretary,
+                                Kumar Kalyan Lal and Professor Quasim Hussain Secretaries, and Late Shri Padmana Prasad as
+                                the Treasurer including a few members such as Shri Jyoti Prasad Singh, the late Shri P. N.
+                                Mishra and Principal B. M. K. Sinha.</p>
+                            <p style="text-align: justify;">The year 1968 proved as a landmark year in the history of the
+                                University when a U.G.C. team visited Darbhanga in order to explore the possibility of
+                                establishing a multi-faculty University here. Subsequently the State Government set up a
+                                committee to examine the administrative and academic structure of the modern University at
+                                Darbhanga, following the recommendations made by the visiting team of the U.G.C.</p>
+                            <p style="text-align: justify;">The Government of India constituted another committee consisting
+                                of Shri T. P. Singh, Secretary, Minister of Education and Social Welfare, Shri R. K. Chabra,
+                                Secretary U.G.C. and Shri N. D. J. Rao, Education Commissioner, Bihar to look into the
+                                matters for establishing a University at Darbhanga. The committee submitted its report that
+                                the establishment of a separate and independent University at Darbhanga could be considered
+                                on merit basis.</p>
+                            <p style="text-align: justify;">Consequent upon the report of the above mentioned committee and
+                                considering the socio-economic background of the region, the Mithila University with its
+                                headquarters at Darbhanga was established by an ordinance in 1972 carving out colleges of
+                                Darbhanga and Kosi Divisions, from the then two Universities namely Bihar University,
+                                Muzaffarpur and Bhagalpur University, Bhagalpur respectively.</p>
+                            <p style="text-align: justify;">After the sad demise of Pt. Lalit Narayan Mishra in January,
+                                1975, the name of Mithila University was amended as Lalit Narayan Mithila University. But it
+                                was soon reversed to the original name through an ordinance. However, in 1980, the name
+                                Lalit Narayan Mithila University was restored through an Ordinance.</p>
+                            <p style="text-align: justify;">The colleges of Kosi Division which were initially attached to
+                                this University in 1972, but were transferred to newly established B. N. Mandal University,
+                                Laloo Nagar, Madhepura, with vertical separation of the assets and liabilities with effect
+                                from 01.01.1992.</p>
+                            <p><strong><u>BIRD’S EYE VIEW</u></strong></p>
+                            <table border="1" width="100%">
+                                <thead>
+                                    <tr>
+                                        <th width="73"><strong>Sl. No. </strong></th>
+                                        <th width="240"><strong>Items </strong></th>
+                                        <th width="251"><strong>Description </strong></th>
+                                    </tr>
+                                </thead>
 
-                            <h2>The University with:</h2>
-                            <table width="70%" border="1">
-                                <tr>
-                                    <td width="10%">12</td>
-                                    <td>Faculties</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>Departments</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>Teaching staff</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>Non-Teaching staff</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>Teaching staff (Contract Basis)</td>
-                                </tr>
+                                    <tbody>
+                                    <tr>
+                                        <td width="73"><strong>1. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Established </strong></td>
+                                        <td width="251"><strong>1972</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>2. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Type </strong></td>
+                                        <td width="251"><strong>Public </strong></td>
+                                    </tr>
+
+                                    <tr>
+                                        <td width="73"><strong>3. </strong><strong> </strong></td>
+                                        <td width="240"><strong>H. Q. Location </strong>
+                                            <p></p>
+                                            <p><strong>Longitude </strong></p>
+                                            <p><strong>Latitude</strong></p>
+                                        </td>
+                                        <td width="251"><strong>Darbhanga, Bihar (India)</strong>
+                                            <p></p>
+                                            <p><strong>26.1700<sup>o</sup>N</strong></p>
+                                            <p><strong>85.9000<sup>o</sup>E</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>4. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Campus</strong></td>
+                                        <td width="251"><strong>Urban </strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>5. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Affiliation </strong></td>
+                                        <td width="251"><strong>U.G.C.</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>6. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Total Area of Main Campus</strong></td>
+                                        <td width="251"><strong>201 Acres </strong>
+                                            <p></p>
+                                            <p><strong>(0.91 Sq.KM. approx.)</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>7. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of PG Departments</strong></td>
+                                        <td width="251"><strong>21</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>8. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of Constituent Colleges</strong></td>
+                                        <td width="251"><strong>43</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>9. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of Affiliated Colleges </strong></td>
+                                        <td width="251"><strong>24</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>10. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of Dental Colleges </strong></td>
+                                        <td width="251"><strong>03</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>11. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of B.Ed. Colleges </strong></td>
+                                        <td width="251"><strong>23</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>12. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of Affiliated Law Colleges</strong></td>
+                                        <td width="251"><strong>02</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>13. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of Self-Financing Institutions </strong></td>
+                                        <td width="251"><strong>07</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>14. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Area of the University </strong></td>
+                                        <td width="251"><strong>10592 Sq.KM.</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>15. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Height from Sea Level </strong></td>
+                                        <td width="251"><strong>50 Mts.</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>16. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Population</strong>
+                                            <p></p>
+                                            <p><strong>(Catchment area)</strong></p>
+                                        </td>
+                                        <td width="251"><strong>1.56 lakh (as per Census of 2011)</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>17. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Commissionary </strong></td>
+                                        <td width="251"><strong>02 (Darbhanga &amp; Munger)</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>18. </strong><strong> </strong></td>
+                                        <td width="240"><strong>District </strong></td>
+                                        <td width="251"><strong>04 (Darbhnaga, Madhubani, Samastipur &amp;
+                                                Begusarai)</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>19. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Feeder Area </strong></td>
+                                        <td width="251"><strong>Nepal Border, Sitamarhi, Vaishali, Muzaffarpur, Saharsa,
+                                                Purnia, Khagaria, Katihar</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>20. </strong><strong> </strong></td>
+                                        <td width="240"><strong>Total No. of Trees and Plant</strong></td>
+                                        <td width="251"><strong>1830</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>21. </strong><strong> </strong></td>
+                                        <td width="240"><strong>No. of Rare plants in the University</strong></td>
+                                        <td width="251"><strong>19</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>22 </strong><strong> </strong></td>
+                                        <td width="240"><strong>Ponds and Nahar </strong></td>
+                                        <td width="251"><strong>13</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td width="73"><strong>23. </strong></td>
+                                        <td width="240"><strong>Valuable Trees </strong>
+                                            <p></p>
+                                            <p>1. Chandan</p>
+                                            <p>2. Mayurpankhi</p>
+                                            <p>3. Mohogni</p>
+                                            <p>4. Aam</p>
+                                            <p>5. Bhojpatra</p>
+                                        </td>
+                                        <td width="251">
+                                            <p><strong>11</strong></p>
+                                            <p><strong>08</strong></p>
+                                            <p><strong>52</strong></p>
+                                            <p><strong>637</strong></p>
+                                            <p><strong>02</strong></p>
+                                        </td>
+                                    </tr>
+                                </tbody>
                             </table>
-                            <p></p>
-                            <h2>The University offers:</h2>
-                            <table width="70%" border="1">
-                                <tr>
-                                    <td width="10%">0</td>
-                                    <td>UG Programmes</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>PG courses</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>PG Diplomas</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>Research Programmes at M.Phil. and Ph.D. levels</td>
-                                </tr>
-                                <tr>
-                                    <td>0</td>
-                                    <td>Certificate Programmes</td>
-                                </tr>
-                            </table>
-                            <p></p>
-
-
-                            <h2>Faculty and Staff Statistics:</h2>
-                            <table width="70%" border="1">
-                                <tr>
-                                    <td>Professors </td>
-                                    <td width="10%">0</td>
-                                </tr>
-                                <tr>
-                                    <td>Emeritus Professors</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Associate Professors</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Assistant Professors</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Employees</td>
-                                    <td>0</td>
-                                </tr>
-                            </table>
-                            <p></p>
-                            <h2>University Non-teaching Staff:</h2>
-                            <table width="70%" border="1">
-                                <tr>
-                                    <td>Permanent</td>
-                                    <td width="10%">0</td>
-                                </tr>
-                                <tr>
-                                    <td>Temporary </td>
-                                    <td>0</td>
-                                </tr>
-                            </table>
-                            <p></p>
-                            <h2>Total number of registered Ph.D Scholars:</h2>
-                            <table width="70%" border="2">
-                                <tr>
-                                    <td>Faculty</td>
-                                    <td width="10%">Total</td>
-                                </tr>
-                                <tr>
-                                    <td>Arts</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Commerce</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Education</td>
-                                    <td>0</td>
-                                </tr>
-
-
-
-                                <tr>
-                                    <td>Management</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Oriental Languages</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Science</td>
-                                    <td>0</td>
-                                </tr>
-                                <tr>
-                                    <td>Social Sciences</td>
-                                    <td>0</td>
-                                </tr>
-
-                            </table>
-
-                            <p></p>
-                            <h2>Number of Research papers / Books published by University teachers( previous academic year):
-                            </h2>
-                            <table width="70%" border="1">
-                                <tr>
-                                    <td>No. of Research Papers published</td>
-                                    <td width="10%">0</td>
-                                </tr>
-                                <tr>
-                                    <td>No. of Books published</td>
-                                    <td>0</td>
-                                </tr>
-                            </table>
-                            <p></p>
-                            <h2>No. of ongoing Research projects in the University:</h2>
-                            <table width="70%" border="1">
-                                <tr>
-                                    <td>Project outlay 2.0 lack and above</td>
-                                    <td width="10%">0</td>
-                                </tr>
-                                <tr>
-                                    <td>Project outlay below ` 2.0 lack</td>
-                                    <td>62</td>
-                                </tr>
-                            </table>
-
-                        </div>
-
-
+                            <p>&nbsp;</p>
+                        </section>
                     </div>
                 </div>
             </main>

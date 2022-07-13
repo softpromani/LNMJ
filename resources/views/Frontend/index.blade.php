@@ -272,7 +272,7 @@
 
                                         <li class="" style="width: -20px;">
                                             <a href="{{route('rtiAct')}}"><img src="{{ asset('Frontend/images/icon9.png') }}"
-                                                    alt="" hspace="3">RTI ACT</a>
+                                                    alt="" hspace="3">RTI</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -719,9 +719,6 @@
                             <h3 class="modtitle">Useful Links</h3>
                             <div class="acd-item1">
                                 <ul class="line items-row1">
-                                    <li><a href="#">Examination Results</a></li>
-                                    <li><a href="#">Examination Time Tables</a>
-                                    </li>
                                     <li><a href="#">Press Notes</a></li>
                                     <li><a href="#" target="_blank">University Library</a>
                                     </li>
