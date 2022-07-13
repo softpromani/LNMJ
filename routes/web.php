@@ -16,6 +16,7 @@ Route::get('/iqac-reports', [HomeController::class, 'iqacReports'])->name('iqacR
 Route::get('/iqac-contacts', [HomeController::class, 'iqacContacts'])->name('iqacContacts');
 Route::get('/ssr-report', [HomeController::class, 'iqacSsr'])->name('iqacSsr');
 Route::get('/all-officer', [HomeController::class, 'allOfficer'])->name('allOfficer');
+Route::get('/iqac-composition', [HomeController::class, 'iqacComposition'])->name('iqacComposition');
 
 Route::get('/admission-home', [HomeController::class, 'admissionHome'])->name('admission.home');
 
@@ -111,12 +112,14 @@ Route::get('/fine-arts',[HomeController::class,'fineArts'])->name('fineArts');
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');
 
+
+
 Route::get('/admin', [AdminController::class, 'login'])->name('admin');
 Route::group(['prefix' => 'backend', 'as' => 'backend.'], function () {
     Route::post('/adminlogin', [AdminController::class, 'adminLogin'])->name('adminLogin');
     Route::get('/logout', [AdminController::class, 'logout'])->name('logout');
     Route::get('/admin/dashboard', [AdminController::class, 'dashboard'])->name('dashboard')->middleware('AdminAuth');
-
+    Route::get('/iqac', [AdminController::class, 'iqac'])->name('iqac');
 
 
 });

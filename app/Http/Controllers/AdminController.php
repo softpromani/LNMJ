@@ -42,4 +42,8 @@ class AdminController extends Controller
     function dashboard(){
         return view('Backend.dashboard');
     }
+
+    function iqac(){
+        return view('Backend.iqac');
+    }
 }

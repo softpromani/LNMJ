@@ -56,6 +56,11 @@ class HomeController extends Controller
         return view('Frontend.iqac_contacts');
     }
 
+    function iqacComposition()
+    {
+        return view('Frontend.iqac_intro');
+    }
+
     function iqacSsr()
     {
         return view('Frontend.iqac_ssr');

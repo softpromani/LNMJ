@@ -10,8 +10,8 @@
       <meta name="keywords" content="bootstrap, bootstrap admin template, admin theme, admin dashboard, dashboard template, admin template, responsive" />
       <meta name="author" content="codedthemes" />
       <!-- Favicon icon -->
-      <link href="{{asset('home/img/meencat-logo.jpeg')}}" rel="icon">
-  <link href="{{asset('home/img/meencat-logo.jpeg')}}" rel="apple-touch-icon">
+      <link rel="icon" type="image/x-icon" href="{{ asset('Frontend/images/icon/logo.jpg') }}" />
+      <link href="{{ asset('Frontend/images/icon/logo.jpg') }}" rel="apple-touch-icon">
     <!-- Google font-->
     <link href="{{asset('https://fonts.googleapis.com/css?family=Roboto:400,500')}}" rel="stylesheet">
     <!-- waves.css -->
