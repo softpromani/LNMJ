@@ -64,7 +64,7 @@
 
 
                                   <li class="waves-effect waves-light">
-                                      <a href="{{route('backend.logout')}}">
+                                      <a href="{{route('admin.logout')}}">
                                           <i class="ti-layout-sidebar-left"></i> Logout
                                       </a>
                                   </li>

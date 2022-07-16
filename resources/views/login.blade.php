@@ -95,7 +95,7 @@
                 <div class="col-sm-12">
                     <!-- Authentication card start -->
 
-                        <form class="md-float-material form-material" action="{{route('backend.adminLogin')}}" method="POST">
+                        <form class="md-float-material form-material" action="{{route('admin.adminLogin')}}" method="POST">
                             @csrf
                             <div class="text-center">
                                <h3>LNMU</h3>

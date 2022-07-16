@@ -1,8 +1,7 @@
 <footer id="yt_footer" class="block">
-    <div class="container-fluid" style="background-color: grey">
+    <div class="container-fluid" style="background-color: grey;">
         <div class="row">
             <div class="col-md-6 col-sm-12" >
-
                 <span style="color:white !important;font-size:15px;float: left;font-weight:bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visitors No.
                     <img src='https://www.counter12.com/img-YYBcA3bydabYy6Zy-77.gif' border='0'
                         alt='LNMU Visitor Counter'>

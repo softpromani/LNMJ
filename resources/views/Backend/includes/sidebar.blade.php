@@ -31,7 +31,7 @@
                 </div>
                 <ul class="pcoded-item pcoded-left-item">
                     <li class="active">
-                        <a href="{{route('backend.dashboard')}}" class="waves-effect waves-dark">
+                        <a href="{{ route('admin.dashboard') }}" class="waves-effect waves-dark">
                             <span class="pcoded-micon"><i class="ti-home"></i><b>D</b></span>
                             <span class="pcoded-mtext" data-i18n="nav.dash.main">Dashboard</span>
                             <span class="pcoded-mcaret"></span>
@@ -40,12 +40,21 @@
                 </ul>
                 <ul class="pcoded-item pcoded-left-item">
                     <li class="">
-                        <a href="{{route('backend.iqac')}}" class="waves-effect waves-dark">
+                        <a href="{{ route('admin.notice') }}" class="waves-effect waves-dark">
                             <span class="pcoded-micon"><i class="fa fa-book"></i></span>
-                            <span class="pcoded-mtext">IQAC</span>
+                            <span class="pcoded-mtext">Notice</span>
                         </a>
                     </li>
                 </ul>
+                <ul class="pcoded-item pcoded-left-item">
+                    <li class="">
+                        <a href="{{ route('admin.aqar') }}" class="waves-effect waves-dark">
+                            <span class="pcoded-micon"><i class="fa fa-book"></i></span>
+                            <span class="pcoded-mtext">AQAR</span>
+                        </a>
+                    </li>
                 </ul>
+
+            </div>
 
         </nav>

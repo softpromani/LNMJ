@@ -13,7 +13,7 @@
                 <div class="col-md-4">
                     <ul class="breadcrumb-title">
                         <li class="breadcrumb-item">
-                            <a href="{{ route('backend.dashboard') }}"> <i class="fa fa-home"></i> </a>
+                            <a href="{{ route('admin.dashboard') }}"> <i class="fa fa-home"></i> </a>
                         </li>
                         <li class="breadcrumb-item">Galleries</li>
                     </ul>

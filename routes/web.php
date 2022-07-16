@@ -115,11 +115,17 @@ Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.coll
 
 
 Route::get('/admin', [AdminController::class, 'login'])->name('admin');
-Route::group(['prefix' => 'backend', 'as' => 'backend.'], function () {
+Route::group(['prefix' => 'admin', 'as' => 'admin.'], function () {
     Route::post('/adminlogin', [AdminController::class, 'adminLogin'])->name('adminLogin');
     Route::get('/logout', [AdminController::class, 'logout'])->name('logout');
     Route::get('/admin/dashboard', [AdminController::class, 'dashboard'])->name('dashboard')->middleware('AdminAuth');
-    Route::get('/iqac', [AdminController::class, 'iqac'])->name('iqac');
 
+    Route::get('/notice',[AdminController::class,'notice'])->name('notice');
+    Route::post('/savenotice',[AdminController::class,'saveNotice'])->name('savenotice');
+    Route::get('/delnotice/{del}',[AdminController::class,'delNotice']);
+
+    Route::get('/aqar', [AdminController::class, 'aqar'])->name('aqar');
+    Route::post('/saveaqar',[AdminController::class,'saveAqar'])->name('saveaqar');
+    Route::get('/delaqar/{del}',[AdminController::class,'delAqar']);
 
 });
