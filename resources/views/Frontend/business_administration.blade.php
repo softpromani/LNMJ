@@ -29,7 +29,7 @@
 
     <div class="container">
         <div class="row d-flex d-md-block flex-nowrap wrapper">
-            @include('Frontend.includes.sidebar.academics_menu')
+            @include('Frontend.includes.sidebar.self_financed_menu')
             <main class="col-md-9 float-left col px-5 pl-md-2 pt-2 main">
                 <a href="#" data-target="#sidebar" data-toggle="collapse"><i class="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
                 <div class="page-header">

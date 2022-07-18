@@ -44,7 +44,7 @@
                     <section class="alterna-col col-lg-12 col-md-12 col-sm-12 ">
                    <p><strong>VISION</strong></p>
                <hr>
-               <p style="text-align: justify;">Lalit Narayan Mithila University aspires to be an energetic and responsive University offering educational opportunities for learner community especially to the lower socio-economic strata of the society seeking quality undergraduate, post graduate, research and continuing personal or professional enrichment in higher education and selected professions that will lead to formation of scholarly community serving the nation by advancing, sharing and applying knowledge and by facilitating the development of thoughtful, creative, adaptable, contributing human citizens.</p>
+               <p style="text-align: justify;">The vision of Lalit Narayan Mithila University incorporates the core values of National Demands-Global Standards, Innovation, Public Engagement and social impact. The university offers enrichment of knowledge in diverse fields to produce fruitful research, quality teaching and learning outcomes. Thses services and outcomes will lead to formation of scholarly community serving the nation by advancing sharing and applying knowledge and by faciliting the development of thoughtful, creative, adaptable, contributing human citizens.</p>
 
 
                <strong>MISSION</strong>

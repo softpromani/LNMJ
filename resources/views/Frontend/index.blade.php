@@ -2,9 +2,9 @@
 <html>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-
     @include('Frontend.includes.head')
 </head>
+
 <body id="bd" class="homepage home-layout1 res">
     <div id="yt_wrapper" class="layout-wide">
         <!-- header starts here -->
@@ -22,10 +22,9 @@
 
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow">
-                                        <img alt=""
-                                            src="{{ asset('Frontend/images/banners/0001.jpg') }}"
+                                        <img alt="" src="{{ asset('Frontend/images/banners/0001.jpg') }}"
                                             style="height:350px ;" />
-                                        </div>
+                                    </div>
                                 </div>
 
                                 <div class="slickslider-item item clearfix">
@@ -147,7 +146,7 @@
                                                     <h3 class="modtitle">Shri Phagu Chauhan </h3>
                                                     <div class="content-main">
                                                         <h3 class="title" style='color:#00aeef;font-weight:bold'>
-                                                            HE Governor-Cum-Chancellor <br/>
+                                                            HE Governor-Cum-Chancellor <br />
                                                             Bihar
                                                         </h3>
                                                         <br />
@@ -169,19 +168,16 @@
                                                     <h3 class="modtitle">Prof. Surendra Pratap Singh </h3>
                                                     <div class="content-main">
                                                         <h3 class="title" style='color:#00aeef;font-weight:bold'>
-                                                            Hon'ble Vice-Chancellor <br/>
+                                                            Hon'ble Vice-Chancellor <br />
 
                                                         </h3>
                                                         <br />
-                                                        <a href="{{route('adm.vc')}}" target="_blank"><strong
+                                                        <a href="{{ route('adm.vc') }}" target="_blank"><strong
                                                                 style="color:black;">Read
                                                                 More</strong></a>
                                                     </div>
                                                 </div>
                                             </div>
-
-
-
                                         </div>
 
                                         <a class="carousel-control left" href="#yt-extra-carousel1"
@@ -231,7 +227,8 @@
                                                     hspace="3">Admissions </a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{ route('eLearningResource') }}" target="_blank" style="font-size:11px;"><img
+                                            <a href="{{ route('eLearningResource') }}" target="_blank"
+                                                style="font-size:11px;"><img
                                                     src="{{ asset('Frontend/images/icon5.png') }}" alt=""
                                                     hspace="3">E-Learning Resources</a>
                                         </li>
@@ -266,13 +263,15 @@
                                                     hspace="3">Alumni Association</a>
                                         </li>
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('cells')}}"><img src="{{ asset('Frontend/images/icon9.png') }}"
-                                                    alt="" hspace="3">Committees</a>
+                                            <a href="{{ route('cells') }}"><img
+                                                    src="{{ asset('Frontend/images/icon9.png') }}" alt=""
+                                                    hspace="3">Committees</a>
                                         </li>
 
                                         <li class="" style="width: -20px;">
-                                            <a href="{{route('rtiAct')}}"><img src="{{ asset('Frontend/images/icon9.png') }}"
-                                                    alt="" hspace="3">RTI ACT</a>
+                                            <a href="{{ route('rtiAct') }}"><img
+                                                    src="{{ asset('Frontend/images/icon9.png') }}" alt=""
+                                                    hspace="3">RTI</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -303,9 +302,12 @@
                     <div id="top3" class="col-sm-12">
                         <div class="marquee" id="mycrawler" style="width:100%;">
 
-                            <a href="#"><b>"Regarding Result of B.Com. (Honours) Part-II Examination 2021"</b><img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
-                            <a href="#"><b>Notice Regarding BLIS Admission session 2022-23</b><img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
-                            <a href="#"><b>Advertisement for MBA Admission</b><img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                            <a href="#"><b>"Regarding Result of B.Com. (Honours) Part-II Examination
+                                    2021"</b><img src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
+                            <a href="#"><b>Notice Regarding BLIS Admission session 2022-23</b><img
+                                    src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
+                            <a href="#"><b>Advertisement for MBA Admission</b><img
+                                    src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
 
 
 
@@ -314,6 +316,7 @@
                 </div>
             </div>
         </section>
+
         <script type="text/javascript">
             marqueeInit({
                 uniqueid: 'mycrawler',
@@ -346,8 +349,8 @@
                             <li><a href="#">Careers &amp; Fellowships</a></li>
 
                             <li><a href="#" target="_blank">Features</a></li>
-                            <li><a href="{{route('iqacSsr')}}">Student Satisfactory Survey</a></li>
-                            <li><a href="{{route('rtiAct')}}" target="_blank">RTI ACT</a></li>
+                            <li><a href="{{ route('iqacSsr') }}">Student Satisfactory Survey</a></li>
+                            <li><a href="{{ route('rtiAct') }}" target="_blank">RTI ACT</a></li>
                             <li><a href="#">Careers &amp; Services</a></li>
                         </ul>
                     </div>
@@ -369,32 +372,54 @@
                                                     <div class="item-other">
                                                         <ul class="otehr-link">
                                                             <li class="row">
-                                                                <a href="https://lnmu.ac.in/results/ug/B.com/Result-13-06-22.pdf" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>"Regarding Result of B.Com. (Honours) Part-II Examination 2021"<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                                <a href="https://lnmu.ac.in/results/ug/B.com/Result-13-06-22.pdf"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>"Regarding Result of
+                                                                    B.Com. (Honours) Part-II Examination 2021"<img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/Corrigendum%20merit%20list-compressed.pdf" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Corrigendum list of BLIS Admission session 2022-23<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                                <a href="https://lnmu.ac.in/Notice/Corrigendum%20merit%20list-compressed.pdf"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Corrigendum list of
+                                                                    BLIS Admission session 2022-23<img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/B.ed/Memo%20No.%20-%20XC-9397-9451-22%20Date%20-%2010.06.2022.pdf" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notification of Examination Programme and Centre for B.Ed. Part-II (Session : 2020-22) Examination-2022<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                                <a href="https://lnmu.ac.in/Notice/B.ed/Memo%20No.%20-%20XC-9397-9451-22%20Date%20-%2010.06.2022.pdf"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Notification of
+                                                                    Examination Programme and Centre for B.Ed. Part-II
+                                                                    (Session : 2020-22) Examination-2022<img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/BLIS/Notice.jpg" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notice Regarding BLIS Admission session 2022-23<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                                <a href="https://lnmu.ac.in/Notice/BLIS/Notice.jpg"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Notice Regarding
+                                                                    BLIS Admission session 2022-23<img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/ADVERTISMENT.pdf" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Advertisement for MBA Admission<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                                <a href="https://lnmu.ac.in/Notice/ADVERTISMENT.pdf"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>Advertisement for
+                                                                    MBA Admission<img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/dsw/UG%202020%2023.pdf" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>U.G. (2020-23) Registration<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                                <a href="https://lnmu.ac.in/Notice/dsw/UG%202020%2023.pdf"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>U.G. (2020-23)
+                                                                    Registration<img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
                                                             </li>
                                                             <li class="row">
-                                                                <a href="http://biharcetbed-lnmu.in/" class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>B. Ed. Online Application<img src="{{asset('Frontend/images/newanim.gif')}}"/></a>
+                                                                <a href="http://biharcetbed-lnmu.in/"
+                                                                    class="col-xs-12" title=""><i
+                                                                        class="fa fa-envelope"></i>B. Ed. Online
+                                                                    Application<img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
                                                             </li>
                                                         </ul>
                                                         </marquee>
@@ -415,7 +440,6 @@
                     </div>
 
                     <div id="top7" class="col-lg-5 col-sm-12 pr0">
-
                         <div class="module  k2-mega-new-main ">
                             <h3 class="modtitle">Upcoming Events, Conferences, Seminars, Workshops, etc.</h3>
                             <div class="modcontent clearfix">
@@ -457,7 +481,8 @@
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">International Womens Day Celebration 2022 </a>
+                                                                    title="">International Womens Day Celebration
+                                                                    2022 </a>
                                                             </li>
 
                                                             <li class="row">
@@ -467,7 +492,8 @@
                                                                         style="float: left; background: #00aeef">June
                                                                         2022</span></a>
                                                                 <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">National Seminar on "Cutting Edge in Material Science" February 11, 2021</a>
+                                                                    title="">National Seminar on "Cutting Edge in
+                                                                    Material Science" February 11, 2021</a>
                                                             </li>
 
 
@@ -485,7 +511,6 @@
 
                             </div>
                         </div>
-
                     </div>
 
 
@@ -524,8 +549,7 @@
                                         </ul>
                                     </div>
 
-                                    <div
-                                        class="slider not-js cols-6 preset01-3 preset02-3 preset03-1 preset04-1 preset05-1">
+                                    <div class="slider not-js cols-6 preset01-3 preset02-3 preset03-1 preset04-1 preset05-1">
                                         <div class="vpo-wrap">
                                             <div class="vp">
                                                 <div class="vpi-wrap">
@@ -546,21 +570,6 @@
                                                                         <a href="#" title=" "
                                                                             target="_blank">National Seminar</a>
                                                                     </div>
-                                                                    {{-- <div class="item-content">
-                                                                        <div class="item-des">The Arts College
-                                                                            was inaugurated on Mont xx YYYY. It was
-                                                                            temporarily housed in eight rented buildings
-                                                                            in Gunfoundry area with xx teachers and xxx
-                                                                            students in the Interm ediate...
-                                                                            <!-- first year class.-->
-                                                                        </div>
-                                                                        <div class="item-read">
-                                                                            <a href="#" title=" " target="_blank">
-                                                                                <i class="fa fa-check"></i><span>Read
-                                                                                    more</span>
-                                                                            </a>
-                                                                        </div>
-                                                                    </div> --}}
                                                                 </div>
                                                             </div>
 
@@ -719,9 +728,6 @@
                             <h3 class="modtitle">Useful Links</h3>
                             <div class="acd-item1">
                                 <ul class="line items-row1">
-                                    <li><a href="#">Examination Results</a></li>
-                                    <li><a href="#">Examination Time Tables</a>
-                                    </li>
                                     <li><a href="#">Press Notes</a></li>
                                     <li><a href="#" target="_blank">University Library</a>
                                     </li>

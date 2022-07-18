@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\AdminController;
 
 
 Route::get('/', [HomeController::class, 'index']);
@@ -15,6 +16,7 @@ Route::get('/iqac-reports', [HomeController::class, 'iqacReports'])->name('iqacR
 Route::get('/iqac-contacts', [HomeController::class, 'iqacContacts'])->name('iqacContacts');
 Route::get('/ssr-report', [HomeController::class, 'iqacSsr'])->name('iqacSsr');
 Route::get('/all-officer', [HomeController::class, 'allOfficer'])->name('allOfficer');
+Route::get('/iqac-composition', [HomeController::class, 'iqacComposition'])->name('iqacComposition');
 
 Route::get('/admission-home', [HomeController::class, 'admissionHome'])->name('admission.home');
 
@@ -66,10 +68,7 @@ Route::get('/advance-research', [HomeController::class, 'advanceResearch'])->nam
 Route::get('/women-studies', [HomeController::class, 'womenStudies'])->name('womenStudies');
 Route::get('/tenders', [HomeController::class, 'tenders'])->name('tenders');
 Route::get('/document-notice', [HomeController::class, 'documentNotice'])->name('documentNotice');
-
-
 Route::get('/photo-gallery', [HomeController::class, 'photoGallery'])->name('photogallery');
-
 Route::get('/about-university',[HomeController::class,'about_university'])->name('about.university');
 Route::get('/about-focus',[HomeController::class,'about_focus'])->name('about.focus');
 Route::get('/about-campus',[HomeController::class,'about_campus'])->name('about.campus');
@@ -86,9 +85,6 @@ Route::get('/adm-dsw',[HomeController::class,'adm_dsw'])->name('adm.dsw');
 Route::get('/adm-pructor',[HomeController::class,'adm_pructor'])->name('adm.pructor');
 Route::get('/adm-ccdc',[HomeController::class,'adm_ccdc'])->name('adm.ccdc');
 Route::get('/adm-registrar',[HomeController::class,'adm_registrar'])->name('adm.registrar');
-
-// Route::get('/vice-chancellor',[HomeController::class,'vc'])->name('vice_chancellor');
-
 
 // Academics
 
@@ -107,21 +103,29 @@ Route::get('/department-of-english', [HomeController::class, 'englishDepartment'
 Route::get('/pg-department-of-commerce-management', [HomeController::class, 'commerceManagementDepartment'])->name('commerceManagementDepartment');
 Route::get('/pg-department-of-ancient-indian-history', [HomeController::class, 'indianHistoryDepartment'])->name('indianHistoryDepartment');
 
-
-
-
-
 Route::get('/commerce',[HomeController::class,'commerce'])->name('commerce');
 Route::get('/law',[HomeController::class,'law'])->name('law');
 Route::get('/dentistry',[HomeController::class,'dentistry'])->name('dentistry');
 Route::get('/education',[HomeController::class,'education'])->name('education');
 Route::get('/fine-arts',[HomeController::class,'fineArts'])->name('fineArts');
 
-
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');
 Route::get('/acd-college',[HomeController::class,'acd_college'])->name('acd.college');
 
-//Gallery
 
-// Sachin ----------------------------------------Backend--------------------layout------------
-Route::get('/admin', [HomeController::class, 'dashboard']);
+
+Route::get('/admin', [AdminController::class, 'login'])->name('admin');
+Route::group(['prefix' => 'admin', 'as' => 'admin.'], function () {
+    Route::post('/adminlogin', [AdminController::class, 'adminLogin'])->name('adminLogin');
+    Route::get('/logout', [AdminController::class, 'logout'])->name('logout');
+    Route::get('/admin/dashboard', [AdminController::class, 'dashboard'])->name('dashboard')->middleware('AdminAuth');
+
+    Route::get('/notice',[AdminController::class,'notice'])->name('notice');
+    Route::post('/savenotice',[AdminController::class,'saveNotice'])->name('savenotice');
+    Route::get('/delnotice/{del}',[AdminController::class,'delNotice']);
+
+    Route::get('/aqar', [AdminController::class, 'aqar'])->name('aqar');
+    Route::post('/saveaqar',[AdminController::class,'saveAqar'])->name('saveaqar');
+    Route::get('/delaqar/{del}',[AdminController::class,'delAqar']);
+
+});

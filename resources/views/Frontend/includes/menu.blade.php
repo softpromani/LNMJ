@@ -22,14 +22,14 @@
                                                 href="{{ route('about.university') }}"><span
                                                     class="menu-title">University at a glance</span></a>
                                         </li>
-                                        <li class="level2">
+                                        {{-- <li class="level2">
                                             <a title="" class="level2 item-link" href="{{ route('about.focus') }}"><span
                                                     class="menu-title">Focus</span></a>
-                                        </li>
+                                        </li> --}}
                                         <li class="level2">
                                             <a title="" class="level2 last item-link"
                                                 href="{{ route('about.campus') }}"><span
-                                                    class="menu-title">Campus</span></a>
+                                                    class="menu-title">The Campus</span></a>
                                         </li>
                                         <li class="level2">
                                             <a title="" class="level2 last item-link"
@@ -142,13 +142,11 @@
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 last item-link"
-                                                href='{{ route('constituentColleges') }}' target="_blank"><span
+                                                href='{{ route('departmentBusinessDepartment') }}' target="_blank"><span
                                                     class="menu-title">Self Financed Inst.</span></a>
                                         </li>
                                     </ul>
                                 </div>
-
-
                             </div>
                         </div>
                     </li>
@@ -240,7 +238,7 @@
 
                                         <li class="level2">
                                             <a title="" class="level2 item-link"
-                                                href="#"><span
+                                                href="{{route('iqacComposition')}}"><span
                                                     class="menu-title">Composition of IQAC</span></a>
                                         </li>
                                         <li class="level2 last">
