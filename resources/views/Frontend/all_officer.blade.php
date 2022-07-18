@@ -30,7 +30,7 @@
                     <div class="box-top">
                         Vice-Chancellor
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/vc1.jpeg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/vc.jpeg') }}" style="height: 300px;width:500px;" />
                     <div class="box-content">
                         <h3 class="title">Prof. Surendra Pratap Singh</h3>
                         <span class="post">06272-222463, vc@lnmu.ac.in<br /> vc-lnmu-bih@nic.in</span>
@@ -43,7 +43,7 @@
                     <div class="box-top">
                         Pro-Vice-Chancellor
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/pvc.jpg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/pvc.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Prof. Dolly Sinha</h3>
                         <span class="post">8544513299 & pvc@lnmu.ac.in</span>
@@ -63,7 +63,7 @@
                     <div class="box-top">
                         Financial Advisor
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/financial_advisor.jpg') }}"
+                    <img src="{{ asset('Frontend/images/officers/fo.jpeg') }}"
                         style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Shri Kailash Ram</h3>
@@ -78,7 +78,7 @@
                     <div class="box-top">
                         The Dean, Student's Welfare
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/dean.png') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/estate.png') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Vijay Kumar Yadav</h3>
                         <span class="post">9430996391 & dsw@lnmu.ac.in</span>
@@ -91,7 +91,7 @@
                     <div class="box-top">
                         Proctor / Sport Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/proctor.jpg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/proctor.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Ajay Nath Jha</h3>
                         <span class="post">8544513620, 8544513271<br />
@@ -105,7 +105,7 @@
                     <div class="box-top">
                         Registrar
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/registrar1.jpeg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/registrar.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Mushtaque Ahmad</h3>
                         <span class="post">8544513253, registrar@lnmu.ac.in</span>
@@ -138,7 +138,7 @@
                     <div class="box-top">
                         Finance Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/financial_advisor.jpg') }}"
+                    <img src="{{ asset('Frontend/images/officers/fo.jpeg') }}"
                         style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Shri Kailash Ram</h3>
@@ -167,7 +167,7 @@
                     <div class="box-top">
                         IQAC Director
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/iqac.jpg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/director.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Md.Zeya Haider </h3>
                         <span class="post">9955038455, iqac@lnmu.ac.in, iqaclnmu@gmail.com</span>
@@ -215,7 +215,7 @@
                     <div class="box-top">
                         Pension Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/pension.jpeg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/pension_officer.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr.Suresh Paswan</h3>
                         <span class="post">7888628545, po@lnmu.ac.in</span>
@@ -244,7 +244,7 @@
                     <div class="box-top">
                         Deputy Registrar–I
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/deputy_registrar-1.jpg') }}"
+                    <img src="{{ asset('Frontend/images/officers/dr1.jpeg') }}"
                         style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Kameshwar Paswan</h3>
@@ -259,7 +259,7 @@
                     <div class="box-top">
                         Deputy Registrar–II
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/deputy_registrar-2.jpg') }}"
+                    <img src="{{ asset('Frontend/images/officers/home science_head.jpeg') }}"
                         style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr.Divya Rani Hansda</h3>
@@ -274,7 +274,7 @@
                     <div class="box-top">
                         Director, Department of Commerce & Busines Administration
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 280px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/business_administration.jpeg') }}" style="height: 280px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr.Ajit Kumar Singh</h3>
                         <span class="post">9430897379, dmba@lnmu.ac.in, mbalnmu@gmail.com</span>
@@ -288,7 +288,7 @@
                     <div class="box-top">
                         Co-ordinator, Department of Bio-technology
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 280px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/botany_head.jpeg') }}" style="height: 280px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Sahnaz Jamil</h3>
                         <span class="post">8544513309, id-dbiotech@lnmu.ac.in</span>
@@ -304,7 +304,7 @@
                     <div class="box-top">
                         NSS Co-ordinator-I
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/nss_binod baitha.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title"> Dr.Binod Baitha</h3>
                         <span class="post">8544513268, nss@lnmu.ac.in</span>
@@ -317,7 +317,7 @@
                     <div class="box-top">
                         NSS Co-ordinator -II<br />Prof-In-charge University Press
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/nss.jpeg') }}" style="height: 278px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/nss_anand gupta.jpeg') }}" style="height: 278px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Anand Prakash Gupta</h3>
                         <span class="post">8544513269, 8544513269</span>
@@ -332,7 +332,7 @@
                     <div class="box-top">
                         Estate Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/dean.png') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/dean_humanity.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Vijay Kumar Yadav</h3>
                         <span class="post">8444513272, id-eso@lnmu.ac.in</span>
@@ -345,7 +345,7 @@
                     <div class="box-top">
                         Director, Institute of Foreign Language
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/foreign_language.jpg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Punita Jha</h3>
                         <span class="post">8544513286, difl@lnmu.ac.in</span>
@@ -360,7 +360,7 @@
                     <div class="box-top">
                         Law Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/law.jpg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/law_officer.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Sony Singh</h3>
                         <span class="post">7007338762, lo@lnmu.ac.in</span>
@@ -373,7 +373,7 @@
                     <div class="box-top">
                         Medical Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/medical.jpg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/medical_officer.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Gitendra Thakur</h3>
                         <span class="post">8544513275, medical@lnmu.ac.in</span>
@@ -386,7 +386,7 @@
                     <div class="box-top">
                         Prof.-In-charge (Central Library)
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/central_library.jpg') }}"
+                    <img src="{{ asset('Frontend/images/officers/library_director.jpeg') }}"
                         style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr.Daman Kumar Jha</h3>
@@ -400,7 +400,7 @@
                     <div class="box-top">
                         Director, Institute of Gerontology and Geriatrics
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 278px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/institute of_gerontology and geriatrics.jpeg') }}" style="height: 278px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr.Shishir Kumar Verma</h3>
                         <span class="post">9431066991</span>
@@ -416,7 +416,7 @@
                     <div class="box-top">
                         University Engineer
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/university_engineer.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Er. Krishna Kumar Sinha </h3>
                         <span class="post">8544513274, kksinha.765@gmail.com</span>
@@ -429,7 +429,7 @@
                     <div class="box-top">
                         Director, Directorate of Distance Education
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 278px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/distance_education.jpeg') }}" style="height: 278px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Ashok kumar Mehta</h3>
                         <span class="post"> 943082794, dde@lnmu.ac.in</span>
@@ -442,7 +442,7 @@
                     <div class="box-top">
                         Director, Women's Institute of Technology
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 278px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/wit_director.jpeg') }}" style="height: 278px;width:500px;">
                     <div class="box-content">
                         <h3 class="title"> Dr. B. S. Jha</h3>
                         <span class="post">8340379501, directorwit@yahoo.co.in</span>
@@ -457,7 +457,7 @@
                         Advance Research in Nano
                         Science and Technology
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 280px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/nano science_and technology.jpeg') }}" style="height: 280px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Prem Mohan Mishra</h3>
                         <span class="post">9431691686</span>
@@ -482,6 +482,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 @endsection
