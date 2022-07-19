@@ -61,6 +61,11 @@ class HomeController extends Controller
         return view('Frontend.iqac_composition');
     }
 
+    function iqacMeeting()
+    {
+        return view('Frontend.iqac_meeting');
+    }
+
     function iqacSsr()
     {
         return view('Frontend.iqac_ssr');
@@ -287,6 +292,46 @@ class HomeController extends Controller
     public function hindiDepartment()
     {
     return view('Frontend.department_hindi');
+    }
+
+    public function musicDepartment()
+    {
+    return view('Frontend.department_music');
+    }
+
+    public function economicsDepartment()
+    {
+    return view('Frontend.department_economic');
+    }
+
+    public function geographyDepartment()
+    {
+    return view('Frontend.department_geography');
+    }
+
+    public function historyDepartment()
+    {
+    return view('Frontend.department_history');
+    }
+
+    public function homescienceDepartment()
+    {
+    return view('Frontend.department_home_science');
+    }
+
+    public function psychologyDepartment()
+    {
+        return view('Frontend.department_psychology');
+    }
+
+    public function politicalcienceDepartment()
+    {
+    return view('Frontend.department_political_science');
+    }
+
+    public function sociologyDepartment()
+    {
+        return view('Frontend.department_sociology');
     }
 
     public function constituentColleges()

@@ -17,6 +17,7 @@ Route::get('/iqac-contacts', [HomeController::class, 'iqacContacts'])->name('iqa
 Route::get('/ssr-report', [HomeController::class, 'iqacSsr'])->name('iqacSsr');
 Route::get('/all-officer', [HomeController::class, 'allOfficer'])->name('allOfficer');
 Route::get('/iqac-composition', [HomeController::class, 'iqacComposition'])->name('iqacComposition');
+Route::get('/iqac-minutes-meeting', [HomeController::class, 'iqacMeeting'])->name('iqacMeeting');
 
 Route::get('/admission-home', [HomeController::class, 'admissionHome'])->name('admission.home');
 
@@ -87,7 +88,6 @@ Route::get('/adm-ccdc',[HomeController::class,'adm_ccdc'])->name('adm.ccdc');
 Route::get('/adm-registrar',[HomeController::class,'adm_registrar'])->name('adm.registrar');
 
 // Academics
-
 Route::get('/acd-phd',[HomeController::class,'acd_phd'])->name('acd.phd');
 Route::get('/acd-faculties',[HomeController::class,'acd_faculties'])->name('acd.faculties');
 
@@ -102,6 +102,15 @@ Route::get('/department-of-hindi', [HomeController::class, 'hindiDepartment'])->
 Route::get('/department-of-english', [HomeController::class, 'englishDepartment'])->name('englishDepartment');
 Route::get('/pg-department-of-commerce-management', [HomeController::class, 'commerceManagementDepartment'])->name('commerceManagementDepartment');
 Route::get('/pg-department-of-ancient-indian-history', [HomeController::class, 'indianHistoryDepartment'])->name('indianHistoryDepartment');
+
+Route::get('/department-of-music-dramatics', [HomeController::class, 'musicDepartment'])->name('musicDepartment');
+Route::get('/department-of-economics', [HomeController::class, 'economicsDepartment'])->name('economicsDepartment');
+Route::get('/department-of-geography', [HomeController::class, 'geographyDepartment'])->name('geographyDepartment');
+Route::get('/department-of-history', [HomeController::class, 'historyDepartment'])->name('historyDepartment');
+Route::get('/department-of-home-science', [HomeController::class, 'homescienceDepartment'])->name('homescienceDepartment');
+Route::get('/department-of-psychology', [HomeController::class, 'psychologyDepartment'])->name('psychologyDepartment');
+Route::get('/department-of-political-science', [HomeController::class, 'politicalcienceDepartment'])->name('politicalcienceDepartment');
+Route::get('/department-of-sociology', [HomeController::class, 'sociologyDepartment'])->name('sociologyDepartment');
 
 Route::get('/commerce',[HomeController::class,'commerce'])->name('commerce');
 Route::get('/law',[HomeController::class,'law'])->name('law');

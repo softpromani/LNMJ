@@ -56,7 +56,7 @@
                     <div class="col-md-8 col-sm-8">
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-social-science.php" target="_blank">Department of Music & Dramatics</a></div>
+                            <a style="color: #000;" href="{{route('musicDepartment')}}" target="_blank">Department of Music & Dramatics</a></div>
             </main>
 
 

@@ -218,7 +218,7 @@
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link"
                                                 href="{{ route('iqac-intro') }}"><span
-                                                    class="menu-title">Home</span></a>
+                                                    class="menu-title">Home (IQAC)</span></a>
                                         </li>
                                         <li class="level2 first">
                                             <a title="" class="level2 first item-link" href="{{route('iqacCommittee')}}"><span
@@ -242,7 +242,7 @@
                                                     class="menu-title">Composition of IQAC</span></a>
                                         </li>
                                         <li class="level2 last">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="{{route('iqacMeeting')}}" class="level2 item-link" href="#"><span
                                                     class="menu-title">Minutes of Meeting</span></a>
                                         </li>
                                     </ul>

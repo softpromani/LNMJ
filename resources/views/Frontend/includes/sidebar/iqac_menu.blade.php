@@ -2,7 +2,7 @@
     <a href="{{route('iqac-intro')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Home</span> </a>
     <a href="{{route('iqacComposition')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Composition of IQAC  </span> </a>
     <a href="{{route('iqacVision')}}" class="list-group-item d-inline-block collapsed"> <span class="d-none d-md-inline">Vision, Mission & Strategies</span> </a>
-    <a href="#" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Minutes of Meeting</span> </a>
+    <a href="{{route('iqacMeeting')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">Minutes of Meeting</span> </a>
     <a href="{{route('aqar')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">AQAR</span> </a>
     <a href="{{route('iqacSsr')}}" class="list-group-item d-inline-block collapsed" > <span class="d-none d-md-inline">SSS</span> </a>
     <a href="#menu3" class="list-group-item d-inline-block collapsed" data-toggle="collapse" aria-expanded="false" > <span class="d-none d-md-inline">NAAC Accreditation</span> </a>

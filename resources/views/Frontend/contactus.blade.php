@@ -26,7 +26,7 @@
     </div>
 </section>
 <div class="container-fluid" style="background-color: #00aeef;color:white;font-size:25px;font-weight:bold;padding:10px;">
-<p class="text-center">ContactUs</p>
+<p class="text-center">Contact Us</p>
 </div>
 <!-- slider ends here -->
 

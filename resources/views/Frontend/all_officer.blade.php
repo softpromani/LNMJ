@@ -167,7 +167,7 @@
                     <div class="box-top">
                         IQAC Director
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/director.jpeg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/iqac_director.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Md.Zeya Haider </h3>
                         <span class="post">9955038455, iqac@lnmu.ac.in, iqaclnmu@gmail.com</span>
@@ -200,7 +200,7 @@
                     <div class="box-top">
                         Controller of Examinations<br /> Deputy Controller of Examinations- III
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/exam_controller.jpg') }}"
+                    <img src="{{ asset('Frontend/images/officers/coe.jpeg') }}"
                         style="height: 280px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Anand Mohan Mishra</h3>
@@ -228,7 +228,7 @@
                     <div class="box-top">
                         Public Information Officer
                     </div>
-                    <img src="{{ asset('Frontend/images/officers/coe.jpeg') }}" style="height: 300px;width:500px;">
+                    <img src="{{ asset('Frontend/images/officers/pio.jpeg') }}" style="height: 300px;width:500px;">
                     <div class="box-content">
                         <h3 class="title">Dr.Sanjeet Kumar Jha</h3>
                         <span class="post">pio@lnmu.ac.in</span>

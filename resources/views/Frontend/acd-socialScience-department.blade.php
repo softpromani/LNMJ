@@ -42,7 +42,7 @@
                     <div class="box-top">
                         Dean of Social Science
                     </div>
-                    <img src="{{ asset('Frontend/images/dean_socialScience.jpg') }}" style="height: 300px;width:400px;">
+                    <img src="{{ asset('Frontend/images/officers/dean_social science.jpeg') }}" style="height: 300px;width:400px;">
                     <div class="box-content">
                         <h2 class="title">Dr. Jitendra Narayan</h2>
                         <span class="post">9934495019, deansocialsc@lnmu.ac.in</span>

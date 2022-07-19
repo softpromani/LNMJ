@@ -42,7 +42,7 @@
                     <div class="box-top">
                         Dean of Commerce
                     </div>
-                    <img src="{{ asset('Frontend/images/user.png') }}" style="height: 300px;width:400px;">
+                    <img src="{{ asset('Frontend/images/officers/commerce_dean.jpeg') }}" style="height: 300px;width:400px;">
                     <div class="box-content">
                         <h3 class="title">Dr. Bibhuti Bhusan Lal Das</h3>
                         <span class="post">9304082397, deancommerce@lnmu.ac.in</span>
