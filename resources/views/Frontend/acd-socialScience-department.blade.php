@@ -60,48 +60,48 @@
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-commerce.php" target="_blank">Department of Economics</a>
+                            <a style="color: #000;" href="{{route('economicsDepartment')}}" target="_blank">Department of Economics</a>
                         </div>
                         <p>&nbsp;</p>
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-dentistry.php" target="_blank">Department of Geography</a>
+                            <a style="color: #000;" href="{{route('geographyDepartment')}}" target="_blank">Department of Geography</a>
                         </div>
 
-
-                        <p>&nbsp;</p>
-
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of History</a>
-                        </div>
 
                         <p>&nbsp;</p>
 
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Home Science</a>
+                            <a style="color: #000;" href="{{route('historyDepartment')}}" target="_blank">Department of History</a>
                         </div>
 
                         <p>&nbsp;</p>
 
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Psychology</a>
+                            <a style="color: #000;" href="{{route('homescienceDepartment')}}" target="_blank">Department of Home Science</a>
                         </div>
 
                         <p>&nbsp;</p>
 
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Political Science</a>
+                            <a style="color: #000;" href="{{route('psychologyDepartment')}}" target="_blank">Department of Psychology</a>
                         </div>
 
                         <p>&nbsp;</p>
 
                         <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="faculty-of-fine-arts.php" target="_blank">Department of Sociology</a>
+                            <a style="color: #000;" href="{{route('politicalcienceDepartment')}}" target="_blank">Department of Political Science</a>
+                        </div>
+
+                        <p>&nbsp;</p>
+
+                        <div
+                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
+                            <a style="color: #000;" href="{{route('sociologyDepartment')}}" target="_blank">Department of Sociology</a>
                         </div>
 
                     </div><br>
