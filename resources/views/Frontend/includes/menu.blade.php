@@ -242,7 +242,7 @@
                                                     class="menu-title">Composition of IQAC</span></a>
                                         </li>
                                         <li class="level2 last">
-                                            <a title="{{route('iqacMeeting')}}" class="level2 item-link" href="#"><span
+                                            <a title="#" class="level2 item-link" href="#"><span
                                                     class="menu-title">Minutes of Meeting</span></a>
                                         </li>
                                     </ul>
