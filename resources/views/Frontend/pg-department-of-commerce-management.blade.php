@@ -219,19 +219,6 @@
                                     </tr>
                                     <tr>
                                         <td>5</td>
-                                        <td>Dr. Sanjay Kumar Jha</td>
-                                        <td>Assistant Professor</td>
-                                        <td>9939750610</td>
-                                        <td>cmaskjha@gmail.com</td>
-                                        <td>
-                                            <div class="user_icon">
-                                                <img src="{{ asset('Frontend/images/user.png') }}"
-                                                    alt="">
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>6</td>
                                         <td>Dr. Divakar Jha</td>
                                         <td>Associate Professor</td>
                                         <td>9471088103</td>
@@ -243,6 +230,20 @@
                                             </div>
                                         </td>
                                     </tr>
+                                    <tr>
+                                        <td>6</td>
+                                        <td>Dr. Sanjay Kumar Jha</td>
+                                        <td>Assistant Professor</td>
+                                        <td>9939750610</td>
+                                        <td>cmaskjha@gmail.com</td>
+                                        <td>
+                                            <div class="user_icon">
+                                                <img src="{{ asset('Frontend/images/user.png') }}"
+                                                    alt="">
+                                            </div>
+                                        </td>
+                                    </tr>
+
                                 </tbody>
                             </table>
                         </div>
@@ -341,7 +342,7 @@
                 </div>
             </div>
         </div>
-   
+
         <div class="container" style="margin-top: 20px;">
             <div class="row">
                 <div class=" col-md-12">
@@ -434,7 +435,7 @@
                             </table>    </div>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
         <div class="container" style="margin-top: 20px;">
             <div class="row">
@@ -531,7 +532,7 @@
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
 
         <div class="container" style="margin-top: 20px;">
@@ -547,7 +548,7 @@
                         </div>
                         <div class="panel-body table-responsive">
                             <table class="table table-hover width="100%">
-                            
+
 <thead>
 <tr>
                                       <td rowspan="2" width="137"><strong>Name of the Course</strong></td>
@@ -883,7 +884,7 @@
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
 
 
@@ -913,7 +914,7 @@
                                 </ol>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
 
         <div class="container" style="margin-top: 20px;">
@@ -985,7 +986,7 @@
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
 
         <div class="container" style="margin-top: 20px;">
@@ -1031,7 +1032,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/faculty/ashishkumarjhalibraryassist.jpg') }}" alt=""></div>
                                         </td>
-                         </tr>   
+                         </tr>
                          <tr>
                       <td>3</td>
                       <td>Sri Raushan Kumar</td>
@@ -1041,7 +1042,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr>  
+                         </tr>
                          <tr>
                       <td>4</td>
                       <td>Sri Satish Kumar Singh</td>
@@ -1051,7 +1052,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr> 
+                         </tr>
                          <tr>
                       <td>5</td>
                       <td>Sri Satya Priya Jha</td>
@@ -1061,7 +1062,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr>  
+                         </tr>
                          <tr>
                       <td>6</td>
                       <td>Sri Indra Narayan Mishra</td>
@@ -1071,7 +1072,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr>   
+                         </tr>
                          <tr>
                       <td>7</td>
                       <td>Sri Rabindra Kamti</td>
@@ -1081,7 +1082,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr>  
+                         </tr>
                          <tr>
                       <td>8</td>
                       <td>Sri Chandra Kant Mishra</td>
@@ -1091,7 +1092,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr>   
+                         </tr>
                          <tr>
                       <td>9</td>
                       <td>Sri Radhey Ray</td>
@@ -1101,7 +1102,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr> 
+                         </tr>
                          <tr>
                       <td>10</td>
                       <td>Sri Bittu Kumar Gupta</td>
@@ -1111,7 +1112,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr> 
+                         </tr>
                            <tr>
                       <td>11</td>
                       <td>Smt. Samola Devi</td>
@@ -1121,7 +1122,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr> 
+                         </tr>
                          <tr>
                       <td>12</td>
                       <td>Sri Rajesh Mallik</td>
@@ -1131,7 +1132,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr>  
+                         </tr>
                          <tr>
                       <td>13</td>
                       <td>Sri Anil Kumar</td>
@@ -1141,7 +1142,7 @@
                       <td><div class="user_icon">
                       <img src="{{ asset('Frontend/images/user.png') }}" alt=""></div>
                                         </td>
-                         </tr>                                                   
+                         </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -1149,7 +1150,7 @@
                 </div>
             </div>
 
-            
+
         </div>
 
 

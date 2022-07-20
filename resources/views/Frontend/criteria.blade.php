@@ -226,40 +226,40 @@
                                                             </div>
 
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.5.1. Number of days from the date of last semester-end/year-end examination till the declaration of results </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse29" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.5.1. Number of days from the date of last semester-end/year-end examination till the declaration of results </a>
+                                                            <div class="collapse" id="Collapse29">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse28" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.5.2.Total number of student complaints/grievances about evalution against total number appeared <br/>in the examinations. </a>
-                                                            <div class="collapse" id="Collapse28">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse30" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.5.2.Total number of student complaints/grievances about evalution against total number appeared <br/>in the examinations. </a>
+                                                            <div class="collapse" id="Collapse30">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/2.5.2.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.5.4.status of automations of examination division along with approved<br/> Examination manual </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse31" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.5.4.status of automations of examination division along with approved<br/> Examination manual </a>
+                                                            <div class="collapse" id="Collapse31">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.6.3. Number of students passed. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse232" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.6.3. Number of students passed. </a>
+                                                            <div class="collapse" id="Collapse232">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div><br/>
 
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.7.1.Students satisfaction survey. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collaps233" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">2.7.1.Students satisfaction survey. </a>
+                                                            <div class="collapse" id="Collapse233">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
@@ -290,40 +290,40 @@
                                                     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
                                                         aria-labelledby="headingThree">
                                                         <div class="panel-body text-justify">
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse1" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.2.The institution provides seed money to its teachers for research{amount INR in lakhs}. </a>
-                                                            <div class="collapse" id="Collapse1">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse331" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.2.The institution provides seed money to its teachers for research{amount INR in lakhs}. </a>
+                                                            <div class="collapse" id="Collapse331">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse2" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.3.Number of teachers receiving national/international fellowship/financial support by various agencies <br/>advanced studies/research. </a>
-                                                            <div class="collapse" id="Collapse2">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse332" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.3.Number of teachers receiving national/international fellowship/financial support by various agencies <br/>advanced studies/research. </a>
+                                                            <div class="collapse" id="Collapse332">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse33" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.4.Number of JRFs,SRFs,Post-Doctoral Fellows.Research Associates and other research fellows enrolled  <br/> in the insititution </a>
-                                                            <div class="collapse" id="Collapse33">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse333" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.4.Number of JRFs,SRFs,Post-Doctoral Fellows.Research Associates and other research fellows enrolled  <br/> in the insititution </a>
+                                                            <div class="collapse" id="Collapse333">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.1.4.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse4" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.5:Institution has the following facilities to support research. </a>
-                                                            <div class="collapse" id="Collapse4">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse34" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.5:Institution has the following facilities to support research. </a>
+                                                            <div class="collapse" id="Collapse34">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse5" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.6.Number of departments with UGC-SAP,CAS,DST-FIST,DBT,ICSSR and other recognitions by national and <br/> international agencies. </a>
-                                                            <div class="collapse" id="Collapse5">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse35" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.1.6.Number of departments with UGC-SAP,CAS,DST-FIST,DBT,ICSSR and other recognitions by national and <br/> international agencies. </a>
+                                                            <div class="collapse" id="Collapse35">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse6" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.2.1. Extramural funding for Research{INR in Lakhs}. </a>
-                                                            <div class="collapse" id="Collapse6">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse36" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.2.1. Extramural funding for Research{INR in Lakhs}. </a>
+                                                            <div class="collapse" id="Collapse36">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
@@ -342,120 +342,120 @@
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.3.2.Numbers of workshops/seminars conducted on Research methodology,Intellectual property Right {IPR},<br/>enterpreneurship,skill development. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse39" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.3.2.Numbers of workshops/seminars conducted on Research methodology,Intellectual property Right {IPR},<br/>enterpreneurship,skill development. </a>
+                                                            <div class="collapse" id="Collapse39">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse38" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.3.3.Number of awards/recognitions received for research/innovations by the institution/teachers/research<br/> scolars/students </a>
-                                                            <div class="collapse" id="Collapse38">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse40" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.3.3.Number of awards/recognitions received for research/innovations by the institution/teachers/research<br/> scolars/students </a>
+                                                            <div class="collapse" id="Collapse40">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.3.3.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse38" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.1.The institution provides incentives to teachers who receive state,national and internatinal recognitions/awards. </a>
-                                                            <div class="collapse" id="Collapse38">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse41" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.1.The institution provides incentives to teachers who receive state,national and internatinal recognitions/awards. </a>
+                                                            <div class="collapse" id="Collapse41">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.4.1 Final.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.2. The institutions ensures implementation of its stated code of Ethics for reaserch. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse42" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.2. The institutions ensures implementation of its stated code of Ethics for reaserch. </a>
+                                                            <div class="collapse" id="Collapse42">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.3. Number of patents published/awarded. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse43" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.3. Number of patents published/awarded. </a>
+                                                            <div class="collapse" id="Collapse43">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse38" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.4.Number of Ph.Ds awarded.3.4.4.1:How many Ph.Ds are awarded during the year?3.4.4.2:Number of <br/> teachers recognized as guides. </a>
-                                                            <div class="collapse" id="Collapse38">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse44" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.4.Number of Ph.Ds awarded.3.4.4.1:How many Ph.Ds are awarded during the year?3.4.4.2:Number of <br/> teachers recognized as guides. </a>
+                                                            <div class="collapse" id="Collapse44">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.4.4.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse38" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.5.Number of research pagers in the journals notified on UGC websites. </a>
-                                                            <div class="collapse" id="Collapse38">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse45" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.5.Number of research pagers in the journals notified on UGC websites. </a>
+                                                            <div class="collapse" id="Collapse45">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.4.5.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.6.Number of books and chapters in edited volumes published. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse46" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.6.Number of books and chapters in edited volumes published. </a>
+                                                            <div class="collapse" id="Collapse46">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.7. E-content is developed by teachers. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse47" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.7. E-content is developed by teachers. </a>
+                                                            <div class="collapse" id="Collapse47">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse38" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.8.Bibliometrics of the publications during the year based on average citation Index in  Scopus/web<br/> of Science/pubmed. </a>
-                                                            <div class="collapse" id="Collapse38">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse48" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.8.Bibliometrics of the publications during the year based on average citation Index in  Scopus/web<br/> of Science/pubmed. </a>
+                                                            <div class="collapse" id="Collapse48">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.4.8.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.9. Bibliometrics of the publications during the year based on scopus/web of science-h-Index of the University. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse49" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.4.9. Bibliometrics of the publications during the year based on scopus/web of science-h-Index of the University. </a>
+                                                            <div class="collapse" id="Collapse49">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.5.2. Revenue generated from consultancy and corporate training {INR in Lakhs}. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse50" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.5.2. Revenue generated from consultancy and corporate training {INR in Lakhs}. </a>
+                                                            <div class="collapse" id="Collapse50">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.6.2.Number of awards received by the institution,its teachers and students. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse51" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.6.2.Number of awards received by the institution,its teachers and students. </a>
+                                                            <div class="collapse" id="Collapse51">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse38" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.6.3. Number of extension and outreach programs conducted bt the institution. </a>
-                                                            <div class="collapse" id="Collapse38">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse52" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.6.3. Number of extension and outreach programs conducted bt the institution. </a>
+                                                            <div class="collapse" id="Collapse52">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.6.3.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse38" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.6.4.Total number of students participating extension activities listed at 3.6.3 above. </a>
-                                                            <div class="collapse" id="Collapse38">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse53" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.6.4.Total number of students participating extension activities listed at 3.6.3 above. </a>
+                                                            <div class="collapse" id="Collapse53">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/3.6.3 and 3.6.4.pdf ')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.7.1. Number of collaborative activities with other institutions/reseach establishment/industry for research  <br/>and academic development. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse54" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.7.1. Number of collaborative activities with other institutions/reseach establishment/industry for research  <br/>and academic development. </a>
+                                                            <div class="collapse" id="Collapse54">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.7.2. Number of functional MoUs with institutions/industries in india and abroad. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse55" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">3.7.2. Number of functional MoUs with institutions/industries in india and abroad. </a>
+                                                            <div class="collapse" id="Collapse55">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
@@ -486,61 +486,61 @@
                                                     <div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
                                                         aria-labelledby="headingFour">
                                                         <div class="panel-body text-justify">
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse41" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.1.4.Total expenditure excluding salary for infrastructure augmentation{INR in Lakhs}. </a>
-                                                            <div class="collapse" id="Collapse41">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse441" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.1.4.Total expenditure excluding salary for infrastructure augmentation{INR in Lakhs}. </a>
+                                                            <div class="collapse" id="Collapse441">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.1.4.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse42" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.2.2.Institution has subsciption for e-Library resources. </a>
-                                                            <div class="collapse" id="Collapse42">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse442" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.2.2.Institution has subsciption for e-Library resources. </a>
+                                                            <div class="collapse" id="Collapse442">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.2.2.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse43" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.2.3.Annual expenditure for purchase of books/e-books and subsciption to journals/e-journals
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse443" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.2.3.Annual expenditure for purchase of books/e-books and subsciption to journals/e-journals
                                                                [INR in Lakhs] </a>
-                                                            <div class="collapse" id="Collapse43">
+                                                            <div class="collapse" id="Collapse443">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.2.3.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse44" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.2.4.Number of usasge of library by teachers and students per day{foot falls and login data for online access}. </a>
-                                                            <div class="collapse" id="Collapse44">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse444" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.2.4.Number of usasge of library by teachers and students per day{foot falls and login data for online access}. </a>
+                                                            <div class="collapse" id="Collapse444">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.2.4.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse45" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.1.Number of classrooms and seminar halls with ICT-enable facilities such as LCD,smart board,Wi-Fi/LAN,<br/>audio video recording facilities. </a>
-                                                            <div class="collapse" id="Collapse45">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse445" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.1.Number of classrooms and seminar halls with ICT-enable facilities such as LCD,smart board,Wi-Fi/LAN,<br/>audio video recording facilities. </a>
+                                                            <div class="collapse" id="Collapse445">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.3.1.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse46" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.3.student-computer ratio. </a>
-                                                            <div class="collapse" id="Collapse46">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse446" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.3.student-computer ratio. </a>
+                                                            <div class="collapse" id="Collapse446">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.3.3.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse47" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.4.Available bandwidht of internet connection in the institution{Leased line}. </a>
-                                                            <div class="collapse" id="Collapse47">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse447" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.4.Available bandwidht of internet connection in the institution{Leased line}. </a>
+                                                            <div class="collapse" id="Collapse447">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.3.4.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.5.Institution has the following facilities for e-content development. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse448" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.3.5.Institution has the following facilities for e-content development. </a>
+                                                            <div class="collapse" id="Collapse448">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse48" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.4.1.Total expenditure incurred on maintenance of physical facilities and academic support facilities excluding <br/>salary component.</a>
-                                                            <div class="collapse" id="Collapse48">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse449" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">4.4.1.Total expenditure incurred on maintenance of physical facilities and academic support facilities excluding <br/>salary component.</a>
+                                                            <div class="collapse" id="Collapse449">
                                                                <div class="card card-body">
                                                                 <a href="{{asset('upload/aqardata/4.4.1.pdf')}}">View Data</a>
                                                                </div>
@@ -571,67 +571,67 @@
                                                     <div id="collapsefive" class="panel-collapse collapse" role="tabpanel"
                                                         aria-labelledby="headingFive">
                                                         <div class="panel-body text-justify">
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse1" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.1.1.Total number of students benefited by scholarships and free ships. </a>
-                                                            <div class="collapse" id="Collapse1">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse51" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.1.1.Total number of students benefited by scholarships and free ships. </a>
+                                                            <div class="collapse" id="Collapse51">
+                                                               <div class="card card-body">
+                                                                <a href="{{asset('upload/aqardata/5.1.1.pdf')}}">View Data</a>
+                                                               </div>
+                                                            </div>
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse52" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.1.2.Total number of students benefited by career counselling and guidance for <br/>competitive examinations offered by the institution. </a>
+                                                            <div class="collapse" id="Collapse52">
+                                                               <div class="card card-body">
+                                                                <a href="#">View Data</a>
+                                                               </div>
+                                                            </div>
+
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse53" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">Following capacity development and skills enhancement initiatives are taken by the institution. </a>
+                                                            <div class="collapse" id="Collapse53">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse2" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.1.2.Total number of students benefited by career counselling and guidance for <br/>competitive examinations offered by the institution. </a>
-                                                            <div class="collapse" id="Collapse2">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse54" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.1.4.The institution adopts the following for redressal of student grievances including <br/>sexual harassment and ragging cases. </a>
+                                                            <div class="collapse" id="Collapse54">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse3" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">Following capacity development and skills enhancement initiatives are taken by the institution. </a>
-                                                            <div class="collapse" id="Collapse3">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse55" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.2.1.Number of students qualifying in state/national/international level examinations. </a>
+                                                            <div class="collapse" id="Collapse55">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse4" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.1.4.The institution adopts the following for redressal of student grievances including <br/>sexual harassment and ragging cases. </a>
-                                                            <div class="collapse" id="Collapse4">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse5" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.2.1.Number of students qualifying in state/national/international level examinations. </a>
-                                                            <div class="collapse" id="Collapse5">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse6" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.2.2.Total number of outgoing students placed. </a>
-                                                            <div class="collapse" id="Collapse6">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse56" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.2.2.Total number of outgoing students placed. </a>
+                                                            <div class="collapse" id="Collapse56">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse7" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.2.3.Number of recently graduated students who have progressed to higher education. </a>
-                                                            <div class="collapse" id="Collapse7">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse57" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.2.3.Number of recently graduated students who have progressed to higher education. </a>
+                                                            <div class="collapse" id="Collapse57">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.3.1.Number of awards/medals won by students for outstanding performance in sports/cultural activities. </a>
-                                                            <div class="collapse" id="Collapse8">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.3.3.Number of sports and cultural events/competitions organised by the institution. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse58" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.3.1.Number of awards/medals won by students for outstanding performance in sports/cultural activities. </a>
+                                                            <div class="collapse" id="Collapse58">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.4.2.alumni contribution{INR in lakhs}. </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse511" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.3.3.Number of sports and cultural events/competitions organised by the institution. </a>
+                                                            <div class="collapse" id="Collapse511">
+                                                               <div class="card card-body">
+                                                                  No data uploaded
+                                                               </div>
+                                                            </div>
+
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse512" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">5.4.2.alumni contribution{INR in lakhs}. </a>
+                                                            <div class="collapse" id="Collapse512">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
@@ -662,49 +662,49 @@
                                                     <div id="collapsesix" class="panel-collapse collapse" role="tabpanel"
                                                         aria-labelledby="headingsix">
                                                         <div class="panel-body text-justify">
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse1" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.2.3.e-governance in the following area. </a>
-                                                            <div class="collapse" id="Collapse1">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse61" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.2.3.e-governance in the following area. </a>
+                                                            <div class="collapse" id="Collapse61">
                                                                <div class="card card-body">
-                                                                  No data uploaded
+                                                                <a href="#">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse2" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.3.2.Total number of teachers provided with financial support to attend conferences/workshops and <br/> towards membership fee of professional bodies. </a>
-                                                            <div class="collapse" id="Collapse2">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse62" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.3.2.Total number of teachers provided with financial support to attend conferences/workshops and <br/> towards membership fee of professional bodies. </a>
+                                                            <div class="collapse" id="Collapse62">
                                                                <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse3" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.3.3.Number of professional development/administrative training Programmes organzied by the <br/> institution for teaching and non-teaching staff. </a>
-                                                            <div class="collapse" id="Collapse3">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse4" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.3.4.Total number of teachers undergoing online/face to face faculty development Programmes{FDP}. </a>
-                                                            <div class="collapse" id="Collapse4">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
+                                                                <a href="#">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse5" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.4.2.Funds/grants received from government bodies during the year for development and maintenance <br/> of infrastructure{not covered under criteria III and V}{INR in Lakhs}. </a>
-                                                            <div class="collapse" id="Collapse5">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse63" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.3.3.Number of professional development/administrative training Programmes organzied by the <br/> institution for teaching and non-teaching staff. </a>
+                                                            <div class="collapse" id="Collapse63">
                                                                <div class="card card-body">
-                                                                  No data uploaded
+                                                                <a href="{{asset('upload/aqardata/6.3.3.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse6" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.4.3.Funds/Grants recieved from non-goverment bodies,individuals,philanthropists for development and <br/> maintenance of infrastructure{not covered under criteria III and V}{INR in Lakhs}. </a>
-                                                            <div class="collapse" id="Collapse6">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse64" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.3.4.Total number of teachers undergoing online/face to face faculty development Programmes{FDP}. </a>
+                                                            <div class="collapse" id="Collapse64">
                                                                <div class="card card-body">
-                                                                  No data uploaded
+                                                                <a href="{{asset('upload/aqardata/6.3.4_Motiur_FDP.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse7" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.5.2.Institution has adopted the following for quality assurance. </a>
-                                                            <div class="collapse" id="Collapse7">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse65" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.4.2.Funds/grants received from government bodies during the year for development and maintenance <br/> of infrastructure{not covered under criteria III and V}{INR in Lakhs}. </a>
+                                                            <div class="collapse" id="Collapse65">
                                                                <div class="card card-body">
-                                                                  No data uploaded
+                                                                <a href="{{asset('upload/aqardata/6.4.2.pdf')}}">View Data</a>
+                                                               </div>
+                                                            </div>
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse66" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.4.3.Funds/Grants recieved from non-goverment bodies,individuals,philanthropists for development and <br/> maintenance of infrastructure{not covered under criteria III and V}{INR in Lakhs}. </a>
+                                                            <div class="collapse" id="Collapse66">
+                                                               <div class="card card-body">
+                                                                <a href="{{asset('upload/aqardata/6.4.3.pdf')}}">View Data</a>
+                                                               </div>
+                                                            </div>
+
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse67" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">6.5.2.Institution has adopted the following for quality assurance. </a>
+                                                            <div class="collapse" id="Collapse67">
+                                                               <div class="card card-body">
+                                                                <a href="{{asset('upload/aqardata/6.5.2.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
 
@@ -733,54 +733,54 @@
                                                     <div id="collapseseven" class="panel-collapse collapse" role="tabpanel"
                                                         aria-labelledby="heading">
                                                         <div class="panel-body text-justify">
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse1" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.2.The institution has facilities for alternate sources of energy and energy conservation. </a>
-                                                            <div class="collapse" id="Collapse1">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse71" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.2.The institution has facilities for alternate sources of energy and energy conservation. </a>
+                                                            <div class="collapse" id="Collapse71">
                                                                <div class="card card-body">
-                                                                  No data uploaded
+                                                                <a href="{{asset('upload/aqardata/CRT 7.1.2.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse2" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.4.Water conservation facilities available in the Institution. </a>
-                                                            <div class="collapse" id="Collapse2">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse72" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.4.Water conservation facilities available in the Institution. </a>
+                                                            <div class="collapse" id="Collapse72">
                                                                <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-                                                            <br/>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse3" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.5.Green campus initiatives.  </a>
-                                                            <div class="collapse" id="Collapse3">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
+                                                                <a href="{{asset('upload/aqardata/7.1.4.pdf')}}">View Data</a>
                                                                </div>
                                                             </div>
                                                             <br/>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse4" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.6.Quality audits on environment and energy. </a>
-                                                            <div class="collapse" id="Collapse4">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse73" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.5.Green campus initiatives.  </a>
+                                                            <div class="collapse" id="Collapse73">
+                                                               <div class="card card-body">
+                                                                <a href="{{asset('upload/aqardata/CRT 7.1.5.pdf')}}">View Data</a>
+                                                               </div>
+                                                            </div>
+                                                            <br/>
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse74" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.6.Quality audits on environment and energy. </a>
+                                                            <div class="collapse" id="Collapse74">
+                                                               <div class="card card-body">
+                                                                <a href="{{asset('upload/aqardata/7.1.6.pdf')}}">View Data</a>
+                                                               </div>
+                                                            </div>
+
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse75" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.7.Divyangan-friendly and barrier-free environment. </a>
+                                                            <div class="collapse" id="Collapse75">
+                                                               <div class="card card-body">
+                                                                <a href="{{asset('upload/aqardata/7.1.7.pdf')}}">View Data</a>
+                                                               </div>
+                                                            </div>
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse76" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.10.Code of conduct for students,teachers,administrators and other staff and conucts periodic <br/> sensitization programmes in this regard. </a>
+                                                            <div class="collapse" id="Collapse76">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
 
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse5" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.7.Divyangan-friendly and barrier-free environment. </a>
-                                                            <div class="collapse" id="Collapse5">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse77" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">1.2.2. Number of Programmes in which (CBCS)/elective course system has been implemented. </a>
+                                                            <div class="collapse" id="Collapse77">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
                                                             </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse6" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">7.1.10.Code of conduct for students,teachers,administrators and other staff and conucts periodic <br/> sensitization programmes in this regard. </a>
-                                                            <div class="collapse" id="Collapse6">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse7" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">1.2.2. Number of Programmes in which (CBCS)/elective course system has been implemented. </a>
-                                                            <div class="collapse" id="Collapse7">
-                                                               <div class="card card-body">
-                                                                  No data uploaded
-                                                               </div>
-                                                            </div>
-                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse8" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">1.3.4. Number of students undertaking field projects / research projects / internships </a>
-                                                            <div class="collapse" id="Collapse8">
+                                                            <a class="btn btn-primary" data-toggle="collapse" href="#Collapse78" role="button" aria-expanded="false" aria-controls="myCollapseExample" style="margin-bottom: 12px;">1.3.4. Number of students undertaking field projects / research projects / internships </a>
+                                                            <div class="collapse" id="Collapse78">
                                                                <div class="card card-body">
                                                                   No data uploaded
                                                                </div>
