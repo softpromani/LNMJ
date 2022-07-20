@@ -17,7 +17,7 @@
                                 <div class="box-top">
                                     DCE - I
                                 </div>
-                                <img src="{{ asset('Frontend/images/officers/coe.jpeg') }}"
+                                <img src="{{ asset('Frontend/images/officers/pio.jpeg') }}"
                                     style="height: 300px;width:500px;">
                                 <div class="box-content">
                                     <h3 class="title">Dr. Sanjeet Kumar Jha</h3>
