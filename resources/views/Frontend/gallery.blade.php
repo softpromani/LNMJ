@@ -188,6 +188,46 @@
     <div class="container demo-gallery">
         <ul id="lightgallery" class="list-unstyled row">
             <li class="col-xs-6 col-sm-4 col-md-3" style="border: 3px dotted gold;border-radius:5px;box-shadow:0px 0px 15px 10px grey;"
+            data-responsive="Frontend/images/college/s1.jpg 480, Frontend/images/college/s1.jpg 480, Frontend/images/college/s1.jpg 800"
+            data-src="Frontend/images/college/s1.jpg"
+            data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">
+            <a href="">
+                <img class="img-responsive" src="{{ asset('Frontend/images/college/s1.jpg') }}" style="height:150px;">
+            </a>
+        </li>
+        <li class="col-xs-6 col-sm-4 col-md-3" style="border: 3px dotted gold;border-radius:5px;box-shadow:0px 0px 15px 10px grey;"
+            data-responsive="Frontend/images/college/s2.jpg 375, Frontend/images/college/s2.jpg 480, Frontend/images/college/s2.jpg 800"
+            data-src="Frontend/images/college/s2.jpg"
+            data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+            <a href="">
+                <img class="img-responsive" src="{{ asset('Frontend/images/college/s2.jpg') }}" style="height:150px;">
+            </a>
+        </li>
+        <li class="col-xs-6 col-sm-4 col-md-3" style="border: 3px dotted gold;border-radius:5px;box-shadow:0px 0px 15px 10px grey;"
+            data-responsive="Frontend/images/college/s3.jpeg 375, Frontend/images/college/s3.jpeg 480, Frontend/images/college/s3.jpeg 800"
+            data-src="Frontend/images/college/s3.jpeg"
+            data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+            <a href="">
+                <img class="img-responsive" src="{{ asset('Frontend/images/college/s3.jpg') }}" style="height:150px;">
+            </a>
+        </li>
+        <li class="col-xs-6 col-sm-4 col-md-3" style="border: 3px dotted gold;border-radius:5px;box-shadow:0px 0px 15px 10px grey;"
+            data-responsive="Frontend/images/college/s4.jpg 375, Frontend/images/college/s4.jpg 480, Frontend/images/college/s4.jpg 800"
+            data-src="Frontend/images/college/s4.jpg"
+            data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+            <a href="">
+                <img class="img-responsive" src="{{ asset('Frontend/images/college/s4.jpg') }}" style="height:150px;">
+            </a>
+        </li>
+        <li class="col-xs-6 col-sm-4 col-md-3" style="border: 3px dotted gold;border-radius:5px;box-shadow:0px 0px 15px 10px grey;"
+            data-responsive="Frontend/images/college/s5.jpg 375, Frontend/images/college/s5.jpg 480, Frontend/images/college/s5.jpg 800"
+            data-src="Frontend/images/college/s5.jpg"
+            data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+            <a href="">
+                <img class="img-responsive" src="{{ asset('Frontend/images/college/s5.jpg') }}" style="height:150px;">
+            </a>
+        </li>
+            <li class="col-xs-6 col-sm-4 col-md-3" style="border: 3px dotted gold;border-radius:5px;box-shadow:0px 0px 15px 10px grey;"
                 data-responsive="Frontend/images/college/c1.jpg 480, Frontend/images/college/c1.jpg 480, Frontend/images/college/c1.jpg 800"
                 data-src="Frontend/images/college/c1.jpg"
                 data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">

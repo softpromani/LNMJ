@@ -53,10 +53,13 @@
             <main class="col-md-9 float-left">
 
                 <div class="col-md-12"><br>
-                    <div class="col-md-8 col-sm-8">
-                        <div
+                    <div class="col-md-12 col-sm-12">
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="{{route('musicDepartment')}}" target="_blank">Department of Music & Dramatics</a></div>
+                            <a style="color: #000;" href="{{route('musicDepartment')}}" target="_blank">Department of Music & Dramatics</a></div> --}}
+                            <a href="{{route('musicDepartment')}}" class="btn1 btn-lg" >
+                                <span>Department of Music & Dramatics </span>
+                            </a>
             </main>
 
 

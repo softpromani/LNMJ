@@ -53,10 +53,11 @@
             <main class="col-md-9 float-left">
 
                 <div class="col-md-12"><br>
-                    <div class="col-md-8 col-sm-8">
-                        <div
-                            style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="{{route('affiliatedBedColleges')}}" target="_blank">Click here to see the list of B.Ed colleges</a></div>
+                    <div class="col-md-12 col-sm-12">
+
+                            <a href="{{route('affiliatedBedColleges')}}" class="btn1 btn-lg" >
+                                <span> Click here to see the list of B.Ed colleges </span>
+                            </a>
                         <p>&nbsp;</p>
 
 

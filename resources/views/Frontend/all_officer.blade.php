@@ -8,10 +8,9 @@
     </div>
     <!-- slider ends here -->
 
-
     <div class="row">
-        <div class="container d-flex align-items-center" style="max-width:60%">
-            <div class="col-md-4 col-sm-12 ml-5 ">
+        <div class="container d-flex align-items-center" style="max-width:70%;margin-right:120px;margin-bottom:40px;">
+            <div class="col-md-4 col-sm-12">
                 <div class="box2">
                     <div class="box-top">
                         Chancellor
@@ -24,6 +23,13 @@
 
                 </div>
             </div>
+
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="container d-flex align-items-center" style="max-width:60%">
 
             <div class="col-md-4 col-sm-12 ">
                 <div class="box2">

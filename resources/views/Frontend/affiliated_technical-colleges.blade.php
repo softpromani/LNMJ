@@ -56,32 +56,12 @@
                         <tbody>
                             <tr>
                                 <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
-
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
-
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
+                                <td>Women's Institute of Technology</td>
+                                <td>DR. B. S. JHA</td>
+                                <td>N/A</td>
+                                <td>8340379501</td>
+                                <td>directorwit@yahoo.co.in</td>
+                                <td>witlnmu.ac.in</td>
 
                             </tr>
                         </tbody>

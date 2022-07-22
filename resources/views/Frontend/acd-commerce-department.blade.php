@@ -53,11 +53,14 @@
             <main class="col-md-9 float-left">
 
                 <div class="col-md-12"><br>
-                    <div class="col-md-8 col-sm-8">
+                    <div class="col-md-12 col-sm-12">
                         <p></p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="{{route('commerceManagementDepartment')}}" target="_blank">Department of Commerce and Business Administration</a></div>
+                            <a style="color: #000;" href="{{route('commerceManagementDepartment')}}" target="_blank">Department of Commerce and Business Administration</a></div> --}}
+                            <a href="{{route('commerceManagementDepartment')}}" class="btn1 btn-lg" >
+                                <span>Department of Commerce and Business Administration </span>
+                            </a>
                         <p>&nbsp;</p>
 
                     </div><br>

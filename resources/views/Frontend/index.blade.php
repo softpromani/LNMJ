@@ -29,35 +29,35 @@
 
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/slider6.jpg') }}"
+                                            src="{{ asset('Frontend/images/banners/s1.jpg') }}"
                                             style="height:350px ;" /></div>
                                 </div>
 
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/003.jpg') }}"
+                                            src="{{ asset('Frontend/images/banners/s2.jpg') }}"
                                             style="height:350px ;" /></div>
                                 </div>
 
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/slider8.jpg') }}"
+                                            src="{{ asset('Frontend/images/banners/s3.jpg') }}"
                                             style="height:350px ;" /></div>
                                 </div>
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/slider10.jpg') }}"
+                                            src="{{ asset('Frontend/images/banners/s4.jpg') }}"
                                             style="height:350px ;" /></div>
                                 </div>
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/slider2.jpg') }}"
+                                            src="{{ asset('Frontend/images/banners/s5.jpg') }}"
                                             style="height:350px ;" /></div>
                                 </div>
 
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/slider11.jpg') }}"
+                                            src="{{ asset('Frontend/images/banners/s6.jpg') }}"
                                             style="height:350px ;" />
                                     </div>
                                 </div>
@@ -337,18 +337,18 @@
 
                     <div id="top9" class="col-lg-3 col-sm-6  slideLft1">
                         <ul>
-                            <li><a href="#" target="_blank">Online Portal
+                            <li><a href="http://lnmuniversity.com/ug_22/" target="_blank">Online Portal
 
                                     <img src="http://newweb.lnmudde.com/Frontend/images/newanim.gif"></a></li>
-                            <li><a href="#" target="_blank">Helpline For University Student</a></li>
-                            <li><a href="#" target="_blank">Awards/Recognition</a></li>
-                            <li><a href="#" target="_blank">NIRF</a></li>
+                            <li><a href="{{asset('upload/Notice/Student_Helpline.pdf')}}" target="_blank">Helpline For University Student</a></li>
+                            <li><a href="{{ route('aqardsRecognition') }}" target="_blank">Awards/Recognition</a></li>
+                            <li><a href="{{ route('nirf') }}" target="_blank">NIRF</a></li>
 
                             <li><a href="#" target="_blank">Surprise Visit Report</a></li>
                             <li><a href="#" target="_blank">Sport Calendar</a></li>
                             <li><a href="#">Careers &amp; Fellowships</a></li>
 
-                            <li><a href="#" target="_blank">Features</a></li>
+                            <li><a href="#" target="_blank">Academic Calendar</a></li>
                             <li><a href="{{ route('iqacSsr') }}">Student Satisfactory Survey</a></li>
                             <li><a href="{{ route('rtiAct') }}" target="_blank">RTI ACT</a></li>
                             <li><a href="#">Careers &amp; Services</a></li>

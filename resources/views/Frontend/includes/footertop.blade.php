@@ -61,9 +61,9 @@
                             <ul class="menu">
                                 <li class="item-1537"><a href="#">Darbhanga, Bihar 846004,</a></li>
                                 <li class="item-1538"><a href="#">India</a></li>
-                                <li class="item-1539"><a
+                                {{-- <li class="item-1539"><a
                                         href="#">Phone : xxx-xxxxx</a></li>
-                                <li class="item-1540"><a href="#">Email : xxx@xx.xx</a></li>
+                                <li class="item-1540"><a href="#">Email : xxx@xx.xx</a></li> --}}
                                 <li>
                                     <div id="google_element"></div>
                                 </li>

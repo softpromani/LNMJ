@@ -48,7 +48,7 @@
                                         </li>
                                         <li class="level2 last">
                                             <a title="" class="level2 last item-link"
-                                                href='#' target="_blank"><span
+                                                href='{{ route('lnmumap') }}' target="_blank"><span
                                                     class="menu-title">University Map</span></a>
                                         </li>
                                     </ul>
@@ -178,7 +178,7 @@
                                         </li>
 
                                         <li class="level2 last">
-                                            <a title="" class="level2 item-link" href="#"><span
+                                            <a title="" class="level2 item-link" href="{{ route('studentScholarship') }}"><span
                                                     class="menu-title">Scholarship</span></a>
                                         </li>
                                     </ul>
@@ -196,7 +196,7 @@
                                                     class="menu-title">Hostel</span></a>
                                         </li>
                                         <li class="level2 ">
-                                            <a title="" class="level2 last item-link" href="#"><span
+                                            <a title="" class="level2 last item-link" href="https://www.7nishchay-yuvaupmission.bihar.gov.in/resources/User_Manual_for_BSCCpdf1.pdf"><span
                                                     class="menu-title">Student Credit Card Guideline</span></a>
                                         </li>
 
@@ -243,7 +243,7 @@
                                         </li>
 
                                         <li class="level2">
-                                            <a title="#" class="level2 item-link" href="{{ route('iqac-intro') }}">
+                                            <a title="http://naac.gov.in/index.php/en/info-for-institutions/2-uncategorised/68-guidelines" class="level2 item-link" href="{{ route('iqac-intro') }}">
                                                 <span class="menu-title">NAAC Guidelines</span></a>
                                         </li>
 

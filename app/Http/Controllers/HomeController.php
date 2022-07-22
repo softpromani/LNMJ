@@ -481,4 +481,24 @@ class HomeController extends Controller
         return view('Frontend.rti_act');
     }
 
+    public function lnmuMap()
+    {
+        return view('Frontend.university-map');
+    }
+
+    public function studentScholarship()
+    {
+        return view('Frontend.scholarship');
+    }
+
+    public function aqardsRecognition()
+    {
+        return view('Frontend.awards');
+    }
+
+    public function nirf()
+    {
+        return view('Frontend.nirf');
+    }
+
 }

@@ -11,7 +11,7 @@
         <a href="#" class="list-group-item">NAAC Certificate Cycle-I </a>
         <a href="#" class="list-group-item">NAAC Certificate Cycle-II </a>
         <a href="#" class="list-group-item">Certificates & Grade Card</a>
-        <a href="#" class="list-group-item">NAAC Guidelines</a>
+        <a href="http://naac.gov.in/index.php/en/info-for-institutions/2-uncategorised/68-guidelines" class="list-group-item">NAAC Guidelines</a>
         <a href="#" class="list-group-item">NAAC PPT </a>
     </div>
     <a href="{{route('iqacFeedback')}}" class="list-group-item d-inline-block collapsed sidenav "> <span class="d-none d-md-inline">Feedback</span> </a>

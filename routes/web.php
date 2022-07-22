@@ -112,6 +112,10 @@ Route::get('/department-of-psychology', [HomeController::class, 'psychologyDepar
 Route::get('/department-of-political-science', [HomeController::class, 'politicalcienceDepartment'])->name('politicalcienceDepartment');
 Route::get('/department-of-sociology', [HomeController::class, 'sociologyDepartment'])->name('sociologyDepartment');
 
+Route::get('/university-map',[HomeController::class,'lnmuMap'])->name('lnmumap');
+Route::get('/student-scholarship',[HomeController::class,'studentScholarship'])->name('studentScholarship');
+Route::get('/awards-recognition',[HomeController::class,'aqardsRecognition'])->name('aqardsRecognition');
+Route::get('/NIRF',[HomeController::class,'nirf'])->name('nirf');
 Route::get('/commerce',[HomeController::class,'commerce'])->name('commerce');
 Route::get('/law',[HomeController::class,'law'])->name('law');
 Route::get('/dentistry',[HomeController::class,'dentistry'])->name('dentistry');

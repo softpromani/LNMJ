@@ -40,52 +40,10 @@
                 <div class="page-header">
                     <h2 class="display-4 font-weight-light text-center">Affilliated Degree Colleges</h2>
                 </div>
-                <div class="panel-body table-responsive">
-                    <table class="table table-hover">
-                        <thead>
-                            <tr>
-                                <th>Sr.No.</th>
-                                <th>Name of the college</th>
-                                <th>Principal</th>
-                                <th>Phone</th>
-                                <th>Mobile</th>
-                                <th>Email Id</th>
-                                <th>Website</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
-
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
-
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>C. M. College, Darbhanga</td>
-                                <td>Dr. Anil Kumar Mandal</td>
-                                <td>06272-222264</td>
-                                <td>8544513309</td>
-                                <td>principalcmcollege@yahoo.com</td>
-                                <td>www.cmclnmu.ac.in</td>
-
-                            </tr>
-                        </tbody>
-                    </table>
+                <div class="panel-body">
+                    <object data="{{asset('upload/colleges/Degree College details.pdf')}}"
+                                width="800" height="1000">
+                            </object>
                 </div>
             </main>
         </div>

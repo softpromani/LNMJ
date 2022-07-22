@@ -53,56 +53,76 @@
             <main class="col-md-9 float-left">
 
                 <div class="col-md-12"><br>
-                    <div class="col-md-8 col-sm-8">
-                        <div
+                    <div class="col-md-12 col-sm-12">
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="{{route('indianHistoryDepartment')}}" target="_blank">Department of Ancient History and Culture</a></div>
+                            <a style="color: #000;" href="{{route('indianHistoryDepartment')}}" target="_blank">Department of Ancient History and Culture</a></div> --}}
+                            <a href="{{route('indianHistoryDepartment')}}" class="btn1 btn-lg" >
+                                <span> Department of Ancient History and Culture </span>
+                            </a>
                         <p>&nbsp;</p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('economicsDepartment')}}" target="_blank">Department of Economics</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('economicsDepartment')}}" class="btn1 btn-lg" >
+                            <span> Department of Economics</span>
+                        </a>
                         <p>&nbsp;</p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('geographyDepartment')}}" target="_blank">Department of Geography</a>
-                        </div>
-
+                        </div> --}}
+                        <a href="{{route('geographyDepartment')}}" class="btn1 btn-lg" >
+                            <span> Department of Geography </span>
+                        </a>
 
                         <p>&nbsp;</p>
 
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('historyDepartment')}}" target="_blank">Department of History</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('historyDepartment')}}" class="btn1 btn-lg" >
+                            <span>Department of History </span>
+                        </a>
 
                         <p>&nbsp;</p>
 
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('homescienceDepartment')}}" target="_blank">Department of Home Science</a>
-                        </div>
-
+                        </div> --}}
+                        <a href="{{route('homescienceDepartment')}}" class="btn1 btn-lg" >
+                            <span> Department of Home Science </span>
+                        </a>
                         <p>&nbsp;</p>
 
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('psychologyDepartment')}}" target="_blank">Department of Psychology</a>
-                        </div>
-
+                        </div> --}}
+                        <a href="{{route('psychologyDepartment')}}" class="btn1 btn-lg" >
+                            <span> Department of Psychology </span>
+                        </a>
                         <p>&nbsp;</p>
 
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('politicalcienceDepartment')}}" target="_blank">Department of Political Science</a>
-                        </div>
-
+                        </div> --}}
+                        <a href="{{route('politicalcienceDepartment')}}" class="btn1 btn-lg" >
+                            <span> Department of Political Science </span>
+                        </a>
                         <p>&nbsp;</p>
 
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('sociologyDepartment')}}" target="_blank">Department of Sociology</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('sociologyDepartment')}}" class="btn1 btn-lg" >
+                            <span> Department of Sociology </span>
+                        </a>
 
                     </div><br>
                 </div>

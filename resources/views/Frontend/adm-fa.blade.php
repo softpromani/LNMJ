@@ -89,8 +89,8 @@
 
                                                         <tr>
                                                             <td width="187">1.</td>
-                                                            <td width="181">Sri Sikandra yadav</td>
-                                                            <td width="187">IIIrd </td>
+                                                            <td width="181">Sikandra Kumar Yadav</td>
+                                                            <td width="187">L.D.C. </td>
                                                             <td width="181">
                                                                 <!--9525111280-->
                                                             </td>
@@ -100,22 +100,12 @@
                                                         </tr>
                                                         <tr>
                                                             <td width="187">2.</td>
-                                                            <td width="181">Sri Mahesh Roy</td>
-                                                            <td width="187">Peon</td>
+                                                            <td width="181">Pawan Kumar Mishra</td>
+                                                            <td width="187">IV Grade</td>
                                                             <td width="181"></td>
                                                             <td width="187"></td>
                                                             <td width="187"><img
-                                                                    src="{{ asset('Frontend/images/lnmufa2.jpg') }}"></td>
-
-                                                        </tr>
-                                                        <tr>
-                                                            <td width="187">3.</td>
-                                                            <td width="181">Sri Kusho Mandal</td>
-                                                            <td width="187">Peon</td>
-                                                            <td width="181">9122964675</td>
-                                                            <td width="187"></td>
-                                                            <td width="187"><img
-                                                                    src="{{ asset('Frontend/images/lnmufa3.jpg') }}"></td>
+                                                                    src="{{ asset('Frontend/images/user.png') }}"></td>
 
                                                         </tr>
 

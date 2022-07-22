@@ -55,34 +55,52 @@
 
                 <div class="col-md-12"><br>
                     <div class="col-md-8 col-sm-8">
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
-                            <a style="color: #000;" href="{{route('englishDepartment')}}" target="_blank">Department of English</a></div>
+                            <a style="color: #000;" href="{{route('englishDepartment')}}" target="_blank">Department of English</a></div> --}}
+                            <a href="{{route('englishDepartment')}}" class="btn1 btn-lg">
+                                <span> Department of English </span>
+                            </a>
                         <p>&nbsp;</p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('hindiDepartment')}}" target="_blank">Department of Hindi</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('hindiDepartment')}}" class="btn1 btn-lg">
+                            <span>Department of Hindi </span>
+                        </a>
                         <p>&nbsp;</p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('MaithiliDepartment')}}" target="_blank">Department of Maithili</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('MaithiliDepartment')}}" class="btn1 btn-lg">
+                            <span> Department of Maithili </span>
+                        </a>
                         <p>&nbsp;</p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('sanskritDepartment')}}" target="_blank">Department of Sanskrit</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('sanskritDepartment')}}" class="btn1 btn-lg">
+                            <span> Department of Sanskrit </span>
+                        </a>
                         <p>&nbsp;</p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('philosophyDepartment')}}" target="_blank">Department of Philosophy</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('philosophyDepartment')}}" class="btn1 btn-lg">
+                            <span> Department of Philosophy </span>
+                        </a>
                         <p>&nbsp;</p>
-                        <div
+                        {{-- <div
                             style="background-color: #d3d3d3; padding: 5px 10px 5px 10px; color: white; text-align: center;">
                             <a style="color: #000;" href="{{route('urduDepartment')}}" target="_blank">Department of Urdu</a>
-                        </div>
+                        </div> --}}
+                        <a href="{{route('urduDepartment')}}" class="btn1 btn-lg">
+                            <span>Department of Urdu </span>
+                        </a>
                         <p></p>
                     </div><br>
                 </div>
