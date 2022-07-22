@@ -121,26 +121,26 @@
                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                     <div class="panel-body">
                         <ul>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Revised%20CBCS%20Botany.pdf" target="_blank">M.Sc (Botany)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/MSc%20Chemistry%20syllabus%20LMU.pdf" target="_blank">M.Sc (Chemistry)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/msc%20syllabus%20Math_compressed.pdf" target="_blank">M.Sc (Mathematics)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Physics%20syllabus%20PG.pdf" target="_blank">M.Sc (Physics)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Zoology(CBCS)-Modified.pdf" target="_blank">M.Sc (Zoology)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/M.%20Com.%20Syllabus%20CBCS-2018_compressed.pdf" target="_blank">M.Com</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/MBA-%20CBCS%20-06-08-2018_compressed.pdf" target="_blank">MBA</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/PG%20Economics-CBCS-Syll_compressed.pdf" target="_blank">M.A(Economics)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/English%20Syllabus-min-compressed-ilovepdf-compressed.pdf" target="_blank">M.A(English)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Syllabus%20-Geography%20Department%20(L%20N%20M%20U,%20DBG)_compressed.pdf" target="_blank">M.A(Geography)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Home%20sci%20CBCS.pdf" target="_blank">M.A(Home Science)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Ancient%20Indian%20History-min_compressed.pdf" target="_blank">M.A(AIHC)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/philosophy%20syllabus.pdf" target="_blank">M.A(Philosophy)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Political%20Science%20CBCS-min.pdf" target="_blank">M.A(Political Science)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/sanskrit_compressed.pdf" target="_blank">M.A(Sanskrit)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/PG%20Sociology%20Syllabus.pdf" target="_blank">M.A(Sociology)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/hindi%20Syllabus-min.pdf" target="_blank">M.A(Hindi)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Urdu-min.pdf" target="_blank">M.A(Urdu)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Psychology%20%20syllabus_compressed.pdf" target="_blank">M.A(Psychology)</a></li>
-                            <li> <a href="https://lnmu.ac.in/pg%20syllabus/Syllabus%20(MUSIC).pdf" target="_blank">M.A(Music)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Ph.D/Botany.pdf')}}" target="_blank">M.Sc (Botany)</a></li>
+                            <li> <a href="{{asset('upload/course/pg%20syllabus/MSc%20Chemistry%20syllabus%20LMU.pdf')}}" target="_blank">M.Sc (Chemistry)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/msc%20syllabus%20Math_compressed.pdf')}}" target="_blank">M.Sc (Mathematics)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Physics%20syllabus%20PG.pdf')}}" target="_blank">M.Sc (Physics)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Zoology(CBCS)-Modified.pdf')}}" target="_blank">M.Sc (Zoology)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/M.%20Com.%20Syllabus%20CBCS-2018_compressed.pdf')}}" target="_blank">M.Com</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/MBA-%20CBCS%20-06-08-2018_compressed.pdf')}}" target="_blank">MBA</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/PG%20Economics-CBCS-Syll_compressed.pdf')}}" target="_blank">M.A(Economics)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/English%20Syllabus-min-compressed-ilovepdf-compressed.pdf')}}" target="_blank">M.A(English)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Syllabus%20-Geography%20Department%20(L%20N%20M%20U,%20DBG)_compressed.pdf')}}" target="_blank">M.A(Geography)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Home%20sci%20CBCS.pdf')}}" target="_blank">M.A(Home Science)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Ancient%20Indian%20History-min_compressed.pdf')}}" target="_blank">M.A(AIHC)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/philosophy%20syllabus.pdf')}}" target="_blank">M.A(Philosophy)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Political%20Science%20CBCS-min.pdf')}}" target="_blank">M.A(Political Science)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/sanskrit_compressed.pdf')}}" target="_blank">M.A(Sanskrit)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/PG%20Sociology%20Syllabus.pdf')}}" target="_blank">M.A(Sociology)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/hindi%20Syllabus-min.pdf')}}" target="_blank">M.A(Hindi)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Urdu-min.pdf')}}" target="_blank">M.A(Urdu)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Psychology%20%20syllabus_compressed.pdf')}}" target="_blank">M.A(Psychology)</a></li>
+                            <li> <a href="{{asset('upload/course/syllabus/Syllabus%20(MUSIC).pdf')}}" target="_blank">M.A(Music)</a></li>
 
 
                         </ul>
