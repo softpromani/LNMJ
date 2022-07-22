@@ -182,6 +182,7 @@
                                                     class="menu-title">Scholarship</span></a>
                                         </li>
                                     </ul>
+
                                 </div>
 
                                 <div class="mega-col last more" style="width:50%;">
