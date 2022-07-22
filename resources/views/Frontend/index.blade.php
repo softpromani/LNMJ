@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
     @include('Frontend.includes.head')
 </head>
@@ -340,8 +341,10 @@
                             <li><a href="http://lnmuniversity.com/ug_22/" target="_blank">Online Portal
 
                                     <img src="http://newweb.lnmudde.com/Frontend/images/newanim.gif"></a></li>
-                            <li><a href="{{asset('upload/Notice/Student_Helpline.pdf')}}" target="_blank">Helpline For University Student</a></li>
-                            <li><a href="{{ route('aqardsRecognition') }}" target="_blank">Awards/Recognition</a></li>
+                            <li><a href="{{ asset('upload/Notice/Student_Helpline.pdf') }}" target="_blank">Helpline
+                                    For University Student</a></li>
+                            <li><a href="{{ route('aqardsRecognition') }}" target="_blank">Awards/Recognition</a>
+                            </li>
                             <li><a href="{{ route('nirf') }}" target="_blank">NIRF</a></li>
 
                             <li><a href="#" target="_blank">Surprise Visit Report</a></li>
@@ -370,62 +373,30 @@
                                             <div class="meganew-box-inner">
                                                 <div class="meganew-items theme1">
                                                     <div class="item-other">
-                                                        <ul class="otehr-link">
-                                                            <li class="row">
-                                                                <a href="https://lnmu.ac.in/results/ug/B.com/Result-13-06-22.pdf"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>"Regarding Result of
-                                                                    B.Com. (Honours) Part-II Examination 2021"<img
-                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/Corrigendum%20merit%20list-compressed.pdf"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Corrigendum list of
-                                                                    BLIS Admission session 2022-23<img
-                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/B.ed/Memo%20No.%20-%20XC-9397-9451-22%20Date%20-%2010.06.2022.pdf"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notification of
-                                                                    Examination Programme and Centre for B.Ed. Part-II
-                                                                    (Session : 2020-22) Examination-2022<img
-                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/BLIS/Notice.jpg"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Notice Regarding
-                                                                    BLIS Admission session 2022-23<img
-                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/ADVERTISMENT.pdf"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>Advertisement for
-                                                                    MBA Admission<img
-                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="https://lnmu.ac.in/Notice/dsw/UG%202020%2023.pdf"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>U.G. (2020-23)
-                                                                    Registration<img
-                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="http://biharcetbed-lnmu.in/"
-                                                                    class="col-xs-12" title=""><i
-                                                                        class="fa fa-envelope"></i>B. Ed. Online
-                                                                    Application<img
-                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
-                                                            </li>
-                                                        </ul>
-                                                        </marquee>
+                                                            <ul class="otehr-link" style="font-size: 14px;">
+                                                                @foreach ($notices as $notice)
+                                                                    @if ($notice->type == 'link')
+                                                                        <li class="row">
+                                                                            <a href="{{ $notice->filename }}"
+                                                                                class="col-xs-12" title=""
+                                                                                target="_blank"><i
+                                                                                    class="fa fa-envelope"></i>{{ $notice->title }}<img
+                                                                                    src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
+                                                                        </li>
+                                                                    @elseif($notice->type == 'file')
+                                                                        <li class="row">
+                                                                            <a href="{{ asset('upload/Notice') }}/{{ $notice->filename }}"
+                                                                                class="col-xs-12" title=""
+                                                                                target="_blank"><i
+                                                                                    class="fa fa-envelope"></i>{{ $notice->title }}<img
+                                                                                    src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
+                                                                        </li>
+                                                                    @endif
+                                                                @endforeach
+                                                            </ul>
                                                         <a href="#" class="col-xs-12" title=""
                                                             style="background: #7C0000; color: #fff; width: auto;"><strong>More
-                                                                News...</strong></a>
+                                                                News</strong></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -454,52 +425,38 @@
                                                 <div class="meganew-items theme1">
                                                     <div class="item-other">
                                                         <ul class="otehr-link">
+                                                            @foreach ($events as $event)
+                                                            @if ($event->type == 'link')
 
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0"
-                                                                    title=""><span
-                                                                        style="float: left; background:#7C0000">13th-17th</span><span
-                                                                        style="float: left; background: #00aeef">June
-                                                                        2022</span></a>
-                                                                <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">Event is going to be orgnised </a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0"
-                                                                    title=""><span
-                                                                        style="float: left; background:#7C0000">17th-18th</span><span
-                                                                        style="float: left; background: #00aeef">June
-                                                                        2022</span></a>
-                                                                <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">Event will reschedule on dated
-                                                                    Please feel happy. </a>
-                                                            </li>
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0"
-                                                                    title=""><span
-                                                                        style="float: left; background:#7C0000">17th-18th</span><span
-                                                                        style="float: left; background: #00aeef">June
-                                                                        2022</span></a>
-                                                                <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">International Womens Day Celebration
-                                                                    2022 </a>
-                                                            </li>
+                                                                <li class="row">
+                                                                    <a href="{{ $event->filename }}" class="col-xs-2 pr0"
+                                                                        title=""><span
+                                                                            style="float: left; background:#7C0000">13th-17th</span><span
+                                                                            style="float: left; background: #00aeef">June
+                                                                            2022</span></a>
+                                                                    <a href="{{ asset('upload/Notice') }}/{{ $event->filename }}" target="_blank" class="col-xs-10"
+                                                                        title="">{{ $event->title }} <img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
+                                                                </li>
+                                                            @elseif($event->type == 'file')
+                                                                <li class="row">
+                                                                    <a href="#" class="col-xs-2 pr0"
+                                                                        title=""><span
+                                                                            style="float: left; background:#7C0000">13th-17th</span><span
+                                                                            style="float: left; background: #00aeef">June
+                                                                            2022</span></a>
+                                                                    <a href="{{ asset('upload/Notice') }}/{{ $event->filename }}" target="_blank" class="col-xs-10"
+                                                                        title="">{{ $event->title }} <img
+                                                                        src="{{ asset('Frontend/images/newanim.gif') }}" /></a>
+                                                                </li>
+                                                            @endif
+                                                        @endforeach
 
-                                                            <li class="row">
-                                                                <a href="#" class="col-xs-2 pr0"
-                                                                    title=""><span
-                                                                        style="float: left; background:#7C0000">17th-18th</span><span
-                                                                        style="float: left; background: #00aeef">June
-                                                                        2022</span></a>
-                                                                <a href="#" target="_blank" class="col-xs-10"
-                                                                    title="">National Seminar on "Cutting Edge in
-                                                                    Material Science" February 11, 2021</a>
-                                                            </li>
 
 
                                                             <a href="#" class="col-xs-12" title=""
                                                                 style="background: #7C0000; color: #fff; width: auto; margin-top:10px;"><strong>More
-                                                                    Events...</strong></a>
+                                                                    Events</strong></a>
                                                     </div>
                                                 </div>
 
@@ -549,7 +506,8 @@
                                         </ul>
                                     </div>
 
-                                    <div class="slider not-js cols-6 preset01-3 preset02-3 preset03-1 preset04-1 preset05-1">
+                                    <div
+                                        class="slider not-js cols-6 preset01-3 preset02-3 preset03-1 preset04-1 preset05-1">
                                         <div class="vpo-wrap">
                                             <div class="vp">
                                                 <div class="vpi-wrap">

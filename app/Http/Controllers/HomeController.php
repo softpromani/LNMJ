@@ -2,13 +2,22 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Notice;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Log;
 
 class HomeController extends Controller
 {
     function index()
     {
-        return view('Frontend.index');
+        $notices = Notice::where('category', 'notice')
+            ->where('deleted_at', NULL)
+            ->orderBy('id', 'desc')->take(7)->get();
+            $events = Notice::where('category', 'events')
+            ->where('deleted_at', NULL)
+            ->orderBy('id', 'desc')->take(7)->get();
+        Log::info('notice'.json_encode($notices));
+        return view('Frontend.index', compact('notices','events'));
     }
 
     function contactus()
