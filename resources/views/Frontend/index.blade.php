@@ -58,7 +58,7 @@
 
                                 <div class="slickslider-item item clearfix">
                                     <div class="images-slideshow"><img alt=""
-                                            src="{{ asset('Frontend/images/banners/s6.jpg') }}"
+                                            src="{{ asset('Frontend/images/banners/slider7.jpg') }}"
                                             style="height:350px ;" />
                                     </div>
                                 </div>
